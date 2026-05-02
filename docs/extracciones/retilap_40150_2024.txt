@@ -1,0 +1,494 @@
+RÉGIMEN LEGAL DE BOGOTÁ D.C.
+
+                       © Propiedad de la Secretaría Jurídica Distrital de la Alcaldía Mayor de Bogotá D.C.
+
+Secretaría
+Jurídica Distrital
+
+Resolución 40150 de 2024 Ministerio de Minas y Energía
+
+Fecha de Expedición:
+03/05/2024
+Fecha de Entrada en Vigencia:
+03/05/2024
+Medio de Publicación:
+Diario Oficial No. 52745 del 03 de mayo de 2024.
+
+Temas
+
+Anexos
+
+
+
+La Secretaría Jurídica Distrital aclara que la información aquí contenida tiene exclusivamente carácter informativo, su vigencia está sujeta al análisis y competencias que determine la Ley o los
+reglamentos. Los contenidos están en permanente actualización.
+
+                    Ó
+                                                     RESOLUCIÓN 40150 DE 2024
+
+                                                                   (Mayo 03)
+
+       Por la cual se modifica el Reglamento Técnico de Iluminación y Alumbrado Público (Retilap)
+
+ El Ministro de Minas y Energía, en ejercicio de sus facultades constitucionales y legales, en especial
+ las que le confiere el artículo 2.2.3.6.4.4 del Decreto número 1073 de 2015; el numeral 9 del artículo 2°
+
+                            y el numeral 7 del artículo 5° del Decreto número 381 de 2012, y
+
+                                                             CONSIDERANDO:
+
+Que, la Ley 697 de 2001, reglamentada por el Decreto número 3683 de 2003, compilado en el Decreto
+número 1073 de 2015 establece en su artículo 2.2.3.6.2.1. que el objetivo de la reglamentación del uso
+racional y eficiente de la energía es el de obtener "la mayor eficiencia energética para asegurar el
+abastecimiento energético pleno y oportuno, la competitividad del mercado energético colombiano, la
+protección al consumidor y la promoción de fuentes no convencionales de energía, dentro del marco del
+desarrollo sostenible y respetando la normatividad vigente sobre medio ambiente y los recursos naturales
+renovables" y prevé que el Ministerio de Minas y Energía es la entidad responsable de promover, organizar,
+asegurar el desarrollo y el seguimiento de los programas de uso racional y eficiente de la energía.
+
+Que, el Decreto número 2501 de 2007 compilado en el Decreto número 1073 de 2015, establece en el
+artículo 2.2.3.6.4.4 que el Ministerio de Minas y Energía "expedirá el reglamento técnico correspondiente al
+uso racional y eficiente de energía eléctrica en iluminación y Alumbrado Público", como medida para propiciar
+el uso racional y eficiente de energía eléctrica en los productos destinados para el uso final de la misma, tanto
+de fabricación nacional como importados, para su comercialización en Colombia y en los sistemas de
+iluminación y Alumbrado Público.
+
+Que el Decreto número 943 de 2018, modifica y adiciona la Sección 1, Capítulo 6 del Título III del Libro 2 del
+Decreto número 1073 de 2015, relacionado con la prestación del servicio de alumbrado público, que compiló
+lo establecido en el Decreto número 2424 de 2006 "por el cual se regula la prestación del servicio de
+alumbrado público." y lo previsto en el Decreto número 2501 de 2007 "por medio del cual se dictan
+disposiciones para promover prácticas con fines de uso racional y eficiente de energía eléctrica".
+
+Que, el Ministerio de Minas y Energía en ejercicio de sus atribuciones legales expidió el Reglamento Técnico
+de Iluminación y Alumbrado Público (Retilap), mediante la Resolución número 18 1331 de 2009, en la que
+estableció su entrada en vigencia para el 20 de febrero de 2010.
+
+Que, dicho reglamento fue modificado y aclarado mediante las Resoluciones números 180540 de 2010,
+181568 de 2010, 182544 de 2010, 180173 de 2011, 9 1872 de 2012, 9 0980 de 2013, 4 0122 de 2016, 40031
+de 2021 y 40176 de 2023.
+
+Que, la sección 395 del Anexo General de la Resolución número 180540 de 2010 permite demostrar la
+conformidad con el Retilap, mediante un certificado de producto bajo una norma técnica internacional, de
+reconocimiento internacional o NTC, a los productos incluidos en el alcance del reglamento que no tienen
+definidos requisitos específicos, tales como: "Bombillas de estado sólido decorativas", "Cintas LED",
+"Luminarias con paneles fotovoltaicos incorporados", "Luminarias para balizaje en sistemas de túneles",
+"Productos para iluminación decorativa", "Luminarias tipo guirnalda" y "Kit balasto - batería para sistemas de
+emergencia"; con lo cual, dichos productos no se consideran incluidos por primera vez en el campo de
+aplicación del Retilap.
+
+Que, en relación con la vigencia de los reglamentos técnicos el artículo 2.2.1.7.6.7. del Decreto número 1074
+de 2015, modificado por el artículo 3° del Decreto número 1468 de 2020, señala que "(...) reglamentos
+técnicos expedidos serán sometidos a evaluación ex post por parte de la entidad reguladora, con el fin de
+determinar su permanencia, modificación o derogatoria, por lo menos, una vez cada cinco (5) años, contados
+a partir de su entrada en vigor, o antes, si cambian las causas que le dieron origen. No serán parte del
+ordenamiento jurídico los reglamentos técnicos que, transcurridos cinco (5) años de su entrada en vigor, no
+hayan sido evaluados y decidida su permanencia o modificación por la entidad que lo expidió".
+
+Que, de acuerdo con la disposición anteriormente referida, mediante Resolución número 40176 del 2 de
+febrero de 2023, el Ministerio de Minas y Energía prorrogó por quince (15) meses la vigencia del Retilap, esto
+es, hasta el día 5 de mayo de 2024.
+
+Que, de acuerdo con la línea de acción 11 del CONPES 4075 sobre la política de transición energética,
+relativa a la "Eficiencia en la prestación del servicio de alumbrado público", el Ministerio de Minas y Energía
+actualizará el Retilap.
+Que, el Documento CONPES 3816 de 2014 "Mejora Normativa: Análisis de Impacto", establece la importancia
+de institucionalizar el Análisis de Impacto Normativo (AIN) en la etapa temprana del proceso de emisión de la
+normatividad, así como la obligatoriedad de elaborar el AIN como una buena práctica de reglamentación
+técnica, de acuerdo con lo establecido en el Decreto Único Reglamentario del Sector Comercio, Industria y
+Turismo, Decreto número 1074 de 2015, en su artículo 2.2.1.7.5.4 modificado por el Decreto número 1468 de
+2020.
+
+Que, de acuerdo con lo anterior y en relación con los tiempos para expedir el AIN, atendiendo lo dispuesto en
+al Artículo 2.2.1.7.6.2. del Decreto número 1074 de 2015, la Dirección de Energía Eléctrica del Ministerio de
+Minas y Energía analizó el tipo de análisis de Impacto Normativo que se debe realizar para la actualización
+del Retilap, determinándose la necesidad de efectuar un AIN completo para la expedición y adoptación de la
+regulación.
+
+Que, de acuerdo con lo anterior, a través del contrato GGC 501 de 2017, suscrito entre el Ministerio de Minas
+y Energía y la Universidad Nacional de Colombia, se adelantó la consultoría que tuvo por objeto "Contratar los
+servicios para la realización de un análisis de impacto normativo (AIN) y una metodología para la realización
+del AIN para las actualizaciones, y modificaciones de los reglamentos técnicos RETIE y Retilap, y otros que
+expida o actualice la Dirección de Energía Eléctrica".
+
+Que, el Grupo de Reglamentos Técnicos (GRT) de la Dirección de Energía Eléctrica del Ministerio de Minas y
+Energía, con fundamento en el documento elaborado por la Universidad Nacional de Colombia, realizó el AIN
+del Retilap, el cual fue puesto a consulta ciudadana del 18 de septiembre de 2019 al 2 de octubre de 2019.
+Como resultado del AIN, se logró identificar una problemática principal ligada a la baja confiabilidad,
+seguridad y eficiencia de los sistemas de iluminación en Colombia, lo cual está asociado a problemáticas
+particulares de la estructuración del reglamento y del contenido del mismo, tales como: (i) bajo nivel en las
+competencias de los profesionales en el área de iluminación, (ii) presencia en el mercado de tecnologías de
+iluminación que no cumplen parámetros reglamentarios, (iii) oferta al consumidor final de productos de
+iluminación con incumplimiento de parámetros de calidad, (iv) falta de claridad en definiciones y aplicaciones,
+(v) falta de un control efectivo en la comercialización y disposición de productos de iluminación, evidenciando
+así la necesidad de intervención del Estado en la actualización del Reglamento.
+
+Que, esta intervención lleva a realizar una actualización en la reglamentación que ejecute acciones
+específicas para las diferentes fases de los proyectos de iluminación, (diseño, construcción, inspección,
+mantenimiento, disposición de los residuos y desmantelamiento). Así como, determinar requisitos
+reglamentarios asociados a las nuevas tecnologías, que beneficien a la sociedad en cuanto a la percepción
+de confianza en el mercado de los productos y servicios de iluminación y alumbrado público en el país.
+Igualmente, establecer un sistema de evaluación de la conformidad que detalle los requisitos mínimos de
+evaluación y sus debidas condiciones de aplicación, favoreciendo la competencia en el mercado y
+garantizando atributos de confiabilidad de los sistemas de iluminación, de acuerdo con referentes normativos
+en función de su reconocimiento internacional y nacional.
+
+Que, de acuerdo con el régimen de transición establecido en el parágrafo transitorio del artículo 2.2.1.7.6.7
+del Decreto número 1468 de 2020: si el documento final del AIN alcanzó a iniciar consulta pública hasta el 11
+de febrero de 2021, no requiere concepto previo del DNP. En este sentido, y dado que el AIN del Retilap se
+publicó en el 2019, esto es, antes de la entrada en vigencia del Decreto en mención, no le es aplicable la
+disposición prevista en el parágrafo transitorio del artículo 2.2.1.7.6.7.
+
+Que, del 27 de diciembre de 2019 al 11 de enero de 2020, se puso en consulta en la página web del
+Ministerio la Matriz de referencia técnica de productos Retilap, la cual contiene referentes normativos de
+distintos productos objeto del Reglamento, asociando ensayos de seguridad y desempeño. De acuerdo con la
+revisión de los comentarios, se concluyó que dicha matriz no logró el objetivo esperado: el de mejorar el
+entendimiento de los ensayos requeridos. Sin embargo, los comentarios y los referentes normativos fueron
+útiles para ajustar el documento borrador de actualización del Retilap.
+
+Que, el Grupo de Reglamentos Técnicos (GRT), durante los meses de abril hasta finales de diciembre de
+2021, llevó a cabo mesas de trabajo y reuniones, convocando la participación de diferentes expertos del
+sector de iluminación para adelantar el borrador de anteproyecto de actualización del reglamento. Dentro de
+estos expertos participaron agremiaciones, asociaciones, federaciones y entidades tales como UPME, CREG,
+DIAN, SIC, UNAL, Icontec (por medio del comité de iluminación 141), Fenavi, ANDI, Asocec, Asocodis, ACDL,
+Aciem, productores y laboratorios, quienes hicieron sus aportes por medio de comunicaciones oficiales,
+mesas de trabajo, debates, reuniones y exposiciones dentro del marco de la construcción de la actualización
+del reglamento. Estos espacios dieron lugar a diferentes opiniones respecto a algunos temas, proporcionando
+una visión amplia para el desarrollo de la actualización regulatoria.
+
+Que, el artículo 2.2.1.7.5.2 del Decreto número 1074 de 2015, establece que "Los Reglamentos técnicos
+deberán basarse en las normas técnicas internacionales", así mismo el artículo 2.2.1.7.3.9 del mismo Decreto
+señala que "(...)Cuando una norma técnica colombiana se utilice parcial o totalmente como fundamento de un
+Reglamento técnico u otra medida de carácter obligatorio, esta podrá ser incorporada total o parcialmente por
+la entidad reguladora en el Reglamento técnico o en otra medida de carácter obligatorio (...)". Adicionalmente,
+y teniendo en cuenta que la conformidad de las normas técnicas es voluntaria, mientras que los Reglamentos
+técnicos son de carácter obligatorio, el GRT adelantó el anteproyecto del nuevo Reglamento técnico,
+realizando una revisión detallada de cada uno de los requisitos establecidos en el Anexo General del Retilap,
+con el fin de que cada uno de los requisitos incluidos en el anteproyecto de dicho Reglamento tuviera como
+referencia alguna norma internacional, de reconocimiento internacional o nacional.
+
+Que, los artículos 2.2.1.7.7.1. y 2.2.1.7.8.1 del Decreto número 1074 de 2015 establecen que el objetivo de la
+actividad de acreditación, ejercida por el Organismo Nacional de Acreditación de Colombia (ONAC), es emitir
+una declaración independiente relativa a un organismo de evaluación de la conformidad, atestando su
+competencia para realizar actividades específicas de la evaluación de la conformidad, bajo los requisitos de la
+norma internacional ISO/IEC 17011 en su versión más reciente, así como los procedimientos que expida este
+organismo para tal fin.
+
+Que, el artículo 2.2.1.7.9.6 del Decreto número 1074 de 2015, modificado por el Decreto número 78 de 2020,
+"Procedimiento para evaluar la conformidad de personas" establece que "Previo a la asignación a una
+persona de actividades cuya ejecución demande la demostración de competencias, el responsable de esta
+asignación deberá asegurarse de que el ejecutor cuente con el correspondiente certificado de competencia,
+expedido por un organismo de certificación de personas acreditado ante el Organismo Nacional de
+Acreditación y que el alcance de la acreditación incluya los requisitos de competencia establecidos por el
+reglamento técnico. Las entidades públicas Certificadoras de Competencias Laborales, se regirán por las
+disposiciones del Ministerio del Trabajo, en virtud de lo establecido en el parágrafo 3° del artículo 194 de la
+Ley 1955 de 2019".
+
+Que, el Decreto número 947 de 2022, en su artículo 2.2.6.12.3.4 referente a "Habilitación de las entidades
+públicas evaluadoras y certificadoras de competencias" establece que "El Ministerio del Trabajo, a través de la
+Dirección de Movilidad y Formación para el Trabajo, o quien haga sus veces, habilitará para la evaluación y
+certificación de competencias, a aquellas entidades públicas que cumplan con las condiciones establecidas
+en el artículo 2.2.6.12.3.3 del presente decreto, lo cual será formalizado a través de un acto administrativo,
+según lo establecido en los lineamientos operativos enunciados en el artículo 2.2.6.12.5.1. A su vez, el
+Ministerio del Trabajo definirá las condiciones y mecanismos que deben cumplir dichas entidades para
+mantener la habilitación institucional".
+
+Que, de conformidad con lo anterior se considera pertinente incluir la posibilidad de que las entidades
+públicas habilitadas por el Ministerio de Trabajo participen del proceso de certificación de personas, de
+acuerdo con el acto administrativo que sea formalizado por dicha Entidad.
+
+Que, conforme a lo indicado en el artículo 2.2.1.7.5.4 del Decreto número 1074 de 2015, modificado por el
+Decreto número 1468 de 2020, "para la expedición o modificación de reglamentos técnicos las entidades
+deberán aplicar buenas prácticas".
+
+Que, la Resolución número 4 0033 del 24 de enero de 2020, creó la Comisión Asesora de Reglamentos
+Técnicos del Ministerio de Minas y Energía (CART), para recomendar decisiones relacionadas con los
+reglamentos técnicos que emita el Ministerio de Minas y Energía. Así mismo, se estableció como función de
+esta comisión, conforme al literal c del artículo 4° la de "Recomendar la aprobación de actualizaciones,
+cambios y ajustes de los reglamentos existentes", en los que el Ministerio sea el regulador. En virtud de lo
+anterior, el GRT puso a consideración de esta Comisión el día 15 de diciembre de 2021, la propuesta de
+anteproyecto de actualización del Retilap, obteniendo recomendación favorable para su respectiva
+publicación a comentarios.
+
+Que, conforme a lo señalado en el numeral 3 del artículo 2.2.1.7.5.5 del Decreto número 1468 de 2020, "En
+los casos en los que el AIN indique que deben tomarse medidas regulatorias, el proyecto de reglamento
+técnico deberá someterse a consulta pública durante quince (15) días calendario (...)", sin embargo, teniendo
+en cuenta la complejidad del anteproyecto y a petición de algunos interesados que solicitó más tiempo para
+revisar el documento.
+
+En consideración a lo anterior, el Ministerio de Minas y Energía, a través de su página web, puso a consulta
+pública el proyecto normativo del Retilap por el término de 60 días calendario, para recepción de comentarios,
+esto es, del 1° de marzo de 2022 al 1° de mayo de 2022. De acuerdo con las solicitudes de algunas partes
+interesadas, se extendió el plazo para recibir comentarios hasta el 8 de mayo de 2022.
+
+Que, del proceso de consulta pública ciudadana se recibieron 2285 comentarios de 66 partes interesadas, los
+cuales fueron recopilados y publicados en el mes de junio de 2022, en el informe de recepción de
+comentarios en la sección de foros de la página web del Ministerio. Así mismo, se realizaron mesas de trabajo
+posteriores con partes interesadas que participaron en la consulta pública, con el fin de aclarar y profundizar
+algunas de sus propuestas.
+Que, el día 31 de marzo de 2023, se puso en consideración de la Comisión Asesora de Reglamentos
+Técnicos (CART) el proyecto de actualización del Retilap ajustado de acuerdo con los comentarios recibidos
+durante la consulta pública, el cual fue votado unánimemente de manera positiva y aprobado para proceder a
+la solicitud de concepto previo ante MINCIT y abogacía de la competencia ante la SIC.
+
+Que, de conformidad con el artículo 2.2.1.7.5.6 del Decreto número 1074 de 2015, modificado mediante el
+artículo segundo del Decreto número 1468 de 2020, la Dirección de Energía Eléctrica del Ministerio de Minas
+y Energía solicitó concepto previo a la Dirección de Regulación del Ministerio de Comercio, Industria y
+Turismo mediante comunicado con radicado MME número 2-2023-009858 del 24 de abril de 2023.
+
+Que mediante radicado MME número 2-2023-023892 del 29 de agosto de 2023, se obtuvo concepto previo de
+MinCIT en el cual se indicó que "el proyecto de Resolución del Ministerio de Minas y Energía "Por la cual se
+modifica el Reglamento Técnico de Iluminación y Alumbrado Público (Retilap)", se adecúa a los lineamientos
+generales del Subsistema Nacional de la Calidad y que en principio, no restringirá el comercio más de lo
+necesario para alcanzar los objetivos legítimos ahí mencionados".
+
+Que, de conformidad con los artículos 2.2.2.30.5 y 2.2.2.30.6. del Decreto número 1074 de 2015, y en el
+marco de las buenas prácticas regulatorias, mediante oficio con radicado MME número 2-2023-009859, el
+Ministerio de Minas y Energía solicitó concepto sobre abogacía de la competencia a la Delegatura para la
+Protección de la Competencia de la Superintendencia de Industria y Comercio (SIC). Frente a dicha solicitud,
+la SIC efectuó requerimiento de información bajo número de radicado 23-199543-1, relacionado con: las
+observaciones recibidas por parte de los terceros interesados en el proyecto de resolución, las respectivas
+respuestas dadas por parte del Ministerio de Minas y Energía y el Análisis de Impacto Normativo realizado; el
+cual fue atendido mediante oficio MME número 2-2023-011390 adjuntando los documentos solicitados.
+
+Que, la SIC remitió el concepto de abogacía de la competencia mediante comunicación con radicado MME
+número 1-2023-027755, recomendando: "(...) "Evaluar la pertinencia de la regla asociada a los requisitos de
+marcación de productos de iluminación para cada categoría teniendo en cuenta los reiterados comentarios de
+terceros. Justificar de manera expresa, no dentro de la parte considerativa del proyecto, las razones que
+motivan la inclusión de los requisitos de marcación en caso de que decida mantenerlos. Justificar, dentro de
+la parte considerativa del proyecto, (i) las razones técnicas que tuvo en consideración para determinar los
+valores de los requisitos asociados a la eficacia luminosa y a la vida útil de cada producto y (ii) las razones
+que demuestran la necesidad y proporcionalidad de la intervención. Establecer un periodo razonable de
+transición con la aplicación de las prohibiciones introducidas por primera vez mediante el proyecto. (...)".
+
+Que, atendiendo las recomendaciones efectuadas por la SIC, se llevaron a cabo los ajustes correspondientes
+en el Reglamento Técnico, relacionados con evaluar la pertinencia de la regla asociada a los requisitos de
+marcación de productos de iluminación para cada categoría, por lo que se realizan los ajustes respectivos en
+el Libro 2 del reglamento. Por razones técnicas que motivan la inclusión de requisitos de marcación, es
+necesario dar información clara al consumidor sobre el producto y en el empaque, de fácil acceso y consulta
+que permita una decisión final de compra más confiable. Según los avances tecnológicos de los productos
+equipados con tecnología led, se ha evidenciado en información técnica el aumento en el desempeño de
+estos equipos ofrecidos en el mercado en cuanto a aumentos en la eficacia luminosa y aumentos en la vida
+útil, así que se puede reducir el consumo de energía y dar al consumidor productos de mejor desempeño y
+durabilidad, igual que según lo estipulado en el artículo 2.1.2. Prohibiciones del Libro 2 del Reglamento se
+establece el periodo razonable de transición, recomendado por la SIC, para la aplicación de las prohibiciones
+introducidas por primera vez.
+
+Que, mediante oficio con número de radicado 2-2023-026629 del 5 de septiembre de 2023, el Ministerio de
+Minas y Energía realizó la solicitud oficial de notificación internacional del proyecto de modificación del Retilap
+al Ministerio de Comercio Industria y Turismo, el cual trasmitió el formulario de notificación internacional
+mediante el sistema TBT NSS de la Organización Mundial del Comercio, bajo radicado Addendum: G/TBT/N/
+COL/119/Add.4 del 11 de septiembre de 2023 y Corrigendum: G/TBT/N/COL/119/Add.4/ Corr.1 del 15 de
+septiembre de 2023.
+
+Que, una vez publicado el proyecto de modificación del Retilap ante la Organización Mundial del Comercio, se
+recibieron comentarios por parte de SGS Colombia S.A.S., la Asociación Colombiana de Luminotecnia
+(ACDL), la Asociación Nacional de Empresarios de Colombia (ANDI) y la Dirección Nacional de Impuestos y
+Aduanas Nacionales de Colombia (DIAN), los cuales fueron atendidos y enviados a MinCIT como punto de
+contacto de la OMC.
+
+Que, el día 18 de diciembre de 2023, se puso en consideración de la Comisión Asesora de Reglamentos
+Técnicos (CART) el proyecto de actualización del Retilap ajustado de acuerdo con los comentarios recibidos
+durante la consulta internacional ante la OMC, el cual fue votado unánimemente de manera positiva, con el fin
+de recomendar la firma por parte del Ministro de Minas y Energía y su posterior publicación en Diario Oficial.
+
+Que, por lo anterior,
+                                      RESUELVE:
+
+Artículo 1°. Objeto. Modificar el Reglamento Técnico de Iluminación y Alumbrado Público (Retilap), con 4
+libros, incluidos en el Anexo General de esta Resolución.
+
+Artículo 2°. Campo de aplicación. El Retilap se aplica a las instalaciones de sistemas de iluminación,
+interior y exterior, incluyendo las de alumbrado público, sean nuevas, expandidas o modernizadas, públicas o
+privadas. De igual manera, el reglamento aplica para los productos utilizados en dichas instalaciones. Así
+mismo, aplica a las personas naturales o jurídicas que importen, fabriquen, comercialicen, diseñen,
+construyan, mantengan, certifiquen y ejecuten actividades relacionadas con los productos e instalaciones de
+sistemas de iluminación, objeto del Reglamento.
+
+Artículo 3°. Modificado por el art. 1, Resolución 40318 de 2025. <El nuevo texto es el
+siguiente> Disposiciones transitorias. La presente resolución estará sujeta a las condiciones de
+transitoriedad establecidas en los siguientes numerales:
+
+1) Para productos:
+
+A partir de la entrada en vigencia de la presente resolución, se podrán otorgar certificados de conformidad de
+producto, siempre y cuando el organismo emisor del certificado de conformidad cuente con la respectiva
+acreditación.
+
+Hasta el 31 de diciembre de 2025, se podrán realizar los procesos de otorgamiento, seguimiento y renovación
+
+de  los             certificados  de  conformidad         de  producto  bajo  la
+
+Resolución 180540 de 2010 y sus modificaciones. Una vez finalice esta transitoriedad, estos certificados ya no
+
+serán válidos, y, en consecuencia, se tendrá que dar cumplimiento a los términos previstos en la Resolución
+
+40150 de 2024 o la que la modifique, adicione o derogue.
+
+Hasta el 31 de diciembre de 2025, el cumplimiento del Reglamento se podrá demostrar mediante Declaración
+de conformidad de Proveedor (Ver requisitos del numeral 5 del artículo 4.2.1. del Libro 4) para los productos
+del Parágrafo 1 del Título 2 del Libro 4.
+
+2) Para instalaciones:
+
+A partir de la entrada en vigencia de la presente Resolución, para las instalaciones de sistemas de iluminación
+objeto del Reglamento, ya sean nuevas, por expandir y/o modernizar, sin perjuicio de los requisitos
+establecidos en el Libro 4, se podrán seguir emitiendo dictámenes de inspección bajo la Resolución 180540
+de 2010, para ello se debe indicar en la Declaración de Cumplimiento la fecha de inicio de la construcción del
+sistema de iluminación o alumbrado público, adjuntando los soportes que lo demuestren, los cuales deben ser
+verificados por el Organismo de Inspección que realice el proceso de certificación a las instalaciones que le
+aplique el dictamen de inspección.
+
+Los documentos que soportan la fecha de inicio de obra deben ser como mínimo: el acta de inicio de obra
+firmada de la construcción del sistema de iluminación o alumbrado público y/o el contrato de obra, en el que
+se evidencie la fecha exacta de inicio de construcción de la instalación de iluminación.
+
+Después del 31 de diciembre de 2025, las instalaciones de sistemas de iluminación
+deben cumplir los requisitos establecidos en el presente Reglamento para cada uno de los alcances, de
+acuerdo con las disposiciones de la Resolución 40150 de 2024 o la que la modifique, adicione o derogue, y
+deben demostrar su conformidad según lo establecido en el Libro 4. Una vez finalice esta transitoriedad no se
+podrán seguir emitiendo dictámenes de inspección bajo la Resolución 180540 de 2010.
+
+Consecuentemente, aquellas instalaciones objeto de certificación cuya fecha de inicio de la
+etapa constructiva, de acuerdo con la Declaración de Cumplimiento, esté dentro de la vigencia de la
+Resolución 180540 de 2010, podrán continuar cumpliendo con lo estipulado en dicha Resolución.
+Sin embargo, se debe cumplir lo correspondiente a la transitoriedad de las instalaciones.
+
+Los organismos de inspección con acreditación bajo la Resolución 40150 de 2024 podrán realizar revisión de
+instalaciones de acuerdo con lo establecido en el artículo 4.3.5 del Libro 4 de la resolución en mención. Esto
+implica que, a pesar de la actualización o cambios introducidos en la nueva versión del reglamento, los
+organismos de inspección no tienen la obligación de contar con acreditación conforme
+a la Resolución 180540 de 2010. Los organismos de inspección que se acreditaron por primera vez bajo los
+lineamientos de la Resolución 40150 de 2024 podrán dictaminar revisión de instalaciones, incluidas las que
+estaban bajo reglamentos anteriores.
+
+Los tiempos de revisión periódica de las instalaciones empezarán a contar a partir de la fecha del dictamen de
+inspección emitido bajo la Resolución 40150 de 2024.
+3) Para personas:
+
+La certificación de competencias para inspectores empezará a regir una vez que se haya definido el referente
+normativo o norma sectorial de competencia laboral específica aplicable para el RETILAP por parte de la
+entidad competente y hasta máximo 6 meses después de que se cumpla lo siguiente:
+
+- Dos organismos de certificación de personas acreditados por ONAC (aclarando que aplica para la misma
+categoría o ámbito de certificación, establecida en el numeral 4.5.2.2.).
+
+Se posterga la implementación del mecanismo de certificación de inspectores a través de entidades públicas
+
+habilitadas por el Ministerio de Trabajo, hasta que existan al menos dos (2) centros de formación en el país,
+
+que                cuenten  con  alcance  vigente  para
+
+certificar las cinco (5) categorías o ámbitos de certificación de inspectores definidos en la Resolución 40150 de
+
+2024 o la que adicione, modifique o derogue. A partir de ese
+
+momento, se contará con un plazo adicional de seis (6) meses para que los interesados puedan acceder a este
+
+mecanismo.
+
+Para inspectores los requisitos de formación académica en materia de iluminación en cuanto a
+especializaciones empezarán a regir a partir del 03 de mayo de 2027.
+
+Parágrafo 1. Si al 31 de diciembre de 2025, el organismo evaluador de la conformidad no ha
+actualizado el alcance de su acreditación, no podrá expedir nuevos certificados y/o dictámenes de inspección,
+hasta que no actualice su acreditación. Una vez finalizado el período de transitoriedad, el ONAC debe retirar
+la acreditación de los OEC que no hayan actualizado su alcance, dado que la emisión de certificados de
+conformidad de producto y dictámenes de inspección bajo la Resolución 180540 de 2010 se considera un
+incumplimiento de las disposiciones de la Resolución 40150 de 2024.
+
+Parágrafo 2. Bajo ninguna circunstancia, los Organismos Evaluadores de la Conformidad deben mantener la
+acreditación bajo la Resolución 180540 de 2010 una vez finalicen los periodos de transitoriedad aplicables a
+productos, instalaciones y personas.
+
+Por lo tanto, no serán válidos los certificados de conformidad de producto emitidos y no se podrán emitir
+certificados de conformidad de producto, ni de personas ni dictámenes de inspección bajo dichas
+resoluciones una vez se finalicen los periodos de transitoriedad.
+
+Parágrafo 3. El Organismo Nacional de Acreditación de Colombia ­ ONAC, en concordancia
+con lo establecido en el Artículo 2.2.1.7.7.7 del Decreto 1074 de 2015, modificado mediante el
+artículo 3° del Decreto 1595 de 2015, una vez otorgue acreditación con alcance a la Resolución 40150 de 2024
+a un organismo evaluador de la conformidad, debe informar inmediatamente
+al Ministerio de Minas y Energía y a la Superintendencia de Industria y Comercio, identificando al organismo y
+relacionando su correspondiente alcance.
+
+El texto original era el siguiente:
+Artículo 3. Disposiciones transitorias. La presente resolución estará sujeta a las condiciones de transitoriedad establecidas en los
+siguientes numerales:
+1. Para productos:
+A partir de la entrada en vigencia de la presente resolución se podrán otorgar certificados de conformidad de producto bajo la
+presente resolución, siempre y cuando el organismo emisor del certificado de conformidad cuente con la respectiva acreditación.
+Dentro de los quince (15) meses siguientes contados a partir de la publicación de la presente Resolución en el diario oficial, se
+podrán realizar los procesos de otorgamiento, seguimiento y renovación de los certificados de conformidad de producto bajo la
+Resolución número 180540 de 2010 y sus modificaciones. Una vez finalice este periodo, estos certificados ya no serán válidos, en
+consecuencia, se tendrá que dar cumplimiento a los términos previstos en esta resolución.
+Para los productos del Parágrafo 1° del Título 2 del Libro 4, el cumplimiento del Reglamento podrá demostrarse mediante
+Declaración de conformidad de Proveedor (Ver requisitos del numeral 5 del artículo 4.2.1. del Libro 4). Esta declaración será válida
+hasta seis meses después de que se acredite el segundo organismo evaluador de la conformidad con alcance a la presente
+Resolución.
+Para las luminarias de balizaje en aeropuertos (Sistemas de señalización de pistas) y luces aeronáuticas de superficie (artículo
+2.5.6.), los productos usados en telegestión (Título 11 del Libro 2) y los productos de iluminación para áreas clasificadas y
+especiales (Título 7 del Libro 2) empieza a regir el cumplimiento del Retilap seis (6) meses después de la entrada en vigencia de la
+presente Resolución. Transcurridos los seis (6) meses, estos productos deben cumplir con el presente Reglamento bajo lo indicado
+en el Parágrafo 2° del Título 2 del Libro 4.
+El Organismo Nacional de Acreditación de Colombia (ONAC), en concordancia con lo establecido en el Artículo 2.2.1.7.7.7 del
+Decreto número 1074 de 2015, modificado mediante el artículo 3° del Decreto número 1595 de 2015, una vez otorgue acreditación
+con alcance a la presente Resolución a un organismo de certificación, deberá informar inmediatamente al Ministerio de Minas y
+Energía y a la Superintendencia de Industria y Comercio, identificando al organismo y relacionando los productos cubiertos por
+dicho alcance.
+2. Para instalaciones:
+A partir de la entrada en vigencia de la presente Resolución para las instalaciones de sistemas de iluminación objeto del presente
+Reglamento, ya sean nuevas, por expandir y/o modernizar, sin perjuicio de los requisitos establecidos en el Libro 4, se deberá
+indicar en la Declaración de Cumplimiento la fecha de inicio de la construcción del sistema de iluminación o alumbrado público,
+adjuntando los soportes que lo demuestren, los cuales deben ser verificados por el Organismo de Inspección que realice el proceso
+de certificación a las instalaciones que le aplique el dictamen de inspección.
+Los documentos que soportan la fecha de inicio de obra deberán ser como mínimo: el acta de inicio de obra firmada de la
+construcción del sistema de iluminación o alumbrado público y/o el contrato de obra, en el que se evidencie la fecha exacta de inicio
+de construcción de la instalación de iluminación.
+Seis meses después de acreditarse el segundo organismo de inspección, las instalaciones de sistemas de iluminación deberán
+cumplir los requisitos establecidos en el presente Reglamento, para cada alcance, según lo dispuesto en esta resolución y
+demostrar su conformidad según el Libro 4.
+Consecuentemente, aquellas instalaciones objeto de certificación cuya fecha de inicio de la etapa constructiva, de acuerdo con la
+Declaración de Cumplimiento, esté dentro de la vigencia de la Resolución número 180540 de 2010, podrán continuar cumpliendo
+con lo estipulado en dicha resolución.
+Para las instalaciones construidas y certificadas según la Resolución número 180540 de 2010 y para las que se requiere adelantar
+la revisión de la instalación según lo establecido en el numeral 1) del artículo 4.3.5. del Libro 4 del Anexo de la presente resolución,
+deberán diligenciar los formatos establecidos en el artículo 4.3.8 del libro en mención que le apliquen a la instalación. Durante el
+proceso de revisión de conformidad de estas instalaciones se debe declarar en las observaciones que la evaluación se adelantó con
+los requisitos de la Resolución número 180540 de 2010. Los tiempos de revisión periódica de las instalaciones empezarán a contar
+a partir de la entrada en vigencia de la presente resolución.
+Para proyectos de alumbrado público que hayan sido aprobados por el municipio y/o distrito o alguna de sus entidades adscritas,
+dos años antes de la entrada en vigencia del presente Reglamento, y que aún no hayan sido ejecutados en vigencia de este
+Reglamento, tendrán un año para el inicio de su construcción bajo los requisitos de la Resolución número 180540 de 2010, de lo
+contrario se deberá iniciar un nuevo proceso de diseño, siguiendo los requisitos de esta Resolución.
+3. Para personas:
+La certificación de competencias para inspectores empezará a regir una vez que se haya definido el referente normativo o norma
+sectorial de competencia laboral específica aplicable para el Retilap por parte de la entidad competente y hasta máximo 6 meses
+después de que se cumpla alguna de estas condiciones:
+- Dos organismos de certificación de personas acreditados por ONAC (aclarando que aplica para la misma categoría o ámbito de
+certificación, establecida en el numeral 4.5.2.2.), o
+- Dos entidades públicas habilitadas por el Ministerio de Trabajo, o
+- Un organismo de certificación acreditado por ONAC y una entidad pública habilitada por el Ministerio de Trabajo.
+Los requisitos de formación académica en materia de iluminación establecidos en el presente Reglamento empezarán a regir así:
+a) 12 meses después de su publicación en Diario Oficial para diplomados.
+b) 36 meses después de su publicación en Diario Oficial para especializaciones.
+Parágrafo 1°. Expedida la presente resolución, los Organismos evaluadores de la conformidad, como parte del proceso más
+próximo de seguimiento programado o renovación de su acreditación, deberán actualizar ante el ONAC su alcance de acreditación
+específico, ajustándose a lo dispuesto en esta. Transcurrido un plazo de 15 meses contados a partir de la fecha de publicación en
+el Diario Oficial de la presente resolución, el Organismo evaluador de la conformidad que no haya actualizado el alcance de su
+acreditación, no podrá expedir nuevos certificados y/o dictámenes de inspección, hasta que no actualice su acreditación.
+
+Artículo 4°. Vigencia y derogatorias. La presente resolución, así como sus anexos, rigen a partir de su
+publicación en el Diario Oficial y derogan cualquier disposición relacionada con el Anexo General del Retilap
+expedido mediante la Resolución número 181331 de 2009, sus modificaciones y demás disposiciones que le
+sean contrarias.
+
+                                                        Publíquese y cúmplase.
+
+                          Dada en Bogotá, D.C., a los 03 días del mes de mayo del año 2024.
+
+                                                    El Ministro de Minas y Energía
+
+                                                   Ómar Andrés Camacho Morales
+
+Nota: Ver anexos Anexos.
+

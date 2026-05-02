@@ -1,0 +1,2585 @@
+DOCUMENTO TÉCNICO DE PARAMETRIZACIÓN
+     Subsidio Familiar de Vivienda Rural - SFVR
+
+                Vivienda Nueva de Interés Social Rural y Mejoramientos de Vivienda
+
+                                                                                REPÚBLICA DE COLOMBIA
+                                          MINISTERIO DE VIVIENDA, CIUDAD Y TERRITORIO ­ MVCT
+
+                                                                              Dirección de Vivienda Rural
+                                                   Política Pública de Vivienda de Interés Social Rural
+
+                                                                                                         2021
+                                  Jonathan Malagón González
+                   Ministro de Vivienda Ciudad y Territorio.
+
+                                  Carlos Alberto Ruiz Martínez
+                                      Viceministro de Vivienda
+                                          José Luis Acero Vergel
+
+                        Viceministro de Agua y Saneamiento
+                               Sara Giovanna Piñeros Castaño
+                                   Directora de Vivienda Rural
+
+         Documento Técnico de Parametrización del SFVR
+                          Asesores Dirección de Vivienda Rural:
+                                              Jorge Cuenca Osorio
+
+                   Subdirección de Política y Apoyo técnico:
+                                           Claudia Santos Nieto
+
+                                   Andrés Julián Rojas Sánchez
+                                    María Isabel Failach Godin
+                                         Denisse Lafaurie Cabal
+                                             Andrea Ortiz Perea
+                                      Juan Pablo Mojica Friede
+                                             Eric Pacheco Llanos
+                                        Adriana Álvarez Palacio
+                                          Mauricio Vargas Pinto
+
+         © Ministerio Vivienda Ciudad y Territorio - MVCT
+                                                              2021
+
+                                      www.minvivienda.gov.co
+                                    Avenida Jiménez # 7A ­ 17
+
+                                            PBX (+571)2543300
+
+                                        Bogotá D.C., Colombia.
+
+Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR 2
+CONTENIDO
+
+1. ......................................................................................................................................... OBJETIVOS
+.................................................................................................................................................... 7
+
+2. .............................................................................................. ANTECEDENTES Y JUSTIFICACIÓN.
+.................................................................................................................................................... 7
+
+2.1.    Antecedentes jurídicos y arquitectónicos de la Vivienda Rural en Colombia............................................7
+
+2.1.1.  Análisis de las condiciones físicas de la vivienda a partir de un marco jurídico existente...................7
+
+2.1.2.  Análisis técnico de los prototipos .............................................................................................................................8
+
+3.2.    Parametrización de la Vivienda de Interés Social Rural ­ Justificación....................................................13
+
+4. ....................................................................................................................... PARAMETRIZACIÓN.
+
+.................................................................................................................................................. 14
+
+4.1.    Parámetros Climáticos de soporte para la definición de acciones de diseño bioclimático en las
+VISR.   15
+
+4.2.    Parámetros técnicos del componente arquitectónico de la VISR.................................................................21
+
+4.2.1.  Parámetros Arquitectónicos: Componente Programático. .............................................................................21
+
+4.2.2.  Parámetros Arquitectónicos: Componente espacial: .......................................................................................22
+
+4.3.    Parámetros Técnicos del componente arquitectónico para los mejoramientos de vivienda. ............31
+
+4.3.1.  Módulos de mejoramientos......................................................................................................................................31
+
+5. ................... IMPLEMENTACIÓN DE PARAMETRIZACIÓN: MODELO DE TIPOLOGÍAS DE
+
+VIVIENDA NUEVA DEL SFVR EN EL MARCO DE LA PPVISR.............................................39
+
+5.1.    Principios de diseño de la Vivienda Saludable, Segura y Sostenible. .......................................................40
+
+5.2.    Tipologías de vivienda...............................................................................................................................................40
+
+5.2.1.  Tipología Lineal-Alargada VRSA1...........................................................................................................................41
+
+5.2.2.  Tipología en (L) VRSL1.................................................................................................................................................43
+
+5.2.3.  Tipología en (T) VRST1.................................................................................................................................................45
+
+5.2.4.  Tipología compacta VRSC2........................................................................................................................................50
+
+5.2.5.  Tipología en (U) VRSU1...............................................................................................................................................52
+
+5.2.6.  Síntesis general en cifras de modelos de tipologías en el marco de la PPVR. ........................................54
+
+6. .......................................................... IMPLANTACIÓN DE SOLUCIONES HABITACIONALES.
+
+.................................................................................................................................................. 55
+
+6.1.    Lineamientos de Implantación de Tipologías de Vivienda de Interés Rural ............................................55
+
+5.1.1.  Lineamientos para Vivienda Nueva......................................................................................................................56
+
+5.1.2.  Lineamientos Módulos de Mejoramiento ............................................................................................................60
+
+BIBLIOGRAFÍA ........................................................................................................................ 64
+
+ANEXO .................................................................................................................................... 65
+
+      ANEXO A. FICHAS DE ANÁLISIS PROTOTIPOS DE VIVIENDA RURAL. .................. 65
+
+           Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR 3
+LISTADO DE TABLAS
+
+TABLA3.1PROMEDIOSDEÁREASESPACIOSPROTOTIPOS................................................................................... 11
+TABLA4.1PARAMETRIZACIÓNDELAVIVIENDARURAL-DIGNA-PPVISR ................................................................. 15
+TABLA4.2. ZONASCLIMÁTICASENCOLOMBIA................................................................................................. 17
+TABLA4.3PERFILESDETEMPERATURAPARAZONASDECONFORTPORCLÍMAENCOLOMBIA.................................... 19
+TABLA4.4 PARÁMETROSESPACIOMÚLTIPLE................................................................................................... 24
+TABLA4.5 PARÁMETROS HABITACIONES........................................................................................................ 26
+TABLA4.6 PARÁMETROSCOCINA.................................................................................................................. 27
+TABLA4.7 PARÁMETROSBAÑO.................................................................................................................... 29
+TABLA4.8 PARÁMETROS CUARTODEHERRAMIENTAS...................................................................................... 29
+TABLA4.9 PARÁMETROS ZONAALBERCA....................................................................................................... 31
+TABLA4.11 PARÁMETROS MÓDULOHABITACIÓN-HABITACIÓN(H+H) ................................................................ 33
+TABLA4.13 PARÁMETROSCOCINA­HABITACIÓN(C+H) .................................................................................... 34
+TABLA 4.15 PARÁMETROS COCINA ­ BAÑO (C+B) ............................................................................................. 36
+TABLA4.16 PARÁMETROS MÓDULOBAÑO-HABITACIÓN(B+H) ......................................................................... 38
+TABLA5.1RESUMENCARACTERISTICASGENERALES DELASVISR.......................................................................... 41
+TABLA5.2CUADRODEAREATIPOLOGÍAVRSA1 ............................................................................................... 43
+TABLA5.3CUADRODEAREATIPOLOGÍAVRSL1................................................................................................ 45
+TABLA5.4CUADRODEAREATIPOLOGÍAVRST1................................................................................................ 47
+TABLA5.5CUADRODEAREATIPOLOGÍAVRSC1 ............................................................................................... 49
+TABLA5.6CUADRODEAREATIPOLOGÍAVRSC2 ............................................................................................... 51
+TABLA5.7CUADRODEAREATIPOLOGÍAVRSC2 ............................................................................................... 53
+TABLA5.8 PROGRAMAARQUITECTONICOYÁREASPROMEDIO. .......................................................................... 54
+TABLA0.1COMPARATIVODEAREASPORPROTOTIPOSYTOTAL........................................................................... 73
+TABLA0.2COMPARATIVOAREASPORCENTAJES............................................................................................... 73
+TABLA0.3PROGRAMAARQUITECTÓNICOPROTOTIPOS..................................................................................... 74
+Tabla0.4PROMEDIODECOSTOSPORPROTOTIPOS........................................................................................... 74
+
+LISTADO DE FIGURAS
+
+FIGURA3.1.TIPOLOGÍASESTUDIADASSEGÚNSUMORFOLOGÍA............................................................................. 9
+FIGURA3.2 EJEMPLODEZONIFICACIÓNFUNCIONALYRELACIONESESPACIALESENPROTOTIPOSANALIZADOS.............. 10
+FIGURA3.3DISPONIBILIDADDEESPACIOSENPROTOTIPOSESTUDIADOS ............................................................... 10
+FIGURA3.4PORCENTAJEDEÁREAPROMEDIOPORTIPODEESPACIODELAVIVIENDA............................................... 11
+FIGURA3.5.PORCENTAJEDEDISTRIBUCIÓNESPACIALPORPROTOTIPOYPROMEDIOENTIPOLOGÍAS .......................... 12
+FIGURA3.6 SISTEMASESTRUCTURALESYCOSTOS............................................................................................. 13
+FIGURA4.1CLASIFICACIONDEZONASCLIMÁTICASBASEPARACONSTRUCCIÓNSOSTENIBLEENCOLOMBIA.................. 16
+FIGURA4.4ORIENTACIÓNSUGERÍDASEGÚNELCLIMA -RESOLUCIÓN549DE2015.................................................. 18
+FIGURA4.7PROGRAMAARQUITÉCTONICOMÍNIMODELAVIVIENDADEINTERÉSSOCIALRURAL-PPVISR..................... 22
+
+                                                                        Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR 4
+FIGURA4.8 PLANTAYSECCIÓNDELESPACIOMULTIPLE -PARAMETRIZADO............................................................ 24
+FIGURA4.9 PLANTAYSECCIÓNHABITACIONES-PARAMETRIZADAS...................................................................... 26
+FIGURA4.10 PLANTAYSECCIÓNCOCINA-PARAMETRIZADA ............................................................................... 27
+FIGURA4.11 PLANTAY SECCIÓN BAÑOPARAMETRIZADA................................................................................. 28
+FIGURA4.12 PLANTAY SECCIÓN CUARTODEHERRAMIENTAS-PARAMETRIZADO.................................................. 29
+FIGURA4.13 PLANTAYSECCIÓN ZONADEALBERCA-PARAMETRIZADO.............................................................. 30
+FIGURA4.17 MÓDULOHABITACIÓN­HABITACIÓN(H+H)................................................................................. 32
+FIGURA4.18 IMAGENES3DDELMÓDULOHABITACIÓN-HABITACIÓN(H+H).......................................................... 33
+FIGURA4.21 MÓDULOCOCINA-HABITACIÓN (C+H)........................................................................................ 34
+FIGURA4.22 IMAGENES3DDELMÓDULOCOCINA -HABITACIÓN(C+H) ................................................................ 34
+FIGURA4.25 MÓDULOBAÑO-COCINA(B+C) .................................................................................................. 36
+FIGURA4.26 IMAGENES3DDELMÓDULOBAÑO-COCINA(B+C) ......................................................................... 36
+FIGURA4.27 MÓDULOBAÑO-HABITACIÓN(B+H) ............................................................................................ 38
+FIGURA4.28 IMAGENES3DDELMÓDULOBAÑO­HABITACIÓN(B+H).................................................................. 38
+FIGURA5.1 MORFOLOGÍANo.1.TIPOLOGÌAALARGADAVRSA1........................................................................... 41
+FIGURA5.2 PLANTA TIPOLOGÍAALARGADAVRSA1........................................................................................... 42
+FIGURA 5.3 ISOMETRÍA TIPOLOGÍA ALARGADA VRSA1 ....................................................................................... 43
+FIGURA5.4 MORFOLOGÍANo.2.TIPOLOGÍAEN"L"VRSL1.................................................................................. 43
+FIGURA5.5 PLANTA TIPOLOGÍA"L"VRSL1....................................................................................................... 44
+FIGURA5.6 ISOMETRÍATIPOLOGÍAEN"L"VRSL1 .............................................................................................. 45
+FIGURA5.7 MORFOLOGÍANo.3.TIPOLOGÍAEN"T"VRST1.................................................................................. 45
+FIGURA5.8 PLANTA TIPOLOGÍA"T"VRST1...................................................................................................... 46
+FIGURA5.9 ISOMETRÍATIPOLOGÍAEN"T"VRST1.............................................................................................. 47
+FIGURA5.10 MORFOLOGÍANo.4.TIPOLOGÍACOMPACTAVRSC1......................................................................... 48
+FIGURA 5.11 PLANTA TIPOLOGÍA COMPACTA VRSC1......................................................................................... 48
+FIGURA5.12 ISOMETRÍATIPOLOGÍACOMPACTAVRSC1..................................................................................... 49
+FIGURA5.13 MORFOLOGÍANo.5.TIPOLOGÍACOMPACTAVRSC2......................................................................... 50
+FIGURA 5.14 PLANTA TIPOLOGÍA COMPACTA VRSC2......................................................................................... 50
+FIGURA5.15 ISOMETRÍATIPOLOGÍACOMPACTAVRSC2..................................................................................... 51
+FIGURA5.16 MORFOLOGÍANo.6.TIPOLOGÍACOMPACTAVRSU1 ........................................................................ 52
+FIGURA5.17 PLANTA TIPOLOGÍA"U"VRSU1................................................................................................... 52
+FIGURA5.18 ISOMETRÍATIPOLOGÍAEN"U"VRSU1........................................................................................... 53
+FIGURA 5.19 PORCENTAJE DE PARTICIPACIÓN DE ESPACIOS - PARALELO PROTOTIPOS ANALIZADOS Vs. MODELO DE
+TIPOLOGÍAS PPVR ...................................................................................................................................... 54
+FIGURA5.20 PORCENTAJEDEDISTRIBUCIÓNESPACIALPROMEDIOPORMODELODETIPOLOGÍA................................ 55
+FIGURA6.1 COMPONENTESDELSUBCIDIODEVIVIENDA.................................................................................... 57
+FIGURA6.2 AREASDEIMPLANTACION 6TIPOLOGIAS........................................................................................ 58
+FIGURA6.3 AISLAMIENTORECOMENADOENLASCUATROFACHADAS.................................................................. 59
+FIGURA6.4 CARACTERÍSTICASDELPREDIOYEDIFICACIONES............................................................................... 61
+FIGURA 6.5TIPOLOGIAS DE VIVIENDA Y FORMAS DE CRECIMIENTO ....................................................................... 62
+
+                                                                        Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR 5
+INTRODUCCIÓN
+
+En el marco de los cuatro (4) pilares de la política se presenta el Documento Técnico de Parametrización del
+Subsidio Familiar de Vivienda Rural. Este documento, es una visión global y comprensible del diseño
+arquitectónico paramétrico de los espacios que deben incluir las tipologías de vivienda rural, en donde se
+describe aspectos fundamentales de cada espacio dentro de la vivienda y se establecen una serie de
+lineamientos que debe tenerse en consideración dentro de los procesos de diseño arquitectónico tanto de
+las viviendas nuevas como los mejoramientos de vivienda rural, en el marco de la política establecida por el
+Ministerio de Vivienda, Ciudad y Territorio ­ MCVT.
+
+Adicionalmente, se establecen otro tipo de lineamientos técnicos que, si bien se pueden considerar de
+carácter complementario; afectan los diversos procesos asociados al desarrollo de vivienda rural de forma
+tal, que estas, logren incorporar componentes climáticos, sociales y técnicos acorde a las necesidades de
+los beneficiarios de la Política Pública de Vivienda de Interés Social Rural - PPVISR y los Subsidios Familiares
+de Vivienda Rural - SFVR, en concordancia a las definiciones de la Resolución 0536 de 2020.
+
+Con base en lo anterior, el presente documento recoge el proceso técnico realizado en el marco de la
+formulación de la Política, que conlleva a la generación de lineamientos y a través del desarrollo de las
+siguientes actividades y temáticas:
+
+    · Análisis de antecedentes jurídicos y prototipos de vivienda rural.
+    · Parametrización técnica de la VISR.
+    · Implementación de Parametrización: Desarrollo de modelos tipológicos no vinculantes de vivienda
+
+         nueva.
+    · Implementación de Parametrización: Desarrollo de modelos tipológicos no vinculantes de módulos
+
+         de mejoramiento.
+
+En este sentido, primero se describe tanto el análisis como los resultados del estudio de 16 prototipos de
+vivienda relacionados a programas de vivienda rural implementados por otras entidades y asociadas a
+vigencias anteriores acorde a las disposiciones de la Ley 1955 de 2019. Asimismo, se establecen parámetros
+mínimos de dimensiones espaciales y técnicas para soluciones habitacionales a implementar en el marco
+de la PPVISR y, por último, se muestra como resultado escenarios de implementación de los parámetros
+mediante el desarrollo de seis (6) tipologías de vivienda nueva y siete (7) módulos de mejoramiento ­ los
+cuales no son vinculantes- y que dan solución a un programa arquitectónico.
+
+La parametrización arquitectónica permite establecer unos términos para garantizar las condiciones
+mínimas de habitabilidad y aplicabilidad de los proyectos, con el fin de optimizar costos y generar eficiencia
+en los procesos constructivos establecidos en el marco de la PPVIS definida por la Dirección de Vivienda
+Rural del MVCT.
+
+                                                                        Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR 6
+1. OBJETIVOS
+
+El presente documento tiene como objetivo "Establecer y exponer los parámetros mínimos para el
+desarrollo de VISR a partir de componentes de dimensiones espaciales, técnicas, de confort y de resistencia,
+entre otros; dando paso al desarrollo de tipologías y módulos de mejoramiento en el marco de un programa
+arquitectónico base, cumpliendo con la normativa técnica vigente y los requerimientos de accesibilidad como
+elementos que componen la vivienda rural digna, segura y saludable".
+
+Asimismo, se establecieron los siguientes objetivos específicos:
+- Identificar variables e indicadores técnicos mediante el análisis de prototipos de vivienda de interés
+
+    rural ya diseñados y ejecutados.
+- Definir una parametrización físico espacial de los componentes arquitectónicos utilizados en el diseño
+
+    de soluciones habitacionales de vivienda rural.
+- Especificar las características de los diversos espacios arquitectónicos que conforman la VISR.
+- Desarrollar modelos de implementación de la parametrización mediante tipologías de soluciones
+
+    habitacionales ­ vivienda nueva y mejoramiento- no vinculantes en el marco de la formulación de la
+    PPVISR
+
+2. ANTECEDENTES Y JUSTIFICACIÓN.
+
+Con el fin de diseñar una estrategia técnica que permitiera dar respuesta a las definiciones de la Política
+Pública de Vivienda de Interés Social Rural ­ PPVISR, en cuanto al componente arquitectónico y constructivo
+de las viviendas; se estableció como punto de partida el análisis de aspectos normativos y técnicos que han
+definido el desarrollo de los programas correspondientes a la vivienda rural en Colombia. En este sentido,
+se presentan a continuación los resultados y hallazgos más relevantes, los cuales permiten soportar la
+definición de acciones técnicas que conlleven a la ejecución de los SFVR bajo conceptos de vivienda digna,
+segura y saludable.
+
+    2.1. Antecedentes jurídicos y arquitectónicos de la Vivienda Rural en
+             Colombia
+
+         2.1.1. Análisis de las condiciones físicas de la vivienda a partir de un marco
+                  jurídico existente.
+
+El Programa de Vivienda de Interés Social Rural estuvo a cargo de la Dirección de Gestión de Bienes Públicos
+Rurales del Ministerio de Agricultura y Desarrollo Rural-MADR y el Banco Agrario de Colombia ­ BAC, hasta
+el año 2019, cuando dicha competencia pasó a manos del MVCT a razón de las disposiciones del artículo
+255 de la Ley 1955 de 2019, que corresponde al Plan Nacional de Desarrollo ­ PND: "Pacto por Colombia,
+Pacto por la Equidad".
+
+Con base en lo anterior, se practicaron modelos operativos distintos y se acogieron normas técnicas, las
+cuales se incorporaron dentro del Decreto 1071 de 2015, que corresponde al Decreto Único del Sector
+Administrativo Agropecuario, Pesquero y de Desarrollo Rural dando forma al programa de vivienda. Sin
+embargo, mediante el Decreto 1934 de 2015, se modificó dicho decreto, en el que se estableció a través
+
+                                                                        Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR 7
+del artículo 2.2.1.1.8 la definición de "Tipología de Vivienda de Interés social Rural1" y se determinó la
+incorporación de características propias de la región en el diseño de las tipologías asociadas a condiciones
+del clima, la geografía, la topografía y la cultura. (Decreto 1934 de 2015). Asimismo, mediante el artículo
+2.2.1.2.5 las condiciones de vivienda que corresponde a un área mínima de 50 metros cuadrados (m2) y un
+programa arquitectónico y otros componentes que constan de: i). Un (1) Espacio Múltiple, ii) tres (3)
+habitaciones, iii) Una Cocina, iv) Un cuarto de Herramientas/deposito, v) Alberca para el almacenamiento
+de agua vi) Saneamiento básico, incluyendo aparatos e instalaciones hidráulicas y sanitarias de la vivienda
+y finalmente, vii) Una solución de manejo de excretas y/o aguas residuales domésticas (Decreto 1934 de
+2015).
+
+Estas definiciones establecen relación directa con la configuración espacial de los componentes de la
+vivienda con la materialidad y estructura de los mismos, donde los primeros espacios asociados a alcobas,
+baño, cocina, espacio múltiple y un cuarto de herramientas tendrían un área definida y/o contenida por
+muros; a diferencia de la alberca y de la solución de manejo de excretas o aguas residuales domésticas, que
+requiere un área adicional al exterior de la vivienda para su funcionamiento.
+
+Sin embargo, el decreto no aclara si hace referencia al área útil o al área construida de la vivienda. El
+programa Arquitectónico definido en del decreto 1071 de 2015 plantea los espacios requeridos para la
+vivienda, mas no las áreas mínimas necesarias para cada uno de ellos. Contempla una solución de
+saneamiento básico como lo entiende la norma: un lugar destinado a realizar necesidades fisiológicas el
+cual incluye aparatos, instalaciones hidráulicas y sanitarias de la vivienda. Es de suma importancia entender
+que la razón de la solución de saneamiento básico es consecuencia de la escasez de agua y la posible
+inexistencia de servicios públicos, debido a que en la ruralidad se implementan soluciones como baño
+múltiple, baños secos entre otros.
+
+Adicionalmente, el espacio de saneamiento básico se puede entender en el diseño como la utilización de
+un baño múltiple afuera de la vivienda; razón por la cual, en el Decreto 1071 de 2015 se incorpora un
+parágrafo que se refiere a los usos y costumbres relacionados a la población indígena.
+
+         2.1.2. Análisis técnico de los prototipos
+
+Teniendo en consideración lo expuesto en el apartado anterior y con base en información suministrada por
+algunas entidades del orden nacional, departamental o municipal, productores del sector de la
+construcción, gremios y academia, entre otros; se llevó a cabo el análisis de 16 prototipos con el fin de
+establecer el cumplimiento de las determinantes descritas previamente. Estos prototipos fueron agrupados
+en cuatro grupos de tipologías de vivienda a partir de la definición de su morfología, las cuales corresponden
+a tipología compacta, tipología lineal, por módulos funcionales y finalmente, tipología en "L" o "T" como se
+puede observar en la FIGURA 2.1.
+
+Asimismo, estos prototipos presentaban diversos sistemas estructurales, en donde para algunos casos, el
+diseño y la disposición espacial al interior de la vivienda eran iguales, no obstante, presentaban soluciones
+constructivas distintas, permitiendo así, identificar el área útil y los costos resultantes de cada una. En este
+
+1 "Propuesta técnica y financiera presentada por parte de la Entidad Otorgante y conformada por el presupuesto y el desarrollo
+constructivo y estructural de la solución de vivienda mediante el conjunto planimétrico"
+
+                                                                        Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR 8
+sentido y de manera general, se pudo establecer que el área construida de las viviendas nuevas, en
+promedio, era de 54,83 m2, lo que se encuentra por encima de las disposiciones legales en
+aproximadamente cinco (5) m2. Igualmente, con respecto al costo directo de la totalidad de los prototipos
+el promedio era de 39 SMMLV.
+
+                               FIGURA 2.1. TIPOLOGÍAS ESTUDIADAS SEGÚN SU MORFOLOGÍA
+
+TIPOLOGÍA  TIPOLOGÍA LINEAL  TIPOLOGÍA EN "L"                                TIPOLOGÍA EN "T"
+COMPACTA
+
+           Fuente: Ministerio de Vivienda Ciudad y Territorio ­ MVCT, 2020.
+
+A continuación, se expresan a los resultados del análisis correspondiente y bajo dos premisas asociadas al
+programa arquitectónico y los sistemas estructurales; mientras que, como parte de los anexos del presente
+documento se incorporan las fichas y un cuadro resumen, que dan soporte a los resultados aquí descritos.
+
+    · Programa arquitectónico y cuadro de áreas.
+
+Los espacios de la vivienda que conforman el programa arquitectónico a partir de las disposiciones
+normativas fueron organizaron en grupos de acuerdo con su naturaleza funcional, integración e interacción.
+Lo anterior, con el fin de analizar las proporciones de áreas de estos espacios con relación al área construida,
+y así, determinar a futuro tanto posibilidades de generación de módulos habitacionales como de
+dimensiones mínimas, que garanticen la calidad de cada espacio según el desarrollo de actividades al
+interior. Por lo tanto, se definieron como áreas de "estar" las habitaciones y el espacio múltiple, en los casos
+en que este último fuera incorporado dentro de la viviendas y como un espacio independiente desligado de
+la cocina; el área de "servicios", el cual está conformado por Cocina -incluyendo área de comedor al interior
+del mismo espacio-, Baños y zona de alberca o lavadero; áreas de "circulación y transición" conformado por
+áreas de corredor y terrazas o porches; y finalmente, el espacio "productivo" asociado únicamente al cuarto
+de herramientas o deposito.
+
+Como se observa en la FIGURA 2.3 Se pudo establecer que el 100% de los prototipos cumplían con las
+disposiciones referente a la inclusión de los espacios asociados a tres (3) habitaciones, baño, cocina. Sin
+embargo, asociado al espacio productivo, que, para efectos de diseño se define como un cuarto de
+herramientas dadas sus dimensiones; este, se encontraba incluido en el 88% de los prototipos estudiados.
+A su vez, el 69 % incluía dentro de los diseños áreas exteriores de terraza o porche (cubierto) y tan solo el
+31% de esto prototipos contemplaba la inclusión de un espacio múltiple. En lo que respecta a la alberca o
+zona de lavadero, solo uno de los prototipos no incluyó dentro de sus diseños este espacio, mientras que,
+de los 15 prototipos restantes, equivalente al 94% sobre el total de las tipologías, el 31% contemplan su
+instalación al interior de la vivienda y el 63% ubicaban este elemento al exterior de esta.
+
+           Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR 9
+FIGURA 2.2 EJEMPLO DE ZONIFICACIÓN FUNCIONAL Y RELACIONES ESPACIALES EN PROTOTIPOS ANALIZADOS
+
+Fuente: Departamento Nacional de Planeación ­ DNP, Ministerio de Agricultura y Desarrollo Rural- MADR, 2019.
+                                            Recuperado y Modificado MVCT, 2020.
+
+FIGURA 2.3 DISPONIBILIDAD DE ESPACIOS EN PROTOTIPOS ESTUDIADOS
+
+Cocina                                                                                             100%
+                                                                                                   100%
+Baño                                                                                               100%
+                                                                                               94%
+3 Habitaciones                                                                            88%
+
+Alberca/Lavadero
+
+Cuarto de Herramientas
+
+Terraza/Porche               69%
+
+Espacio Múltiple        31%
+
+                        Fuente: Ministerio de Vivienda Ciudad y Territorio ­ MVCT, 2020.
+
+Adicionalmente, como resultado de este análisis según se observa en FIGURA 2.4, se pudo determinar que
+el área de "estar" de estos prototipos estudiados corresponde en promedio a un 50% del total del área
+construida, alrededor de 27,45 m2 habitables; en donde, como principio de diseño, se concibe el área de
+habitaciones en la mayoría de los casos como una agrupación en barra. Igualmente, el promedio de área
+destinada para cada una de las habitaciones estaba entre los siete (7) y los ocho (8) m2, mientras que, el
+promedio destinado para el espacio múltiple independiente en los casos que fuera concebido de esta
+manera, estaba alrededor de los cuatro (4) a cinco (5) m2.
+
+Por su parte, el área de servicios correspondía a un 21,23% del área total construida, equivalente a un
+promedio de 11,63 m2 habitables, donde las dimensiones del área de cocina que incluye el área de comedor
+­ como parte del área múltiple- estaban cercanos a los ocho (8) m2 y a su vez, el espacio de baño en
+promedio era de aproximadamente de tres (3) m2.El área restante para completar los metros cuadrados
+destinados a las áreas de "servicio" en promedio, están asociados al espacio del lavadero.
+
+                        Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR 10
+Para los espacios de circulación y terrazas se destinaba un promedio de 8,62m2, correspondiente al 15,5%
+del área construida; mientras el espacio destinado al cuarto de herramientas o deposito, contaba con una
+superficie habitable de 2,29 m2, equivalente al 4,18% del área construida. El 100% del área de la vivienda,
+lo complementa el área destinada de muros tanto de fachada como interiores, para los cuales se requiere
+de un aproximado del 8% del área construida, según sea el caso y que como se mencionó de forma
+preliminar.
+
+                     FIGURA 2.4 PORCENTAJE DE ÁREA PROMEDIO POR TIPO DE ESPACIO DE LAVIVIENDA
+
+                                      8,78%  50,29%    ESTAR
+                         4,18%                         SERVICIO
+                 15,51%                                CIRCULACIÓN/TRANSICIÓN
+                                                       PRODUCTIVO
+                              21,23%                   MUROS & ESTRUCTURA
+
+            Fuente: Ministerio de Vivienda Ciudad y Territorio ­ MVCT, 2020.
+
+                 TABLA 2.1 PROMEDIOS DE ÁREAS ESPACIOS PROTOTIPOS
+
+TIPO DE ESPACIO                              ESPACIOS  No. ESPACIOS           AREA PROMEDIO
+                                                                                     (m2)
+                 PROGRAMA ARQUITÉCTONICO CUANTIFICADOS                               8,34
+                                                                                     8,01
+                 Habitación 1                          16                            7,96
+                                                                                    11,66
+ESTAR            Habitación 2                          16                            3,14
+                                                                                     8,05
+                 Habitación 3                          16                            1,85
+                                                                                     1,79
+                 Espacio Múltiple                      5                             4,37
+                                                                                     4,71
+                 Baño                                  16                            2,10
+
+SERVICIOS        Cocina                                16
+
+                 Zona Alberca/ Lavadero (Cubierto)     10
+
+                 Zona Alberca/ Lavadero (Exterior)     5
+
+CIRCULACIÓN/TRANSICIÓN Terraza/Porche                  11
+
+                 Áreas de Circulación/Halls            13
+
+PRODUCTIVO       Cuarto de Herramientas                14
+
+            Fuente: Ministerio de Vivienda Ciudad y Territorio ­ MVCT, 2020.
+
+De otra parte, como se puede ver en la FIGURA 2.5 , los prototipos asociados a morfologías compactas
+presentan mejores proporciones espaciales destinadas a las áreas de estar con respecto a la tipología línea
+o en forma de "T" o "L", debido a que estas requieren de mayor área destinado a las circulaciones; caso
+contrario a los prototipos modulares o dispersos, en donde predominantemente, no se tienen en
+consideración las áreas de circulación, y por lo tanto, estas áreas se distribuyen entre las habitaciones y el
+espacio múltiple. Ahora, en lo que compete a las áreas de servicio, correspondiente a baños, cocina y zona
+
+                                             Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR 11
+de alberca o lavadero; la proporción de espacio destinada en todas Los prototipos y tipologías analizadas es
+similar en todos los casos, de igual forma que el espacio destinado a curtos de herramientas.
+
+                    FIGURA 2.5. PORCENTAJE DE DISTRIBUCIÓN ESPACIAL POR PROTOTIPO Y PROMEDIO EN TIPOLOGÍAS
+
+100%
+
+90%
+
+80%
+
+70%
+
+60%
+
+50%
+
+40%
+
+30%
+
+20%
+
+10%
+
+0%
+
+             %            %                  %                 %              % DE ÁREA PROMEDIO POR
+
+                                                                                  TIPO DE ESPACIO
+
+      TIPOLOGÍA COMPACTA TIPOLOGÍA DISPERSA  TIPOLOGÍA LINEAL  TIPOLOGÍA T/L      RESULTADOS
+
+      ESTAR     SERVICIO     CIRCULACIÓN/       PRODUCTIVO                    MUROS & ESTRUCTURA
+                             TRANSICIÓN
+
+                Fuente: Ministerio de Vivienda Ciudad y Territorio ­ MVCT, 2020.
+
+Es importante mencionar y resaltar la importancia del proyecto tipo 18 2 incluido en el programa de vivienda
+rural anterior, el cual fue diseñado por el Banco Agrario de Colombia - BAC e implementado por los
+constructores. Este proyecto ha sido base de varios de los prototipos analizados, tanto así, que la mayoría
+de estos prototipos presentan una configuración espacial muy similar. Los componentes que se analizaron
+del proyecto tipo 18 son su arquitectura, la estructura, los acabados3, el mobiliario y el presupuesto.
+
+    · Sistemas estructurales y costos
+
+Asociado a los sistemas constructivos, se identificaron cinco (5) soluciones estructurales recurrentes en el
+diseño de estos prototipos analizados, en donde una tercera parte de los prototipos presentaban
+mampostería confinada, otra tercera parte se desarrollaron a partir de estructuras metálicas y finalmente,
+el último tercio implementaron sistemas estructurales y de fachada industrializados o alternativos como es
+el caso de sistemas tipo celular, Steel Framing o la guadua. Esta información, no solo permitió establecer
+las variaciones generales de costos de los diversos sistemas disponibles para la construcción de estas
+viviendas, sino también, el impacto de cada uno de los sistemas en cuanto a la eficiencia del área útil de la
+vivienda con relación al área construida.
+
+En ese sentido, se pudo determinar que las tipologías desarrolladas a partir de mampostería confinada
+tenían un costo directo promedio por m2 de 0,7 SMMLV, mientras que, las tipologías construidas con
+
+2 Anexo análisis de tipología de vivienda VNP-16 Prototipo 1 vivienda nueva rural -clima cálido.
+3 Los acabados ubicados en la cocina: un mesón de concreto de 2 metros de largo y por 0.60 de ancho apoyado en dos puros de
+ladrillo, sobre este un lavaplatos de acero inoxidable y la pared enchapada como salpicadero del largo del mesón.
+
+                                             Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR 12
+estructuras metálicas tenían un costo directo promedio de 0,8 SMMLV por m2. En lo que respecta a los
+sistemas estructurales no convencionales o industrializados, este costo promedio estaba 0,7 SMMLV y
+depende de la solución técnica implementada.
+
+En lo que compete a la diferencia entre área construida4 y área útil5, se pudo reafirmar que los sistemas
+industrializados u alternativos son más eficientes al requerir menor aérea del total del área construida, un
+promedio de tres (3) m2 lo que representa un 5% del área de las viviendas; mientras que, estructuras
+convencionales como la mampostería confinada y las estructuras metálicas pueden requerir un promedio
+de cinco (5) m2 aproximadamente, el equivalente al 9% del total de área construida. Lo anterior, claro está,
+depende en cada caso del diseño espacial y volumétrico de cada una de las viviendas lo que repercute en
+la calidad espacial de la solución habitacional.
+
+A continuación, en la FIGURA 2.6, se presenta a manera de resumen las diferencias promedio
+correspondiente a costos, áreas y sistemas estructurales.
+
+                                       FIGURA 2.6 SISTEMAS ESTRUCTURALES Y COSTOS
+
+                                           Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+    3.2. Parametrización de la Vivienda de Interés Social Rural ­ Justificación.
+Con el propósito de definir una estrategia técnica para la Política de Vivienda Rural asociada al componente
+arquitectónico y como resultado del análisis normativo y el estudio de las 16 tipologías relacionadas en el
+apartado anterior; se estableció la necesidad de definir e implementar una parametrización espacial, que
+busca establecer los requerimientos mínimos de las viviendas a construir en el marco de la política de
+Vivienda Rural del Ministerio de Vivienda, Ciudad y Territorio-MVCT, en pro de mejorar las condiciones
+espaciales de la vivienda rural.
+
+Igualmente, esta parametrización se establece con el fin de lograr un equilibrio entre el área construida y
+el área útil, teniendo en cuenta los costos inherentes a la construcción. Adicionalmente, trata de resolver
+problemas planteados en la política de Vivienda Rural asociados a viviendas no acordes a las necesidades
+de la población, el desconocimiento de las realidades rurales y las necesidades habitacionales, dando un
+
+4 Área Construida, corresponde a la superficie o perímetro total de la vivienda, la cual incluye elementos estructurales tales como
+columnas, muros de cerramiento o fachada, tabiques o muros internos, ductos, entre otros.
+5 Área útil, corresponde a las superficies habitables al interior de la edificación.
+
+                                                                       Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR 13
+paso más en el sentido de contar con parámetros básicos de accesibilidad y flexibilidad para adecuaciones
+futuras en caso de requerirlas.
+
+Dicho lo anterior, en cada espacio se profundizan los siguientes temas:
+
+    1. La definición de los espacios del programa de vivienda rural: la utilidad o destinación del espacio, el
+         mobiliario mínimo que puede ocupar el espacio.
+
+    2. La aplicación de la norma técnica colombiana sobre accesibilidad al medio físico y la funcionalidad
+         de los espacios.
+
+    3. Las especificaciones de mobiliario fijo a entregar al interior de los espacios tales como ventanas,
+         puertas, mesón de cocina y otros.
+
+Adicionalmente, la parametrización se basará en tres componentes que corresponden a un factor
+programático, un factor social y un factor bioclimático; con el objeto de establecer los lineamentos a
+implementar en los diseños y construcción de la Vivienda de Interés Social Rural, en el marco del SFVR y
+basándose en cuatro puntos esenciales:
+
+    - Desarrollo del programa arquitectónico aplicando estándares técnicos de accesibilidad, ventilación
+         e iluminación, relacionados a proporciones y dimensiones que permitan el uso adecuado de los
+         espacios. Estos factores son implementados en pro de asegurar una vivienda digna y adecuada.
+
+    - Especificación del mobiliario de cada uno de los espacios requeridos dentro del marco normativo.
+    - Función espacial de cada área y relación dentro de la vivienda.
+    - Equilibrio del área construida que garantice el cierre financiero.
+
+Ahora bien, se hace relevante resaltar que la parametrización arquitectónica corresponde a una práctica
+profesional que permite establecer unas características que garantizan las condiciones mínimas de
+habitabilidad y aplicabilidad de los proyectos, con el propósito de optimizar costos y generar eficiencia en
+los procesos constructivos.
+
+4. PARAMETRIZACIÓN.
+
+Como se hizo referencia en la justificación anterior y en aras de contribuir al desarrollo de dos de los pilares
+de la Política Pública de Vivienda de Interés Social Rural ­ PPVISR descritos bajo la Resolución 0536 de 2020,
+los cuales, están relacionados con el dialogo social y el diseño participativo; se presenta a continuación los
+parámetros arquitectónicos y constructivos bajo unos lineamientos técnicos que den soporte al concepto
+de la vivienda rural digna6.
+
+En ese sentido se presentarán los parámetros asociados a los componentes climáticos, programáticos,
+espaciales, de materialidad y acabados, así como, de otros elementos técnicos a considerar en el desarrollo
+de tipologías de vivienda rural; los cuales, a manera de resumen se referencian en la TABLA 4.1 y que se
+desarrollan a profundidad en el presente capitulo.
+
+6 Conceptualización de la PPVR a partir de su objetivo principal y que corresponde a una Vivienda segura, saludable y sostenible.
+
+                                                                       Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR 14
+                TABLA 4.1 PARAMETRIZACIÓN DE LAVIVIENDA RURAL - DIGNA- PPVISR
+
+COMPONENTE                                         PARAMETRO                                   TIPO
+                                                                                       Cualitativo
+LOCALIZACIÓN                                                                           Cualitativo
+                                                                                       Cuantitativo
+BIOCLIMÁTICO               Asoleación
+                                                                                       Cualitativo
+                           Temperatura Y Humedad                                       Cuantitativo
+
+                           Vientos
+
+                           Precipitaciones
+
+VIVIENDA NUEVA
+
+ARQUÍTECTONICO - PROGRAMATICO Espacio Múltiple
+
+                           Habitaciones (3 Espacios)
+
+                           Cocina
+
+                           Baño
+
+                           Cuarto de herramientas
+
+                           Zona de Alberca o Lavadero
+
+ARQUITÉCTONICO ­ ESPACIAL  Dimensiones Mínimas y otras características del Espacio
+
+                           Múltiple
+
+                           Dimensiones Mínimas y otras características de las
+
+                           Habitaciones
+
+                           Dimensiones Mínimas y otras características de la Cocina
+
+                           Dimensiones Mínimas y otras características del Baño
+
+                           Dimensiones Mínimas y otras características del Cuarto de
+
+                           herramientas
+
+                           Dimensiones Mínimas y otras características de la Zona de
+
+                           Alberca o Lavadero
+
+MEJORAMIENTOS DE VIVIENDA
+
+ARQUÍTECTONICO - PROGRAMATICO Escenario I. Mejoras Locativas
+
+                           Escenario II. Combinaciones Espacios Habitacionales
+
+                           Escenario III. Módulo de Habitabilidad
+
+ARQUITÉCTONICO ­ ESPACIAL  Habitación (H)
+
+                           Habitación + Habitación (H+H)
+
+                           Cocina (C)
+
+                           Cocina + Habitación (C+H)
+
+                           Baño (B)
+
+                           Baño + Habitación (B+H)
+
+                           Baño + Cocina (B+C)
+
+                           Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+    4.1. Parámetros Climáticos de soporte para la definición de acciones de
+             diseño bioclimático en las VISR.
+
+Con el fin de asegurar la adaptación de las viviendas a las condiciones del entorno geográfico, se deberán
+tener en consideración el análisis de las siguientes variables climáticas que permitan la incorporación de
+estrategias pasivas que, a partir del diseño arquitectónico, conlleven a la generación de condiciones de
+confort, principalmente, al interior de la vivienda por medio de la orientación, iluminación y/o ventilación
+natural, entre otras.
+
+Para esto, igualmente se deberá tener en consideración las definiciones establecidas en la Resolución 0549
+expedida el 10 de Julio del 2015 por parte del Ministerio de Vivienda, Ciudad y Territorio -MVCT; mediante
+
+                                                Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR 15
+el cual, se reglamentó el Capítulo 1 del Título 7 de la parte 2, del libro 2 del Decreto 1077 de 2015, en cuanto
+a los parámetros y lineamientos de construcción sostenible y se adopta la guía para el ahorro y energía en
+edificaciones (Resolución 0549 , 2015).
+Es así como, mediante el Anexo 1 que corresponde a la Guía de Construcción Sostenible, se establecen las
+cuatro zonas climáticas predominantes7 a partir de la localización de asentamientos en el territorio
+colombiano, asociados a la altura (m s.n.m.) y en algunos casos, la humedad, que corresponden a:
+
+         FIGURA 4.1 CLASIFICACION DE ZONAS CLIMÁTICAS BASE PARACONSTRUCCIÓN SOSTENIBLEENCOLOMBIA8
+
+                                                                    Fuente: IDEAM (2013)
+7 Si bien se presentan cinco (5) tipos de climas en Colombia, asociados a Glacial, Páramo, Frío Templado y Caliente; esta zonificación
+no tiene en consideración los climas Glacial (4.000 m s.n.m) y/o páramo (entre 3000 y 3999 m s.n.m,); dado que corresponden a
+zonas sin asentamientos presentes o muy poco poblados, respectivamente (MVCT, IFC, 2013)
+8 El Anexo II de la Resolución 0549 de 2015, corresponde a la clasificación Climática en donde se puede encontrar la definición por
+cada uno de los municipios del país.
+
+                                                                       Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR 16
+                             TABLA 4.2. ZONAS CLIMÁTICAS EN COLOMBIA
+
+ TIPO DE CLIMA   ALTURA      TEMPERATURA                            DESCRIPCIÓN
+      FRIO      (m s.n.m)
+                2000 - 2999  (°C)
+  TEMPLADO
+                1000- 1999   12- 18          Temperaturas más bajas y variación entre el día y la noche, donde
+CALIDO -SECO
+                  <1000                      el principal problema es la disipación excesiva de calor para todo
+CÁLIDO ­
+HUMEDO                                       o la mayoría del año.
+
+                             18-24           Temperaturas moderadas tanto para el día como para la noche,
+
+                                             presentándose algo de exceso de calor durante períodos de más
+
+                                             radiación
+
+                             > 24 (RH <75%)  El principal problema es el exceso de calor, pero el aire es más
+                                             seco. Por lo general hay una gran variación de la temperatura
+
+                                             diurna (día-noche). (Incluyendo semihúmedo)
+
+                             > 24 (RH >75%)  Donde el sobrecalentamiento no es tan grande como en las zonas
+                                             calientes secas, pero se agrava por la humedad alta, restringiendo
+
+                                             el potencial de evaporación. La variación diurna es pequeña.
+
+      Fuente: Ministerio de Vivienda, Ciudad y Territorio, Corporación Financiera Internacional ­ Grupo Banco Mundial (2013)
+
+Adicional a esta categorización, se deberán tener en consideración las siguientes variables climáticas
+dependiendo la ubicación geográfica de las viviendas a desarrollar mediante la ejecución del subsidio y con
+el propósito de establecer alternativas de diseño, que conlleven a garantizar dichas condiciones de confort.
+
+·               Asoleación.
+
+Con el fin de establecer estrategias pasivas asociadas a la orientación, protección solar y/o iluminación
+natural o activas como uso de sistemas alternativos para la generación de energía, entre otros; se deben
+realizar análisis con información meteorológica y mediante instrumentos y herramientas existentes
+referidos a recorridos solares ­ diagrama estereográfico- con información geográficas de latitud y longitud
+de las áreas o territorios a intervenir, de la misma forma que de radiación solar directa o difusa; los cuales
+pueden afectar igualmente, las condiciones de confort térmico al interior de la vivienda a partir de la
+materialidad y la relación ventana/pared de la vivienda.
+
+   Orientación: Como primera estrategia de diseño pasivo, la orientación se convierte en una
+   acción vital, en donde, acorde a las condiciones climáticas (frío o cálida) permite aumentar o
+   reducir las cargas de transferencia de calor y/o enfriamiento de la envolvente de la edificación a
+   partir de la incidencia de la radiación solar, mejorando así, las condiciones de confort térmico al
+   interior de la vivienda. Esto, también permite una primera aproximación a las definiciones de la
+   distribución espacial y forma, dependiendo de las necesidades habitacionales del programa
+   arquitectónico, sobre que espacios deben estar más expuestos o no a la radiación solar.
+
+                                             Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR 17
+FIGURA 4.2 ORIENTACIÓN SUGERÍDA SEGÚN EL CLIMA - RESOLUCIÓN 549 DE 2015
+
+CLIMA FRÍO  CLIMA CÁLIDO                                                 N
+
+Fuente: Ministerio de Vivienda, Ciudad y Territorio, 2015.
+
+Protección Solar: Adicional a lo anterior, el análisis de la asoleación permitirá definir
+particularmente en climas templados y cálidos, la definición de aperturas en fachada y el uso de
+elementos de fachada y/o cubierta, tanto horizontales como verticales; que conlleven al bloqueo
+de radiación solar hacia el interior de los espacios, y así reducir las ganancias de calor en
+superficies internas como pisos y muros, que puedan afectar las condiciones de confort térmico.
+
+Iluminación natural: A su vez, el análisis del diagrama asociado al recorrido solar junto con la
+definición de orientación, la configuración espacial en planta y el desarrollo de la envolvente -
+fachadas y cubierta- de la vivienda; permitirán igualmente identificar las proporciones y/o
+dimensiones de las ventanas y el uso de elementos arquitectónicos como claraboyas o repisas de
+luz, entre otras, que garanticen la penetración de luz necesaria para el desarrollo de las actividades
+diarias al interior de la vivienda, contribuyendo así, al ahorro enérgico al reducir el uso de luz
+artificial. Es importante aclarar, de la misma forma, que debe garantizarse el cumplimiento de las
+exigencias del Reglamento Técnico de Iluminación y Alumbrado Público ­ RETILAP, respecto al
+coeficiente de Luz Diurna- CLD (MVCT, 2015).
+
+Selección de materiales y acabados: A partir de los análisis de radiación, principalmente,
+se podrán establecer criterios de selección de materiales y acabados a escoger dada las
+condiciones de transmitancia térmica y otras especificaciones técnicas de los materiales de la
+envolvente -fachadas y cubiertas-. En este sentido, por ejemplo, la selección de textura y el
+manejo de color de las fachadas puede corresponder a un factor determinante, teniendo en
+consideración fenómenos como la Reflectancia Solar, que de acuerdo con las características físicas
+del material puede absorber o reflejar dicha radiación.
+
+            Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR 18
+·        Temperatura y Humedad
+
+Se podría establecer que al análisis de temperatura y humedad corresponden a las dos variables más
+importantes para garantizar condiciones de confort térmico9, las cuales no solo pueden afectar los
+consumos de energía y agua (MVCT, 2015) mediante el uso de mecanismos activos como pueden ser
+ventiladores y aires acondicionados en zonas cálidas o calefacciones en zonas frías; sino la forma en como
+las personas interactúan con la vivienda. A partir de la identificación de zonas de confort, que se calculan
+con base en la temperatura promedio anual y la humedad relativa, se pueden identificar rangos de
+temperatura a partir de la clasificación climática, así como rangos de humedad ­ esta última entre el 20% y
+el 75%-, que pueden conllevar a parámetros de habitabilidad de los espacios bajo criterios de aceptación
+y/o confort.
+
+Es así como, de acuerdo con el Documento Técnico de Soporte elaborado en el marco de la formulación de
+la Guía de construcción Sostenible de se establecen las zonas de confort para cada uno de los cuatro climas
+predominantes en el territorio colombiano. En ese sentido, estas corresponden a:
+
+         TABLA 4.3 PERFILES DE TEMPERATURA PARA ZONAS DE CONFORT POR CLÍMA EN COLOMBIA
+
+CLIMA        ZONA DE CONFORT10  PÉRFIL DE T°C ANUAL INDICADO PARA ZONA DE CONFORT.
+
+   FRÍO      16°-21°C
+
+TEMPLADO     18°-24°C
+
+CÁLIDO SECO  24°-28°C
+
+9 Se define como: "La condición de la mente que expresa satisfacción con el ambiente térmico (requiere evaluación subjetiva). El
+confort térmico no sólo depende de la temperatura y la humedad relativa. Factores como las características del vestido,
+características del tipo de trabajo y otros factores del ambiente como la presión de vapor en el aire y la velocidad del aire, determinan
+si una persona se encuentra en condiciones de confort" (MVCT, 2015)
+10 Estimación en consideración de los perfiles presentados en el DTS de la Guía de Construcción Sostenible ­ Anexo I, Resolución
+0549 de 2015; los cuales deberán ser validados, mediante las fórmulas o instrumentos disponibles para tal fin, y a partir de la
+información climatológica del sitio en el cual se va a ejecutar el SFVR.
+
+                                                                       Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR 19
+CÁLIDO HUMEDO  24°-28°C
+
+                                           Fuente: Ministerio de Vivienda, Ciudad y Territorio, 2015.
+
+Adicionalmente, para su análisis, se pueden emplear herramientas como la Tabla Psicrométrica, la cual se
+referencia en la ¡Error! No se encuentra el origen de la referencia. y permite identificar a partir de estas dos v
+ariables la relación entre las condiciones de temperatura al exterior y las zonas de confort.
+
+Estos análisis, con relación a la identificación de estrategias de diseño, conllevarán a identificar las
+condiciones óptimas de temperatura que se esperan al interior de las viviendas, a partir de características
+climatológicas de los territorios a intervenir, lo que permitirán a su vez, ratificar algunas decisiones en
+consideración a la orientación o protección solar al mismo tiempo que, soportar otras disposiciones en
+cuanto a la selección de materiales o los mecanismos de ventilación natural.
+
+·  Vientos
+
+Con el fin de suministrar aire fresco y reducir las temperaturas al interior de las viviendas mediante la
+ventilación natural como principal mecanismo y acción pasiva respecto al diseño de las viviendas, se hace
+necesario el análisis de los flujos de viento, dirección predominante así como patrones anuales y
+estacionales, mediante el análisis de la rosa de los vientos de cada uno de los territorios a intervenir, en
+donde adicionalmente se deberán tener en consideración factores como la topografía, vegetación, cuerpos
+de agua u otras edificaciones cercanas existentes (MVCT, IFC, 2013). Esto, deberá realizarse de manera
+conjunta con el estudio de temperaturas y humedad, descrita en el apartado anterior, de forma tal que se
+pueda garantizar una correcta selección de estrategias que conlleven a mejorar y mantener las condiciones
+de confort.
+
+A partir de lo anterior, se podrán tener en consideración aspectos de diseño como:
+
+   Orientación y Volumetría: Nuevamente, la orientación se convierte en un factor relevante a
+   partir del componente de presión del viento, en donde se definen las fachadas de carácter
+   barlovento ­ presiones positivas- y fachadas sotavento -presiones negativas, las cuales inciden no
+   solo en la definición de aperturas en cuanto a la proporción y localización para generar estrategia
+   de ventilación sino de igual forma, la ubicación de los distintos espacios de la vivienda.
+   Adicionalmente, la forma y volumetría de la vivienda se convierte en un tema relevante de diseño,
+   dado que esto impacta las condiciones de confort y percepción en sus alrededores.
+
+   Ventilación Natural Cruzada: Consiste en una estrategia pasiva que, adicional a proveer aire
+   fresco mejorando la calidad de este de la misma forma que la disminución de temperaturas al
+   interior; igualmente, reduce las posibles cargas mecánicas de enfriamiento de la vivienda que se
+
+                         Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR 20
+puedan generar por el uso de sistemas como ventiladores o aires acondicionados. A su vez,
+contribuye a establecer los elementos de fachada y materiales que puedan favorecer un
+mecanismo de ventilación cruzada óptimo.
+
+·  Precipitaciones
+
+Finalmente, como ultimo parámetro climático se exponen la precipitación como una oportunidad que
+permita como una buena práctica, la recolección de aguas lluvias para el uso doméstico en un área como el
+baño (inodoros) o actividades como limpieza o riego. Si bien dentro del Anexo I de la Resolución 0549 se
+establece que "no aplica" para VIP y VIS (MVCT, 2015), se considera pertinente establecer como una
+solución en zonas rurales particularmente dispersas, en donde el acceso al recurso hídrico puede ser
+reducido.
+
+Para tal fin, se hace necesario realizar un análisis que conlleve a la identificación no solo de los índices de
+precipitación anual sino de los periodos del año, en el cual podría ser viable dicha captación.
+
+    4.2. Parámetros técnicos del componente arquitectónico de la VISR.
+
+Como resultado del análisis de tipologías previamente, el componente técnico asociado al diseño
+arquitectónico de la vivienda nueva dentro de la Política Pública se fundamentó en dos variables que
+corresponden a un componente programático y otro de análisis espacial.
+
+         4.2.1. Parámetros Arquitectónicos: Componente Programático.
+
+El componente programático aplica al programa espacial definido anteriormente en la política de vivienda
+rural y en las construcciones de vivienda. Este se define como la aplicación de estándares arquitectónicos,
+de accesibilidad, diseño universal, e incorporando principios de arquitectura bioclimática por espacios como
+pueden ser ventilación e iluminación. Lo anterior se implementa en pro de garantizar una vivienda digna y
+adecuada. El proceso para definir la parametrización comienza con la cuantificación en metros cuadrados
+en planta de los prototipos analizados y relacionados al programa de vivienda rural por el Ministerio de
+Agricultura y Desarrollo Rural - MADR, El Banco Agrario de Colombia ­ BAC y el sector empresarial hasta el
+año 2019. La información fue tabulada y representada en una infografía que resume las principales
+conclusiones del análisis de configuración espacial.
+
+                    Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR 21
+           FIGURA 4.3 PROGRAMA ARQUITÉCTONICO MÍNIMO DE LA VIVIENDA DE INTERÉS SOCIAL RURAL - PPVISR
+
+                                           Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+         4.2.2. Parámetros Arquitectónicos: Componente espacial:
+Cada espacio del programa arquitectónico se analizó y se desarrolló independientemente, incorporando el
+mobiliario necesario para el uso o actividad correspondiente. Los conceptos que se tomaron del análisis de
+tipologías incluyen establecer los espacios mínimos requeridos, profundizar en el área útil, garantizar
+accesibilidad al medio físico y pensar en la adecuada dotación interna.
+Siguiendo los compromisos internacionales concernientes a la vivienda, en específico la Observación
+general N.º 4: "El derecho a una vivienda adecuada" que está suscrito ante la Organización de Naciones
+Unidas - ONU y siguiendo los postulados de la Organización Mundial de la Salud - OMS "Hacia una vivienda
+saludable", la parametrización contribuye al objetivo macro incorporando un equipamiento que se describe
+de la siguiente forma:
+"El equipamiento, (mobiliario) de la vivienda debe contribuir a mantener el orden y la limpieza y el desarrollo
+de las actividades cotidianas, por ello, debe contar como mínimo de una mesa y sillas o bancas, de una
+alacena para guardar los alimentos y utensilios de la cocina. Un armario para guardar la ropa. Una repisa
+para colocar los medicamentos y otros artículos de limpieza, la cual debe estar colocada a una altura
+suficiente para evitar el acceso a los niños". (Organización Panamericana de la Salud, 2009)
+Lo anterior es la justificación de la parametrización espacial para garantizar unos mínimos en el diseño de
+la vivienda rural por parte de actores relacionados al sector. Teniendo en cuenta que la política de vivienda
+es formulada a nivel nacional, el desarrollo espacial se entiende como un concepto universal en la
+arquitectura de la vivienda. Por lo tanto, las especificidades de la vivienda rural no se abordan en esta
+parametrización para no caer en detalles únicos o singulares relacionados a la cultura o las formas de habitar
+en el campo.
+
+                                                                       Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR 22
+Las mejoras que se realizaron en cada espacio frente a los prototipos existentes son: la inclusión de un área
+para disponer de un armario de 0.90m de ancho por 0.60m de profundidad en las habitaciones, la inclusión
+de una terraza como acceso principal a la vivienda con características de accesibilidad (ancho mínimo de
+90cm, piso duro y de mayor adherencia y rampas de acceso) y el mejoramiento de las circulaciones al
+interior de ésta.
+
+Adicionalmente, se implementaron parámetros para el ancho y alto mínimo de las puertas, estableciendo
+vanos de 0.90m y 2.30m respectivamente. En las ventanas, se continuó con la estandarización de 1m de
+ancho y 1.20m de alto, con excepción de las habitaciones, donde se recomienda tener una altura de
+antepecho de 0.94m. Por último, se implementó para las nuevas tipologías de vivienda el acceso al área de
+baño aplicando el concepto de baño múltiple, donde se agrupa la ducha y el sanitario en un área cerrada y
+se ubica estratégicamente el lavamanos por separado en un área diferente.
+
+En el caso de los baños se tomaron en cuenta características de accesibilidad al medio físico tales como:
+espacio interior apropiado, ubicación de instalaciones sanitarias que permitan el acceso a una silla de
+ruedas, puertas con apertura hacia afuera y ducha con acceso sin obstáculos y con pendiente para el
+desagüe, como también se tuvo en cuenta el área de aproximación al lavamanos.
+
+Las mejoras correspondientes al inmobiliario se relacionan a los espacios de cocina, saneamiento básico y
+alberca. Este inmobiliario hace referencia a aquellos elementos que se entregan con la vivienda tales como
+el mesón de cocina, los aparatos sanitarios, la estufa ecoeficiente y la alberca. Se tuvo en cuenta para estos
+elementos la accesibilidad, garantizando alturas adecuadas, espacios inferiores libres de obstáculos y
+posibilidad de aproximación.
+
+Para resolver la problemática espacial, se tomaron como referencia publicaciones que han profundizado en
+la arquitectura de la vivienda rural, como son los textos de Lorenzo Fonseca y Alberto Saldarriaga, entre
+otros. Adicionalmente se tuvieron en cuenta los libros de referencia académica que ilustran por medio de
+planimetrías los espacios internos de la vivienda, textos como El Arte de Proyectar en Arquitectura de Ernst
+Neufert y Las Medidas de una Casa, Antropometría de la vivienda, de Xavier Fonseca; que permitieron
+identificar referentes sobre las áreas mínimas para habitar.
+
+La imagen anterior hace referencia a los espacios que se parametrizan, cada uno por separado y con sus
+correspondientes características. Vale la pena resaltar, que la parametrización establece unas medidas
+mínimas que garantizan la dignidad y la calidad especial de la vivienda, sin embargo, estas pueden variar en
+función del dialogo social y el proceso de diseño participativo, teniendo en cuenta aspectos como la cultura,
+el clima y las costumbres de los beneficiarios del subsidio, de la misma forma que la configuración espacial
+de los diversos espacios.
+
+A continuación, se describen los 6 espacios reglamentados y adicionalmente la terraza de acceso a la
+vivienda.
+
+                                                                       Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR 23
+·  Espacio múltiple:
+
+Es un espacio destinado para socializar en familia, está diseñado de tal forma que se puede disponer de una
+mesa comedor con sus respectivos asientos y un sofá, entre otros. Su diseño y disposición de mobiliario
+tiene en cuenta la circulación interna para su funcionalidad. Este espacio está relacionado con actividades
+como zona social o sala comedor, con un área óptima de 12.00m2.
+
+Para optimizar factores como iluminación, ventilación natural y confort térmico, el espacio múltiple
+generalmente se ubica sobre la fachada principal y dispone de rejillas de ventilación localizadas cerca de la
+cumbrera de la edificación.
+
+   FIGURA 4.4 PLANTA Y SECCIÓN DEL ESPACIO MULTIPLE - PARAMETRIZADO
+
+   Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+   TABLA 4.4 PARÁMETROS ESPACIO MÚLTIPLE
+
+                      PÁRAMETRO                               DEFINICIÓN
+Área óptima si corresponde solo a sala- comedor
+Área optima si corresponde a sala, comedor y     Hasta 10 m2
+cocina)                                          Hasta 12 m2
+Altura recomendable
+                                                 Desde 2.30m hasta 3.70m11
+
+11 La altura máxima de hasta 3.70m dependerá de las condiciones climáticas y de las acciones de diseño que garanticen el confort
+térmico al interior de la vivienda.
+
+                                                                       Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR 24
+Ventanería:                                     Se recomienda una apertura de un ancho mínimo de 1.50m,
+Componentes Bioclimáticos: Ventilación natural  manteniendo la altura estándar de la ventana de 1.20m. En el
+                                                caso de que se agrupe el espacio múltiple con la cocina, se debe
+                                                garantizar la iluminación y ventilación a través de mínimo dos
+                                                ventanas.
+                                                Dependiendo de las condiciones climáticas, se podría establecer
+                                                mecanismo de ventilación cruzada a través de las ventanas y se
+                                                y rejillas localizadas en la parte superior de la puerta principal de
+                                                la vivienda, aprovechando las dimensiones del vano.
+
+   Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+·  Habitaciones (3):
+
+Una habitación básica en la vivienda urbana se compone de un cerramiento que brinde cobijo, una puerta
+y una ventana. Dentro del espacio, los muebles comúnmente usados son: una cama de 1m de ancho por
+1.90m de largo, una cómoda y un espacio para un mueble de guarda ropa o un closet. El piso de este último
+espacio no debe presentar obstáculos para el acercamiento como son los elementos constructivos de poyo
+o rebanco.
+
+En la mayoría de los diseños de vivienda se propone una configuración espacial donde las habitaciones son
+agrupadas en bloque, de esta forma los muros divisorios pueden ser usados por ambas caras, aportando así
+a la eficiencia en la disposición de los muros. Teniendo en cuenta lo anterior se plantean tres habitaciones
+continuas, cada una de 8.00m2 de área útil en promedio, dotadas de una puerta, una ventana, un área de
+closets de mínimo 0.90m x 0.60m y una circulación mínima para el tránsito de una persona alrededor de la
+cama de 0.90m, por lo menos en uno de los costados de la cama.
+
+En la etapa de pre-construcción el diseño de la vivienda debe contemplar la flexibilización o ampliación de
+los espacios. Los muros divisorios deben ser diseñados de tal manera que se pueda presentar la ampliación
+de las habitaciones o del baño en caso de que la familia lo requiera.
+
+                                                Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 25
+                          FIGURA 4.5 PLANTA Y SECCIÓN HABITACIONES - PARAMETRIZADAS
+
+                          Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+                                 TABLA 4.5 PARÁMETROS HABITACIONES
+
+             PÁRAMETRO                    DEFINICIÓN
+
+Área óptima X Habitación  Entre 7 y 8 m2
+
+Altura recomendable       Desde 2.30m hasta 3.70m12
+
+Acceso                    Vano de puerta mínima de 0,90 m X 2,05 m13
+
+Ventanería:               Vano de ventana mínimo 1,00 x1,00 m
+
+Componentes Bioclimáticos: Ventilación natural Dependiendo de las condiciones climáticas, se podría establecer
+
+                          mecanismo de ventilación cruzada a través de las ventanas y se
+
+                          y rejillas localizadas en la parte superior de las puertas.
+
+Otras consideraciones.    Incluir área de Closet o Almacenamiento.
+
+                          Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+·            Cocina:
+
+La cocina es un espacio destinado al almacenamiento y la preparación de alimentos. La cocina de una
+vivienda urbana debe contar con elementos como el mesón de cocina, la alacena, espacio para cocción de
+
+12 La altura máxima de hasta 3.70m dependerá de las condiciones climáticas y de las acciones de diseño que garanticen el confort
+térmico al interior de la vivienda.
+13 Se puede establecer un montante de 0,25 m para efectos de lograr ventilación cruzada al interior de la vivienda.
+
+                          Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 26
+los alimentos (estufa) y un espacio para los electrodomésticos (nevera, microondas). Lo ideal en términos
+de salubridad e higiene es que la cocina tenga acabados que eviten la acumulación de agua, grasas y
+generación de bacterias. Se recomienda que este espacio sea completamente enchapado con baldosa en
+paredes y piso. Además, la cocina debe estar bien dotada de instalaciones eléctricas e hidrosanitarias.
+
+Este es un espacio que cambia según la cultura de los habitantes y sus costumbres, por ejemplo, en algunas
+regiones disponen de cocina abierta al entorno inmediato y en otros casos como un espacio interno
+dependiente o independiente al salón múltiple.
+
+                                     FIGURA 4.6 PLANTA Y SECCIÓN COCINA- PARAMETRIZADA
+
+                          Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+                                     TABLA 4.6 PARÁMETROS COCINA
+
+                          PÁRAMETRO             DEFINICIÓN
+
+Área óptima                                     5 m2
+Altura recomendable                             Desde 2.30m hasta 3.70m14
+Acceso                                          Vano de puerta mínima de 0,90 m X 2,05 m15
+Ventanería:                                     Vano de ventana mínimo de 1,00 x1,00 m
+Enchapes área lavaplatos / Mesón                Enchapar con dos hiladas de altura de 0,60 m que corresponde
+                                                al salpicadero
+Componentes Bioclimáticos: Ventilación natural  Independiente de las condiciones climáticas, rejillas de
+                                                ventilación localizadas en una altura sobre fachada.
+Otras consideraciones.                          En casos especiales se puede plantear una cocina independiente
+                                                confinada por muros.
+                                                Se puede plantear mesones lineales, en L o en U donde el
+                                                lineamiento principal es el enchape del salpicadero de lavaplatos
+                                                En caso de que se requiera de una estufa ecoeficiente, el espacio
+                                                mínimo en panta es 0.80m de ancho por 1.00 metro de largo.
+                                                Este elemento se debe disponer cerca de la fachada para la
+                                                instalación del chifonier.
+
+14 Ídem pág. 27 nota 12
+15 Ídem pág. 27 nota 13.
+
+                                                Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 27
+   Se sugiere una disposición planimétrica para la cocina estándar
+   en una configuración linear de dimensiones recomendables
+   como aparece en la imagen de referencia.
+   Se recomienda que el mesón del lavaplatos cuente con el espacio
+   inferior libre para ser usado de acuerdo con las necesidades de
+   la familia y permitir el acceso con una silla de ruedas, de
+   requerirlo.
+
+   Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+·  Baño - Saneamiento básico.
+
+El saneamiento básico se refiere a mejoramiento, mantenimiento y sistema de abastecimiento de agua para
+uso y consumo humano. Incluye la adecuada disposición sanitaria de los excrementos y orina en baños, el
+buen manejo de las basuras domiciliarias, el combate a plagas portadoras de enfermedades, así como el
+control de estas. Incluye aparatos e instalaciones hidráulicas y sanitarias de la vivienda.
+
+Hace parte del saneamiento básico el baño se define como un espacio propicio para desarrollar las
+actividades relacionadas con el aseo personal de los habitantes de una vivienda, dichas actividades pueden
+ser limpieza de manos, rosto, cuerpo y necesidades fisiológicas. Las características más relevantes para
+tener en cuenta en el desarrollo de este espacio son: ventilación, aislamiento acústico y la posibilidad de su
+uso simultaneo de al menos dos personas del hogar. En las propuestas de las tipologías se plantea la opción
+de disponer el lavamanos fuera o dentro del área destinada al sanitario y la ducha. Sin embargo, se
+recomienda que siempre se disponga por fuera para permitir su uso continuo por la familia que este
+habitando la vivienda.
+
+Pensando en que este espacio pueda ser utilizado por todos los miembros del grupo familiar en cualquier
+momento del ciclo de vida, se plantea una distribución de espacios e instalaciones sanitarias con
+características de accesibilidad.
+
+   FIGURA 4.7 PLANTA Y SECCIÓN BAÑO PARAMETRIZADA
+
+   Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+                            Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 28
+                                     TABLA 4.7 PARÁMETROS BAÑO
+
+                          PÁRAMETRO                             DEFINICIÓN
+
+Área óptima                           3 m2 (incluyendo circulación frente a lavamanos)
+
+Altura recomendable                   Desde 2.30m hasta 3.70m16
+
+Enchapes área ducha                   Enchapar las 3 paredes a una altura de 1,80
+
+Enchapes área lavamanos               Enchapar con dos hiladas de altura de 0,60 m que corresponde
+
+                                      al salpicadero
+
+Acceso                                Vano de puerta mínima de 0,90 m X 2,05 m17
+
+Ventanería:                           Vano de ventana mínimo de 0,40 x0,60 m
+
+Componentes Bioclimáticos: Ventilación natural Independiente de las condiciones climáticas, rejillas de
+
+                                      ventilación localizadas en una altura sobre fachada.
+
+                          Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+·            Cuarto de herramientas:
+
+Es un espacio confinado y ventilado para disponer de herramientas básicas, su localización y apertura
+de la puerta deben estar en fachada, con salida directamente hacia el exterior o como un módulo
+aparte.
+
+                    FIGURA4.8 PLANTAYSECCIÓN CUARTODEHERRAMIENTAS-PARAMETRIZADO
+
+                          Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+16 Ídem pág. 27 nota 12.             TABLA 4.8 PARÁMETROS CUARTO DE HERRAMIENTAS
+17 Ídem pág. 27 nota 13.
+                                                           Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 29
+                          PÁRAMETRO                        DEFINICIÓN
+
+Área óptima                          3 m2
+
+Altura recomendable                  Desde 2.30m hasta 3.70 m18
+
+Acceso                               Vano de puerta mínima de 0,90 m X 2.05 m19
+
+Ventanería:                          Vano de ventana mínimo 0,40 x0,60 m
+
+Componentes Bioclimáticos: Ventilación natural Independiente de las condiciones climáticas, rejillas de
+
+                                     ventilación localizadas en una altura sobre fachada.
+
+                                     Se puede plantear el desarrollo progresivo externo donde dicho
+
+                                     espacio pase de ser un cuarto de herramientas a un espacio
+
+                                     productivo donde la familia beneficiaria puede disponer de
+
+                                     mobiliario para desarrollar actividades relacionadas con la
+
+                                     cadena de producción
+
+                          Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+·       Alberca para el almacenamiento de agua y limpieza:
+
+Es el espacio de la vivienda en donde se desarrollan las actividades relativas a la limpieza de la ropa y otros
+elementos importantes del hogar. Teniendo en cuenta el funcionamiento de las instalaciones hidro-
+sanitarias debe ubicarse cerca de la cocina y el baño.
+
+Este espacio se relaciona con las áreas húmedas de la vivienda y está concebida como una zona cubierta, lo
+que significa que hace parte de los metros cuadrados construidos. Este espacio es un lavadero que puede
+ser planteado con una solución prefabricada o puede ser construida in situ. Se recomienda que las áreas de
+almacenamiento en conjunto con el área para la limpieza se acojan a los postulados de la Organización
+Mundial para la Salud - OMS y a su vez, de la Organización Panamericana de Salud - OPS.
+
+                          FIGURA 4.9 PLANTA Y SECCIÓN ZONA DE ALBERCA - PARAMETRIZADO
+
+                          Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+18 Ídem pág. 27 nota 12.
+19 Ídem pág. 27 nota 13.
+
+                                     Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 30
+                        TABLA 4.9 PARÁMETROS ZONA ALBERCA
+
+             PÁRAMETRO                                     DEFINICIÓN
+
+Área óptima             2 m2 (Incluye Circulación)
+
+             Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+4.3. Parámetros Técnicos del componente arquitectónico para los
+         mejoramientos de vivienda.
+
+El Mejoramiento de Vivienda y Saneamiento Básico es definido mediante el numeral 3 del artículo
+2.1.10.1.1.2.1 del Decreto 1341 de 2020 como la modalidad mediante la cual, la entidad otorgante asigna
+el subsidio para superar carencias básicas de la vivienda rural, con el objeto de mejorar las condiciones
+sanitarias, locativas y habitacionales, las cuales se pueden presentar al interior si corresponden a locativas
+o al exterior de la vivienda como una estructura independiente si corresponden a condiciones sanitarias o
+habitacionales. También cuentan con una adecuada relación funcional y morfológica a partir de la vivienda
+existente y con la disponibilidad de desarrollo progresivo interno y/o externo de acuerdo con los aspectos
+referidos al proceso de operación del Subsidio Familiar de Vivienda Rural ­ SFRVR definido por el MVCT
+
+Los módulos (mejoramiento tipo modular) de mejoramiento propuestos se establecieron a partir del
+análisis del estado del arte de las anteriores políticas o programas que conlleva a la definición de modelos
+de mejoramiento y saneamiento básico no vinculantes que se presentan en este documento. Asimismo, las
+especificaciones de cada módulo se analizaron y se desarrollaron independientemente, incorporando el
+mobiliario necesario para el uso o actividad correspondiente, en donde se tuvieron en cuenta factores
+imprescindibles como los son área, materiales, costos, clima, población y accesibilidad al medio físico, entre
+otros.
+
+Por lo anterior, para la modalidad de mejoramiento de vivienda se definen los siguientes tipos de proyectos:
+
+· Locativo: mejoramiento y/o reforzamiento estructural de la infraestructura existente, siempre y
+    cuando la vivienda cumpla con los criterios de sismoresistencia dispuestos en la normativa vigente
+    (NSR10)
+
+· Modular: un único módulo independiente a la vivienda, compuesto por dos espacios incorporados
+    al proyecto, con base en el diagnostico integral que define su pertinencia y alcance.
+
+    4.3.1. Módulos de mejoramientos.
+
+A continuación, se presentan algunos de los escenarios posibles en cuanto a la combinación de espacios
+en cada módulo de mejoramiento
+
+·  Habitación ­ Habitación (H+H):
+
+El módulo de habitación - habitación es un espacio utilizado como dormitorio o lugar de descanso. Estos
+espacios deben proporcionar privacidad a sus usuarios y se recomienda que esté separado de cualquier
+
+                        Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 31
+otro espacio por puertas y divisiones, y que cada habitación cuente con una puerta y una ventana. Dentro
+del espacio, los muebles comúnmente usados son: una cama de 1m de ancho por 1.90m de largo, una
+cómoda y un espacio para un mueble de guarda ropa o un closet. El piso de este espacio no debe presentar
+obstáculos para el acercamiento como son los elementos constructivos de poyo o rebanco.
+El diseño del módulo de habitación-habitación propone una configuración espacial donde las habitaciones
+son agrupadas en bloque. De esta forma los muros divisorios pueden ser usados por ambas caras,
+aportando así a la eficiencia en el uso y disposición de materiales. Teniendo en cuenta lo anterior, se
+plantean dos habitaciones continuas, cada una de 8.00m2 de área útil en promedio. Cada una de las
+habitaciones están dotadas de una puerta, una ventana, un área de closets de mínimo 0.90m x 0.60m y una
+circulación mínima para el tránsito de una persona alrededor de la cama de 70cm, por lo menos en uno de
+los costados de la cama. Los muros deben ser diseñados de tal manera que se pueda presentar la
+ampliación y/o conexión con la vivienda en la que se construya el módulo.
+
+                                    FIGURA 4.10 MÓDULO HABITACIÓN ­ HABITACIÓN (H + H)
+
+                                           Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+                                                                     Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 32
+                          FIGURA 4.11 IMAGENES 3D DEL MÓDULO HABITACIÓN - HABITACIÓN (H+H)
+
+                          Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+                          TABLA 4.10 PARÁMETROS MÓDULO HABITACIÓN - HABITACIÓN (H+H)
+
+                          PÁRAMETRO        DEFINICIÓN
+
+Área óptima x habitación             8 m2
+
+Altura recomendable                  Desde 2.30m hasta 3.70m20
+
+Acceso                               Vano de puerta mínima de 0,90 m X 2,05 m21
+
+Ventanería:                          Vano de ventana mínimo de 1,00 x 1,00 m
+
+Componentes Bioclimáticos: Ventilación natural Dependiendo de las condiciones climáticas, se podría establecer
+
+                                     mecanismo de ventilación cruzada a través de las ventanas y de
+
+                                     y rejillas localizadas en la parte superior de la puerta o fachadas.
+
+                          Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+·       Cocina - Habitación:
+
+El módulo de Cocina ­ Habitación tiene como fin ser un espacio adecuado para aquellas familias que
+carezcan de una habitación y cocina adecuada en los términos de sanidad. El principal objetivo de este
+módulo es un espacio utilizado como dormitorio o lugar de descanso y un espacio destinado al
+almacenamiento y la preparación de alimentos. Este módulo debe contar con puerta y una ventana en cada
+uno de los espacios. En la habitación, los muebles comúnmente usados son: una cama de 1m de ancho por
+1.90m de largo, una cómoda y un espacio para un mueble de guarda ropa o un closet. El piso de este
+espacio no debe presentar obstáculos para el acercamiento como son los elementos constructivos
+de poyo o rebanco. La cocina debe contar con elementos básicos como un mesón, una alacena, un espacio
+para cocción de los alimentos (estufa) y un espacio para los electrodomésticos (nevera, microondas). Se
+recomienda que este espacio sea completamente enchapado con baldosa en paredes y piso. Además, la
+cocina debe estar bien dotada de instalaciones eléctricas e hidrosanitarias.
+
+Cabe destacar que este es un espacio que cambia según la cultura de los habitantes y sus costumbres, por
+ejemplo, en algunas regiones disponen de cocina abierta al entorno inmediato y en otros casos como un
+espacio interno dependiente o independiente al salón múltiple.
+
+20 Ídem pág. 27 nota 12.
+21 Ídem pág. 27 nota 13.
+
+                                     Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 33
+                          FIGURA 4.12 MÓDULO COCINA - HABITACIÓN (C + H)
+
+                                 Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+                          FIGURA 4.13 IMAGENES 3D DEL MÓDULO COCINA - HABITACIÓN (C+H)
+
+                          Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+                          TABLA 4.11 PARÁMETROS COCINA ­ HABITACIÓN (C+H)
+
+                          PÁRAMETRO                  DEFINICIÓN
+
+Área óptima                          15 m2
+
+Altura recomendable                  Desde 2.30m hasta 3.70m22
+
+Accesos                              Vano de puerta mínima de 0,90 m X 2,05 m23
+
+Ventanería:                          Vano de ventana mínimo de 1,00 x1,00 m
+
+COCINA
+
+Enchapes área lavaplatos / Mesón     Enchapar con dos hiladas de altura de 0,60 m que corresponde
+
+                                     al salpicadero
+
+Componentes Bioclimáticos: Ventilación natural Independiente de las condiciones climáticas, rejillas de
+
+                                     ventilación localizadas en una altura sobre fachada.
+
+22 Ídem pág. 27 nota 12.
+23 Ídem pág. 27 nota 13.
+
+                                     Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 34
+Otras consideraciones.  En casos especiales se puede plantear una cocina independiente
+
+                        confinada por muros.
+
+                        Se puede plantear mesones lineales, en L o en U donde el
+
+                        lineamiento principal es el enchape del salpicadero de lavaplatos
+
+                        En caso de que se requiera de una estufa ecoeficiente, el espacio
+
+                        mínimo en panta es 0.80m de ancho por 1.00 metro de largo.
+
+                        Este elemento se debe disponer cerca de la fachada para la
+
+                        instalación del chifonier.
+
+                        Se sugiere una disposición planimétrica para la cocina estándar
+
+                        en una configuración linear de dimensiones recomendables
+
+                        como aparece en la imagen de referencia.
+
+                        Se recomienda que el mesón del lavaplatos cuente con el espacio
+
+                        inferior libre para ser usado de acuerdo con las necesidades de
+
+                        la familia y permitir el acceso con una silla de ruedas, de
+
+                        requerirlo.
+
+HABITACIÓN
+
+Componentes Bioclimáticos: Ventilación natural Dependiendo de las condiciones climáticas, se podría establecer
+
+                        mecanismo de ventilación cruzada a través de las ventanas y de
+
+                        y rejillas localizadas en la parte superior de la puerta o fachadas.
+
+                        Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+·  Baño - Cocina:
+
+El módulo de Baño ­ Cocina tiene como fin, brindar dos espacios esenciales para una vivienda para aquellas
+familias que carezcan de baño y cocina adecuados. El principal objetivo de este módulo es brindar
+salubridad además de áreas destinadas a la de preparación y almacenamiento de alimentos, así como áreas
+destinadas al aseo personal.
+
+El módulo de baño está compuesto por un sistema hidrosanitario, el cual debe cumplir con el mejoramiento,
+mantenimiento y sistema de abastecimiento de agua para uso y consumo humano, es un espacio destinado
+para el aseo personal. Este permite realizar el aseo de manos, cuerpo y evacuación de desechos humanos.
+Adicionalmente, cuenta con inmobiliarios y acabados que facilitan la realización de estas actividades, por
+eso debe ir equipado con los aparatos e instalaciones hidráulicas necesarias. El área de baño debe contar
+con puerta y una ventana, debe entregarse completamente equipado con los aparatos e instalaciones
+hidráulicas necesarias tales como: un lavamanos, un sanitario y una ducha. Toda el área útil de este espacio
+debe ser impermeabilizado y enchapado para cumplir con estándares de salubridad básicos.
+
+El área de cocina debe contar con elementos como el mesón de cocina, la alacena, espacio para cocción de
+los alimentos (estufa) y un espacio para los electrodomésticos (nevera, microondas). Lo ideal en términos
+de salubridad e higiene es que la cocina tenga acabados que eviten la acumulación de agua, grasas y
+generación de bacterias. Se recomienda que este espacio sea completamente enchapado con baldosa en
+paredes y piso. Además, la cocina debe estar bien dotada de instalaciones eléctricas e hidrosanitarias.
+
+                        Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 35
+                                      FIGURA 4.14 MÓDULO BAÑO - COCINA (B+C)
+
+                             Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+                           FIGURA 4.15 IMAGENES 3D DEL MÓDULO BAÑO - COCINA (B+C)
+
+                           Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+                                      TABLA 4.12 PARÁMETROS COCINA ­ BAÑO (C+B)
+
+                           PÁRAMETRO         DEFINICIÓN
+
+Área óptima                           15 m2
+
+Altura recomendable                   Desde 2.30m hasta 3.70m24
+
+Accesos                               Vano de puerta mínima de 0,90 m X 2,05 m25
+
+Ventanería:                           Vano de ventana mínimo de 1,00 x1,00 m (cocina)
+
+                                      Vano de ventana mínimo de 0,40 x 0,60 m (Baño)
+
+COCINA
+
+24. Ídem pág. 27 nota 12.
+25. Ídem pág. 27 nota 13
+
+                                      Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 36
+Enchapes área lavaplatos / Mesón  Enchapar con dos hiladas de altura de 0,60 m que corresponde
+
+                                  al salpicadero
+
+Componentes Bioclimáticos: Ventilación natural Independiente de las condiciones climáticas, rejillas de
+
+                                  ventilación localizadas en una altura sobre fachada.
+
+Otras consideraciones.            En casos especiales se puede plantear una cocina independiente
+
+                                  confinada por muros.
+
+                                  Se puede plantear mesones lineales, en L o en U donde el
+
+                                  lineamiento principal es el enchape del salpicadero de lavaplatos
+
+                                  En caso de que se requiera de una estufa ecoeficiente, el espacio
+
+                                  mínimo en panta es 0.80m de ancho por 1.00 metro de largo.
+
+                                  Este elemento se debe disponer cerca de la fachada para la
+
+                                  instalación del chifonier.
+
+                                  Se sugiere una disposición planimétrica para la cocina estándar
+
+                                  en una configuración linear de dimensiones recomendables
+
+                                  como aparece en la imagen de referencia.
+
+                                  Se recomienda que el mesón del lavaplatos cuente con el espacio
+
+                                  inferior libre para ser usado de acuerdo con las necesidades de
+
+                                  la familia y permitir el acceso con una silla de ruedas, de
+
+                                  requerirlo.
+
+BAÑO
+
+Enchapes área ducha               Enchapar las 3 paredes a una altura de 1,80
+
+Enchapes área lavamanos           Enchapar con dos hiladas de altura de 0,60 m que corresponde
+
+                                  al salpicadero
+
+Accesibilidad                     Distancia libre de circulación entre sanitario y pared mínimo de
+
+                                  0,85 m
+
+Componentes Bioclimáticos: Ventilación natural Independiente de las condiciones climáticas, rejillas de
+
+                                  ventilación localizadas en una altura sobre fachada.
+
+                         Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+·     Baño - Habitación:
+
+El módulo de Baño ­ Habitación tiene como fin ser un espacio adecuado para aquellas familias que carezcan
+de una habitación y baño adecuados en los términos de sanidad. El principal objetivo de este módulo es un
+espacio utilizado como dormitorio o lugar de descanso, y un sistema hidrosanitario, el cual debe cumplir
+con el mejoramiento, mantenimiento y sistema de abastecimiento de agua para uso y consumo humano.
+El módulo de baño es un espacio destinado para el aseo personal. Este permite realizar el aseo de manos,
+cuerpo y evacuación de desechos humanos. Este módulo debe contar con puerta y una ventana en cada
+uno de los espacios. En la habitación, los muebles comúnmente usados son: una cama de 1m de ancho por
+1.90m de largo, una cómoda y un espacio para un mueble de guarda ropa o un closet. El piso de este
+espacio no debe presentar obstáculos para el acercamiento como son los elementos constructivos
+de poyo o rebanco.
+
+El área de baño debe contar con puerta y una ventana, debe entregarse completamente equipado con los
+aparatos e instalaciones hidráulicas necesarias tales como: un lavamanos, un sanitario y una ducha. Toda el
+área útil de este espacio debe ser impermeabilizado y enchapado para cumplir con estándares de salubridad
+básicos.
+
+                                  Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 37
+                                     FIGURA 4.16 MÓDULO BAÑO - HABITACIÓN(B+H)
+
+                                      Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+                          FIGURA 4.17 IMAGENES 3D DEL MÓDULO BAÑO ­ HABITACIÓN (B+H)
+
+                          Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+                          TABLA 4.13 PARÁMETROS MÓDULO BAÑO - HABITACIÓN (B+H)
+
+                          PÁRAMETRO  DEFINICIÓN
+
+Área óptima                          15 m2
+Altura recomendable                  Desde 2.30m hasta 3.70m26
+Acceso                               Vano de puerta mínima de 0,90 m X 2,05 m27
+Ventanería:                          Vano de ventana mínimo de 1,00 x1,00 m (cocina)
+                                     Vano de ventana mínimo de 0,40 x 0,60 m (Baño)
+
+26 Ídem pág. 27 nota 12.
+27 Ídem pág. 27 nota 13.
+
+                                     Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 38
+HABITACIÓN
+
+Componentes Bioclimáticos: Ventilación natural Dependiendo de las condiciones climáticas, se podría establecer
+
+                         mecanismo de ventilación cruzada a través de las ventanas y de
+
+                         y rejillas localizadas en la parte superior de la puerta o fachadas.
+
+BAÑO
+
+Enchapes área ducha      Enchapar las 3 paredes a una altura de 1,80
+
+Enchapes área lavamanos  Enchapar con dos hiladas de altura de 0,60 m que corresponde
+
+                         al salpicadero
+
+Accesibilidad            Distancia libre de circulación entre sanitario y pared mínimo de
+
+                         0,85 m
+
+Componentes Bioclimáticos: Ventilación natural Independiente de las condiciones climáticas, rejillas de
+
+                         ventilación localizadas en una altura sobre fachada.
+
+                     Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+5. IMPLEMENTACIÓN DE PARAMETRIZACIÓN: MODELO DE TIPOLOGÍAS
+    DE VIVIENDA NUEVA DEL SFVR EN EL MARCO DE LA PPVISR.
+
+Teniendo como punto de partida la parametrización que se describió anteriormente, se realizó un ejercicio
+de implementación de esta metodología, que tuvo en consideración los prototipos analizados y resultó en
+tipologías modelo, las cuales, representan el ideal de la Política Publica de Vivienda Rural. En este sentido,
+se tuvieron en cuenta igualmente los siguientes aspectos:
+
+- Mayor eficiencia de las áreas destinadas a cada espacio.
+    Cumplimiento de las normas de construcción y de accesibilidad al medio físico.
+
+- Optimización de los recursos en el capítulo de presupuesto.
+- Distribución del programa arquitectónico y una mejor relación según la función de cada una de las
+
+    viviendas.
+
+Estas tipologías no son vinculantes para los actores que intervienen en el Subsidio Familiar de Vivienda Rural
+­ SFVR y en la mayoría de los casos, surtirán un proceso de regionalización con el fin de ser adaptadas no
+solo a los lugares en donde se van a implementar acorde con las características de cada uno de los territorios
+que está determinado por aquellos elementos relacionados al lenguaje de su arquitectura, los materiales
+de la región y en algunos casos sistemas constructivos; sino también a las necesidades, costumbres y cultura
+de las poblaciones beneficiarias a través del componente de dialogo social y participación como pilar de la
+Política Pública de vivienda Rural y por ende, como estrategia el Plan Nacional de Construcción y
+Mejoramiento de Vivienda de Interés Social Rural - PNVISR.
+
+La implementación de la parametrización en seis (6) tipologías se enmarca en el concepto de vivienda
+saludable, segura y sostenible; cuyo proceso, como se hizo referencia previamente, comenzó con un
+diagnóstico normativo del programa en vigencias anteriores, seguido de la elaboración de la matriz de
+prototipos con las características físicas y constructivas de las propuestas; para así establecer las primeras
+conclusiones que se llevan a una parametrización de espacios requeridos en el marco normativo. De igual
+forma, como resultado del proceso anterior, se encontraron aspectos susceptibles a mejorar tales como
+componentes técnicos, espaciales, de diseño y elementos constructivos que complementan la vivienda,
+entre los que se pueden citar el lavadero, el mesón de cocina, la estufa ecoeficiente, los aparatos sanitarios,
+entre otros.
+
+                         Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 39
+    5.1. Principios de diseño de la Vivienda Saludable, Segura y Sostenible.
+
+El principio base de diseño de las tipologías presentadas a continuación, cumplen con el programa
+arquitectónico y la parametrización mencionada anteriormente, la cual fue realizada en la formulación de
+la Política Vivienda de Interés Rural desde la concepción de una vivienda Saludable, Segura y Sostenible; la
+cual, está asociada a la generación de espacios en donde el hogar, pueda realizar sus actividades diarias de
+manera segura en cuanto a las condiciones técnicas de la vivienda en términos de su estructura, materiales
+de envolvente ­ fachadas y cubiertas- y acabados. De igual forma, una vivienda saludable a partir de
+especificaciones técnicas referidas a sistemas de almacenamiento de aguas que, junto con acciones de
+mantenimiento y capacitación, mitiguen la propagación de enfermedades transmitidas por vectores28.
+Finalmente, viviendas sostenibles, no solo desde la percepción ambiental y del uso eficiente de los recursos,
+sino desde componentes culturales relacionados a la generación de arraigo, en donde el beneficiario quiera
+vivir y desarrolle un proyecto de vida (MVCT, 2020)
+
+De otra parte, el cierre financiero del proyecto es logrado en cada una de las seis (6) tipologías, respetando
+un mínimo de área construida entre los 50 y los 55m2, un sistema constructivo de mampostería confinado
+y acabados mínimos necesarios. Cabe resaltar, que estas tipologías también pueden ser adaptadas a otros
+sistemas constructivos que cumplan la Norma Sismo Resistente colombiana, como lo son los sistemas
+constructivos livianos, no convencionales, bahareque encementado, entre otros.
+
+A su vez, la parametrización de los espacios internos es uno de los tres componentes que se implementaron
+al enfocado en la configuración espacial óptima dentro de la vivienda y en donde, igualmente, se incorpora
+la accesibilidad al medio físico que se desarrolla al interior de las tipologías y se refleja en la adaptabilidad
+de la vivienda.
+
+    5.2. Tipologías de vivienda.
+
+Las siguientes tipologías y sus especificaciones son el resultado de la implementación metodológica de la
+parametrización, en donde se tuvieron en cuenta factores imprescindibles para el diseño óptimo de
+vivienda, como los son: área, programa arquitectónico, materiales, costos, clima, población, accesibilidad al
+medio físico, entre otros. Como se hizo referencia previamente, estas tipologías no son vinculantes, sin
+embargo, sus especificaciones son recomendables para la estructuración del diseño
+
+A continuación, se describen las propuestas con la inclusión de las siguientes mejoras de acuerdo con las
+necesidades actuales:
+
+    - Habitaciones con un espacio para closets
+    - Extensión de la terraza de acceso
+    - Disposición de una altura libre y de una altura óptima para la ventilación mediante calados
+    - Disposición de ancho mínimo en los vanos en las puertas y pasillos de 90 cm
+    - Incorporación de puertas ventana para mejorar la relación entre el espacio múltiple y el acceso.
+
+28 Enfermedades humanas provocadas por bacterias, parásitos o virus transmitidos por vectores, que son organismos vivos que
+pueden transmitir patógenos infecciosos entre personas, o de animales a personas. Cada año se registran más de 700 000 muertes
+por enfermedades como el paludismo, el dengue, la leishmaniasis, la enfermedad de Chagas y la fiebre amarilla, entre otros
+(Organización Mundial de la Salud, 2020),
+
+                                                                     Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 40
+                              TABLA 5.1 RESUMEN CARACTERISTICAS GENERALES DE LAS VISR
+
+          PROGRAMA            DESCRIPCIÓN Y REQUERIMIENTOS                                AREA
+       ARQUITECTÓNICO
+Espacio Múltiple:             Es un espacio diseñado como área social de la El área óptima de sugerida de este
+Tres (3) Habitaciones:
+                              vivienda.                                           espacio es de 12m2, incluida el área de
+Cocina:                                                                           circulación interna de la vivienda.
+
+Cuarto de herramientas:       Una habitación es un espacio cerrado El área óptima sugerida de este espacio
+Zona de Alberca/ Lavadero
+Baño/ Saneamiento básico:     compuesto por cuatro paredes, una ventana, es de 8m2 por habitación.
+
+Solución manejo de excretas:  acceso a través de una puerta. Las habitaciones
+
+                              cuentan con un espacio para disponer de un
+
+                              mueble de guarda ropa o para instalar un
+
+                              armario. Estos espacios pueden ser diseñados
+
+                              compartiendo muros internos entre ellos.
+
+                              es un espacio destinado para a la preparación de El área óptima sugerida de este espacio
+
+                              alimentos, el cual contara con estufa de es de 5.60m2.
+
+                              coeficiente, un mesón de cocina con lavaplatos,
+                              un salpicadero enchapado en cerámica y un
+
+                              espacio destinado a la nevera.
+
+                              es un espacio destinado para disponer de El área óptima sugerida de este espacio
+
+                              herramientas básicas relacionadas al trabajo, es de 3m2.
+
+                              confinado por muros y ventilado.
+
+                              es un depósito artificial con muros en el que se El área óptima sugerida de este espacio
+
+                              almacena agua y está concebido como un es de 2.40m2.
+
+                              espacio al aire libre que hace parte de los metros
+
+                              cuadros construidos.
+
+                              Es un área destinada al mejoramiento y El área óptima sugerida de este espacio
+
+                              mantenimiento de las fuentes y sistemas de es de 2.70m2.
+
+                              abastecimiento de agua para uso y consumo
+
+                              humano. Incluye la adecuada disposición de las
+
+                              instalaciones sanitarias.
+
+                              Es un sistema que contempla las instalaciones y El área óptima sugerida de este espacio
+                              acometidas que funcionan a la par con los es de 12m2.
+
+                              aparatos y/o accesorios que complementan la
+
+                              red de instalación al exterior de la vivienda.
+
+                              Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+5.2.1. Tipología Lineal-Alargada VRSA1
+                     FIGURA 5.1 MORFOLOGÍA No. 1. TIPOLOGÌA ALARGADA VRSA1
+
+                              Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+                                                       Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 41
+En la tipología VRSA1 - Alargado, se realizaron adecuaciones en la circulación para lograr mayor eficiencia
+en la configuración espacial, mejoramiento en términos de accesibilidad al espacio físico y la inclusión de
+áreas para el inmobiliario básico en la parametrización. Adicional al diseño, se dispuso de la ampliación de
+la placa de contrapiso en los dos accesos. Uno de ellos se dispone como andén perimetral para acceder al
+depósito o el lavadero y el otro, situado en el pórtico de entrada, permite dar una ampliación de la terraza.
+La configuración de esta tipología es de forma alargada para aprovechar la adaptación en terrenos angostos
+y/o áreas de implantación que requieran preservar elementos del medio físico. Cuenta con un diseño de
+una apertura en el volumen de su fachada principal de amplias dimensiones, lo cual permite el flujo del
+viento y una iluminación natural indirecta. Este acceso permite la adaptación de esta vivienda en climas
+cálidos o secos.
+El programa arquitectónico está configurado de forma tal que sus habitaciones están ubicadas en un solo
+bloque que permite la flexibilización de espacios en el caso de ser requerido. Así mismo, esta configuración
+permite que la última habitación pueda ser modificada como espacio productivo. Se ubica el espacio
+múltiple (sala, comedor y cocina) y el baño en un mismo costado de la vivienda para una mejor eficiencia
+del diseño de las instalaciones de redes.
+Adicionalmente, se implementaron parámetros de accesibilidad al medio físico como la inclusión de los
+espacios de terraza, rampas de acceso, ancho de los vanos, el espacio interior del baño y la ubicación de las
+instalaciones y ubicación y dimensiones del inmobiliario a entregar.
+
+                                      FIGURA 5.2 PLANTA TIPOLOGÍA ALARGADA VRSA1
+
+                                           Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+                                                                     Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 42
+FIGURA 5.3 ISOMETRÍA TIPOLOGÍA ALARGADA VRSA1
+
+Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+         TABLA 5.2 CUADRO DE AREA TIPOLOGÍA VRSA 1
+
+PROGRAMA ARQUITECTÓNICO        M2        % DE AREA
+
+Espacio Múltiple               5,06      9,17%
+
+Habitación 1                   7,43      13,46%
+
+Habitación 2                   7,28      13,19%
+
+Habitación 3                   7,28      13,19%
+
+Cocina                         6,03      10,92%
+
+Lavadero                       1,15      2,08%
+
+Baño                           2,82      5,11%
+
+Cuarto de Herramientas         1,7       3,08%
+
+Circulación                    10,04     18,19%
+
+Estructura y Muros             6,41      11,61%
+
+Terraza                        5,39
+
+PROGRAMA ARQUITECTÓNICO        55,20     100%
+
+        Dimensiones aprox. (L x A) 13 m  4,3 m
+
+Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+5.2.2. Tipología en (L) VRSL1
+
+FIGURA 5.4 MORFOLOGÍA No. 2. TIPOLOGÍA EN "L" VRSL1
+
+Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+                         Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 43
+La tipología VRSL1 tiene como origen la configuración espacial de la tipología Alargada VRSA1 descrita en el
+punto anterior, con una variación de la ubicación del módulo del espacio múltiple (sala, comedor, cocina) y
+baño, el cual ahora se ubica frente a las habitaciones y ya no al costado de estas. Al igual que la tipología
+VRSA1, está también cuenta con la ampliación de la placa de contrapiso en los dos accesos. Uno de ellos
+como andén perimetral para acceder al depósito o el lavadero y el otro, situado en el pórtico de entrada,
+como ampliación de la terraza.
+La configuración en "L" de esta tipología tiene la finalidad de ser implantada en un
+terreno rectangular y contar con un solar o patio como consecuencia de la distribución del área de
+implantación. En esta tipología el acceso principal se hace a través del patio, el cual por la configuración de
+la vivienda ayuda a tener protección contra el viento. Por esta razón, esta tipología es recomendable para
+climas fríos y con características boscosas.
+El programa arquitectónico está configurado de forma tal que sus habitaciones están ubicadas en un solo
+bloque que permite la flexibilización de espacios en el caso de ser requerido. Así mismo, esta configuración
+permite que la última habitación pueda ser modificada como espacio productivo. Se ubica el espacio
+múltiple (sala, comedor y cocina) y el baño en un mismo volumen de la vivienda, para una mejor eficiencia
+del diseño de las instalaciones de redes. Adicionalmente, se implementaron parámetros de accesibilidad al
+medio físico como la inclusión de los espacios de terraza, las rampas de acceso, el ancho de los vanos, el
+espacio interior del baño y la ubicación de las instalaciones, la ubicación y altura inmobiliario a entregar.
+
+                                          FIGURA 5.5 PLANTA TIPOLOGÍA "L" VRSL1
+
+                                           Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+                                                                     Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 44
+        FIGURA 5.6 ISOMETRÍA TIPOLOGÍA EN "L" VRSL1
+
+Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+         TABLA 5.3 CUADRO DE AREA TIPOLOGÍA VRSL 1
+
+PROGRAMA ARQUITECTÓNICO        M2          % DE AREA
+
+Espacio Múltiple               5,5         10,42%
+
+Habitación 1                   7,43        14,07%
+
+Habitación 2                   7,28        13,79%
+
+Habitación 3                   7,28        13,79%
+
+Cocina                         5,33        10,09%
+
+Lavadero                       2,29        4,34%
+
+Baño                           2,16        4,09%
+
+Cuarto de Herramientas         1,7         3,22%
+
+Circulación                    7,01        13,28%
+
+Estructura y Muros             6,82        12,92%
+
+Terraza                        8,37
+
+PROGRAMA ARQUITECTÓNICO        52,80       100%
+
+        Dimensiones aprox. (L x A) 8,30 m  8m
+
+Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+5.2.3. Tipología en (T) VRST1
+
+      FIGURA 5.7 MORFOLOGÍA No. 3. TIPOLOGÍA EN "T" VRST1
+
+                                           Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+Esta tipología VRST1 es un modelo compacto cuyo diseño logra una máxima eficiencia entre muros y
+espacios internos. La configuración espacial responde a dos volúmenes, uno que agrupa las habitaciones y
+en el otro que agrupa los demás espacios del programa.
+
+                                                                     Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 45
+                                               FIGURA 5.8 PLANTA TIPOLOGÍA "T" VRST1
+
+                                           Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+El programa arquitectónico está configurado de forma tal que sus habitaciones están ubicadas en un solo
+bloque que permite la flexibilización de espacios en el caso de ser requerido. Se ubica el espacio múltiple
+(sala, comedor y cocina) y el baño en un mismo volumen de la vivienda, para una mejor eficiencia del diseño
+de las instalaciones de redes. Adicionalmente, se implementaron parámetros de accesibilidad al medio
+físico como la inclusión de los espacios de terraza, las rampas de acceso, el ancho de los vanos, el espacio
+interior del baño y la ubicación de las instalaciones, la ubicación y altura inmobiliario a entregar.
+En este modelo se identifica una fachada principal relacionada directamente con la terraza y el
+espacio múltiple. Esta fachada define la orientación de la vivienda con respecto al acceso principal del
+lote. Puede implementarse en los diferentes climas del territorio colombiano, siempre y cuando se disponga
+del área de retiro necesaria para permitir la implementación de las aperturas en las cuatro (4) fachadas.
+
+                                                                     Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 46
+        FIGURA 5.9 ISOMETRÍA TIPOLOGÍA EN "T" VRST1
+
+Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+         TABLA 5.4 CUADRO DE AREA TIPOLOGÍA VRST 1
+
+PROGRAMA ARQUITECTÓNICO  M2                % DE AREA
+
+Espacio Múltiple         5,2               10.18%
+
+Habitación 1             8,41              16,46%
+
+Habitación 2             8,41              16,46%
+
+Habitación 3             8,09              15,84%
+
+Cocina                   3,95              7,73%
+
+Lavadero                 0,74              1,45%
+
+Baño                     1,74              3,41%
+
+Cuarto de Herramientas   2,57              5,03%
+
+Circulación              5,06              10,96%
+
+Estructura y Muros       6,37              12,47%
+
+Terraza                  3,8
+
+PROGRAMA ARQUITECTÓNICO  51,08             100%
+
+        Dimensiones aprox. (L x A) 9,30 m  7m
+
+Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+                        Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 47
+Tipología compacta VRSC1
+                                 FIGURA 5.10 MORFOLOGÍA No. 4. TIPOLOGÍA COMPACTA VRSC1
+
+                                           Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+La tipología VRSC1 Compacta, basó su diseño en la implementación de la parametrización cuyo objetivo
+fue lograr la mayor eficiencia espacial para un lote de dimensiones de 6 x 12 metros. Para esta tipología fue
+necesaria la reformulación de las áreas de circulación, haciéndolas más eficientes y por ende menos
+extensas en comparación a las demás tipologías. Así mismo, esta circulación genera una conexión entre
+los patios internos brindando a la vivienda ventilación e iluminación natural.
+
+                                     FIGURA 5.11 PLANTA TIPOLOGÍA COMPACTA VRSC1
+
+                                           Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+Esta tipología es la más apropiada para implementar cuando se trate de lotes medianeros o de lotes
+con reducidas dimensiones, gracias a que su programa se encuentra dispuesto en un bloque compacto. De
+igual manera, esta tipología también puede formularse en casos de vivienda rural dispersa.
+
+                                                                     Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 48
+Los espacios de cocina, espacio múltiple, baño y alberca se localizan hacia una fachada y las habitaciones y
+el cuarto de herramientas hacia la otra. Se incorporan mejoras en términos de accesibilidad al espacio
+físico e inclusión de áreas para el inmobiliario básico en la parametrización. Adicional al diseño, se dispuso
+de la ampliación de la placa de contrapiso en los dos accesos. Uno de ellos como andén perimetral para
+acceder al depósito o el lavadero y el otro, situado en el pórtico de entrada, como ampliación de la terraza.
+
+                                   FIGURA 5.12 ISOMETRÍA TIPOLOGÍA COMPACTA VRSC1
+
+Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+         TABLA 5.5 CUADRO DE AREA TIPOLOGÍA VRSC 1
+
+PROGRAMA ARQUITECTÓNICO  M2              % DE AREA
+
+Espacio Múltiple         9,13            16,88%
+
+Habitación 1             7,29            13,48%
+
+Habitación 2             7,29            13,48%
+
+Habitación 3             7,57            14,00%
+
+Cocina                   5,19            9,60%
+
+Lavadero                 1,21            2,24%
+
+Baño                     3,09            5,71%
+
+Cuarto de Herramientas   2,21            4,09%
+
+Circulación              4,34            8,02%
+
+Estructura y Muros       6,77            12,52%
+
+Terraza                  4,75
+
+PROGRAMA ARQUITECTÓNICO  54,09           100%
+
+        Dimensiones aprox. (L x A) 10 m  6m
+
+Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+                        Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 49
+         5.2.4. Tipología compacta VRSC2
+                                 FIGURA 5.13 MORFOLOGÍA No. 5. TIPOLOGÍA COMPACTA VRSC2
+
+                                               Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+En la tipología VRSC2 ­ Compacta, los espacios se distribuyen alrededor de un espacio central compuesto
+por el espacio múltiple y la cocina. Es la configuración espacial más compacta predominando dos de sus
+fachadas por las aperturas. En términos de accesibilidad al espacio físico se dio la inclusión de áreas para
+el inmobiliario básico en la parametrización. Adicional al diseño, se dispuso de la ampliación de la placa de
+contrapiso en el acceso y en la fachada del lavadero y el depósito.
+
+                                     FIGURA 5.14 PLANTA TIPOLOGÍA COMPACTA VRSC2
+
+                                               Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+La configuración de esta tipología es de forma rectangular y es adaptable a terrenos de reducidas
+dimensiones y/o áreas de implantación que presenten dificultadas como la pendiente. Este diseño cuenta
+
+                                                                     Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 50
+con dos volúmenes de distintas alturas para garantizar el flujo del aire e iluminación natural indirecta. El
+programa arquitectónico se distribuye de tal forma que en el espacio múltiple y/o la cocina se pueda dar la
+flexibilización de espacios en el caso de ser requerido. Así mismo, esta configuración permite que la una de
+las habitaciones pueda ser modificada como espacio productivo. Por su parte el espacio múltiple (sala,
+comedor y cocina) y el baño se ubican en un costado de la vivienda para una mejor eficiencia del diseño de
+las instalaciones de redes.
+
+Adicionalmente, se implementaron parámetros de accesibilidad al medio físico como la inclusión de los
+espacios de terraza, rampas de acceso, ancho de los vanos, el espacio interior del baño y la ubicación de las
+instalaciones y ubicación y dimensiones del inmobiliario a entregar.
+
+                                   FIGURA 5.15 ISOMETRÍA TIPOLOGÍA COMPACTA VRSC2
+
+        Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+         TABLA 5.6 CUADRO DE AREA TIPOLOGÍA VRSC 2
+
+PROGRAMA ARQUITECTÓNICO  M2                % DE AREA
+
+Espacio Múltiple         9,31              16,76%
+
+Habitación 1             7,98              14,37%
+
+Habitación 2             7,81              14,06%
+
+Habitación 3             7,97              14,35%
+
+Cocina                   5,19              16,09%
+
+Lavadero                 1,21              1,64%
+
+Baño                     3,09              5,87%
+
+Cuarto de Herramientas   2,21              3,64%
+
+Circulación              4,34              2,16%
+
+Estructura y Muros       6,77              11,14%
+
+Terraza                  4,75
+
+PROGRAMA ARQUITECTÓNICO  55,55             100%
+
+        Dimensiones aprox. (L x A) 9,30 m  6m
+
+Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+                        Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 51
+         5.2.5. Tipología en (U) VRSU1
+                                 FIGURA 5.16 MORFOLOGÍA No. 6. TIPOLOGÍA COMPACTA VRSU1
+
+                                           Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+En la tipología VRSU1 ­ "En U", la circulación distribuye los espacios con una mayor eficiencia y conecta los
+tres accesos de la vivienda. En términos de accesibilidad al espacio físico y la inclusión de áreas para el
+inmobiliario básico en la parametrización. Adicional al diseño, se dispuso de la ampliación de la placa de
+contrapiso en el acceso y en la fachada del lavadero y el depósito.
+La configuración es adaptable a terrenos amplios y/o áreas de implantación en las que se puede aprovechar
+las cuatro fachadas conectándose de distintas formas. Este diseño cuenta con una apertura entre dos de
+las habitaciones donde se puede dar un espacio para cultivo o huerta que complementa el programa
+arquitectónico de la vivienda por parte de la familia.
+
+                                         FIGURA 5.17 PLANTA TIPOLOGÍA "U" VRSU1
+
+                                           Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+                                                                     Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 52
+El flujo del aire e iluminación natural indirecta se garantiza a través de las fachadas y el volumen alto que
+acompaña la circulación. El programa arquitectónico se distribuye de tal forma que sus habitaciones
+conformen un solo bloque y así permitir la flexibilización de espacios en el caso de ser requerido. Así mismo,
+esta configuración permite que la última habitación pueda ser modificada como espacio productivo. Por su
+parte el espacio múltiple (sala, comedor y cocina) y el baño se ubican en un costado de la vivienda para una
+mejor eficiencia del diseño de las instalaciones de redes.
+
+Adicionalmente, se implementaron parámetros de accesibilidad al medio físico como la inclusión de los
+espacios de terraza, rampas de acceso, ancho de los vanos, el espacio interior del baño y la ubicación de las
+instalaciones y ubicación y dimensiones del inmobiliario a entregar.
+
+                                      FIGURA 5.18 ISOMETRÍA TIPOLOGÍA EN "U" VRSU1
+
+Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+         TABLA 5.7 CUADRO DE AREA TIPOLOGÍA VRSC 2
+
+PROGRAMA ARQUITECTÓNICO  M2                % DE AREA
+
+Espacio Múltiple         6,76              12,30%
+
+Habitación 1             7,94              14,45%
+
+Habitación 2             7,94              14,45%
+
+Habitación 3             7,94              14,45%
+
+Cocina                   4,16              7,57%
+
+Lavadero                 1,74              3,17%
+
+Baño                     3,24              5,90%
+
+Cuarto de Herramientas   2,48              4,51%
+
+Circulación              5,44              9,90%
+
+Estructura y Muros       7,30              13,29%
+
+Terraza                  0
+
+PROGRAMA ARQUITECTÓNICO  54,94             100%
+
+        Dimensiones aprox. (L x A) 8,30 m  7,60 m
+
+Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+                        Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 53
+5.2.6. Síntesis general en cifras de modelos de tipologías en el marco de la
+      PPVR.
+
+                        TABLA 5.8 PROGRAMA ARQUITECTONICO Y ÁREAS PROMEDIO.
+
+                        PROGRAMA ARQUITECTÓNICO AREA PROMEDIO (m2)
+
+                        Espacio múltiple                       6,83
+                        Cocina                                 5,60
+                        Lavadero/lavamanos                     1,34
+                        Baño                                   2,71
+                        Habitación 1                           7,75
+                        Habitación 2                           7,67
+                        Habitación 3                           7,69
+                        Estructura y muros                     6,64
+                        Circulación                            5,61
+                        Cuarto de herramientas                 2,11
+                        Terraza                                4,63
+                                                               53,94
+                                                        TOTAL
+
+                        Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+FIGURA 5.19 PORCENTAJE DE PARTICIPACIÓN DE ESPACIOS - PARALELO PROTOTIPOS ANALIZADOS Vs. MODELO DE
+                                                  TIPOLOGÍAS PPVR
+
+Cocina                                                                                                          100%
+                                                                                                                100%
+
+Baño                                                                                                            100%
+                                                                                                                100%
+
+3 Habitaciones                                                                                                  100%
+                                                                                                                100%
+
+Alberca/Lavadero                                                                                                        100%
+                                                                                                                94%
+
+Cuarto de Herramientas                                                                                                            100%
+                                                                                                                88%
+
+Terraza/Porche                                                                                             83%
+                                                                                    69%
+
+Espacio Múltiple        31%                                                                                     100%
+
+Expacios X Modelo de Tipología PPVISR                          Espacios x Prototipo analizados
+
+                        Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+                        Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 54
+       FIGURA 5.20 PORCENTAJE DE DISTRIBUCIÓN ESPACIAL PROMEDIO POR MODELO DE TIPOLOGÍA
+
+100%
+ 90%
+ 80%
+ 70%
+ 60%
+ 50%
+ 40%
+ 30%
+ 20%
+ 10%
+   0%
+
+       VRSA 1 VRSL 1  VRST 1  VRSC 1  VRSC 2  VRSU 1
+
+       ESPACIO MULTIPLE HABITACIÓN 1 HABITACIÓN 2 HABITACIÓN 3 BAÑO COCINA LAVADERO/LAVAMANOS CUARTO DE HERRAMIENTAS CIRCULACIÓN
+
+                                           Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+6. IMPLANTACIÓN DE SOLUCIONES HABITACIONALES.
+
+    6.1. Lineamientos de Implantación de Tipologías de Vivienda de Interés Rural
+
+Una vez presentada la concepción y e implementación de la metodología de parametrización que conlleva
+a las tipologías de vivienda nueva y módulos de mejoramiento, se profundiza en los lineamentos de
+implantación por medio infografías anexas a este documento. Estas infografías, abordan temas relacionados
+con la visita al sitio y la obtención de datos en la Ficha de diagnóstico integral como parte del proceso de
+preconstrucción definido dentro del Modelo Operativo y para la ejecución de los Subsidios.
+
+Cabe resaltar que el estudio de las áreas presentado en la parametrización tipologías no hace referencia al
+área de lote mínimo para acceder al subsidio de vivienda, sino que a continuación, se hará referencia a las
+condiciones mínimas para implantar tipologías de una forma adecuada.
+
+Las unidades de medida empleadas son métricas decimales y para el análisis, no se ha tenido en cuenta la
+pendiente del terreno. Tanto para vivienda nueva como para mejoramiento, se describen a continuación
+las principales operaciones que se Ilustran las fichas anexa a este documento.
+
+Para la ejecución de soluciones individuales de vivienda de interés social rural, nuevas o mejoradas,
+desarrolladas con recursos provenientes del SFVR nacionales o territoriales, no se requerirá de la obtención
+de licencia de construcción, siempre y cuando la entidad operadora o ejecutora del subsidio o la entidad
+territorial garanticen que el diseño de las soluciones de vivienda cumplen con lo dispuesto en la norma
+colombiana de sismo resistencia vigente al momento de la asignación del subsidio y los planes de
+ordenamiento territorial.
+
+                      Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 55
+En cuanto al tema de permisos de vertimiento, se acoge lo establecido en el parágrafo 1 del artículo 9 del
+Decreto Ley 890 de 2017 el cual dice: "En el marco de la legislación ambiental, para la ejecución de las
+soluciones de vivienda de interés social rural dispersas, nuevas o mejoradas, desarrolladas con recursos
+provenientes de subsidios familiares de vivienda nacionales o territoriales, con soluciones individuales de
+saneamiento básico para la gestión de sus aguas residuales domésticas, tales como sistemas sépticos, no se
+requerirá de la obtención del permiso de vertimientos, siempre y cuando cumplan desde su diseño con los
+parámetros definidos en el reglamento técnico del sector de agua potable y saneamiento básico. Sin perjuicio
+de lo anterior, la autoridad ambiental competente, como administradora de los recursos naturales
+renovables, realizará seguimiento a dicho sistema, evaluará su impacto sobre la condición ambiental de la
+cuenca, y ordenará los ajustes a que haya lugar."
+
+         5.1.1. Lineamientos para Vivienda Nueva.
+
+Para la implantación de vivienda nueva se plantea un proceso lógico de la siguiente manera:
+
+1. Reconocer los componentes del subsidio de vivienda nueva.
+2. Identificar la tipología más adecuada para el sitio de implantación.
+3. Acotar el área mínima de implantación.
+4. Establecer el acceso principal y posterior.
+5. Definir ubicación de las terrazas o corredores.
+6. Delimitar aislamientos en las fachadas.
+
+A continuación, se describen los principales conceptos relacionados a unidades de medida para tener en
+cuenta para la implantación adecuada en sitio de los proyectos de vivienda.
+
+·  Reconocer los componentes del subsidio de vivienda nueva:
+
+Los dos componentes básicos del subsidio son la estructura habitacional y el sistema séptico, ambos
+requieren de un área para ser implantados, el área de implantación concibe dentro de esta el área del
+sistema séptico.
+
+A. Unidad de vivienda: Área de implantación en la figura 6.1 se muestra los componentes de la
+    vivienda como una unidad entre la estructura habitacional y el saneamiento básico.
+
+   Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 56
+   FIGURA 6.1 COMPONENTES DEL SUBCIDIO DE VIVIENDA
+
+   Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+·  Identificar la tipología más adecuada para el sitio de implantación:
+
+El estudio de las áreas incorporo un asilamiento de un metro y como resultado de la agrupación de estas
+tres áreas se determinó que, para las tipologías Alargada, en (L), en (T) y en (U) son necesarios 150m2 para
+ser implantadas, en cambio las tipologías compactas C1 y C2 requieren un área de 130 m2.
+
+B. La unidad autosuficiente para cada tipología requiere de aislamientos de 1 metro y un área de
+    32 m2 para sistema séptico, en la figura 6.2 se representa el adosamiento de las terrazas y el
+    perímetro de construcción de cada tipología.
+
+   Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 57
+   FIGURA 6.2 AREAS DE IMPLANTACION 6 TIPOLOGIAS
+
+   Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+·  Acotar el área mínima de implantación:
+
+Las cotas necesarias para determinar el área son el largo (x) y el ancho (y), es de aclarar que en
+casos de latifundio el área del lote supera el área de implantación, por eso dentro del diagnóstico
+integral se requieren de puntos cardinales que corresponde a las esquinas del rectángulo o
+cuadrado según corresponda al levantamiento en sitio. Por otra parte, en casos de minifundio los
+puntos corresponden a las esquinas del mismo lote.
+
+C. Distancia de aislamiento de objetos cercanos, en la figura 6.3 se acota una distancia
+    recomendable distanciar la construcción de otros objetos.
+
+   Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 58
+   FIGURA 6.3 AISLAMIENTO RECOMENADO EN LAS CUATRO FACHADAS
+
+   Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+·  Establecer el acceso principal y posterior:
+
+En el desarrollo del diagnóstico integral en sitio se recomienda establecer la entrada principal al
+predio y a su vez el camino o acceso a la vivienda para definir la forma de acceso y de paso la fachada
+principal de acceso.
+
+·  Definir ubicación de las terrazas o corredores:
+
+Cada tipología dispone de al menos dos terrazas en las cuales descansa una rampa de acceso a nivel
+del terreno. La ubicación de estos accesos y aperturas a la vivienda tienen incidencia en el
+aislamiento, la ventilación, asoleación de los espacios interiores, por esta razón se recomienda
+tener en cuenta el capítulo 4.1. sobre Parámetros Climáticos de soporte para la definición de
+acciones de diseño bioclimático; enfocados a la implementación de estrategias pasivas en el diseño
+de las viviendas rurales.
+
+Igualmente, se debe concertar con la familia en sitio de la orientación más adecuada tanto para la
+vivienda como para la ubicación de las terrazas de acceso.
+
+·  Delimitar aislamientos en las fachadas:
+
+Un componente arquitectónico de las tipologías son las terrazas y pasillos externos que borden la
+vivienda estos dentro del estudio se incorporan dentro del área de aislamiento de 1 metro. Sin
+embargo, en los casos de disponer de latifundios se recomienda distanciarse de elementos
+existentes como construcciones, arboles, cultivos, montañas entre otros con el objetivo de cuidar
+la edificación y poder disponer espacio para expandir la vivienda.
+
+   Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 59
+         5.1.2. Lineamientos Módulos de Mejoramiento
+
+En el caso de los módulos de mejoramiento se diferencia de la vivienda nueva puesto que partimos de la
+existencia de una vivienda y de falencias de necesidades básicas a resolver, para lo anterior se plantea un
+proceso lógico de la siguiente manera:
+
+    1. Reconocer los componentes del subsidio de mejoramiento.
+    2. Acotar el área del predio.
+    3. Definir la localización de la vivienda existente (si es agrupada o desagrupada).
+    4. Identificar las características del entorno (áreas no ocupadas).
+    5. Identificar accesos y circulaciones de las edificaciones.
+    6. Acotar el área mínima de implantación.
+    7. Definir forma de crecimiento.
+    8. Delimitar aislamientos en las fachadas.
+
+Para profundizar los lineamientos se detallan en la infografía o fichas, que es uno de los anexos de este
+documento. A continuación de forma general se describen el proceso lógico propuesto anteriormente:
+
+·  Reconocer los componentes del subsidio de mejoramiento:
+
+Los componentes del subsidio si se materializa en un módulo de habitabilidad son una estructura
+habitacional de aproximadamente 15 m2 y el sistema séptico. La relación funcional del módulo con
+la vivienda depende de la combinación espacial del módulo, esta combinación responde a la
+priorización de las carencias de saneamiento o hacinamiento critico que se identifiquen en el
+diagnostico integral.
+
+·  Acotar el área del predio:
+
+El área de predio es similar el proceso de obtención de datos para vivienda nueva dentro del
+diagnóstico integral de la etapa de preconstrucción para la ejecución del SFVR.
+
+·  Definir la localización de la vivienda existente (si es agrupada o
+
+   desagrupada):
+
+Dentro de la diagnostico se identificarán las carencias de saneamiento o la evidencia de
+hacinamiento crítico. La anterior apreciación se refleja en el levantamiento de la vivienda y en
+particular, si los espacios están agrupados en una sola edificación o en varias. Para identificar una
+vivienda desagrupada se propone una distancia de 6 metros lineales entre edificaciones puesto que
+entre estas dos puede ser implantado un módulo de habitabilidad.
+
+·  Identificar las características del entorno (áreas no ocupadas):
+
+EL siguiente paso es identificar las características de las áreas no ocupadas, allí puede tener lugar
+los cultivos, pozos de agua, beneficiaderos entro otros, la recomendación es no afectar dichos
+recursos tanto en la implantación como en la construcción del módulo para no afectar el sustento
+de la familia.
+
+                               Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 60
+FIGURA 6.4 CARACTERÍSTICAS DEL PREDIO Y EDIFICACIONES
+
+                  Fuente: Fonseca, L., & Saldarriaga Roa, A. (1984).
+   Recuperado y Modificado Ministerio de Vivienda Ciudad y Territorio, 2020
+
+·  Identificar accesos y circulaciones de las edificaciones:
+
+El siguiente paso es identificar las circulaciones y acceso a la vivienda como posibles conexiones al
+módulo de habitabilidad. Ante lo anterior, el estudio tipológico de Saldarriaga y Fonseca ilustra las
+tipologías más recurrentes en la ruralidad colombiana, reuniendo cinco tipologías en donde la
+diferencia son los espacios de circulación y los espacios servidos, en rojo los accesos al interior de
+la vivienda. Esto, en función de dilucidar como es la vivienda existente y como se puede relacionar
+funcional y morfológicamente el módulo.
+
+   Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 61
+  FIGURA 6.5TIPOLOGIAS DE VIVIENDA Y FORMAS DE CRECIMIENTO
+
+               Fuente: Fonseca, L. & Saldarriaga Roa, A. (1984).
+Recuperado y Modificado Ministerio de Vivienda Ciudad y Territorio, 2020
+
+                                   Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 62
+·  Acotar el área mínima de implantación:
+
+El área recomendable es de 45 m2 según el estudio planimétrico de las tipologías de mejoramiento.
+El lineamiento general es disponer de dos áreas una para el módulo y localizar adecuadamente el
+sistema séptico que dentro de su funcionamiento no genere afectaciones a la familia.
+
+·  Definir forma de crecimiento:
+
+El segundo lineamiento general es continuar el crecimiento de la vivienda que en el caso de un
+nuevo módulo se debe estudiar en sitio la posibilidad de crecer de alguna de las seis (6) formas
+organizacionales como describen Saldarriaga y Fonseca. Siempre y cuando se concerté con la
+familia la ubicación de las intervenciones.
+
+·  Delimitar aislamientos en las fachadas:
+
+Como ultimo lineamiento se recomienda que ante la morfología del nuevo módulo se oriente y se
+aislé de una forma adecuada caso a caso. Es decir, en los casos de la creación de módulos de
+habitación estas este orientadas de forma tal que la asoleación en climas cálidos no afecte la
+habitabilidad de la misma. O en el caso de la cocina o el baño estos espacios se encuentren en sitios
+no apropiados o cerca de cuerpos de agua donde el empozamiento genere transmisión de
+enfermedades por vector. Lo anterior siguiendo el principio de vivienda saludable parte integra de
+las tipologías de vivienda nueva y mejoramiento.
+
+   Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 63
+BIBLIOGRAFÍA
+Decreto 1934 de 2015 (2015).
+Fonseca, L., & Saldarriaga Roa, A. (1984). La Arquitectura de la Vivienda Rural en Colombia. Bogotá.
+MVCT. (2015). Anexo I - Guía de Construcción Sostenible. Bogotá.
+MVCT. (2020). Anexo I. Política Pública de Vivienda Rural. Resolución 0536 de 2020. Bogotá.
+MVCT, IFC. (2013). Documento Técnico de Soporte - DTS. Código de Construcción Sostenible en Colombia.
+
+         Bogotá.
+Organización Mundial de la Salud. (2 de Marzo de 2020). Organización Mundial de la Salud. Obtenido de
+
+         Enfermedades transmitidas por vectores: https://www.who.int/es/news-room/fact-
+         sheets/detail/vector-borne-diseases
+Organización Panamericana de la Salud. (2009). Hacia una vivienda saludable. Lima, Péru.
+Resolución 0549 (MVCT 10 de Julio de 2015).
+
+                                                                     Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 64
+ANEXO
+ANEXO A. FICHAS DE ANÁLISIS PROTOTIPOS DE VIVIENDA RURAL.
+
+                                         Fuente: ANDI-FEDEMETALES, 2019. Recuperado y Modificado Ministerio de Vivienda, Ciudad y Territorio (2020)
+                                                                                                                                 Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 65
+Fuente: ANDI-FEDEMETALES, 2019. Ministerio de Vivienda, Ciudad y Territorio (2020)
+                                                                        Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 66
+Fuente: Banco Agrario de Colombia, 2019. Recuperado y Modificado Ministerio de Vivienda, Ciudad y Territorio (2020)
+                                                                                            Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 67
+Fuente: ANDI-FEDEMETALES, 2019. Banco Agrario de Colombia, 2019. Recuperado y Modificado Ministerio de Vivienda, Ciudad y Territorio (2020)
+                                                                                                            Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 68
+Fuente: ETERNIT, 2019. Recuperado y Modificado Ministerio de Vivienda, Ciudad y Territorio (2020)
+                                                                                Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 69
+Fuente: ETERNIT, 2019. Banco Agrario de Colombia, 2019. Recuperado y Modificado Ministerio de Vivienda, Ciudad y Territorio (2020)
+                                                                                                     Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 70
+Fuente: ETERNIT, 2019. Recuperado y Modificado Ministerio de Vivienda, Ciudad y Territorio (2020)
+                                                                                Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 71
+Fuente: DNP, 2019. Fedeguadua, 2019. Recuperado y Modificado Ministerio de Vivienda, Ciudad y Territorio (2020)
+                                                                                          Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 72
+TABLA 0.1 COMPARATIVO DE AREAS POR PROTOTIPOS Y TOTAL
+
+                                                   TIPOLOGÍA COMPACTA   TIPOLOGÍA DISPERSA  TIPOLOGÍA LINEAL  TIPOLOGÍA T/L                                         RESULTADOS
+                                                   PROMEDIO AREAS (M2)
+COMPARATIVO CUADRO DE ÁREAS                                                  AREAS (M2)        AREAS (M2)      AREAS (M2)
+
+                                                                                   34,03             23,36          24,97           AREA (M2) PROMEDIO POR TIPO DE  RANGO DE ÁREA POR TIPO DE ESPACIO
+                                                                                                                                                    ESPACIO
+     ESTAR    3 HABITACIONES                              27,43                    11,85             12,07          10,46                                           23,00       32,00
+              ESPACIO SOCIAL/ MULTIPLE                                                                                                            27,45
+   SERVICIO   BAÑO                                        12,13                     1,67             13,16          13,40
+CIRCULACIÓN/  COCINA/ COMEDOR                                                       2,84              2,80           1,24           11,63                           10          13
+              LAVADERO (INTERNO)                           6,25                   50,39             51,39           50,07
+ TRANSICIÓN   CIRCULACIÓN                                  2,29                     3,06              6,29           8,25            8,62                           6,00        11,00
+              PORCHE/TERRAZA CUBIERTA                     48,10                   53,45             57,68           58,32
+                                                           5,02                     0,96              2,40           0,42            2,29
+PRODUCTIVO ARÉA HERRAMIENTAS/PRODUCTIVO                   53,12                                                                     49,99                           1,50        3,00
+                                                           2,90                                                                      5,66
+                                  TOTAL AREA UTIL                                                                                   55,64
+                                                                                                                                     1,67
+              MUROS & ESTRUCTURA                                                                                                                                    3,00        5,00
+
+              TOTAL CONSTRUIDA
+
+              LAVADERO(EXTERIOR)                                                                                                                                    1,00        2,50
+
+                                                                        Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+TABLA 0.2 COMPARATIVO AREAS PORCENTAJES
+
+COMPARATIVO CUADRO DE ÁREAS POR PORCENTAJE                TIPOLOGÍA COMPACTA    TIPOLOGÍA DISPERSA            TIPOLOGÍA LINEAL      TIPOLOGÍA T/L                             RESULTADOS
+                                                                       %                   %                            %                  %
+                                                                                                                                                                    % DE ÁREA PROMEDIO POR TIPO DE
+     ESTAR    3 HABITACIONES                                            51,64%            63,67%                      40,50%             42,82%                                      ESPACIO
+              ESPACIO SOCIAL/ MULTIPLE                                                                                                                                              49,65%
+   SERVICIO   BAÑO                                                      22,84%            22,17%                      20,93%             17,94%
+CIRCULACIÓN/  COCINA/ COMEDOR                                                                                                                                                       20,97%
+              LAVADERO (INTERNO)                                        11,77%             3,12%                      22,82%             22,98%
+ TRANSICIÓN   CIRCULACIÓN                                                4,31%             5,31%                       4,85%              2,13%                                     15,17%
+              PORCHE/TERRAZA CUBIERTA                                   90,55%           94,28%                      89,10%              85,85%                                      4,15%
+                                                                         9,45%             5,72%                      10,90%             14,15%
+PRODUCTIVO ARÉA HERRAMIENTAS/PRODUCTIVO                                  100%              100%                        100%               100%                                      10,06%
+                                                                                                                                                                                     100%
+                                         TOTAL AREA UTIL
+
+                                  MUROS & ESTRUCTURA
+
+                                  TOTAL CONSTRUIDA
+
+                                                                        Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+                                                                                                              Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 73
+TABLA 0.3 PROGRAMA ARQUITECTÓNICO PROTOTIPOS
+
+   PROGRAMA ARQUITECTÓNICO              TIPOLOGÍA COMPACTA  TIPOLOGÍA DISPERSA  TIPOLOGÍA LINEAL           TIPOLOGÍA T/L  ESPACIOS DE LA VIVIENDA    %
+
+             3 HABITACIONES                          6                  4                 2                        4                    16         100%
+E                                                    3                  2                 0                        0                     5         31%
+                                                     6                  4                 2                        4                    16         100%
+             ESPACIO SOCIAL/ MULTIPLE                6                  4                 2                        4                    16         100%
+                                                     2                  1                 1                        1                     5         31%
+   BAÑO                                              4                  2                 1                        3                    10         63%
+                                                     6                  1                 2                        4                    13         81%
+             COCINA/ COMEDOR                         6                  0                 2                        3                    11         69%
+S                                                    6                  2                 2                        4                    14         88%
+
+             LAVADERO (INTERNO)
+
+   LAVADERO(EXTERIOR)
+
+               CIRCULACIÓN
+C/T
+
+               PORCHE/TERRAZA CUBIERTA
+
+P  ARÉA HERRAMIENTAS/PRODUCTIVO
+
+                                              Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)
+
+TABLA 0.4 PROMEDIO DECOSTOS POR PROTOTIPOS
+
+         M2 CONSTRUIDOS                 COSTO DIRECTO VIVIENDA            COSTO DIRECTO POR M2  PROMEDIO POR TIPOLOGÍA    PROMEDIO PROTOTIPOS
+                                                                                                                                 ANALIZADOS
+                 51,85
+                 50,83                  $                   35.929.000 $        692.941
+                 53,61
+                 55,05                  $                   35.929.000 $        706.846
+                 53,73
+                 53,62                  $                   35.929.000 $        670.192         $          656.118
+                 51,03                                                          652.661
+                 53,05                  $                   35.929.000 $                                   617.420 $
+                 57,68                                                                                     567.406
+                 58,32                  $                   32.059.000 $        596.669                    623.644
+                 55,25
+                 55,87                  $                   33.105.000 $        617.400
+                  54,8
+                  54,8                  $                   35.929.000 $        704.076
+                 57,45
+                  54,8                  $                   27.938.000 $        526.635 $                                 616.147
+                                                                                622.902
+                                        $                   35.929.000 $
+
+                                        $                   35.929.000 $        616.067
+
+                                        $                   30.739.000 $        556.362 $
+                                                                                578.450
+                                        $                   32.318.000 $
+
+                                        $                   32.946.000 $        601.204
+
+                                        $                   33.556.000 $        612.336         $
+                                                                                625.396
+                                        $                   35.929.000 $
+
+                                        $                   35.929.000 $        655.639
+
+                                              Fuente: Ministerio de Vivienda, Ciudad y Territorio (2020)B
+
+                                                                                                   Documento Técnico de Parametrización del SFVR ­ ANEXO I PNVISR I 74
+

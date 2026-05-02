@@ -1,0 +1,374 @@
+Fortaleciendo capacidades para la eficiencia energética en edificios en América Latina
+                                                      (CEELA)
+
+TÉRMINOS DE REFERENCIA (TdR) para la provisión de servicios relacionados con el Desarrollo de una
+Guía técnica con los estándares de sostenibilidad para viviendas rurales y públicas en Colombia.
+
+Estos Términos de Referencia tienen como objetivo establecer los lineamientos para la prestación de
+servicios relacionados con el "Desarrollo de una Guía técnica con los estándares de sostenibilidad
+para viviendas rurales y públicas en Colombia" para el Ministerio de Vivienda, Ciudad y Territorio, en
+el marco del proyecto de Cooperación Internacional "Fortaleciendo capacidades para la eficiencia
+energética en edificios en América Latina (CEELA, por sus siglas en inglés)". La adquisición será
+realizada por la agencia implementadora a través de un procedimiento de invitación nacional.
+
+1 Lineamientos para la presentación de propuestas
+
+Las firmas consultoras, asociaciones o personas naturales interesados en participar deberán enviar
+una propuesta con extensión máxima de 30 páginas, en idioma español al siguiente correo
+electrónico sostenibilidad@57uno.com hasta el día 3 de marzo de 2026 a las 18:00 hrs., en archivo
+PDF. Los plazos tentativos de esta convocatoria son los siguientes:
+
+a) Publicación de los términos de referencia  13 de febrero de 2026
+b) Fecha límite de recepción de consultas     18 de febrero de 2026
+c) Publicación de las respuestas              24 de febrero de 2026
+d) Fecha límite de recepción de propuestas    3 de marzo de 2026
+e) Evaluación de propuestas recibidas         4 de marzo de 2026 ­ 10 de marzo de 2026
+f) Comunicación de decisión                   11 de marzo de 2026
+
+La propuesta deberá contener una descripción detallada de la metodología que se propone y la(s)
+persona(s) experta(s) que se asignarán para la preparación de los materiales necesarios para alcanzar
+el objetivo del servicio. El desglose de costos y plazos para cada actividad debe incluirse en la
+propuesta. Todos los cambios en comparación con los Términos de referencia deben indicarse
+claramente en la propuesta.
+
+La propuesta será seleccionada con base en el resultado de su análisis conforme los criterios de
+evaluación descritos en la presente convocatoria.
+2 Contexto
+
+2.1 Respecto al Proyecto CEELA
+
+         El proyecto "Fortaleciendo capacidades para la eficiencia energética en edificios en América
+Latina ­ CEELA" financiado por la Agencia del Gobierno Suizo COSUDE y ejecutado por el consorcio
+conformado por EBP, Carbon Trust y Efizity; tiene como temáticas principales la construcción eficiente
+y el confort térmico en construcciones nuevas de cuatro países: México, Perú, Colombia y Ecuador.
+Con enfoque en zonas climáticas cálidas (secos y húmedas). Este proyecto está conformado por dos
+fases: La fase 1 de 2021 hasta 2023; y la fase 2 desde diciembre del año 2023 a mediados del 2027.
+
+         El objetivo global del proyecto CEELA es reducir las emisiones de CO2 en el sector edificación
+de Latinoamérica y mejorar el confort térmico y la calidad de vida de los ocupantes, particularmente
+la población más vulnerable y en desventaja económica, gracias a un mejoramiento de las
+edificaciones. Lo anterior, a través de 3 resultados principales (Outcomes):
+
+              · Outcome 1: Diseño integrado en la práctica.
+              · Outcome 2: Capacitación, conocimiento y comunicación
+              · Outcome 3: Marco regulatorio
+
+         A través del proyecto CEELA se busca reducir el consumo de energía y aumentar el confort
+térmico en los edificios en América Latina, con un enfoque particular en las zonas climáticas cálidas1,
+a través del fortalecimiento de las capacidades para el diseño de edificios con Eficiencia Energética y
+Confort Térmico (EECT), así como la aplicación de tecnologías y materiales adecuados.
+
+         Los cuatro países de CEELA tienen estrategias, políticas y/o marcos regulatorios para enfrentar
+el cambio climático, o se encuentran en proceso de desarrollarlos. Estas políticas y estrategias son
+coordinadas por los Ministerios de Medio Ambiente. Generalmente existen Comités o Grupos de
+Trabajo Interministeriales en los que uno de los actores es el Ministerio de Vivienda y que constituyen
+un apoyo relevante para promover acciones de mitigación y adaptación al cambio climático, siendo la
+eficiencia energética en la construcción una de las acciones relevantes.
+
+         Además, los Ministerios a cargo del sector de edificación y del sector energía están avanzando
+en el marco regulatorio de eficiencia energética, aislamiento térmico y otros temas de sostenibilidad,
+con motivo de aumentar la calidad de los edificios, el confort térmico y el impacto en aspectos como
+la contaminación local y el entorno más allá del cambio climático.
+
+         Al respecto, se considera que el marco político-estratégico-regulatorio-institucional de la
+construcción sostenible, y específicamente de los aspectos relacionados con eficiencia energética y
+condicionamiento térmico queda circunscrito generalmente a un espacio entre la política de
+desarrollo urbano, la estrategia de vivienda social, la normativa técnica para la construcción, la
+estrategia de eficiencia energética y la política de cambio climático.
+
+         De manera transversal, el proyecto contempla un componente de género e inclusión social,
+que busca reducir las brechas de desigualdad en el ámbito profesional del sector de la construcción
+en América Latina.
+
+1 Para el propósito del proyecto, se entiende como una zona climática cálida a aquella zona que presenta climas tipo: 1)
+cálido-seco, donde el mayor problema es el sobrecalentamiento y se presenta una importante variación de temperatura
+entre el día y la noche y; 2) cálido-húmedo, donde el sobrecalentamiento no es tan alto como en clima cálido seco, pero el
+confort se ve afectado por los altos niveles de humedad relativa.
+
+                                                                                                                                       2
+2.2 Respecto del Ministerio de Vivienda Ciudad y Territorio y la iniciativa sobre
+       Certificación y criterios nacionales para Sostenibilidad en Obras de Vivienda
+       Rural y Publica
+
+       Desde la Subdirección de Subsidio y Ejecución de Vivienda Rural del Ministerio de Vivienda,
+Ciudad y Territorio, se han identificado retos climáticos y de abastecimiento de recursos en diversas
+regiones del territorio colombiano. Estos desafíos han sido considerados en el diseño y ejecución de
+soluciones de vivienda nueva y/o mejoramientos en zonas rurales. Es importante destacar que las
+líneas de atención de esta subdirección incluyen enfoques diferenciales de género y poblacionales, lo
+cual implica intervenir en territorios donde, en muchos casos, no se cuenta con servicios básicos como
+agua potable y saneamiento básico, energía eléctrica o infraestructura hidráulica, lo que ha hecho
+necesario buscar soluciones alternativas de recolección de aguas lluvias, sistemas de tratamiento de
+aguas residuales y suministros de energía eléctrico con paneles solares, de igual manera se hace
+necesario integrar en el diseño de las soluciones de vivienda rural diseños que vallan acorde a sus usos
+y costumbres ya que estas zonas se caracterizan por la diversidad cultural.
+
+       Además de las condiciones previamente descritas, es importante señalar que, conforme a lo
+estipulado en la Resolución 0536 de 2020, el subsidio de vivienda rural contempla un tope máximo de
+hasta 70 salarios mínimos legales vigentes (SMLV) por beneficiario, con un componente adicional de
+hasta 20 SMLV destinados a cubrir los costos de transporte en zonas de difícil acceso. Esta disposición
+responde a la priorización de predios ubicados en territorios con limitadas condiciones de
+infraestructura y conectividad. En este contexto, se ha identificado la necesidad de optimizar el uso
+del recurso económico disponible, considerando variables climáticas y las particularidades del entorno
+territorial, a fin de garantizar soluciones habitacionales eficientes, sostenibles y adaptadas a las
+condiciones locales. Por tanto, se hace prioritario el desarrollo de una guía técnica de sostenibilidad
+que oriente la estructuración y ejecución de proyectos de vivienda nueva y/o mejoramiento en zonas
+rurales del territorio nacional colombiano.
+
+         Actualmente, el Ministerio de Vivienda, Ciudad y Territorio cuenta con la Resolución 0194 de
+2025, "por medio de la cual se definen los parámetros y lineamientos de construcción sostenible, se
+adopta la Guía para el Ahorro de Agua y Energía en Edificaciones, se sustituye la Resolución 0549 de
+2015 y se dictan otras disposiciones". Dicha resolución incorpora dentro sus anexos, una zonificación
+climática que constituye el referente normativo para la aplicación de criterios de sostenibilidad en
+edificaciones, y que sirve como base para la formulación de la presente guía.
+
+         En este sentido, la formulación de una guía específica para vivienda rural de la presente
+convocatoria se enfocará exclusivamente en la elaboración de un guia de estrategias, materiales y
+complementos a los sistemas constructivos previamente definidos, organizados por zona climática,
+aplicable a proyectos de vivienda rural desarrollados por la Subdirección de Subsidio y Ejecución de
+Vivienda Rural (SSEVR). Esta clasificación tomará como referencia la zonificación climática definida en
+el Anexo 2 de la Resolución 0194 de 2025, como se evidencia en la siguiente imagen:
+
+                                   Fuente: Fragmento tomado del Anexo2- Resolución 0194 de 2025
+
+                                                                                                                                       3
+         La guía tendrá como objetivo identificar materiales, estrategias y complementos a sistemas
+constructivos que representen una mejor implementación sostenible según el contexto climático,
+favoreciendo su incorporación desde la etapa de estructuración de los proyectos. Se deberá
+considerar al menos dos sistemas constructivos de vivienda por zona climática.
+
+         El alcance de la guía se limitará a la identificación estrategias, materiales y complementos a
+los sistemas constructivos previamente definidos tradicionalmente para uso en vivienda rural,
+garantizando coherencia con la identidad arquitectónica local y condiciones adecuadas de desempeño
+frente a las solicitaciones climáticas propias de cada zona. Como producto final, se deberá entregar
+un guía de estrategias, materiales y complementos a los sistemas constructivos previamente
+definidos, organizados por zona climática, en el cual se identifiquen los materiales, estrategias y
+complementos a sistemas constructivos con mejor desempeño ambiental y sostenibles con
+condiciones óptimas de habitabilidad para el uso cotidiano de la vivienda
+
+         La Guía de Sostenibilidad para Vivienda Rural será de obligatorio cumplimiento por parte del
+contratista en las etapas de estructuración y ejecución de los proyectos. Esta guía tendrá como
+finalidad establecer los lineamientos técnicos para la incorporación de criterios bioclimáticos y de
+sostenibilidad, garantizando que las soluciones habitacionales se adapten a las condiciones climáticas,
+ambientales y socioculturales propias de cada zona del territorio nacional.
+
+     En el marco de su aplicación, se deberán formular recomendaciones con el fin de garantizar que
+las viviendas entregadas cumplan con estándares óptimos de habitabilidad, eficiencia energética,
+confort térmico y adaptación al entorno, en concordancia con la normativa vigente y con las
+especificaciones técnicas establecidas en el presente documento.
+
+3 Objetivo de la licitación
+
+3.1 Objetivo General
+
+    Desarrollar una Guía técnica con los estándares de sostenibilidad para viviendas rurales y públicas
+    en línea con las medidas indicadas en el Anexo 1 - Guía de Construcción Sostenible de la Resolución
+    0194 de 2025, para los 4 climas de Colombia, para ser difundida entre desarrolladores, municipios
+    y usuarios.
+
+3.2 Objetivos Específicos
+
+a. Levantamiento de información sobre estándares de sostenibilidad para eficiencia energética,
+    hídrica, materiales sostenibles y confort ambiental aplicables para las tipologías de viviendas
+    rurales existentes en los 4 climas de Colombia.
+
+b. Desarrollo de una guía técnica que presente los estándares para diseño y construcción y
+    metodologías o procedimientos de cumplimiento, de una forma simple.
+
+4 Actividades y productos mínimos esperadas
+
+    Se espera que los servicios incluidos en la propuesta del consultor incluyan al menos:
+4.1 Levantamiento de información sobre estándares de sostenibilidad aplicables
+
+       para las tipologías de viviendas rurales existentes en los 4 climas de Colombia.
+
+                                                                                                                                       4
+    Se requiere formular e implementar una estrategia para la recolección efectiva y eficiente de la
+    información desde fuentes secundarias de información sobre estándares de sostenibilidad para la
+    construcción aplicables a los climas de Colombia. Se deberá considerar como referencia
+    estándares naciones y criterios CEELA.
+
+    Los estándares de sostenibilidad deberán estar acotados a confort ambiental: estrategias
+    bioclimáticas pasivas, estrategias de eficiencia energética de sistemas activos, estrategias de
+    eficiencia hídrica y estrategias de uso de materiales con atributos de sostenibilidad.
+
+    Además, se deberá considerar como referencia experiencias empíricas o casos de éxito nacionales
+    de arquitectura vernácula u otras experiencias que hayan incorporado estrategias de
+    sostenibilidad en proyectos rurales.
+
+4.2 Desarrollo de una guía técnica que presente los estándares para diseño y
+       construcción y metodologías o procedimientos de cumplimiento, de una forma
+       simple.
+
+    Se deberá desarrollar una guía que explique en forma simplificada y gráfica los diferentes
+    estándares y/o estrategias de sostenibilidad que pueden ser aplicados en viviendas rurales para
+    cada uno de los cuatro climas de Colombia. Estos estándares y/o estrategias deberán estar
+    fundados en los lineamientos y medidas recomendadas en el Anexo 1 de la Res 0194 y con los 15
+    criterios CEELA.
+
+    Además, deberán explicitarse recomendaciones a considerar para la implementación de medidas
+    activas y pasivas en el desarrollo del proyecto: análisis del lugar, identificación de zonas climática,
+    identificación de recursos propios del lugar en el que se ejecutara la vivienda, análisis de las
+    características higrométricas de los materiales, iluminación natural, renovación del aire,
+    comportamiento de la vivienda en la zona de implantación.
+
+    La guía deberá considerar apoyo gráfico simplificado para presentar los estándares que así lo
+    requieran. Esta guía tendrá como fin hacer difusión entre desarrolladores, municipios u otro tipo
+    de usuarios. Esta Guía deberán contener aportes gráficos, además de estar alineada con la imagen
+    institucional del Ministerio, y deberá quedar disponibles para ser difundidas en formato físico2 y
+    digital. El consultor deberá suministrar los archivos editables como producto de la consultoría.
+
+La Guía deberá contemplar el enfoque de género e inclusión social, de manera que la aplicación de la
+misma evidencie la consideración de este enfoque en las políticas asociadas a sostenibilidad en la
+construcción.
+
+5 Cronograma de trabajo
+
+La duración total de esta asignación se estima en 110 días calendario. Se requiere que los ofertantes
+incluyan un cronograma detallado como parte de su propuesta. El contenido mínimo del cronograma
+se presenta a continuación:
+1. Reunión de Kick off
+2. Plan de trabajo actualizado
+3. Reuniones de seguimiento
+4. Reunión de cierre, presentación de resultados
+
+2 No están consideradas las impresiones dentro del alcance de la consultoría
+
+                                                                                                                                       5
+6 Reporte de progresos
+
+El reporte de avance del proyecto deberá seguir el siguiente cuadro, vinculado a productos y
+porcentajes de pago, previa aprobación de la contraparte técnica.
+
+                               Producto                         Fecha entrega3     % pago asociado
+Informe 1: Ajuste plan de acción, metodología y diagnóstico   15 días calendario
+                                                              40 días calendario          30%
+                           de antecedentes                    110 días calendario         70%
+ Informe 2: Resultados Levantamiento de información sobre
+
+                              estándares
+Informe 3: Entrega Guía de Estándares de sostenibilidad para
+
+                            vivienda Rural
+
+7 Criterios de evaluación y puntaje
+
+Las propuestas recibidas serán evaluadas de acuerdo con los siguientes criterios de evaluación,
+también se presentan los porcentajes máximos asociados al puntaje:
+
+                                   Criterios técnicos                         Ponderación  Puntaje
+                                                                                           máximo
+                     Equipo consultor (máximo 2 personas):
+· Experiencia en asesorías sobre eficiencia energética, certificaciones de
+
+      sostentabilidad y de la Res 0549 en diseño y evaluación de proyectos.
+                     (ponderación de un 60% dentro del criterio)
+
+· Experiencia en diseño de contenido gráfico para difusión de iniciativas     50%             50
+                     (ponderación de un 30% dentro del criterio)
+
+o Se valorará la inclusión de profesionales de distintos géneros en el
+
+equipo propuesto. En el caso de que el oferente sea una sola persona,
+
+se valorará el uso de lenguaje sensible a género en la propuesta y el
+
+material a desarrollar. (ponderación de un 10% dentro del criterio)
+
+Metodología propuesta
+
+· Claridad en la metodología
+
+· Claridad en el plan de trabajo y cumplimiento de plazos del proyecto        35%             35
+
+· Efectividad de la metodología para asegurar los resultados
+
+· Claridad en propuesta de diseño
+
+Adicionales:
+
+Se evaluarán los servicios adicionales a los requeridos en estos términos de  5%              5
+  referencia que el equipo consultor proponga con el fin de fortalecer los
+
+productos de la guía.
+
+                                Criterios económicos                          Ponderación  Puntaje
+                                                                                   10%     máximo
+o El presupuesto presentado se revisará con respecto a la idoneidad del
+      plan de trabajo y las actividades para entregar los productos de una                    10
+                                  manera costo-efectiva
+
+o La firma consultora incluirá un presupuesto en Francos Suizos (CHF).
+     Además, debe incluir una lista detallada de los costos desglosados por
+     actividad en un formato tabular, así como los costos laborales directos
+
+3 Todas las fechas son días corridos posterior a la fecha de inicio del contrato
+                                                                                                                                       6
+                       Criterios económicos                                   Ponderación  Puntaje
+                                                                                           máximo
+(es decir, el número de horas o días por miembro del equipo del
+      proyecto propuesto y los costos unitarios asociados).
+
+o La oferta presentada debe incluir todos los impuestos de ley
+                               correspondientes
+
+o La fórmula para determinar los puntajes de precio es la siguiente:
+                                 Pp = 10 x Pm/Pi
+
+Donde Pp es el puntaje de precio, Pm es el precio más bajo y Pi el precio de
+                           la propuesta en consideración.
+
+8 Oferta económica
+
+Se solicita que el presupuesto de los servicios descritos en esta propuesta se realice por un monto
+máximo de 8.000 CHF (Francos Suizos). La oferta presentada debe incluir todos los impuestos de ley
+correspondientes.
+Se solicita además incluir el detalle del presupuesto en función del tiempo destinado de cada
+profesional del equipo propuesto.
+
+                                                                                                    7
+9 Anexo 1
+
+9.1 Esquema propuesto para la oferta                   Notas
+ SECCIÓN
+ 1. Información del Oferente / Licitador               Si los servicios son llevados a cabo por el oferente en
+       1.1. Justificación de la asociación (opcional)  asociación con cualquier otra persona u organización, el
+                                                       fundamento de la asociación debe describirse en esta
+       1.2. Organización(es) o individuos que          sección.
+             licitan
+                                                       En esta sección debe incluirse una descripción de la
+       1.3. Experiencia del oferente(es)               organización del oferente y su experiencia, así como la
+ 2. Concepto y metodología                             persona / organización asociada.
+
+       2.1. Análisis del objetivo y de los TdR         Descripción general de la experiencia del oferente(s)
+
+       2.2. Enfoque técnico y metodología              El oferente deberá presentar una revisión crítica de los
+                                                       servicios técnicos involucrados incluyendo comentarios
+ 3. Plan de trabajo, cronograma y presupuesto          y sugerencias sobre los TDR como parte de su
+                                                       propuesta.
+
+                                                       Descripción general del enfoque técnico y la
+                                                       metodología para realizar los servicios requeridos.
+                                                       Seguido de una descripción más detallada de la
+                                                       metodología y el enfoque para realizar cada actividad
+                                                       que se propone
+
+                                                       Información asociada a los servicios ofrecidos. Incluir
+                                                       organización/persona a cargo y logística.
+
+     3.1. Plan de trabajo                              Descripción del cronograma y experiencia relevante del
+     3.2. Cronograma                                   personal involucrado
+     3.3. Presupuesto
+4. Personal involucrado                                Incluir referencias relevantes: Nombre, número de
+     4.1. Organigrama                                  contacto y correo electrónico.
+     4.2. Personal involucrado
+5. Anexos
+     5.1. CVs
+     5.2. Proyectos relevantes previos
+
+     5.3. Ejemplos disponibles de materiales
+           desarrollados
+
+     5.4. Otros
+
+                                                                                                                 8
+

@@ -1,0 +1,2871 @@
+          GUÍA METODOLÓGICA PARA LA
+FORMULACIÓN E IMPLEMENTACIÓN DE
+
+       SISTEMAS URBANOS DE DRENAJE
+                                  SOSTENIBLE
+
+                   MINISTERIO DE VIVIENDA CIUDAD Y TERRITORIO
+                     DEPARTAMENTO NACIONAL DE PLANEACIÓN
+GUÍA METODOLÓGICA PARA LA FORMULACIÓN E
+ IMPLEMENTACIÓN DE SISTEMAS URBANOS DE
+                 DRENAJE SOSTENIBLE
+
+                     MINISTERIO DE VIVIENDA CIUDAD Y TERRITORIO
+                       DEPARTAMENTO NACIONAL DE PLANEACIÓN
+
+                                                         Junio 30 de 2022
+Contenido
+
+1. INTRODUCCIÓN ............................................................................................................. 4
+
+1.1 ALCANCE DE LA GUÍA SUDS........................................................................................... 5
+1.2 OBJETIVO DE LA GUÍA SUDS .......................................................................................... 5
+
+2. ANTECEDENTES ........................................................................................................... 5
+
+2.1 LINEAMIENTOS DE POLÍTICA DE CAMBIO CLIMÁTICO ........................................................ 6
+2.2 REGLAMENTO TÉCNICO DE AGUA POTABLE Y SANEAMIENTO BÁSICO ­ RAS ................. 8
+2.3 NORMATIVA Y REGULACIÓN INTERNACIONAL: .................................................................. 9
+2.4 EXPERIENCIAS NACIONALES ......................................................................................... 13
+
+PARA EFECTOS DE ESTE CAPÍTULO, SE ENTIENDE POR EXPERIENCIAS NACIONALES TANTO LA
+INFRAESTRUCTURA QUE SE HAYA CONSTRUIDO DE SUDS COMO AQUELLAS INCIIATIVAS ......... 13
+
+3. SISTEMAS URBANOS DE DRENAJE SOSTENIBLE - SUDS................................... 16
+
+3.1 DEFINICIÓN.................................................................................................................... 16
+3.2 OBJETIVOS DE LOS SUDS............................................................................................. 17
+3.3 SUDS Y LA PLANIFICACIÓN URBANA ............................................................................. 18
+3.4 CLASIFICACIÓN DE SUDS ............................................................................................. 21
+3.4.1 SEGÚN EL OBJETIVO ............................................................................................................ 21
+3.4.1.1 REGULACIÓN DE CANTIDAD DE AGUA .............................................................................. 21
+3.4.1.2 MEJORAMIENTO DE LA CALIDAD DE AGUA....................................................................... 22
+3.4.1.3 REÚSO DE AGUAS LLUVIAS .............................................................................................. 22
+3.4.1.4 APROVECHAMIENTO PARA ACTIVIDADES RECREATIVAS O DE CONFORT....................... 22
+3.4.1.5 PRESERVACIÓN DE LA BIODIVERSIDAD ........................................................................... 22
+3.4.2 SEGÚN EL MECANISMO DE FUNCIONAMIENTO DE SUDS .................................................. 22
+3.4.2.1 DETENCIÓN....................................................................................................................... 23
+3.4.2.2 INFILTRACIÓN.................................................................................................................... 23
+3.4.3 SEGÚN ESCALA DEL PROYECTO DE SUDS ........................................................................ 23
+3.4.3.1 ESCALA DE VIVIENDA O EDIFICIO ..................................................................................... 24
+3.4.3.2 ESCALA DE BARRIO O URBANIZACIÓN ............................................................................. 24
+3.4.3.3 ESCALA DE CIUDAD .......................................................................................................... 25
+3.5 TIPOLOGÍA DE SUDS .................................................................................................... 25
+3.5.1 JARDÍN MICROCUENCA........................................................................................................ 25
+3.5.2 JARDÍN DE LLUVIA................................................................................................................ 26
+3.5.3 POZO DE INFILTRACIÓN ....................................................................................................... 27
+3.5.4 ZANJA-BORDO ..................................................................................................................... 28
+3.5.5 SEPARADORES CON ZANJAS FILTRANTES O CANALES VEGETADOS ................................. 28
+3.5.6 CUENCA SECA DE DRENAJE EXTENDIDO ............................................................................ 29
+3.5.7 DRENAJE FRANCÉS ............................................................................................................. 29
+3.5.8 HUMEDALES ......................................................................................................................... 30
+3.5.9 ESTANQUES DE DETENCIÓN MULTIFUNCIONALES .............................................................. 31
+3.5.10 PAVIMENTOS PERMEABLES .............................................................................................. 31
+3.5.11 CISTERNAS ........................................................................................................................ 32
+3.5.12 TECHOS VERDES............................................................................................................... 33
+3.5.13 FACHADAS O MUROS VERDES........................................................................................... 34
+3.5.14 ALCORQUES INUNDABLES ................................................................................................. 34
+3.6 VENTAJAS Y DESVENTAJAS DE LAS TIPOLOGÍAS SUDS ................................................. 36
+3.7 ASPECTOS A TENER EN CUENTA EN EL DISEÑO DE SUDS .............................................. 37
+3.8 DISEÑO HIDRÁULICO ..................................................................................................... 38
+3.9 ESTRUCTURAS COMPLEMENTARIAS O ANEXAS A LOS SUDS ......................................... 39
+3.10 LIMITACIONES PARA LA IMPLEMENTACIÓN DE SUDS ..................................................... 40
+3.11 ASPECTOS A TENER EN CUENTA EN LA CONSTRUCCIÓN DE SUDS ................................. 40
+3.12 ACTIVIDADES DE CONSTRUCCIÓN, OPERACIÓN Y MANTENIMIENTO DE SUDS ................. 41
+
+4. IDENTIFICACIÓN DE ACTORES INVOLUCRADOS .................................................. 44
+
+5. COSTO BENEFICIO Y POSIBLES FUENTES DE FINANCIACIÓN DE SUDS ......... 47
+
+5.1 ANÁLISIS DE COSTO - BENEFICIO .......................................................................................... 48
+ANÁLISIS DE BENEFICIOS: ............................................................................................................... 49
+5.2 POSIBLES FUENTES DE FINANCIACIÓN................................................................................... 51
+5.2.1 SISTEMA GENERAL DE PARTICIPACIONES (SGP) ­ DEPARTAMENTO MUNICIPIO ........... 51
+5.2.2 TARIFAS PRESTADOR DEL SERVICIO PÚBLICO DE ALCANTARILLADO (CONSIDERANDO EL
+MANEJO DE AGUAS LLUVIAS COMO PARTE EL SERVICIO PÚBLICO DE ALCANTARILLADO) ............. 52
+5.2.3 PLANES DEPARTAMENTALES DE AGUA ­ PDA .................................................................. 52
+5.2.4 SISTEMA GENERAL DE REGALÍAS ....................................................................................... 53
+5.2.5 CRÉDITOS TASA COMPENSADA ........................................................................................... 53
+5.2.6 COOPERACIÓN INTERNACIONAL CON LA BANCA MULTILATERAL ...................................... 54
+5.2.7 PRESUPUESTO GENERAL DE LA NACIÓN (PGN) ............................................................... 55
+5.2.8 OBRAS POR IMPUESTOS...................................................................................................... 56
+5.2.9 TRANSFERENCIA DEL SECTOR ELÉCTRICO A LOS MUNICIPIOS[6] ..................................... 56
+5.2.10 ASOCIACIONES PÚBLICO PRIVADAS[7] ............................................................................. 57
+5.2.11 EMISIÓN DE BONOS VERDES PARA UNA ESP ................................................................. 57
+5.2.12 CORPORACIONES AUTÓNOMAS REGIONALES[12] .......................................................... 58
+5.2.13 IMPUESTO PREDIAL[13]...................................................................................................... 58
+
+6 ACERCAMIENTO A PRESTADORES Y MUNICIPIOS ­ PERCEPCIÓN DE
+IMPLEMENTACIÓN DE SUDS ........................................................................................... 59
+
+7 CONCLUSIONES Y RECOMENDACIONES ............................................................... 61
+
+REFERENCIAS .................................................................................................................... 62
+    1. INTRODUCCIÓN
+
+La variabilidad estacional del territorio colombiano está directamente relacionada con los
+regímenes hidrológicos presentes en las diferentes regiones del país. En regiones como la
+Orinoquia, Amazonia y Caribe, caracterizadas por zonas de baja altura, se presenta una
+temporada lluviosa seguida de una seca conocida como régimen unimodal, mientras que,
+en la región Andina o montañosa el régimen hidrológico es bimodal, caracterizado por dos
+temporadas de lluvias y dos secas, intercaladas.
+
+La expansión de las zonas urbanas trae consigo un aumento de los volúmenes de agua de
+escorrentía superficial especialmente en las temporadas de alta precipitación que,
+dependiendo de su intensidad y duración, impactan directamente las redes de alcantarillado
+combinado y pluvial, situación que puede generar afectaciones si no se cuenta con una
+amortiguación de aguas lluvias en el espacio público teniendo en cuenta los posibles
+escenarios de ocurrencia de eventos extremos.
+
+Por lo anterior, los instrumentos de ordenamiento territorial deben tener en cuenta todos los
+factores de riesgo asociados a la ocupación de un territorio. Quienes tienen a cargo los
+procesos de planificación urbana deben revisar y, de ser el caso, replantear las medidas de
+respuesta y adaptación al crecimiento de la urbanización que, debido al endurecimiento del
+terreno, ocasionan un cambio de la dinámica del agua superficial al modificar la
+permeabilidad e infiltración, produciendo a su vez inundaciones cuando ocurren eventos
+hidrometereológicos severos.
+
+Los Sistemas Urbanos de Drenaje Sostenible (SUDS) representan soluciones cuyo
+principio es reproducir de la manera más fiel posible, el ciclo hidrológico natural previo a la
+urbanización o actuación humana. Proporcionan beneficios relacionados con la provisión
+de servicios ecosistémicos traducidos a beneficios al ser humano y que provienen de los
+recursos naturales, cuya clasificación puede hacerse en 4 grupos como son los servicios:
+provisión, regulación, culturales y de soporte.
+
+Dependiendo del tipo de beneficios, así mismo se definen los objetivos del manejo
+alternativo que se dé a través de los SUDS para las aguas lluvias. Entre ellos se encuentran:
+i) regulación de cantidad de agua ii) mejoramiento de la calidad de agua, iii)
+aprovechamiento para actividades recreativas o de confort, iv) preservación de la
+biodiversidad o el v) reúso de aguas lluvias. En cuanto a la regulación de la cantidad de
+agua se busca amortiguar los picos del hidrograma de aguas lluvias sin generar problemas
+de inundación, minimizando los impactos del sistema urbanístico en cuanto a la cantidad y
+calidad de la escorrentía y potencializando el valor ambiental del recurso hídrico de manera
+sostenible sumado a los grandes esfuerzos que se vienen adelantando desde el sector de
+Agua y Saneamiento (EAAB, 2018).
+
+En este sentido, esta Guía metodológica para la formulación y construcción de Sistemas
+Urbanos de Drenaje Sostenible ­ Guía SUDS ­ en su primera versión, a partir de la
+identificación de las tipologías de SUDS, identifica las actividades de construcción y
+mantenimiento de estos sistemas y propone una distribución de responsabilidades por
+sector.
+     1.1 Alcance de la Guía SUDS
+
+Este documento no constituye un manual de diseño debido a que ya existe un desarrollo
+amplio en ese sentido por parte de la academia, empresas de servicios públicos y
+consultorías específicas en el tema, lo cual se puede consultar en la bibliografía. No
+obstante, esta Guía utiliza como base aquellos avances que se han dado a nivel
+internacional y en el país en la implementación de SUDS para el manejo de aguas lluvias,
+bien sea a nivel de normas técnicas internas expedidas por las empresas de servicios
+públicos o acogiendo aquellos estudios y documentos técnicos de los que se tenga
+conocimiento. Con esta información, se caracterizan las tipologías de SUDS y sus posibles
+objetivos, haciendo énfasis en el objetivo de regulación de cantidad de agua de escorrentía
+e identificando los SUDS como medida de adaptación al cambio climático y gestión del
+riesgo de desastres, específicamente, reducción de riesgo de inundaciones.
+
+A partir de una identificación de actores involucrados y las principales actividades tanto en
+la planificación como construcción y mantenimiento de estos sistemas, se propone una
+distribución de responsabilidades entre dichos actores, lo cual constituye un punto de
+partida para el análisis posterior y la revisión de los potenciales incentivos que impulsen la
+implementación de SUDS como estrategia de gestión sostenible de las aguas lluvias.
+
+Derivado de este trabajo, a nivel local se continuará realizando acercamientos con
+empresas de servicios públicos y entes territoriales para evaluar el desarrollo de este tipo
+de soluciones considerando las particularidades de las regiones colombianas.
+
+    1.2 Objetivo de la Guía SUDS
+
+Establecer las bases para la asignación de responsabilidades en las etapas de
+planificación, diseño, construcción, operación y mantenimiento de los Sistemas Urbanos de
+Drenaje Sostenible ­ SUDS en los municipios y distritos del país, de tal manera que
+contribuya en la identificación de las posibles mejoras normativas o estrategias para
+articulación de instrumentos de política relacionados con la implementación de SUDS como
+medida de adaptación al cambio climático y gestión del riesgo de desastres por
+inundaciones.
+
+    2. ANTECEDENTES
+
+Como punto de partida para la reglamentación de los Sistemas Urbanos de Drenaje
+Sostenible, se encuentran los Artículos 79 y 80 de la Constitución Política, que tratan temas
+relacionados con la protección del medio ambiente, sin embargo, solo hasta la expedición
+del Plan Nacional de Desarrollo 2010 ­ 2014, específicamente en el objetivo 5. Impulsar la
+planificación, actuación coherente y articulada de los sectores de vivienda, agua potable y
+saneamiento básico, bajo el concepto de "Ciudades Amables y Sostenibles para la
+Equidad", se establece la responsabilidad de los centros urbanos relacionada con la gestión
+integral el recurso hídrico en sus territorios. Posteriormente, en el Plan de Desarrollo 2018-
+2022 Pacto por Colombia, pacto por la equidad, se aborda el tema el tema dentro de las
+líneas de acción establecidas en el objetivo 1. Avanzar hacia la transición de actividades
+productivas comprometidas con la sostenibilidad y la mitigación del cambio climático dentro
+del componente de Provisión de edificaciones e infraestructura sostenible.
+Dentro de los antecedentes normativos relacionados con el tema se encuentran las
+acciones y estrategias enfocadas a garantizar la sostenibilidad del recurso hídrico,
+articuladas al ordenamiento y al uso del territorio, establecidas en la Política Nacional para
+la Gestión Integral del Recurso Hídrico (PNGIRH). En ese mismo sentido, a través del
+CONPES 3934 Política de Crecimiento Verde se estableció la hoja de ruta para el
+crecimiento sostenible del país a largo plazo mediante acciones de diferentes sectores
+involucrados con la gestión de los recursos naturales de manera que sean más eficientes y
+productivos, y se reduzcan y minimicen los impactos ambientales y sociales generados por
+el desarrollo de las actividades productivas.
+
+Seguidamente, fue aprobado el CONPES 4004 de 2020 "Economía circular en la gestión
+de los servicios de agua potable y manejo de aguas residuales", el cual tiene como objetivos
+mejorar las capacidades institucionales y de gobernanza, implementar un modelo de
+economía circular y desarrollar mecanismos de gestión de la información en la prestación
+de los servicios de agua potable y manejo de aguas residuales. En la estructuración de este
+CONPES se identificó una serie de factores que influyen en la persistencia de interrogantes
+en relación con el avance en la implementación de SUDS en Colombia. Dichos factores
+están asociados a la gobernanza del recurso hídrico y a la poca articulación entre los
+actores encargados de la administración de los servicios de agua y saneamiento. Otro factor
+identificado, está asociado a las deficiencias en los procesos de planeación de política
+pública y de ordenamiento territorial, teniendo en cuenta que existen instrumentos que
+apuntan a diversos objetivos que pueden estar asociados al manejo de las aguas lluvias y
+a lo que implica la implementación de sistemas como los SUDS, y que carecen de una
+articulación clara entre ellos.
+
+Como parte del Plan de Acción y Seguimiento ­ PAS del documento CONPES 4004 de
+2020 se incluyó la Acción 2.9. "Publicar guía metodológica para la formulación e
+implementación de Sistemas Urbanos de Drenaje Sostenible (SUDS), con el fin de
+fortalecer los procesos de manejo de aguas a nivel municipal.", compromiso compartido con
+el Departamento Nacional de Planeación, da lugar a la estructuración del presente
+documento.
+
+     2.1 Lineamientos de política de Cambio Climático
+
+Teniendo en cuenta que los Sistemas Urbanos de Drenaje Sostenible son una opción válida
+para la gestión de las aguas de escorrentía, la cual, a su vez, hace parte de las medidas de
+adaptación al cambio climático, es importante tener presente el marco normativo en
+Colombia, o directrices internacionales adoptadas en el país, con relación al particular,
+expuesto a continuación.
+
+En 1994 el Congreso de la República expidió la Ley 164 "Por medio de la cual se aprueba
+la "Convención Marco de las Naciones Unidas sobre el Cambio Climático". Posteriormente,
+el 11 de diciembre de 1997 se firma el Protocolo de Kioto de la Convención Marco de las
+Naciones Unidas sobre el Cambio Climático", y en Colombia se aprueba el mismo mediante
+la Ley 629 de 2000.
+
+En el año 2010, se establece la Estrategia Colombiana de Desarrollo Bajo en Carbono. A
+partir de esto, y en el Plan Nacional de Desarrollo 2010-2014, adoptado por la Ley 1450 de
+2011, se establece el compromiso de definir estrategias a largo plazo para enfrentar el
+cambio climático e impulsar un desarrollo bajo en carbono.
+De esta manera surge el Plan Nacional de Adaptación al cambio climático PNACC, el cual
+busca reducir la vulnerabilidad del país e incrementar su capacidad de respuesta frente a
+las amenazas e impactos del cambio climático.
+
+Adicional a lo anterior, el "Acuerdo de París" es adoptado el 12 de diciembre de 2015, es
+éste se estableció que: "Para que Colombia pueda alcanzar sus objetivos de desarrollo,
+paz, equidad y educación, y para que logre sostenerlos en el largo plazo resulta
+indispensable identificar y aprovechar, en los diferentes sectores de la economía nacional,
+oportunidades de aumento en la competitividad, productividad y eficiencia, que a su vez
+reduzcan las emisiones de Gases Efecto Invernadero ­ GEI. Al mismo tiempo es
+indispensable que el país continúe adaptándose y que los gobiernos locales generen
+cambios en las pautas y dinámicas de ocupación territorial, incluyendo consideraciones de
+variabilidad y cambio climático en sus procesos de planificación del desarrollo, de manera
+tal que se garantice un futuro más resiliente y bajo en emisiones para todo el territorio
+nacional"
+
+Bajo ese contexto internacional, el Ministerio de Vivienda Ciudad y Territorio expidió el
+Decreto 1285 de 2015, el cual adiciona el Título 7 sobre Urbanización y Construcción
+Sostenible al Decreto 1077 de 2015, Decreto Único Reglamentario del Sector Vivienda,
+Ciudad y Territorio. Este instrumento tiene como objeto establecer lineamientos de
+construcción sostenible para edificaciones, encaminados al mejoramiento de la calidad de
+vida de los habitantes y al ejercicio de actuaciones con responsabilidad ambiental y social.
+
+Derivado de este Decreto, el MVCT expide la Resolución 549 de 2015, mediante la cual se
+reglamenta los parámetros y lineamientos de construcción sostenible y se adopta la Guía
+para el ahorro de agua y energía en las edificaciones. En este documento, se aborda la
+recolección de aguas lluvias y reutilización, como una de las medidas para reducir el
+requerimiento de agua potable y disminuir el volumen de escorrentía que finalmente llega
+a las vías y a la infraestructura de alcantarillado pluvial. De manera específica hacen
+referencia a la captación de aguas lluvias en techos, la cual se puede emplear en
+actividades diferentes al consumo humano.
+
+Posteriormente, la Ley 1753 de 2015 por medio de la cual se adopta el Plan Nacional de
+Desarrollo 2014-2018, define acciones intersectoriales hacia la Política de Crecimiento
+Verde y formulación por parte de los Ministerios de Planes sectoriales de mitigación GEI y
+de adaptación al cambio climático.
+
+El Decreto 298 de 2016 establece la organización y funcionamiento del Sistema Nacional
+de Cambio Climático ­ SISCLIMA ­ como el conjunto de entidades estatales, privadas y sin
+ánimo lucro, de políticas, normas, procesos, recursos, planes, estrategias, instrumentos,
+mecanismos, así como la información concerniente al cambio climático, que se aplica de
+manera organizada para gestionar la mitigación de gases efecto invernadero y la
+adaptación al cambio climático en el país.
+
+A pesar de que el Acuerdo de París fue adoptado en el año 2015, en Colombia se aprueba
+mediante la Ley 1844 de 2017.
+
+La Ley 1931 de julio 27 de 2018 ­ Ley de cambio climático, define las directrices para las
+acciones que se deben adelantar por parte de la Nación, Departamentos, Municipios,
+Distritos, Áreas Metropolitanas y Autoridades Ambientales en relación al cambio climático.
+
+A través de la Ley 1955 de 2019, Plan Nacional de Desarrollo 2018-2022. Establece un
+Pacto por la Sostenibilidad, cuyas metas incluyen: la reducción de 36 Millones de toneladas
+de Gases de Efecto Invernadero entre 2018 y 2022, frenar la deforestación, duplicar el
+número de hectáreas con sistemas productivos sostenibles e implementar acciones de
+adaptación en todos los Departamentos del país
+
+Mediante la Resolución 0431 de 31 de agosto de 2020 se adopta el Plan Integral de Gestión
+de Cambio Climático Sectorial- PIGCCS del sector Vivienda, Ciudad y Territorio. Las líneas
+estratégicas y metas en dicho documento están divididas para dos subsectores: i) vivienda
+y ii) agua y saneamiento básico. Para el subsector vivienda se definieron cinco líneas
+estratégicas; i) Desarrollo territorial resiliente al clima, ii) asentamientos humanos menos
+vulnerables, iii) recuperación de áreas liberadas, iv) viviendas resilientes y v) fortalecimiento
+institucional. Por otra parte, para el sector agua y saneamiento básico las líneas
+estratégicas son cuatro: i) gestión del riesgo para la adaptación, ii) gestión en cuencas
+abastecedoras, iii) tratamiento de aguas residuales domésticas y iv) reúso de agua residual
+doméstica tratada.
+
+En el contexto del plan, tanto para el subsector vivienda como para el sector agua y
+saneamiento, las medidas de adaptación al cambio climático están principalmente
+asociadas a la gestión del riesgo de desastres y su incorporación en los instrumentos de
+ordenamiento territorial. De manera particular para el sector agua y saneamiento, se
+considera el desarrollo de una estrategia que permita incentivar la implementación de SUDS
+con el fin de mejorar la gestión del agua lluvia. Por otra parte, para el sector vivienda, a nivel
+de edificaciones y con relación a la línea de viviendas resilientes, las metas establecidas
+están enfocadas a la construcción de viviendas que incorporen medidas de adaptación.
+
+Por otra parte, La Ley 2169 de 22 de diciembre de 2021 tiene como objeto impulsar el
+desarrollo bajo en carbono del país, mediante el establecimiento de metas y medidas
+mínimas en materia de carbono neutralidad y resiliencia climática a corto, mediano y largo
+plazo, en el marco de los compromisos internacionales asumidos por Colombia.
+
+Dentro de las metas en materia de medidas de adaptación a 2030, para el sector Vivienda,
+Ciudad y Territorio se incluyen, entre otras:
+
+         (...) 1. Incorporar a 2030 la adaptación al cambio climático en los instrumentos
+         territoriales, a través del desarrollo de lineamientos, herramientas y criterios que
+         orienten la gestión de la adaptación en el sector.
+
+         3. Desarrollar a 2030 acciones estructurales y no estructurales de gestión del riesgo
+         para la adaptación al cambio climático en el treinta por ciento (30%) de los
+         municipios priorizados por susceptibilidad al desabastecimiento por temporada seca
+         y temporada de lluvias. (...)
+
+A su vez, para el sector Transporte, entre las metas que están relacionadas con las del
+sector Vivienda, Ciudad y Territorio, en materia de gestión de aguas lluvias como medida
+de adaptación al cambio climático se encuentran:
+
+         (...) 3. Formular a 2025 la Política para la Gestión de Riesgo de Desastres (GRO) y
+         la Adaptación al Cambio Climático (ACC).
+
+         5. Implementar a 2025 un (1) proyecto piloto para la aplicabilidad de los lineamientos
+         de infraestructura verde vial. (...)
+
+     2.2 Reglamento Técnico de Agua Potable y Saneamiento Básico ­ RAS
+
+Desde la Ley 142 de 1994 se estableció el régimen de los Servicios Públicos Domiciliarios,
+estableciendo las primeras directrices de manejo y recolección municipal de residuos,
+principalmente líquidos, por medio de tuberías y conductos, como se indica en el artículo
+14.23 en lo relacionado al Servicio Público Domiciliario de Alcantarillado. También se
+contempla mediante el Decreto 302 de 2000, el cual reglamenta la Ley 142 de 1994, en lo
+que concierne a la regulación de la prestación de los servicios públicos de acueducto y
+alcantarillado.
+
+Adicionalmente, el Ministerio de Vivienda, Ciudad y Territorio expidió la Resolución 330 de
+2017 "por la cual se adopta el Reglamento Técnico para el Sector Agua Potable y
+Saneamiento Básico ­ RAS y se derogan las resoluciones 1096 de 2000, 0424 de 2001,
+0668 de 2003, 1459 de 2005 y 2320 de 2009". Esta resolución fue modificada por la
+Resolución 0799 de 2021 y la Resolución 0548 de 2022. En ese contexto se definió a los
+SUDS como:
+
+"(...) Sistemas urbanos de drenaje sostenible (SUDS). Son el conjunto de soluciones
+que se adoptan en un sistema de drenaje urbano con el objeto de retener el mayor tiempo
+posible las aguas lluvias en su punto de origen sin generar problemas de inundación,
+minimizando los impactos del sistema urbanístico en cuanto a la cantidad y calidad de la
+escorrentía y evitando así sobredimensionamientos o ampliaciones innecesarias en el
+sistema. La filosofía de los SUDS es reproducir, de la manera más fiel posible, el ciclo
+hidrológico natural previo a la urbanización o actuación humana.
+
+Así mismo, el artículo 44 de la Resolución 0799 de 2021, modificó el artículo 153 de la
+Resolución 330 de 2017 estableciendo lo siguiente:
+
+         "(...) Para nuevos desarrollos urbanos, donde se modifique la cobertura del suelo,
+         se deben generar estrategias con el fin de mitigar el efecto de la impermeabilización
+         de las áreas en el aumento de los caudales de escorrentía.
+
+         Para esto, se debe evaluar la viabilidad de implementar Sistemas Urbanos de
+         Drenaje Sostenible ­ SUDS. Se deberá tener en cuenta las condiciones de la zona
+         en la que se va a construir, las áreas tributarias de los SUDS a diseñar y el sistema
+         que se proyecte para la recolección, evacuación y disposición de las aguas lluvias.
+
+         Para definir la viabilidad de los SUDS, es necesario analizar las diferentes tipologías
+         susceptibles de implementación. La selección de tipologías de SUDS y la
+         conformación de trenes de tratamiento implica el análisis del lugar de
+         implementación, con el fin de establecer las áreas potenciales seleccionadas con
+         base en los objetivos identificados en el alcance propuesto, así como las limitaciones
+         físicas para la implementación de las tipologías (...)"
+
+En correspondencia con lo anterior, dentro de los manuales de buenas prácticas,
+específicamente en el Título D Sistemas de Recolección y Evacuación de Aguas Residuales
+Domésticas y Aguas Lluvias del RAS, se retoma lo establecido en la Resolución 0799 de
+2021 que modificó parcialmente la Resolución 330 de 2017 con relación a SUDS.
+
+     2.3 Normativa y regulación internacional:
+
+En algunos países se han desarrollado esquemas regulatorios relacionados con los SUDS,
+principalmente respecto a las técnicas de implementación en sus etapas de diseño,
+construcción operación y mantenimientos, sin embargo, son escasos los países que han
+construido normas regulatorias donde se indique la responsabilidad de su diseño,
+construcción, mantenimiento y financiación.
+Así las cosas, los SUDS se han establecido firmemente en países como Suecia, EE. UU.,
+Nueva Zelanda, Australia y el Reino Unido (SUDS-Principles-Drivers, Hennelly 2005). En
+este último, la política de planeación nacional proporciona orientaciones a las autoridades
+locales sobre qué se puede construir y dónde, así como lo que debe incluirse en las políticas
+locales. Lo anterior, combinado con políticas estratégicas de SUDS trae grandes beneficios
+a nivel local. Así mismo, el Marco de Política de Planificación Nacional (por sus siglas en
+inglés NPPF), establece que se debe dar prioridad al drenaje sostenible y analiza el impacto
+de los nuevos desarrollos en el riesgo de inundaciones. El NPPF mantiene una política
+sólida para evitar el riesgo de inundaciones, basada en las autoridades de planificación
+locales que preparan planes locales y deciden las aplicaciones de planificación y otorgan
+permisos de planificación (www.susdrain.org). También se indica que, las autoridades de
+planificación local deben asegurar que los estándares mínimos de operación propuestos
+sean apropiados, para que se diseñe un sistema de drenaje sostenible de una manera
+económicamente proporcionada y que garantice los requisitos de operación y
+mantenimiento (Sustainable drainage systems Statement 20141).
+
+Al respecto, prestadores del servicio de acueducto como "Anglian Water" que atiende a casi
+7 millones de personas en el este de Inglaterra, establece en su guía SUDS que las
+responsabilidades dependen de la ubicación de la solución construida. Si el SUDS se ubica
+en propiedad privada (por ejemplo, techos verdes, salidas de agua o entradas de tubos
+permeables) es responsabilidad del propietario del terreno o de la propiedad, pero si se
+ubica en sitios que no se constituyen como espacio abierto (por ejemplo, pavimentos
+permeables, áreas de bio-retención o cunetas colectoras) la responsabilidad depende del
+tipo de desarrollo y el dueño de la propiedad. En el caso en que estos se ubiquen en áreas
+de espacio abierto (por ejemplo, cuencas, estanques, humedales con canales de enlace u
+otras estructuras de control) se vincula a las responsabilidades de cuidado de los espacios
+abiertos del municipio (Anglian water suds-leaflet, 2009).
+
+En Nueva Zelanda, los mecanismos de gestión de aguas pluviales se han utilizado para
+apoyar el desarrollo de la tierra y lograr los requisitos de consentimiento de recursos desde
+principios de la década de 1990. El Consejo Regional de Auckland proporciona orientación
+sobre la selección, diseño, operación y mantenimiento de dichos sistemas. Al igual que en
+el Reino Unido, las responsabilidades de propiedad y mantenimiento de dichos sistemas no
+han sido claramente exigidas y las Autoridades Locales individuales generalmente
+determinan las reglas y responsabilidades relevantes distrito por distrito. El mantenimiento
+de estos sistemas sigue siendo responsabilidad de los propietarios privados y aunque
+puede hacerse cumplir a través de un marco regulatorio, la eficacia de su cumplimiento se
+ha visto limitada por los requisitos de recursos técnicos y financieros (UNDERSTANDING
+THE OPERATIONAL COST OF SUSTAINABLE DRAINAGE SYSTEMS, Arthur, 2019 -
+TheCostofSuDS-v1.02)
+
+No obstante, a nivel de normativa relacionada con SUDS en el contexto internacional, se
+tienen las siguientes:
+
+Las primeras normas internacionales para mejorar la calidad de agua y crear estrategias de
+su manejo surge en Estados Unidos por la EPA (Agencia de Protección Ambiental de los
+
+1 https://questions-statements.parliament.uk/written-statements/detail/2014-12-18/HCWS161
+2 https://metisconsultants.co.nz/case-studies/the-cost-of-suds/
+Estados Unidos) en el año 1948 con la ley de agua limpia que fue reorganizada por la ley
+federal de control de la contaminación del agua en el año 1972..
+
+Actualmente algunos de los países más avanzados del mundo vienen reconociendo los
+múltiples beneficios de afrontar la gestión del agua lluvia convencional hacia un desarrollo
+sostenible como lo es el Reino Unido, algunas ciudades chinas como Wuhan que han
+adoptado recientemente las estrategias denominadas "ciudad esponja" y países de América
+del Sur como Chile. A continuación, se hace una descripción general, a manera de ejemplo,
+de casos en el Reino Unido, China y Chile en donde se implementan iniciativas orientadas
+a la gestión sostenible de las aguas de escorrentía a través de los SUDS.
+
+Reino Unido
+
+En Londres, a principios del siglo XX se presentaron grandes inundaciones producto de
+lluvias torrenciales. A partir de esto, la planeación a nivel local se empezó a apropiar del
+tema y en 2010 se logró promulgar la Ley de Gestión de inundaciones y Aguas (Defra,
+2012) que conllevó al desarrollo de soluciones para evitar las inundaciones, así como el
+registro de sus efectos. De esta manera, se inicia una etapa de implementación de SUDS
+para replicar los procesos de drenaje natural en la mitigación de las inundaciones, además
+de obtener otros beneficios ambientales como mejoramiento de la calidad de agua,
+aumento de espacios verdes e incluso el desarrollo de áreas marginadas de las ciudades.
+
+Sin embargo, también enfrentaron múltiples barreras enfocadas en factores institucionales
+y económicos (Ashley, Blanksby, Cashman et al., 2007). A partir de la práctica, se identificó
+que al incluir en la etapa de planeación de los proyectos la exposición de los beneficios en
+la adopción de SUDS, se lograba más fácilmente la aceptación de la comunidad. De otra
+parte, se determinó que existe una falta de incentivos para promover la participación de
+inversionistas privados, los cuales se pueden ver reflejados en subsidios, apoyo en gastos
+de mantenimiento y reducción de tarifas.
+
+Para el caso de Londres, si bien se ha contado con el apoyo del gobierno, la industria y los
+investigadores, la puesta en marcha de SUDS no ha alcanzado todo su potencial. Una de
+las dificultades encontradas se relaciona con marcos institucionales y regulación
+desactualizados que dificultan su desarrollo. Adicionalmente, los prestadores de los
+servicios de acueducto y alcantarillado no han tenido una participación notable en la
+implementación de proyectos (Agencia de Medio Ambiente, 2013a, Comisión del Túnel del
+Támesis, 2011).
+
+El Plan de Acción de Drenaje Sostenible de Londres formulado en 2016, busca promover
+la concientización y adopción de sistemas de drenaje sostenible en la ciudad. El plan se
+centra principalmente en la adaptación del drenaje sostenible a los edificios, terrenos e
+infraestructuras existentes. Con el fin de disminuir costos, se buscaron oportunidades para
+adaptar el drenaje sostenible como parte de obras de mantenimiento, reparación o mejora
+(Alcaldía de Londres, 2016).
+
+Para complementar el Plan de Acción, en 2019 se implementaron proformas de drenaje
+sostenible lideradas por las autoridades locales para acompañar las solicitudes de
+proyectos y los requisitos de validación. La proforma pretende proporcionar la información
+clave, evitando retrasos en la aprobación.
+
+De otra parte, una investigación publicada en 2017 que fue realizado por la Universidad de
+Queensland en Australia y la Universidad de Londres, realizó un análisis económico de los
+beneficios para facilitar la adopción de SUDS en Londres (Moreno, Smith & Mijic, 2017). Se
+utilizó un estudio de caso en la cuenca de captación del Decoy Brook, al norte de Londres,
+cuya metodología se dividió en tres pasos a) Mapeo de los SUDS aplicando un enfoque
+participativo de las partes interesadas, b) Evaluación económica de la reducción de
+inundaciones y de los beneficios, y c) Desarrollo de un esquema de financiamiento.
+
+Como conclusiones se pueden destacar, que al incluir beneficios más amplios en la
+viabilidad de la implementación de SUDS, puede mejorar las cifras; también el efecto
+positivo en la reducción del riesgo de inundaciones, la recolección de agua de lluvia, la
+reducción de los cargos por aguas superficiales, además con un menor impacto en la
+calidad del aire, la biodiversidad y la ecología y el tratamiento de las aguas residuales;
+adicionalmente, mostró que dividir los costos entre las diferentes partes interesadas en
+proporción a los beneficios recibidos, permite la obtención de recursos de múltiples fondos
+y su promoción; finalmente que existen oportunidades para establecer asociaciones
+público-privadas con la empresa de agua local, para cerrar la brecha entre los requisitos de
+gestión de inundaciones y el presupuesto disponible.
+
+China
+
+China propuso el concepto de ciudad esponja como solución de alternativa para una mejor
+gestión del agua urbana debido a las inundaciones causadas en las temporadas de lluvias
+intensas se tomó un registró en el 2016 entre junio y julio en donde 32 millones de personas
+se vieron afectadas por las inundaciones.
+
+El término "ciudades esponja" se propuso por primera vez a principios de la década de
+2000, se refiere a un enfoque de gestión sostenible del agua y se basa en el principio de
+"seis palabras"; infiltrar, detener, almacenar, limpiar, usar y drenar, sin embargo, fue en
+2013 cuando se adoptó ampliamente con referencia a un enfoque integrado de la gestión
+del agua urbana en China y, en 2014 se publica una guía técnica . El Ministerio de Vivienda
+y Desarrollo Rural-Urbano (MHURD), el Ministerio de Finanzas (MOF) y el Ministerio de
+Recursos Hídricos (MWR), quienes crearon el proyecto nacional Sponge City Construction,
+aplican en gran medida un enfoque top-down para la implementación de ciudades esponja
+( Water Cycle Modelling and Management,2017)
+
+China realizó proyectos piloto en 30 ciudades, la mayoría ubicadas en el centro y sur de
+China. Entre las ciudades piloto están incluidas Beijing y Shanghai, estas fueron designadas
+ciudades esponja en dos períodos de selección en 2014 y 2016 (Environmental Science &
+Policy,2018).
+
+Siguiendo el desarrollo de las pautas y el deseo del gobierno de implementar una
+infraestructura urbana sostenible de gestión de inundaciones, el objetivo es que el 20% de
+las ciudades chinas utilicen técnicas modernas de drenaje, integrando infraestructura verde,
+para 2020, y el 80% para 2030 (Science of The Total Environment,2019)
+
+Chile
+
+Desde 1994 a causa de fuertes inundaciones para Chile se implementaron normas de
+diseños en las obras para los sistemas de drenaje urbanos, desde allí se ha hecho un
+avance gradual con los institutos ambientales y leyes que incluyen las medidas
+estructurales y no estructurales propuestas dentro de las prácticas SUDS.
+
+Algunas de las medidas estructurales SUDS fueron recogidas y publicadas, por primera
+vez, por el Ministerio de Vivienda y Urbanismo (MINVU), en 1996, en una guía de diseño
+titulada Técnicas alternativas para soluciones de aguas lluvias en sectores urbanos, esta
+guía contenía aspectos generales del diseño de obras de infiltración y almacenamiento de
+aguas lluvias, presentación de proyectos, así como especificaciones generales de
+construcción y de mantenimiento, en el año 1997, donde se promulgó la Ley 19525 que
+regula los sistemas de evacuación y drenaje de aguas lluvia, donde se establece como
+deber del estado, la existencia de sistemas de evacuación y drenaje de aguas lluvias en las
+ciudades y poblados. Esta ley ayudó a solucionar diversas equivocaciones institucionales y
+técnicas, en cuanto la responsabilidad de los organismos públicos y privados en cuestión
+de drenaje urbano.
+
+Dentro de las mejoras técnicas que se proponen dentro de la ley, esta : vigilar la
+construcción de colectores de aguas lluvias separados de los de aguas servidas; separar
+la red de evacuación y drenaje de aguas lluvias en una red primaria y secundaria
+dependiente de entes públicos independientes; y establecer la responsabilidad privada
+donde los urbanizadores deben ejecutar a su costa, las obras de desagüe de aguas lluvias,
+encauzando así el interés estatal para cumplir estos objetivos propuestos en la ley.
+
+     2.4 Experiencias Nacionales
+
+Para efectos de este capítulo, se entiende por experiencias nacionales tanto la
+infraestructura que se haya construido de SUDS como aquellas inciiativas
+
+Dentro de las experiencias que se han desarrollado en Colombia, de tipo metodológico, se
+destaca la "Guía para la Integración de las Soluciones Basadas en la Naturaleza en la
+Planificación Urbana, elaborada por el Instituto de Investigación de Recursos Biológicos
+Alexander von Humboldt (Figueroa Arango; 2020). En ella, se presenta de forma específica
+los pasos necesarios para apoyar la planificación, el diseño, el monitoreo y la financiación
+de las Soluciones Basadas en la Naturaleza (SBN), con herramientas, enfoques, análisis
+de casos y estudios que soportan su concepción, viabilidad e implementación en las zonas
+urbanas del país.
+
+En varias ciudades del país se ha implementado algún tipo estructural o no estructural de
+SUDS, siendo Bogotá y Medellín con el Valle de Aburrá donde se han presentado mayores
+avances sobre las técnicas utilizadas en la construcción de este tipo de soluciones.
+
+Bogotá:
+
+En los últimos años se ha trabajado en la ejecución de proyectos de drenaje sostenible
+desde la Subdirección para la Reducción del Riesgo y Adaptación al Cambio Climático del
+Instituto Distrital de Gestión de Riesgos y Cambio Climático - IDIGER en el marco de la red
+de conocimiento y fortalecimiento de la relación con la academia y sector público y privado.
+Las investigaciones adelantadas por el Distrito Capital durante más de 3 años para llevar a
+cabo una guía SUDS en Bogotá, llevaron a la expedición de la Norma Técnica de Servicio
+NS-1663 de 2018 y el Decreto 597 de 2018 donde se indica que las actividades4 para el
+desarrollo de este tipo de proyectos debe estar a cargo de la Empresa de Acueducto y
+Alcantarillado de Bogotá (EAAB). Dichas investigaciones se basaron en experiencias
+internacionales para concluir que la tarifa del servicio público de alcantarillado garantiza un
+fondo fijo y permanente para sostenibilidad de los SUDS que se construyan
+(Contextualización RED ­ SUDS; IDIGER 2021).
+
+3 Criterios para el diseño y construcción de Sistemas Urbanos de Drenaje Sostenible
+4 Diseño, construcción, operación y mantenimiento.
+Adicionalmente, el Decreto 555 de 2021 mediante el cual se adopta el Plan de
+Ordenamiento Territorial del Distrito Capital, en el Artículo 86 "Competencias relacionadas
+con elementos que conforman los Sistemas Urbanos de Drenaje Sostenible ­ SUDS se
+establecen las competencias y se determina que en espacio público la responsabilidad
+estará a cargo de la entidad que construya estos sistemas.
+
+Sin embargo, es pertinente adelantar con el Gobierno nacional las acciones que sean
+necesarias para reglamentar la materia y avanzar con la definición de responsabilidades
+tanto de financiación como de construcción de este tipo de sistemas, así como de políticas
+públicas para su implementación.
+
+Medellín y Valle de Aburrá:
+
+Desde el año 2006, en Medellín y en el Valle de Aburrá, la Secretaría del Medio Ambiente
+y Empresas Públicas de Medellín, propusieron unir esfuerzos para la Construcción del Plan
+de Ordenamiento y Manejo de la Cuenca del Río Aburrá ­ POMCA y la Formulación del
+Plan Maestro de Drenaje Urbano a través de la mesa de trabajo interinstitucional con lo
+cual, en el año 2013 se llegó a la firma de un convenio interadministrativo entre estas dos
+entidades que llevó a la contratación de la consultoría para la "Formulación de un plan
+maestro del drenaje urbano para los municipios del Valle de Aburrá y el diseño detallado de
+las obras en una zona piloto localizada en el municipio de Medellín".
+
+Sin embargo, al no obtener los resultados esperados a través de la mencionada consultoría,
+se define quedar a la espera de los lineamientos y política nacional referente al drenaje
+urbano, pero continuando con las mesas de trabajo entre las Secretarias de Infraestructura
+Física, Medio Ambiente, Movilidad y EPM para determinar acciones de mitigación de las
+inundaciones en los deprimidos viales mantenimientos preventivos y correctivos a las
+redes, sumideros y aliviaderos que contribuye el drenaje urbano.
+
+Por ahora, de acuerdo con las directrices nacionales sobre el tema del drenaje urbano y el
+manejo de aguas lluvias en Colombia puede analizarse desde dos perspectivas normativas:
+como un componente del servicio público domiciliario de alcantarillado; y como un
+componente del espacio público urbano. Así mismo, se espera el liderazgo por parte del
+municipio para definir soporte jurídico, institucional y económico debido a que es una
+problemática que involucra muchas instituciones (EPM, 2021).
+
+Diseño conceptual de SUDS para Valledupar:
+
+Estudios como el análisis conceptual que se llevó a cabo para Valledupar, proponen
+instrumentos de uso del suelo en el marco de la implementación y operación de SUDS.
+También se identifica y describe la necesidad de manejar las aguas pluviales desde un
+enfoque diferente al convencional, combinando tanto aspectos ambientales como sociales
+con sistemas de drenaje sostenible, mejores prácticas de manejo y control, buenas
+prácticas ambientales, modelos de desarrollo de bajo impacto y diseño urbano sensible al
+agua, involucrando las diferentes tipologías que puedan ser empleadas en Valledupar,
+como alcorques inundables, cuenca seca de drenaje extendida y tanques de
+almacenamiento y su respectiva propuesta de localización para su construcción y esquema
+de financiación (USAID 2017).
+
+Guapi y San Andrés de Tumaco:
+En un trabajo de consultoría efectuado por parte del Consorcio CONHYDRA e ITAC bajo la
+supervisión del Banco Mundial, se propuso implementar un piloto para "La Gestión Integral
+de Aguas Urbanas con énfasis en los Sistemas Urbanos de Drenaje en los Municipios de
+Guapi y San Andrés de Tumaco". En este estudio se entregaron los análisis de
+prefactibilidad para la implementación del piloto y el desarrollo de las bases para formular
+la planeación, definición, viabilización, desarrollo de planes y/o programas integrales de
+gestión de SUDS en estos municipios.
+
+El resultado para estos municipios permitió identificar que las alternativas de SUDS
+propuestas enmarcadas en las tipologías para la retención, conducción e infiltración, son
+hasta 6 veces más económicas que las alternativas convencionales, evidenciando para el
+caso de San Andrés de Tumaco, la pertinencia de implementar un SUDS en lugar de un
+sistema convencional mediante alcantarillado pluvial. Igualmente se identificó que cualquier
+alternativa de SUDS propuesta es más económica que la alternativa de solución
+convencional. Respecto a la financiación, por ejemplo, para San Andrés de Tumaco, según
+el presupuesto destinado para la atención y prevención de riesgos y desastres, cuenta con
+la asignación presupuestal para la construcción de SUDS propuestos como alternativa de
+drenaje urbano y para asumir la operación y mantenimiento, sin necesidad de recurrir a
+fuentes de financiación externas.
+
+Finalmente se concluyó que las alternativas de SUDS formuladas son viables, por lo que
+se recomendó continuar con la fase de factibilidad y diseños finales para implementar las
+soluciones de SUDS planteadas en estos municipios. Se recomienda tener en cuenta los
+siguientes puntos para el desarrollo de los proyectos (CONHYDRA e ITAC, 2018):
+
+     Recolección y validación de la información para el diagnóstico
+     Identificación y confirmación de actores de forma abierta e incluyente.
+     Actualización del POMCA y el POT
+
+Iniciativa del Gobierno nacional:
+
+Por su parte desde el Gobierno nacional, se estructuraron los procedimientos para la
+construcción de proyectos tipo con los lineamientos para la implementación de SUDS,
+incluyendo los requerimientos mínimos para el diseño de sistemas de captación y retención
+de agua para gestionar eficientemente la escorrentía superficial de lluvia. Esta alternativa
+de solución está diseñada cumpliendo con las indicaciones dadas por el Ministerio de
+Ambiente y Desarrollo Sostenible, el Ministerio de Vivienda Ciudad y Territorio y la
+orientación de Deutshe Gesselshaft Für Internationale Zusarmmenarbeit (GIZ) GmbH para
+este tipo de intervenciones. Así mismo, se pretende aportar una alternativa de solución,
+agilizando las tareas de formulación y diseño, generando ahorros en costos y tiempo,
+mejorar los procesos de diseño, mediante la definición y desarrollo de los aspectos técnicos
+esenciales necesarios para la ejecución de este tipo de proyectos y guiar a las Entidades
+en las actividades de formulación y estructuración de proyectos para contribuir al
+fortalecimiento de los procesos de gestión de recursos públicos (50 Lineamientos para el
+diseño de SUDS, DNP 2018). Esta iniciativa se propuso en el año 2018 y actualmente se
+adelantan las gestiones desde el Gobierno nacional para su implementación, buscando
+avanzar de manera guiada en la formulación y estructuración del proyecto, a fin de lograr
+su financiación y ejecución.
+    3. SISTEMAS URBANOS DE DRENAJE SOSTENIBLE - SUDS
+
+     3.1 Definición
+
+La expansión urbana, es la mayor responsable de los cambios morfológicos sobre una
+cuenca hidrográfica por las alteraciones que esta realiza sobre el suelo, generando como
+mayor afectación la impermeabilización del mismo. Generalmente las aguas de
+escorrentías en las grandes urbes son canalizadas a través de sistemas de drenaje
+convencionales hasta cuerpos de agua receptores, no obstante, esta técnica puede tener
+efectos contrarios en términos de calidad y cantidad de los cuerpos de agua y limita los
+procesos de infiltración que deberían darse naturalmente, disminuyendo así la recarga de
+acuíferos.
+
+Con la finalidad de mitigar estos impactos sobre el recurso hídrico y medio ambiente en
+general, es necesario que desde los grandes asentamientos urbanos se implementen
+estrategias para el manejo de escorrentías sostenibles, capaces de, además de disminuir
+los caudales picos de escorrentías por eventos extremos, aumentar la capacidad de
+infiltración favoreciendo el desarrollo de procesos hídricos naturales.
+
+Como parte de dichas estrategias surgen los Sistemas Urbanos de Drenaje Sostenible
+(SUDS), los cuales son reconocidos como sistemas para la gestión alternativa del agua de
+escorrentía superficial, que permiten, mediante estrategias e infraestructura
+complementaria, reproducir, de la manera más aproximada posible, el ciclo hidrológico
+natural, mitigando así los efectos negativos que, tanto las variaciones de factores
+climatológicos como los procesos de urbanización, tienen sobre las características
+morfológicas de la cuenca y sobre el comportamiento hidrológico.
+Otros términos utilizados para referirse a formas de gestionar las aguas lluvias, como parte
+de las estrategias de adaptación al cambio climático, y que se encuentran orientadas a
+disminuir la escorrentía y mantener las condiciones hidrológicas previas a la urbanización,
+son (UNIANDES, EAAB, & SDA, 2017):
+
+     Low Impact Develpment (LID), desarrollo de bajo impacto en español. Busca
+         minimizar costos de manejo de la escorrentía
+
+     Water-Sensitive Urban Design (WSUD), diseño urbano sensible al agua en español.
+         Orientado a la integración de corredores y tratamiento de escorrentía con paisaje y
+         recreación
+
+     Integrated Urban Water Management (IUWM), manejo integrado del agua urbana.
+         Orientado a la integración de los ciclos natural y urbano del agua superficial y
+         urbana, considerando las condiciones del entorno, aspectos ambientales y
+         socioeconómicos y culturales
+
+     Stormwater Control Measures (SCM), medidas de control de aguas de escorrentía.
+         Busca implementar medidas de control de la escorrentía
+
+     Green Infrastucture (GI), infraestructura verde. Fomenta la construcción de
+         corredores verdes para máximos beneficios en servicios ecosistémicos.
+
+En línea con lo anterior, los SUDS, entendidos como una solución sostenible para la gestión
+de aguas lluvias en contextos urbanos, hace parte de las denominadas Soluciones Basadas
+en la Naturaleza (SBN). Las mismas pueden ser definidas como "Acciones para proteger,
+gestionar de forma sostenible y restaurar ecosistemas naturales o modificados, que
+abordan los desafíos sociales de manera efectiva y adaptativa, proporcionando
+simultáneamente bienestar humano y beneficios para la biodiversidad, con el cambio
+climático, la seguridad alimentaria, los riesgos de desastres, la seguridad hídrica, el
+desarrollo social y económico y la salud humana son los desafíos sociales comunes"
+(cohen-shacham et al. 2016)5. Es así como, las SBN aportan soluciones de gestión territorial
+y urbana frente a los grandes retos de las sociedades, entre ellos el cambio climático, la
+gestión del recurso hídrico, gestión del riesgo de desastres y la calidad del aire y el
+saneamiento básico, a través de soluciones medibles, replicables y escalables (CONAMA;
+2018).
+
+     3.2 Objetivos de los SUDS
+
+La decisión de implementar SUDS, está asociada a lo que se quiera hacer con las aguas
+lluvias de la ciudad o de un área específica. Ese manejo del agua de escorrentía superficial
+debe estar orientado a maximizar sus beneficios. Los beneficios puntualmente se
+relacionan con la provisión de servicios ecosistémicos traducidos a beneficios al ser
+humano y que provienen de los recursos naturales, cuya clasificación puede hacerse en 4
+grupos como son los servicios: provisión, regulación, culturales y de soporte. Dependiendo
+del tipo de beneficios, así mismo se definen los objetivos del manejo alternativo que se dé
+a través de los SUDS para las aguas lluvias. Entre ellos se encuentran: i) regulación de
+cantidad de agua ii) mejoramiento de la calidad de agua, iii) aprovechamiento para
+actividades recreativas o de confort, iv) preservación de la biodiversidad o el v) reúso de
+aguas lluvias. (B Woods Ballard, S Wilson, H Udale-Clarke, S Illman, T Scott, R Ashley, R
+Kellagher, 2015)
+
+Además del objetivo de regulación y minimización de inundaciones, existen una serie de
+beneficios generales sobre la vida y la cotidianidad de la población, donde la creación de
+espacios adecuados para la naturaleza, para la gente y la disminución de la contaminación,
+son factores clave para tener en cuenta la incorporación de los SUDS en el paisaje urbano
+y los sistemas de manejo de drenaje.
+
+Los criterios y objetivos relevantes para SUDS se pueden establecer a través de los
+instrumentos de planificación y a través de la aplicación de lineamientos para el manejo de
+drenaje (B Woods Ballard, S Wilson, H Udale-Clarke, S Illman, T Scott, R Ashley, R
+Kellagher, 2015).
+
+Es así como los SUDS pueden estar orientados a uno o varios objetivos. Esto determina el
+tipo de estructura o de medida que se debe diseñar, la cual funcionará de manera
+complementaria al sistema convencional mediante el cual se esté manejando el agua de
+escorrentía en el municipio.
+
+En línea con el enfoque planteado en el Plan Integral de Gestión del Cambio Climático
+Sectorial PIGCCS y las metas establecidas en la Ley 2169 de 2021 en materia de medidas
+de adaptación a 2030 para el sector Vivienda, Ciudad y Territorio, en este documento el
+énfasis se hará en el objetivo de regulación de cantidad de agua, identificando los SUDS
+como medida de adaptación al cambio climático y gestión del riesgo de desastres,
+específicamente, reducción de riesgo de inundaciones.
+
+5 "Soluciones Basadas en la Naturaleza para Abordar los Desafíos Sociales Globales", publicado en el año 2016, bajo el
+respaldo de la Unión Internacional para la Conservación de la Naturaleza (UICN) y la Comisión Mundial de Áreas
+Protegidas (WCPA)
+     3.3 SUDS y la planificación urbana
+Debido a sus características, es indispensable tener en cuenta la s integración paisajística.
+.
+Más allá de identificar la biodiversidad dentro de las ciudades, se requiere construir
+enfoques que permitan la comprensión de la dinámicaentre la biodiversidad y la
+infraestructura en las zonas urbanas.
+Dentro de los desafíos urbanos se encuentra el sector de agua, como eje de intervención,
+en la cual se recomienda la atención de problemas de seguridad hídrica, sedimentación e
+inundaciones, que pueden ser solucionados mediante SBN, por medio de gestión y
+desarrollo de áreas protegidas cerca de los centros urbanos con zonas de amortiguación
+gestionadas integralmente, la restauración y/o reforestación en cuencas urbanas, la gestión
+de parques con superficies permeables y drenajes sostenibles; y el aumento de las
+superficies de zonas permeables en la ciudad para reducir la escorrentía.(Figueroa-Arango,
+2020)
+
+Ilustración 1. Elementos de la Infraestructura verde que configuran las (SBN) urbanas y periurbanas
+
+                                                   Fuente: (Figueroa Arango; 2020).
+
+La Guía para la Integración de las Soluciones Basadas en la Naturaleza en la Planificación
+Urbana sugiere un orden lógico de ejecución de las (SBN) en 7 pasos, los cuales presentan
+un interesante desarrollo a partir del conocimiento de las condiciones de urbanización, el
+ordenamiento territorial y el análisis de recursos:
+
+      Tabla 1. Pasos para la incorporación de SBN en la planificación urbana
+
+Paso    Pregunta        Aspecto      Objetivo                   Recursos                     Resultados
+  1   Orientadora                                                                             esperados
+                     Identificación  Identificar aquellas     - Ordenamiento
+  2   ¿Dónde están   de la oferta y  áreas con coberturas     territorial,             1. Un mapa con la
+         las áreas   las             naturales que ya         - Recopilación de        identificación de la
+                     oportunidades   existían antes del       información,             oferta de naturaleza y
+       disponibles?  para la         desarrollo urbano o      - Cartografía y GIS,     las oportunidades por
+                     naturaleza en   que fueron planeadas,    - SBN actuales y         medio del uso de
+                     los espacios    diseñadas y/o            potenciales usos,        diferentes capas de
+                     urbano y        surgieron                - Estructuras            información y de
+                     periurbano.     espontáneamente a        ecológicas,              fuentes secundarias.
+                                     escala de barrio.                                 2. Un documento
+                                                                                       narrativo que explique
+      ¿Qué necesita  Identificación  Identificar              -Información primaria y  los siguientes
+        la ciudad y  de las          espacialmente los        secundaria,              aspectos
+          dónde?     necesidades     desafíos urbanos,        -Mapas de fuentes
+                     urbanas que     como inundaciones,       hídricas urbanas con     1. Un documento
+                     se pueden       sequías, islas de        riesgos de               narrativo que analiza
+                     satisfacer por  calor, contaminación     contaminación y          los desafíos que
+                     medio de        de las fuentes hídricas  vertimientos,            puedan ser mejorados
+                     SBN.            y del aire, la falta de  - Mapa de                por medio de SBN en
+                                     acceso a espacio         encharcamientos,         los contextos urbano
+                                     público con zonas        - Mapa de                y periurbano.
+                                     verdes y la pérdida de   inundaciones,            2. Un mapa en el que
+                                     hábitat, entre otros     - Análisis y             se visualicen los
+                                     temas de diferentes      visualización,           desafíos urbanos
+                                     sectores                 - Índice de Calidad
+                                                              Ambiental Urbana
+                                                              (ICAU) y las
+                                                              necesidades urbanas
+                                                              de naturaleza,
+                                                              - Servicios
+                                                              ecosistémicos urbanos:
+                                                              análisis de las
+                                                              necesidades urbanas,
+
+3     ¿Cómo será la Identificación Identificación de          - Identificación de      1. Documento
+
+      ciudad en el del papel de la diferentes escenarios metas                         narrativo que
+
+      futuro?        naturaleza en prospectivos para la transformacionales de contenga una visión
+
+                     los escenarios ciudad, con el fin de largo plazo,                 del paisaje de la
+
+                     del desarrollo facilitar la              - Análisis de la huella  ciudad a futuro,
+
+                     futuro de la    identificación de áreas urbana,                   2. Información
+
+                     ciudad.         naturales,               - Diagrama de flujo ­    cartográfica que
+
+                                     seminaturales o          visión del paisaje,      evidencie zonas
+
+                                     diseñadas, específicas - Escenarios actuales y naturales
+
+                                     de la ciudad,            futuros,                 estratégicas,
+
+                                                              - Articulación de futuras 3. Documento que
+
+                                                              SNB en el                soporte y explique la
+
+                                                              ordenamiento territorial. información, las
+
+                                                              - Escenarios y la visión herramientas y los
+
+                                                              paisajística de las SBN análisis realizados
+
+                                                              de la ciudad a futuro,
+
+4     ¿Qué           Priorización    El objetivo de este Priorización de               Documento narrativo
+
+      priorizar?     de las          paso es priorizar las intervenciones actuales que describa el
+
+                     opciones para   áreas donde es           y futuras,               proceso de análisis de
+
+                     el diseño y la posible implementar Determinantes                  la combinación de los
+
+                     implementació SBN, con base en su ambientales en el               pasos.
+
+                     n de SBN en     disponibilidad y         ordenamiento territorial, Información
+
+                     las áreas       considerando lo que la Usos actuales y            cartográfica que
+
+                     urbana y        ciudad necesita          potenciales,             evidencie de forma
+
+                     periurbana.D
+Paso    Pregunta      Aspecto                Objetivo                  Recursos                  Resultados
+  5   Orientadora                                                                                 esperados
+  6                                   actualmente y en el     Beneficios de                clara las áreas
+  7      ¿Cuáles                              futuro.         implementación,              priorizadas.
+      elementos se                                            Portafolio SBN y             Informe con los
+                                                              satisfacción de              resultados de las
+           deben                                              necesidades,                 observaciones de las
+      priorizar para                                          Inclusión en                 visitas de campo a las
+                                                              ordenamiento territorial     zonas priorizadas y el
+         el diseño                                            y planes de manejo           análisis general de las
+      multifuncional                                          ambiental.                   disposiciones de
+                                                                                           ordenamiento
+              ?       Elementos       Definir una serie de    Contexto social y            territorial sobre las
+                      para            elementos esenciales    ambiental en la zona de      mismas, con el fin de
+          ¿Cómo       potencializar   para potencializar el   intervención: talleres,      identificar la viabilidad
+       financiar las  el diseño       diseño multifuncional   mesas, percepción,           de posibles
+                      multifuncional  de las SBN              cartografía social,          intervenciones.
+           SBN?       de las SBN.     priorizadas             Condiciones y potencial      Recomendaciones
+                                                              de intervención,             para el diseño de
+      ¿Cómo hacer     Identificación  Proporcionar una serie  Tipologías SBN               cada una de las áreas
+       monitoreo y    de estrategias  de herramientas y       priorizadas,                 priorizadas en el paso
+      seguimiento?    de              opciones para el        Resiliencia, cambio y        4, relacionadas con
+                      financiamiento  financiamiento de las   variabilidad climática       los cuatro factores
+                      para las SBN.   SBN.                    Los SUDS como                para asegurar la
+                                                              estrategias para la          multifuncionalidad
+                                                              reducción de
+                                                              inundaciones urbanas         Identificación de
+                                                                                           mecanismos para
+                                                              Identificación de            financiar las opciones
+                                                              oportunidades con            priorizadas, para cada
+                                                              fondos públicos,             una de ellas o por
+                                                              Fuentes externas de          grupo de
+                                                              financiación,                intervenciones. Es
+                                                              Gestión del riesgo,          probable que para
+                                                              Manejo de espacio            muchas de estas
+                                                              público,                     intervenciones se
+                                                              Paisajismo,                  encuentre
+                                                              Zonas protegidas             financiamiento en el
+                                                              urbanas,                     presupuesto de la
+                                                              Manuales para el             ciudad, en otros
+                                                              diseño de parques y          casos se tendrá que
+                                                              áreas verdes urbanas.        optar por estrategias
+                                                                                           diferentes.
+                      Identificación En el contexto de        Mejoramiento de las          selección de una
+                                                                                           batería de indicadores
+                      de opciones cada ciudad, los            condiciones y del            que respondan a los
+                                                                                           marcos regulatorios y
+                      para la         indicadores se          potencial ecológico,         de política y que den
+                                                                                           cuenta de los
+                      evaluación y construyen teniendo Integración de los                  beneficios de la
+                                                                                           multifuncionalidad de
+                      el monitoreo como referencia las        ciudadanos en el             las SBN para las
+                                                                                           ciudades, en términos
+                      de las SBN.     metas del               diseño y el manejo de        ambientales, sociales
+                                                                                           y económicos.
+                                      ordenamiento            las SBN,
+
+                                      territorial, así como las Distribución equitativa y
+
+                                      metas de los planes     acceso a las áreas
+                                      de Gobierno de los      verdes,
+
+                                      alcaldes de turno y     Inversión pública para
+
+                                      otros planes vigentes. las SBN,
+
+                                                              Cobeneficios
+
+                                                              sectoriales
+
+                                                              Salud y bienestar,
+
+                                                              Integración del sector
+
+                                                              privado en la
+
+                                                              implementación de las
+                                                              SBN.
+
+                                   Fuente: (Figueroa Arango; 2020).
+Se recomienda diseñar y costruir tipologìas de SUDS con áreas verdes en zonas
+susceptibles a la inundación, de tal manera que permitan almacenar el agua, reducir la
+escorrentía urbana y los riesgos por inundaciones, acompañado con vegetación natural,
+combinados con una selección de plantas favorables a la infiltración, así como estrategias
+de diseño y elementos del espacio público que favorezcan permeabilidad del suelo
+(Figueroa Arango; 2020).
+
+Esto se encuentra alineado con lo que se plantea en el Manual de Construcción Sostenible
+del Distrito de Santiago de Cali, en donde resaltan que el diseño de las áreas comunes
+puede contribuir simultáneamente al manejo del agua pluvial y a la generación de
+amenidad. En esta medida a través del diseño estas áreas pueden contribuir a la educación,
+recreación, seguridad, relaciones públicas y riqueza estética (Echols & Pennypacker, 2008).
+Las estrategias de diseño que pueden contribuir a estos objetivos incluyen la creación de
+espacios que hagan visible el ciclo del agua, permitan la reunión de personas y donde la
+interacción sea posible. Esto implica disponer elementos para tener contacto directo o
+indirecto con el agua, así como para garantizar que este contacto sea seguro a través del
+control de la cantidad y la calidad de la escorrentía ( (B Woods Ballard, S Wilson, H Udale-
+Clarke, S Illman, T Scott, R Ashley, R Kellagher, 2015); Echols & Pennypacker, 2008)
+(Manual de Construcción Sostenible del Distrito de Santiago de Cali)
+
+     3.4 Clasificación de SUDS
+
+Si bien los SUDS constituyen una alternativa sostenible para el manejo de la escorrentía,
+la selección del tipo de estructura depende, no solo del objetivo para el cual se quieren
+implementar, es decir, para amortiguación de picos de escorrentía o para mejoramiento de
+la calidad de agua, sino de otro tipo de características, las cuales permiten a su vez
+clasificarlos.
+
+En cualquier caso, el esquema elegido para SUDS, debe articularse con los objetivos
+estratégicos de la gestión del recurso hídrico y las características propias del sitio donde se
+va a desarrollar. (Manual de SUDS (Woods-Ballard et al., 2007))
+
+Así las cosas, se pueden clasificar según el objetivo, el mecanismo con el que operan o las
+características del sitio en donde van a ser implementados. Esto último, para efectos de
+este documento será la escala del proyecto o área en la cual se quiere gestionar las aguas
+lluvias.
+
+    3.4.1 Según el objetivo
+
+Los SUDS pueden estar orientados a cumplir uno o varios objetivos: i) regulación de
+cantidad de agua ii) mejoramiento de la calidad de agua, iii) reúso de aguas lluvias, iv)
+aprovechamiento para actividades recreativas o de confort, v) preservación de la
+biodiversidad. Una breve descripción se presenta a continuación.
+
+    3.4.1.1 Regulación de cantidad de agua
+Busca amortiguar los picos de escorrentía que normalmente, durante y después de un
+evento de precipitación, son descargados directamente a los cuerpos de agua o al sistema
+de alcantarillado convencional. Cuando se planifican SUDS con objetivos de regulación de
+cantidad de agua el propósito es evitar que los sistemas de manejo de aguas lluvias
+colapsen y se presenten inundaciones.
+
+    3.4.1.2 Mejoramiento de la calidad de agua.
+
+Diferentes tipologías pueden estar orientadas a este objetivo. El propósito es mejorar la
+calidad de agua de escorrentía, minimizando así el riesgo de aportar contaminación a los
+cuerpos de agua y evitar sedimentos en las redes y otras estructuras que componen los
+sistemas de alcantarillado convencional.
+
+    3.4.1.3 Reúso de aguas lluvias
+
+En línea con el objetivo de mejoramiento de la calidad de agua, los SUDS pueden ser
+diseñados con el objetivo de reutilizar las aguas lluvias para otros propósitos diferentes al
+consumo humano como son el riego de zonas verdes o actividades domésticas de lavado
+de zonas comunes, entre otras. En cualquier caso, deberá tenerse en cuenta la
+normatividad existente para reúso de aguas.
+
+    3.4.1.4 Aprovechamiento para actividades recreativas o de confort
+
+Algunas tipologías de SUDS, a partir de adecuaciones paisajísticas e instalación de
+vegetación, habilitan áreas para realizar actividades recreativas y de amenidad al mismo
+tiempo que cumplen un propósito de control de volúmenes o mejoramiento de la calidad de
+agua de escorrentía. Ejemplo de estos son zonas inundables que sirven a su vez como
+parques.
+
+    3.4.1.5 Preservación de la biodiversidad
+
+Es posible implementar sistemas urbanos de drenaje sostenible en áreas inmersas en la
+malla urbana en donde existían ecosistemas que puedan ser restaurados. Las tipologías
+más utilizadas para este objetivo son las que utilizan vegetación o las que funcionan a partir
+de detención de agua. Ejemplos de estos son las áreas de biorretención, cunetas verdes,
+humedales, bien sean naturales o artificiales e incluso los jardines de lluvia.
+
+    3.4.2 Según el mecanismo de funcionamiento de SUDS
+Además de las escalas en las cuales se implementa, los SUDS se clasifican dependiendo
+del tipo de mecanismo que utilizan, el cual puede ser: i) detención o ii) infiltración. En ambos
+casos, bien sea por medio de tuberías y canalizaciones estructuradas o mediante
+adecuaciones de terreno de menor magnitud, los SUDS requieren de sistemas o estructuras
+de transporte, que permitan conducir la escorrentía a los lugares en donde se localizan
+(donde se realizará la detención o la infiltración).
+    3.4.2.1 Detención
+En este caso, el agua de escorrentía se detiene, bien sea para ser almacenada y reutilizada
+en otras actividades, o para ser detenida por un período de tiempo y descargada
+posteriormente a la infraestructura de alcantarillado pluvial o a un cuerpo de agua.
+
+    3.4.2.2 Infiltración
+Como su nombre lo indica, estos SUDS infiltran el agua de escorrentía superficial en el
+subsuelo. Los SUDS con base en mecanismos de infiltración, pueden contribuir a reducir
+las tasa y volúmenes de escorrentía, al igual que soporta procesos de recarga de aguas
+subterráneas y flujos de base, la velocidad a la que puede infiltrarse el agua depende de la
+capacidad de infiltración o permeabilidad de los suelos alrededor. (Manual de Construcción
+Sostenible del Distrito de Santiago de Cali). Para la elección de estas tipologías, se requiere
+seleccionar lugares adecuados para infiltraciones y libres de contaminación (Manual de
+SUDS (Woods-Ballard et al., 2007))
+
+    3.4.3 Según escala del proyecto de SUDS
+Tal como se mencionó anteriormente, los SUDS también pueden ser clasificados según las
+características propias del sitio donde se van a construir, denominado en este documento
+como la escala del proyecto o área para la cual se implementan. El Manual de SUDS
+(Woods-Ballard et al., 2007) presenta nueve tipologías como se muestran en la gráfica XX
+y se mencionan a continuación.
+
+            Ilustración 2. ¿Cómo pueden coexistir las diferentes tipologías en el área urbana?
+
+                                                  Fuente: Woods-Ballard et al., 2007
+
+    1. Pequeño relleno residencial: para viviendas de baja densidad con disponibilidad de
+         espacio moderado, uso en jardines delanteros y traseros, y parqueaderos.
+    2. Relleno residencial medio: para viviendas de densidad media tipo dúplex, de
+         máximo 3 pisos; puede combinarse con jardines comunitarios y parqueaderos sobre
+         la calle.
+
+    3. Uso mixto: para viviendas de densidad moderada a alta, en el centro de la ciudad,
+         en espacios comerciales de niveles inferiores y combinados con terraza o jardín en
+         los superiores.
+
+    4. Zona pública: ubicados en el centro de la ciudad, proporcionando espacios
+         comunitarios para función social; pueden ser plazas duras o blandas, asociadas con
+         zonas verdes urbanas y deben adaptarse a un número variable de personas.
+
+    5. Espacio público transitorio: ubicados en el centro de la ciudad y dominado por los
+         requisitos de acceso; debe permitir una integración eficiente y efectiva de SUDS,
+         incluso en espacios más pequeños.
+
+    6. Espacios elevados: sobre el nivel del suelo, desde paredes y techos verdes hasta
+         cubiertas de servicios asociados con desarrollos residenciales y de uso mixto.
+
+    7. Calle de barrio: calles en el centro de la ciudad en zonas residenciales,
+         frecuentemente con disponibilidad de espacio restringida; puede incluir
+         parqueaderos, paraderos, accesos, recolección de residuos y reglas claras frente a
+         lo privado y lo público.
+
+    8. Calle cívica: ubicadas en el centro de la ciudad con función comunitaria dentro de
+         un entorno comercia, muestra la combinación de SUDS con espacios ciudadanos
+         flexibles.
+
+    9. Vía verde: cuenta con corredores verdes al interior de la ciudad y rutas de
+         infraestructura histórica en desuso que se convierten en vías clave para peatones y
+         ciclistas; espacios sociales y biodiversos valiosos que conectan la ciudad, lejos de
+         las áreas urbanizadas, el tráfico y las multitudes.
+
+Por su configuración, forma de funcionamiento y localización, en este documento se hace
+referencia a la utilización de los SUDS a escala de: i) vivienda o edificio; ii) barrio o
+urbanización y, iii) ciudad. En las tres escalas, el SUDS puede estar constituido por un solo
+tipo de estructura o combinar varios, conformando lo que se denominaría un tren de manejo
+de aguas lluvias.
+
+    3.4.3.1 Escala de vivienda o edificio
+
+La escala de vivienda permite aprovechar el agua lluvia que puede ser captada en las
+superficies de edificios o viviendas en usos domésticos diferentes al consumo humano. Esto
+puede ser, riego de plantas, aseo de áreas comunes o descargas en los sanitarios, entre
+otras actividades que no requieran agua potable. Así mismo, puede tener otros beneficios
+para los edificios y viviendas en materia eficiencia energética.
+
+    3.4.3.2 Escala de barrio o urbanización
+
+Cuando se habla de escala de barrio o urbanización (abiertas o cerradas), el área para la
+cual se quiere dar manejo sostenible de aguas lluvias es mayor que la de las soluciones
+para vivienda o edificio. Los tipos de SUDS pueden estar localizados en urbanizaciones o
+barrios, debido al mecanismo de funcionamiento y la configuración que tienen, pueden
+requerir mayor área para su construcción y tener mayor exigencia en cuanto al
+mantenimiento. Así mismo, pueden estar o no conectados a la infraestructura existente del
+alcantarillado pluvial. Esto último tiene una incidencia en el tipo de actividades y
+responsabilidad del mantenimiento.
+
+    3.4.3.3 Escala de ciudad
+
+Los SUDS de escala de ciudad sirven a un área mayor, constituyen un complemento a las
+redes de alcantarillado pluvial que normalmente conforman el sistema de manejo de aguas
+lluvias en nuestras ciudades y se caracterizan por estar inmersos o hacer parte del espacio
+público. Pueden estar o no conectados a la infraestructura existente del alcantarillado
+pluvial. Los requerimientos de área pueden ser superiores a los de las escalas anteriores
+y, así mismo, las necesidades de mantenimiento.
+
+     3.5 Tipología de SUDS
+
+Como se mencionó en el alcance de la Guía, este documento no constituye un manual de
+diseño debido a que ya existe un desarrollo amplio en ese sentido por parte de la academia,
+empresas de servicios públicos y consultorías específicas en el tema, lo cual se puede
+consultar en la bibliografía. En este sentido, a continuación, se presenta una descripción
+general de las tipologías de SUDS más comunes identificadas y que serán tomadas como
+base para el trabajo posterior intersectorial de análisis de actores involucrados y
+responsabilidades de financiación y mantenimiento de sistemas como los SUDS.
+
+    3.5.1 Jardín Microcuenca
+Son jardines con un nivel inferior al de las superficies adyacentes para captar agua de lluvia.
+Las microcuencas pueden construirse en espacios contenidos o extenderse
+longitudinalmente para formar canales de retención e infiltración de agua pluvial. Dentro de
+los beneficios se tiene:
+
+     Técnica de más bajo costo.
+     De fácil construcción y no requieren de conocimiento técnico especializado.
+     Se puede diseñar un conjunto de microcuencas de atractivo paisajístico.
+
+                                          Ilustración 3. Jardín de Microcuenca
+                                                         Fuente: Hermosillo, 2017
+
+    3.5.2 Jardín de Lluvia
+Son jardines con un nivel inferior al de las superficies adyacentes para captar agua de lluvia,
+con una capacidad de captación mayor que la de un Jardín Microcuenca, toda vez que
+cuentan además con capas permeables en niveles inferiores.
+
+Llamados también jardines de bioretención, pueden depurar el agua de lluvia mediante la
+fijación de contaminantes, a través de mecanismos físicos, químicos y biológicos una vez
+que el agua ha penetrado las capas superiores.
+
+Pueden proveer beneficios adicionales como mejora del hábitat y biodiversidad, y control
+del microclima. Está tipología se compone de suelo mejorado sobre el cual se dispone
+vegetación y un sistema de salida para el manejo de excesos. Puede incluir capas
+subterráneas de drenaje de acuerdo con la tasa de infiltración. Las cuales corresponden a
+una capa de transición o geotextil y una capa de drenaje en la que se disponen tuberías
+perforadas conectadas al sistema de salida (CIRIA Norfolk Country Council, 2015). Deben
+emplearse tuberías de limpieza para facilitar el mantenimiento e inspección del sistema.
+(Manual de construcción sostenible del Distrito de Santiago de Cali)
+
+Es posible instalar tuberías perforadas en las capas drenantes que permiten transportar el
+agua a otra locación o a un sistema de almacenamiento para su posterior aprovechamiento.
+Dentro de los beneficios encontramos:
+
+     Mayor capacidad de captación y mejoramiento en la calidad de agua antes de su
+         infiltración.
+
+     Se puede desarrollar de forma modular con medidas estándares.
+     Brindan una mejora a la imagen urbana.
+
+                                               Ilustración 4. Jardín de Lluvia
+                                                         Fuente: Hermosillo, 2017
+
+    3.5.3 Pozo de infiltración
+Son excavaciones que tienen la función de aumentar y acelerar la infiltración de agua pluvial
+al subsuelo. Estos pozos pueden construirse con muros de mampostería de forma que
+presenten orificios o bien de concreto con características de permeabilidad a base de
+agujeros en su estructura.
+
+Otra técnica constructiva, es la de excavaciones sin revestimiento, la cual requiere
+rellenarlos con materiales de alta permeabilidad, que contribuyan a mantener la estabilidad
+estructural de las paredes. Dentro de los beneficios podemos mencionar:
+
+     No ocupan espacio superficial.
+     Pueden penetrar capas de suelo impermeables.
+
+                                             Ilustración 5. Pozo de infiltración
+                                                         Fuente: Hermosillo, 2017
+
+    3.5.4 Zanja-Bordo
+Se trata de una zanja acompañada de un bordo o borde que se sitúa de manera inclinada
+abajo de ésta y puede utilizarse en cualquier terreno con pendiente. También pueden ser
+estructuras conformadas por bordos y microcuencas dispuestas en formas semicirculares
+y diseñadas para captar y retener volúmenes de aguas pluviales de baja a moderada
+velocidad. Dentro de los beneficios se tiene:
+
+     Fácil construcción y operación.
+     Económico.
+     Los bordos pueden servir como senderos.
+     Útiles en restauración de laderas y cañadas.
+
+                                                 Ilustración 6. Zanja-Bordo
+
+                                                         Fuente: Hermosillo, 2017
+
+    3.5.5 Separadores con zanjas filtrantes o canales vegetados
+Los canales vegetados corresponden a cunetas poco profundas que se emplean para
+conducir, tratar y atenuar la escorrentía superficial. Sus características pueden variar de
+acuerdo con el sitio y los objetivos de diseño (CIRIA Norfolk Country Council, 2015).
+Cuentan con vegetación, para tratar la escorrentía y reducir su velocidad, y pueden incluir
+barreras de detención cuando las pendientes son altas (i.e., mayores a 0.02 m/m) (Centro
+de Investigaciones en Ingeniería Ambiental (CIIA). Universidad de los Andes, 2017a; CIRIA
+Norfolk Country Council, 2015).
+Si la pendiente es muy baja se recomienda el uso de tuberías perforadas para evitar el
+estancamiento del agua. La escorrentía puede ingresar a través de una tubería, en cuyo
+caso se recomienda utilizar un enrocado para evitar la erosión, o de forma difusa. En caso
+de que ingrese de forma difusa es recomendable colocar franjas filtrantes paralelas al canal
+(Centro de Investigaciones en Ingeniería Ambiental (CIIA). Universidad de los Andes,
+2017a) (Manual de Construcción Sostenible del Distrito de Santiago de Cali)
+
+    3.5.6 Cuenca seca de drenaje extendido
+Esta tipología está conformada por una extensión de terreno que se encuentra por debajo
+del nivel de vías y demás estructuras urbanísticas. Este sistema busca simular el
+comportamiento natural de una cuenca, de forma tal que, el agua captada del fenómeno de
+escorrentía ocurrido durante la precipitación sea almacenada, y posteriormente infiltrada,
+evaporada o evacuada. Este tipo de SUDS se caracterizan por requerir grandes
+extensiones de terreno comparado con otras tipologías.
+
+Este tipo de soluciones, para la conformación de la cuenca requieren de elementos
+adicionales para su funcionamiento como, estructuras de captación, canales para el
+direccionamiento del flujo, cámaras y taludes. Adicionalmente requieren para la
+conformación materiales granulares que faciliten la infiltración y que a su vez permitan el
+desarrollo de diseños paisajísticos que puedan ser aprovechables cuando la cuenca se
+encuentre seca.
+
+                                         Ilustración 7. Cuenca seca de drenaje
+
+                                                            Fuente: EAAB, 2020
+
+    3.5.7 Drenaje Francés
+Consiste en una zanja rellena de rocas que permite la infiltración de agua pluvial a través
+de sus lados, fondo y extremos. También puede servir para recolectar y conducir el agua,
+realizando infiltración durante su transporte.
+
+Por estar relleno de rocas, tiene una captación de agua del 40 % del volumen total de la
+capa drenante. Sin embargo, se puede equipar de una tubería perforada para aumentar la
+capacidad de captación y/o para mejorar el flujo cuando se busca conducir agua. Entro de
+los beneficios se presentan:
+
+     Protegen las edificaciones de humedad.
+     Puede transportar o permitir el acceso de agua entre otras técnicas utilizadas.
+     Si el espacio es limitado, pueden extender la capacidad de captación de otras
+     técnicas.
+     Pueden diseñarse para no ocupar área superficial o un área muy reducida.
+                 Ilustración 8. Drenaje Francés
+
+                 Fuente: Hermosillo, 2017
+
+3.5.8 Humedales
+
+Los humedales son ecosistemas con características terrestres y acuáticas, normalmente
+de baja profundidad. Son de alta importancia por su riqueza biótica y los procesos
+hidrobiológicos que en ellos tienen lugar. Son proveedores importantes de servicios
+ecosistémicos directos como aprovisionamiento y regulación y los indirectos como los de
+cultura y recreación y, servicios de apoyo. La Convención Ramsar y, a partir de ella la
+Política Nacional de Humedales, adopta la siguiente definición: "son humedales las
+extensiones de marismas, pantanos y turberas, o superficies cubiertas de aguas, sean
+éstas de régimen natural o artificial, permanentes o temporales, estancadas o corrientes,
+dulces, salobres o saladas, incluidas las extensiones de agua marina cuya profundidad en
+marea baja no exceda de seis metros"6.
+
+Los humedales pueden ser marinos como los ubicados en las costas; estuarinos en las
+desembocaduras de los ríos en el mar; los lacustres que están conectados a los lagos;
+palustres o pantanosos como las ciénagas; ribereños a los lados de los ríos y finalmente
+los artificiales o construidos por el hombre, estos últimos con propósitos principalmente de
+almacenamiento o tratamiento de aguas residuales.
+
+Según las características geomorfológicas y la relación del anegamiento entre los cuerpos
+de agua contiguos y el humedal mismo se pueden clasificar en gran humedal y el humedal
+marginal. El primero se puede definir como un "macrosistema cuyo principal factor
+ambiental es el anegamiento y, secundariamente, la inundación" y el segundo corresponde
+a "áreas periódicamente cubiertas por el agua en la vecindad inmediata de un gran cuerpo
+de agua (río, lago, mar) y que depende en forma directa de la dinámica de este último".
+Este tipo de humedales son retardadores del escurrimiento, y actúan como reactores en los
+que "las entradas" (agua, sedimentos, organismos) se transforman para ser luego
+ingresadas al curso del río (por movimiento horizontal) al comienzo de la próxima creciente.
+(NEIFF, 1997).
+
+Normalmente, los humedales artificiales incluyen un sistema para controlar el caudal de
+salida para distintos volúmenes de almacenamiento. Se recomienda incluir pretratamiento,
+ya sea a partir de otra tipología de SUDS aguas arriba o una antecámara de sedimentación.
+Adicional al volumen permanente de agua, los humedales cuentan con un volumen de
+almacenamiento para la atenuación de eventos de lluvia y una zona poco profunda
+
+6 Definición adoptada de la Convención Ramsar.1971
+perimetral en la que se establecen las plantas (CIRIA Norfolk Country Council, 2015)
+(Manual de Construcción Sostenible del Distrito de Santiago de Cali)
+
+El funcionamiento de un humedal depende de procesos climáticos, los cuales determinan
+la ocurrencia de ciclos húmedos y secos y, como resultado, el régimen hidrológico al que
+esté sometido. Es decir, la frecuencia con la que se inunda y el tiempo que permanece
+inundado.
+
+Los humedales reciben agua principalmente de precipitación, pero también se alimentan de
+aguas subterráneas o aportes de ríos, quebradas o arroyos. Después de una creciente o
+precipitación, una parte del volumen de agua queda retenido o almacenado en el humedal,
+y posteriormente lo libera lentamente por infiltración, evaporación o escorrentía.
+
+    3.5.9 Estanques de detención multifuncionales
+Son depresiones que por lo general están secas, pero almacenan escorrentía durante un
+evento de precipitación. Pueden tener vegetación, la cual contribuye al tratamiento de la
+escorrentía. Estos sistemas permiten la remoción de sedimentos y material flotante. A su
+vez, pueden proveer beneficios relacionados con la amenidad (CIRIA Norfolk Country
+Council, 2015). En general, se encuentra delimitadas por taludes y la escorrentía puede
+ingresar de manera superficial o mediante tuberías. Se recomienda que la escorrentía sea
+dirigida a una antecámara para que se disipe la energía y se remuevan solidos antes de su
+ingreso al estanque de detención. En el área de almacenamiento se dispone un canal para
+caudales bajos que permite manejar even-tos de baja magnitud. El sistema de salida incluye
+una micropiscina la cual contribu-ye al tratamiento al disminuir el riesgo de resuspensión de
+sólidos. Adicionalmente, se dispone una estructura para controlar el caudal de salida y
+estructuras tipo vertedero para la evacuación de eventos mayores a los de diseño (Centro
+de Investigaciones en Ingeniería Ambiental (CIIA). Universidad de los Andes, 2017a)
+(Manual de Construcción Sostenible del Distrito de Santiago de Cali)
+
+    3.5.10 Pavimentos Permeables
+Compuestos por materiales porosos que permiten el paso del agua a través de su
+estructura, dando el mismo soporte estructural que los pavimentos tradicionales. El agua
+se infiltra en el suelo, irrigando la vegetación adyacente y reduciendo las escorrentías. El
+agua se infiltra gradualmente en una cama de grava que permite el almacenamiento.
+Pueden estar construidos a base de concreto asfáltico o concreto hidráulico. También los
+hay modulares y de adoquín.
+
+Dentro de los beneficios proporcionados se tienen:
+     Permiten el tránsito peatonal y/o vehicular.
+     Más estéticos que los pavimentos tradicionales.
+     Reducen el deslizamiento de las llantas y mejoran la adherencia.
+
+                                         Ilustración 9. Pavimentos Permeables
+                                                         Fuente: Hermosillo, 2017
+
+Dentro de los SUDS, los pavimentos permeables representan los sistemas más
+comunes en el mundo, habiéndose implementado bajo todo tipo de condiciones
+climáticas (Castro-Fresno et al., 2013; Nnadi et al., 2014) y con el soporte de una amplia
+investigación desde principios del siglo XXI. Según Jato-Espino et al. (2019), el 17.1 % del
+total de publicaciones sobre Infraestructura Verde de Aguas Pluviales tiene como objeto los
+pavimentos permeables, lo que muestra claramente su relevancia dentro de la amplia gama
+de técnicas SUDS disponibles (Olivares-Cerpa, 2022).
+
+Estas superficies permiten el almacena-miento temporal y, en algunos casos, la infiltración
+de la escorrentía (CIRIA Norfolk Country Council, 2015). Se componen básicamente por
+cuatro capas correspondientes a: (1) capa superficial permeable, (2) capa de nivelación, (3)
+reservorio o sub-base y (4) capa filtrante (Centro de Investigaciones en Ingeniería Ambiental
+(CIIA). Universidad de los Andes, 2017a). La capa superficial incluyendo pavimentos
+modulares, asfalto poroso, concreto poroso y grava porosa (Centro de Investigaciones en
+Ingeniería Ambiental (CIIA). Universidad de los Andes, 2017a; CIRIA Norfolk Country
+Council, 2015).
+
+Si no es posible infiltrar la escorrentía se debe incluir una capa de drenaje la cual incluye
+una tubería perforada y un geotextil o geomembrana en el fondo (Centro de Investigaciones
+en Ingeniería Ambiental (CIIA). Universidad de los Andes, 2017a). A su vez, se recomienda
+emplear una barrera perimetral con el objetivo de evitar el flujo de agua hacia áreas
+adyacentes y el movimiento de los adoquines. El uso de tuberías de inspección permite
+monitorear el desempeño de la tipología (Centro de Investigaciones en Ingeniería Ambiental
+(CIIA). Universidad de los Andes, 2017a). . (Manual de Construcción Sostenible del Distrito
+de Santiago de Cali)
+
+    3.5.11 Cisternas
+Se utiliza para almacenar escurrimiento pluvial (proveniente de techos) para poder
+aprovecharlo posteriormente. Las cisternas se pueden colocar sobre el suelo, la cual tiene
+mayor facilidad en su instalación, o pueden ser construidas de forma subterránea, donde
+se ahorra espacio. Los tipos de cisternas son de sistema húmedo y de sistema seco.
+Frente a los beneficios de las cisternas se puede nombrar:
+
+     Almacenamiento de agua.
+     La reserva de agua disponible se puede usar en el hogar y en exteriores.
+     Agua de mayor calidad.
+     Disminuye la demanda de agua potable
+
+                                                          Ilustración 10. Cisternas
+
+                                                         Fuente: Hermosillo, 2017
+
+    3.5.12 Techos Verdes
+Son instalaciones sobre los techos que permiten el desarrollo de vegetación, compuestos
+por una serie de capas que evitan daños en la edificación. Así mismo, se pueden instalar
+en edificaciones nuevas o ya existentes. Se clasifican en extensivos, intensivos o
+combinados.
+A continuación, se presentan los beneficios de implementar techos verdes:
+
+     Aumentan el área verde y pueden generar espacios de esparcimiento.
+     Proveen aislamiento térmico, lo cual reduce el consumo energético.
+     Brindan aislamiento acústico.
+     Aportan vegetación en superficies subutilizadas, de gran utilidad en zonas urbanas
+
+         con un alto índice de impermeabilidad.
+
+                                               Ilustración 11. Techos Verdes
+                                                         Fuente: Hermosillo, 2017
+
+    3.5.13 Fachadas o muros verdes
+Son sistemas que permiten el desarrollo de vegetación en superficies verticales.
+Generalmente se soportan en paredes exteriores o interiores de edificaciones, aunque
+pueden ser estructuras independientes con soporte propio. Se pueden clasificar en tres
+tipos principalmente: sistemas hidropónicos, sistemas en base de sustrato y soportes para
+enredaderas.
+Los beneficios que ofrecen estos sistemas son muy similares a los que se encuentran en
+los Techos Verdes.
+
+                                               Ilustración 12. Muros Verdes
+
+                                                         Fuente: Hermosillo, 2017
+
+    3.5.14 Alcorques inundables
+Este tipo de SUDS está constituido básicamente por una caja en concreto que funciona
+como matera, toda vez que en estas pueden ser plantados árboles o arbustos; esta caja a
+su vez, dependiendo de la permeabilidad del suelo, puede contar con algún tipo de
+revestimiento en el fondo. La función del alcorque es contener las raíces del árbol, sustrato
+y un sistema de drenaje. Este tipo de estructuras cuentan con sistemas de tuberías
+perforadas y de rebose que permiten el manejo de las aguas entrantes o salientes, estas
+últimas en el caso de que el caudal captado sea superior al de diseño de la estructura.
+(Manual de Construcciòn Sostenible del Distrito de Santiago de Cali; Hermosillo, 2017)
+El interior de este tipo de sistemas, para el albergue de plantas y la infiltración del agua,
+suelen rellenarse con una mezcla de arenas, arcillas, tierra vegetal y compost.
+
+                                          Ilustración 13. Alcorques inundables
+
+                                                     Fuente: EAAB, 2020
+
+Por otra parte, el Manual de Lineamientos de Diseño de Infraestructura Verde para
+Municipios Mexicanos (Hermosillo, 2017) contempla también la intervención a Macro-
+Escala, la cual incluye las implementaciones de micro-escala como las presentadas
+previamente, hasta consolidar una red, además de conservar y reforzar los elementos
+naturales en el paisaje, como ríos, lagos, cañadas, cerros, entre otros, que se utilizarán en
+soluciones a una escala superior.
+A manera de resumen, en la tabla a continuación se sugiere una clasificación de los
+diferentes tipos de SUDS, según la escala de implementación y el mecanismo bajo el cual
+funcionan.
+
+   Tabla 2. Clasificación según escala de implementación y mecanismo de funcionamiento de los
+                                                              SUDS
+                                                        Fuente: Elaboración propia
+
+     3.6 Ventajas y desventajas de las tipologías SUDS
+
+Previo al proceso de selección de las tipologías de SUDS aplicables al territorio donde se
+pretenden implementar, es importante llevar a cabo un ejercicio de identificación de
+ventajas y desventajas de estos.
+
+En la identificación deben considerarse las tipologías aplicables según las características
+del territorio y debe existir una aproximación a la disponibilidad de los terrenos donde se
+implanten las soluciones para el tratamiento de la escorrentía.
+
+Algunas de las desventajas en los usos de tipologías comunes, están ligadas a los costos
+de construcción, las cargas muertas que se adicionarían a las estructuras en pie, el espacio
+que ocupan, la facilidad de acceso, los costos asociados a su mantenimiento, el
+requerimiento de equipos electromecánicos que aumentan Capex y Opex, eficiencias
+limitadas en eventos de lluvia de gran intensidad, requerimientos geométricos especiales,
+riesgo de daño por cuenta del crecimiento de raíces de arbustos o árboles, requieren áreas
+de gran tamaño, limitación a los pesos o cargas de circulación sobre ellas, tiempos de
+construcción largos, colmatación inevitable, liberación de nutrientes en el mantenimiento o
+en alguna fase de operación, posible contaminación de aguas subterráneas, entre otras.
+
+Por su parte, las ventajas más comunes de los sistemas evidentemente se relacionan con
+su razón de ser, como control de inundaciones, reutilización de aguas, reducción de
+temperaturas, flexibilidad de instalación, promueven mejoras paisajísticas, bajos consumos
+bioenergéticos, protege la calidad del agua, eliminación de barreras arquitectónicas,
+moderador del clima, remoción eficiente de sedimentos y contaminantes, aumento de la
+diversidad de flora y fauna, entre otras. (Manual de Construcciòn Sostenible del Distrito de
+Santiago de Cali)
+     3.7 Aspectos a tener en cuenta en el diseño de SUDS
+
+Los sistemas de drenaje sostenible ­ SUDS, pueden ser implementados en áreas con
+desarrollos urbanísticos o en zonas donde se proyecte algún tipo de modificación de las
+condiciones naturales del terreno. Para el primer caso es indispensable que el formulador
+del proyecto identifique las condiciones del sistema de drenaje prexistente y la afectación
+de este con el entorno. De este modo, se busca garantizar una correcta selección de la
+tipología de SUDS a implementar y los requisitos técnicos necesarios para su diseño
+construcción y operación.
+
+Una vez se han surtido los procesos conceptuales de valoración y estrategias para
+promoción de implementación, preselección de tipologías aplicables y la identificación de
+ventajas y desventajas de las tipologías disponibles, es necesario empezar a identificar y
+conocer parámetros técnicos adicionales que van a hacer más fácil el proceso de selección
+de tipologías y darán respuesta a interrogantes que surgen durante el diseño.
+
+En ese orden de ideas, luego de identificar los lugares y las magnitudes de inundación que
+se han presentado en el territorio, se requiere empezar a conocer el comportamiento del
+flujo y de los procesos de escorrentía, infiltración y evaporación antes de la implementación
+de los SUDS, así como los puntos de descarga.
+
+En la fase previa al diseño, también es importante conocer las condiciones básicas de
+calidad del agua de escorrentía, calidad de agua de cuerpos receptores, caudales e
+información de biodiversidad. Posteriormente, luego de la prefactibilidad es requerida
+información más detallada como topografía, batimetría, localización del proyecto, estudios
+de suelos, estudio hidrológico, estudios ambientales y todos los demás que se describen
+en el documento "Lineamientos para el diseño de Sistemas Urbanos de Drenaje Sostenible
+SUDS", expedido por el Departamento Nacional de Planeación (DNP) & Ministerio de
+Ambiente y Desarrollo Sostenible (2018).
+
+Para la implementación en zonas de desarrollo de proyectos nuevos, se debe propender
+por la articulación de los SUDS con los demás elementos del proyecto, de forma tal que se
+evite que la infraestructura de drenaje funcione de forma aislada a los factores de cambio
+de las condiciones naturales de la zona.
+
+Adicionalmente, tal como lo establece el Artículo 44 de la Resolución 799 de 2021, mediante
+la cual se modifica el artículo 153 de la Resolución 0330 de 2017,
+
+(...) para determinar la tipología de SUDS más adecuada se debe evaluar, como mínimo,
+lo siguiente:
+
+    1. Condiciones topográficas y geotécnicas de la zona en la que se va a implementar el
+         sistema.
+
+    2. Condiciones urbanísticas de la zona, normativa, restricciones y necesidades
+         ambientales.
+
+    3. Configuración y análisis hidrológico de las cuencas de drenaje, identificando las
+         condiciones de frontera. Es necesario desarrollar una evaluación de las condiciones
+         de escorrentía antes y después del proyecto versus la capacidad de flujo de los
+         cuerpos receptores ya sea el sistema de alcantarillado de drenaje o cuerpos
+         naturales.
+
+    4. Capacidad de infiltración del suelo (dependiendo de la tipología a evaluar)
+    5. Como parte del análisis de viabilidad, se debe tener en cuenta aspectos
+         relacionados con el costo de construcción del sistema, los requerimientos y
+         periodicidad de mantenimiento de los SUDS.
+
+    6. Análisis de las responsabilidades del diseño, construcción operación y
+         mantenimiento de los SUDS.
+
+De ser considerada viable la implementación de SUDS, el diseño de estos sistemas debe
+orientarse a reducir el caudal pico del hidrograma de la creciente de diseño, a fin de evitar
+sobrecargas de los sistemas pluviales y posteriores inundaciones, el porcentaje de
+reducción del pico del hidrograma no debe ser menor al 30%.
+
+Cuando se utilicen estructuras de retención, se deben implementar sistemas de cribado y
+sedimentación, prever la facilidad del mantenimiento manual o mecánico, y la accesibilidad
+y medios para transportar los desechos a los sitios finales de disposición, de acuerdo con
+su composición y la normatividad vigente.
+
+Una vez identificadas las posibles alternativas de tipologías de SUDS, se debe evaluar cada
+una de ellas desde los aspectos: económico, técnico, constructivo, operacional, social y
+ambiental a través de una matriz de selección o del método escogido, que permitan analizar
+la viabilidad de cada una de las soluciones planteadas." (...)
+
+     3.8 Diseño Hidráulico
+El diseño de alguna tipología de SUDS debe contemplar desde el funcionamiento hidráulico
+hasta la estabilidad de la infraestructura desde el punto de vista geotécnico y estructural.
+Específicamente desde el componente hidráulico, se debe determinar mediante
+metodologías de cálculo la cantidad de agua provenientes de procesos de precipitaciones
+que ingresaría a las estructuras a implementar, lo que se estima como caudal de diseño.
+
+Las estructuras de SUDS que se diseñan a partir de los caudales extremos de escorrentía,
+requieren de los caudales pico asociados a un periodo de retorno específico. Estos
+caudales deberán ser definidos usando las curvas vigentes de Intensidad-Duración-
+Frecuencia (IDF) disponibles o construidas para la zona de implementación.
+
+     Articulación con sistemas de alcantarillado existentes
+     Viabilidad de implementación de SUDS (criterios y consideraciones urbanísticas-
+
+         articulación con el entorno)
+
+La implementación de Sistemas Urbanos de Drenaje Sostenible debe contemplar las
+estrategias de diseño y elementos del espacio público que garantice la reducción del riesgo
+por fenómenos de altas precipitaciones que pueden generar inundaciones afectando las
+zonas urbanas y también la calidad del agua, de igual manera protegiendo los sistemas de
+alcantarillado combinados que pueden afectar de manera directa los cuerpos de agua
+receptores con altas concentraciones de contaminantes; finalmente es importante
+conservar el valor estético de las áreas desarrolladas y mantener los hábitats para la vida
+silvestre en las zonas urbanas y las oportunidades para la biodiversidad (Alcaldía Mayor de
+Bogotá D.C., 2017).
+
+Los SUDS deben conservar unos criterios de diseño con el propósito de proteger la salud
+y la seguridad pública, y garantizar un adecuado medio ambiente bajo los siguientes
+principios:
+
+    1. Nivel de Servicio:
+     Debería proporcionarse protección contra inundaciones a un nivel mínimo de
+         servicio
+
+     Se deben abordar los riesgos para las personas y los beneficios de servicios
+         (incluida la seguridad)
+
+    2. Sustentabilidad
+     Los sistemas de drenaje deben apuntar a replicar los procesos naturales de lluvia-
+
+         escorrentía que ocurren en el sitio, antes del desarrollo
+     El tratamiento de la calidad del agua debe minimizar el impacto ambiental
+     Se deben maximizar los beneficios ecológicos
+     Los sistemas de drenaje deben apuntar a utilizar recursos naturales que puedan ser
+
+         reutilizados y sean energéticamente eficientes en términos de productos
+         constituyentes, procesos de construcción y actividades de operación y
+         mantenimiento
+    3. Costo
+     Análisis del costo de vida total del sistema debe demostrar la rentabilidad (a través
+         de la evaluación de opciones) y la viabilidad financiera (a través de la seguridad de
+         la financiación a largo plazo)
+
+     3.9 Estructuras complementarias o anexas a los SUDS
+
+Para un mejor funcionamiento, facilidad en la operación y mantenimiento de SUDS se
+pueden implementar estructuras o elementos complementarios que acompañan la tipología
+seleccionada.
+
+En algunos casos, estructuras de pretratamiento, almacenamiento, franjas filtrantes en
+césped, enrocados, barreras de detención o elementos más sofisticados como
+distribuidores de flujo permanente, pueden contribuir a un mejor desempeño de los SUDS
+colaborando en la remoción de contaminantes, disminuyendo las velocidades de flujo que
+promueven la erosión, aumentando la eficiencia y controlando los flujos en el manejo de la
+escorrentía.
+
+Por ejemplo, los bordillos de cunetas y andenes son estructuras a la entrada que permite
+dirigir la escorrentía a una tipología de SUDS. Consisten en una abertura en los bordillos
+que intercepta el flujo de escorrentía de manera perpendicular (Centro de Investigaciones
+en Ingeniería Ambiental (CIIA). Universidad de los Andes, 2017a; Dylewski, Brown, LeBleu,
+& Eve F. Brantley, 2014). Pueden emplearse varias entradas para un mismo sistema con el
+objetivo de distribuir la escorrentía al interior de este. Estas estructuras deben usarse en
+conjunto con enrocados (i.e., capa de piedra sobre un geotextil) para reducir la velocidad
+de la escorrentía y controlar la erosión en este punto. A su vez, el enrocado funciona como
+una trampa de sedimentos (Centro de Investi-gaciones en Ingeniería Ambiental (CIIA).
+Uni-versidad de los Andes, 2017a). De acuerdo con las características del área y la tipología
+pue-den implementarse distintos tipos de vados: (a) vado con rejilla, (b) vado con bordillos
+laterales, y (c) vado estándar (Centro de Investigaciones en Ingeniería Ambiental (CIIA).
+Universidad de los Andes, 2017a). Manual de construcción sostenible del Distrito de
+Santiago de Cali)
+
+Otra estructura de tipo complementario son las franjas filtrantes. Estas corresponden a
+franjas con césped o algún tipo de vegetación densa y baja pendiente, promueven procesos
+de sedimentación, filtración e infiltración y suelen emplearse para el pretratamiento de la
+escorrentía antes de dirigirla a cunetas vegetadas, jardines de biorretención o zanjas
+filtrantes (Centro de Investigaciones en Ingeniería Ambiental (CIIA). Universidad de los
+Andes, 2017a; CIRIA Norfolk Country Council, 2015). Se recomiendan para el manejo de
+flujo no concentrado por lo que la longitud de la franja debe ser igual a la del área de
+captación. Si no se lleva a cabo infiltración se debe incluir una tubería perforada cerca de
+la base de la zanja para recoger y conducir la escorrentía. Así mismo, una tubería perforada,
+localizada cerca de la superficie permite el manejo de eventos mayores a los de diseño.
+(Manual de Construcción Sostenible del Distrito de Santiago de Cali)
+
+     3.10 Limitaciones para la implementación de SUDS
+
+Pese a que los SUDS se han implementado ampliamente tanto en áreas urbanas nuevas
+como existentes puesto que se han convertido en una alternativa viable a la infraestructura
+de alcantarillado tradicional, no implica que los SUDS siempre funcionen adecuadamente
+(Marlow, y otros, 2013) Vemos al menos tres problemas que se atribuyen al mal
+funcionamiento de SUDS:
+
+Primero, los SUDS hacen uso de tecnologías diferentes a las soluciones convencionales y,
+por lo tanto, también requieren diferentes conocimientos y habilidades para su
+implementación y operación (Brown & Farrelly, 2009). Este cambio a nuevas tecnologías,
+con las que los profesionales aún no están familiarizados, aumenta potencialmente el riesgo
+de fracaso.
+
+En segundo lugar, los SUDS inevitablemente requieren el cruce de los límites del sistema
+convencional, y solo hay un conocimiento limitado de lo que sucede en las interfaces entre
+los sistemas previamente desconectados (Veeneman, 2004) A diferencia de las tuberías de
+alcantarillado, los SUDS a menudo se ubican por encima del suelo y se extienden tanto a
+espacios públicos como privados, como calles, parques y jardines. SUDS, por lo tanto,
+establece diferentes requisitos para otros sistemas urbanos, que no han sido diseñados
+para funciones de drenaje previamente (Hoang & Fenner, 2016). Si bien los dominios a
+cargo de cada uno de los otros sistemas urbanos tienen mucho conocimiento sobre su
+propio sistema, solo hay un conocimiento limitado de lo que sucede en las interfaces entre
+estos sistemas, lo que aumenta el riesgo de falla (Nieuwenhuis, Cuppen, Langeveld, & De
+Bruijn, 2021).
+
+Por último, la complejidad relacional introducida con SUDS aumenta la probabilidad de que
+funcione mal (Fratini, Geldof, Kluck, & Mikkelsen, 2012). En comparación con la toma de
+decisiones sobre soluciones de drenaje convencionales, la toma de decisiones sobre SUDS
+inevitablemente involucra a actores de múltiples disciplinas (Hoang & Fenner, 2016);
+(Cotterill & Bracken, 2020). Todos estos actores tienen sus propias responsabilidades e
+intereses, así como sus lógicas de sistema. Esto hace que la toma de decisiones sea menos
+sencilla, complica la comunicación y fomenta malentendidos. En este sentido, las posibles
+dificultades en el funcionamiento de SUDS no es solo un problema técnico, sino que
+también se relaciona con aspectos socio-institucionales: los diferentes actores involucrados
+y las instituciones que dirigen las recepciones y acciones de estos actores.
+
+     3.11 Aspectos a tener en cuenta en la construcción de SUDS
+Mediante una recopilación de las acciones que se deben adelantar para llevar a cabo un
+correcto proceso de construcción, se encuentran las 9 principales recomendaciones. A
+continuación, una breve explicación de cada una:
+
+    1. Planeación y programación: Es necesario realizar el levantamiento de la línea base,
+         un inventario de las redes y el sistema completo de drenaje existente, así como
+         establecer el orden de ejecución de las actividades de la construcción con tiempos
+         y plan de manejo.
+    2. Plan de manejo de contaminantes y control de sedimentos: Para los contaminantes
+         especiales, debe realizarse un plan de manejo individual. Por su parte, para lo que
+         tiene que ver con sedimentos de la construcción, las aguas de escorrentía tienen
+         que ser objeto de un tratamiento previo a ser descargadas. En principio una
+         sedimentación, decantación sería suficiente.
+    3. Plan de accesos y zonas de almacenamiento: Cuando se utilizan materiales
+         granulares y estratos permeables, deben planearse las rutas correspondientes de
+         tal manera que se evite ejercer cargas altas sobre ellos. De igual manera con los
+         lugares donde se almacenan los materiales.
+    4. Habilidades y competencias requeridas para garantizar las buenas prácticas: Se
+         recomienda que todo el personal que labora en la construcción reciba capacitación
+         de que es y en que consiste el funcionamiento. De esta manera se pueden mitigar
+         riesgos de errores en la construcción y posterior funcionamiento.
+    5. Sistemas de protección contra la infiltración: Consiste en evitar que se generen
+         procesos de infiltración durante la construcción. Para esto deben protegerse
+         excavaciones y taludes.
+    6. Paisajismo: Corresponde a un factor importante que debe contemplarse en la fase
+         constructiva, para que la estética de las obras sea favorable al objeto de los SUDS.
+         Se recomienda tener cuidado con la siembra de árboles y el manejo de la
+         vegetación.
+    7. Control de erosiones: Ya se ha hablado anteriormente de este aspecto, sin embargo,
+         el llamado es a contemplar siempre el uso de estructuras que disipen la energía y
+         que protejan el terreno de erosión por cuenta de corrientes de agua con velocidades
+         y caudales muy altos.
+    8. Construcción. Listas de chequeo e inspección: Durante la construcción se deben
+         realizar ensayos y chequeos del correcto funcionamiento del sistema. Por su parte,
+         es necesaria la elaboración de planos "As built".
+    9. Especificaciones de materiales y presupuesto: El diseño debe ser tan detallado que
+         quien construya los SUDS pueda dejar las especificaciones exactas de los
+         materiales utilizados y estructuras instaladas. Los presupuestos por su parte son un
+         insumo indispensable para validad la factibilidad en la ejecución.
+
+     3.12 Actividades de construcción, operación y mantenimiento de SUDS
+
+Frente a las actividades de mantenimiento, el Manual de SUDS de CIRIA (Woods Ballard
+et al., 2015), expone que se debe tener en cuenta, según el diseño implementado, el
+contexto del paisaje y los requisitos de drenaje, generalmente, requiere un mantenimiento
+más intenso si el SUDS está considerando el aprovechamiento para actividades recreativas
+o de confort que para alcanzar la cantidad y calidad de agua diseñadas. En el caso de
+infraestructura de alcantarillado, el mantenimiento está orientado a garantizar los requisitos
+técnicos para su funcionamiento. La facilidad de acceso a las zonas de almacenamiento
+son consideraciones necesarias para el mantenimiento de los sistemas.
+
+Adicionalmente, es importante identificar la responsabilidad frente al mantenimiento de
+cada uno de los componentes, Woods Ballard et al. (2015) recomiendan que el diseñador
+provea el manual de funcionamiento y mantenimiento de fácil aplicación que incluya a todos
+los responsables (propietario, arrendatario, autoridad local, prestador del servicio de
+alcantarillado, etc.); el manual debería también incorporar detalles sobre los conceptos de
+diseño y criterios de rendimiento del sistema, así como la forma de garantizar que las obras
+realizadas no comprometan estos aspectos. En la misma línea se mencionan tres tipos de
+mantenimiento: regular, ocasional y correctivo.
+
+Las actividades regulares corresponden a aquellas como inspecciones rutinarias de las
+estructuras de entrada y salida, revisiones para verificar si se presentan malos olores,
+muerte de vegetación, exceso de sedimentos, etc. Las actividades ocasionales son aquellas
+que se realizan para extender la vida útil de los SUDS, como por ejemplo remover los
+sedimentos de todos los componentes y realizar los reemplazos que se requieran y las
+actividades correctivas hacen referencia a las intervenciones para rehabilitar componentes
+en los que se evidencia falla o daño, como por ejemplo reemplazo de filtros, geotextiles y
+gravas filtrantes, así como reparaciones de estructura.
+
+De una correcta operación y mantenimiento, depende el funcionamiento y duración de los
+SUDS dentro del manejo de las aguas de escorrentía y la mitigación a los eventos de
+inundación.
+
+Si bien los manuales de operación y mantenimiento deberán ser cumplidos
+satisfactoriamente para que se garantice la sostenibilidad de las inversiones, es
+fundamental que, durante la etapa de planificación, se hayan identificado claramente los
+responsables, es decir, los recursos humanos y económicos necesarios para la
+construcción y el mantenimiento de estos sistemas.
+
+Con el fin de facilitar la asignación de responsabilidades, es útil primero identificar las
+actividades que requieren ser ejecutadas. Posteriormente, y a partir de la identificación de
+los actores involucrados en el manejo sostenible de aguas lluvias, se tendría un panorama
+más claro sobre quién debe asumir las responsabilidades.
+
+A continuación, y de manera general, se presenta un resumen de las principales actividades
+de construcción y mantenimiento de los SUDS en las escalas de urbanización o barrio y
+ciudad:
+
+Tabla 3. Actividades de construcción y mantenimiento de SUDS a escala de urbanización o barrio y
+                                                              ciudad
+
+Tipos de SUDS   Construcción                  Mantenimiento
+
+Alcorques        Construcción de contenedor    Mantenimiento al arbolado
+inundables       Instalación de sustrato       Mantenimiento al sistema
+                 Construcción del sistema de
+                                                   de drenaje y entrega al
+                     drenaje                       alcantarillado o a los cuerpos de
+                 Plantación de arbolado            agua
+
+Humedales        Movimiento de tierras         Recolección de residuos sólidos
+Cunetas verdes   Adecuación de taludes         Mantenimiento de zonas
+Cuencas secas    Construcción de estructuras
+                                                   verdes, separadores viales, etc.
+                     de entrada                Mantenimiento de las
+                     como pretratamiento o
+                     disipadores de energía        estructuras de entrega al
+                                                   alcantarillado o a los cuerpos de
+                                                   agua
+ Tipos de SUDS              Construcción                       Mantenimiento
+
+Zonas inundables   Estructuras de conexión con el    Reacondicionamiento de
+                       alcantarillado existente o        estructuras de infiltración
+Zanjas de              descarga a cuerpos de agua
+infiltración                                         Reparación y rehabilitación de
+                   Coberturas vegetales                  estructuras
+                   Instalación de geomembranas
+
+Pavimentos         Instalación de la superficie      Mantenimiento de estructuras
+permeables             permeable (dependiendo del        complementarias
+o porosos              uso o tipo de tráfico)
+                                                     Lavado a presión de la
+                   Instalación de la capa de sub-        superficie permeable
+                       base de la superficie
+                       permeable                     Reacondicionamiento de
+                                                         estructuras de infiltración
+                   Instalación de capa filtrante
+                   Construcción de estructuras       Reparación y rehabilitación de
+                                                         estructuras
+                       de pretratamiento
+                       Instalación de geomembranas
+                   Construcción de sistema de
+                       drenaje
+                   Instalación de tanque o
+                       reservorio (acuaceldas)
+
+                                                        Fuente: Elaboración propia
+
+A partir de las actividades anteriores, en la siguiente ilustración se resume el tipo de
+actividades de mantenimiento según el sector al cual les correspondería, siendo el azul el
+sector de agua y saneamiento básico, el verde el sector vivienda y las entidades a cargo
+del espacio público a nivel nación y en los entes territoriales y, el color naranja que
+corresponde al sector de vías.
+
+            Ilustración 14. Actividades de mantenimiento de SUDS según escala y sector
+                                                        Fuente: Elaboración propia
+
+    4. IDENTIFICACIÓN DE ACTORES INVOLUCRADOS
+
+La multifuncionalidad de SUDS implica que la toma de decisiones sobre el diseño,
+implementación y mantenimiento de estos sistemas involucre a actores de diferentes
+disciplinas. Todos estos actores tienen sus propias responsabilidades e intereses y no
+siempre son naturalmente conscientes del vínculo con la gestión sostenible del agua que
+se realiza a través de los SUDS. (Bilta, Nieuwenhuis, Ven, & Langeveld, 2021).
+Un esquema SUDS bien mantenido puede percibirse como un servicio agradable que se
+suma al atractivo de un área para el comprador de una casa y agrega valor a las nuevas
+propiedades. Además, el sector vivienda puede usar el esquema para demostrar que está
+actuando de acuerdo con su "Política verde" para influir en las partes interesadas, como
+sus posibles inversores, posibles compradores de viviendas. (Kennedy, Lewi, E., & Wong,
+2007)
+
+Los SUDS implican cambios en los esquemas de gobernanza del agua existentes. Para
+lograr una planificación, diseño, construcción y operación efectivos de los SUDS, es
+necesario involucrar a una serie de partes interesadas. Vale la pena señalar que existen
+tres sistemas de gobernanza ideales para gestionar las aguas pluviales según Van de
+Meene, et al.: jerárquico, de mercado y red.
+
+La gobernanza jerárquica se refiere al primer tipo de gobernanza para la gestión de la
+escorrentía urbana, caracterizada por autoridades centralizadas y siguiendo una estructura
+muy vertical con poca participación de los interesados. La gobernanza de mercado consiste
+en aplicar modelos de gestión del sector privado en los servicios que existían anteriormente.
+Durante las últimas décadas, ha habido un cambio en los esquemas de gobernanza del
+agua a medida que la jerarquía histórica de gobernanza cambió hacia un enfoque orientado
+al mercado (Carriquiry, Sauri, & March, 2020).
+
+Las realidades que conviven con los SUDS merecen un sistema de gobernanza híbrido,
+que consiste en una mezcla de enfoques de red y jerárquicos con instrumentos de
+gobernanza de mercado. Los sistemas de gobernanza híbridos toman del enfoque
+jerárquico su marco administrativo, liderazgo político y autoridad; del enfoque de red la
+flexibilidad de implementación que proporciona estrategias alternativas, como la
+colaboración y la interacción interdisciplinaria; y desde el enfoque de gobernanza de
+mercado su eficiencia en el uso de recursos, incentivos y estímulos para lograr resultado
+en la competencia de la industria. (Carriquiry, Sauri, & March, 2020).
+
+En el contexto de SUDS como medida de adaptación al cambio climático, es importante
+reconocer que la toma de decisiones en la gestión del riesgo de inundación generalmente
+se ha implementado a través de un enfoque de arriba hacia abajo sin la participación
+suficiente de las partes interesadas. Esto se ha atribuido a bloqueos en la implementación
+de las medidas novedosas propuestas (Almoradie, Cortes, & & Jonoski, 2015). En cambio,
+la gestión del riesgo de inundación como un problema complejo y dinámico requiere formas
+innovadoras de involucrarse con una amplia gama de partes interesadas locales (Maskrey,
+Priest, & Mount, 2018)
+
+En el ámbito aplicado de la planificación colaborativa o de partes interesadas, donde una
+amplia variedad de esas partes enmarca problemas compartidos y discuten soluciones
+factibles, la clave es que las entidades gubernamentales participen, pero no dominen la
+deliberación. (Vilcan & Potter, 2019)
+
+Entre los actores que deben participar en la planificación e implementación de SUDS, se
+incluye el gobierno, las empresas de servicios, los usuarios del agua, las asociaciones
+comunitarias, la academia, las ONG, las instituciones de investigación, los medios de
+comunicación y los inversionistas. Ninguno de estos interesados es completamente nuevo
+en la gestión de aguas pluviales urbanas, pero las relaciones entre ellos cambian y sus
+responsabilidades también cambian (Carriquiry, Sauri, & March, 2020). En el contexto
+colombiano, los principales actores involucrados se resumen en el esquema siguiente.
+
+     Ilustración 15. Actores involucrados en la planificación, diseño, construcción y mantenimiento de SUDS
+                            Fuente: Elaboración propia
+
+En la tabla a continuación, se presentan las actividades de planificación de SUDS, en las
+cuales estarían involucrados cada uno de los actores identificados.
+
+Tabla 4. Actividades según actores involucrados
+
+Entidad Involucrada                            Actividades
+
+                            · Desarrollar el marco normativo y las políticas públicas,
+
+                            estableciendo los lineamientos técnicos, requisitos y
+
+                            estándares para el desarrollo de las infraestructuras
+
+Ministerio de Vivienda,     asociadas a SUDS de manera articulada con el alcantarillado
+
+Ciudad y Territorio ­ MVCT  pluvial existente
+
+                            · Establecer lineamientos de planificación de acuerdo con los
+
+                            responsables (del sector), y participar de la identificación de
+
+                            incentivos necesarios que impulsen el desarrollo de SUDS.
+
+                            (No solo relacionado al marco tarifario)
+
+ Ministerio de Ambiente y   · Conceptualizar los SUDS dentro de la normatividad ambiental
+  Desarrollo Sostenible -        nacional estableciendo los mecanismos de coordinación para
+    MADS y autoridades           la planeación, inversión, operación y mantenimiento, en
+                                 articulación con las Corporaciones Autónomas Regionales
+         ambientales
+                            · Identificar los incentivos asociados a la gestión del cambio
+Departamento Nacional de         climático con la implementación de proyectos relacionados
+     Planeación - DNP            con SUDS.
+
+                            · Articulación entre los Planes Departamentales del Agua PDA
+                                 y las CAR
+
+                            · Determinación de los lineamientos de política de los SUDS
+                                 dentro del Plan Nacional de Desarrollo al igual que la
+                                 coordinación y los mecanismos de planeación de los
+                                 diferentes sectores
+     Entidad Involucrada                                                   Actividades
+ Comisión de Regulación de ·
+Agua Potable y Saneamiento                   Realizar estudios relacionados con estructuras de costos y
+                                             metodologías tarifarias para el desarrollo y la inclusión de
+          Básico - CRA                       SUDS dentro de los esquemas tarifarios
+                                          ·
+                                             Incorporar el desarrollo de SUDS dentro de los Planes de
+                                          ·  Desarrollo Municipal, los POT y los Planes asociados a la
+    Entidades Territoriales                  Gestión del Cambio Climático de manera articulada al igual
+                                             que las fuentes de financiación
+                                          ·  Definición de responsables de implementación, operación y
+                                             mantenimiento de los SUDS dentro de la elaboración de los
+                          ·                  instrumentos de planificación y la normatividad asociada
+                                             Establecer los acuerdos necesarios para garantizar el
+Empresas prestadoras del                     correcto funcionamiento de la infraestructura junto con los
+                                             demás actores locales como son prestador del servicio de
+servicio público de       ·                  aseo, el responsable de las vías urbanas u otro responsable
+                                             específico para realizar actividad
+alcantarillado*
+                                             Incorporar el desarrollo de SUDS dentro de los Planes
+                                             Maestros de alcantarillado
+                                             Desarrollar los lineamientos sobre los cuales los prestadores
+                                             van a recibir la infraestructura ubicada en zonas privadas
+
+                          · Implementar el desarrollo de SUDS y coordinar los
+
+                                             mecanismos de planeación, inversión, operación y
+
+                                             mantenimiento de acuerdo con la tipología seleccionada, la
+
+Desarrolladores de                           zona determinada (si es pública o privada) y el sector
+
+proyectos                                    involucrado; teniendo en cuenta que si se realiza en una zona
+
+                                             privada el mantenimiento le corresponde al propietario a
+
+                                             menos que se realicen acuerdos con la empresa prestadora
+
+                                             del servicio público de alcantarillado
+
+                          · Desarrollar investigación sobre gestión sostenible de aguas
+
+Academia                       lluvias
+                          · Desarrollar procesos de transferencia de conocimiento
+
+                          · Apoyar el proceso de formulación de política
+
+*Cuando por los términos del contrato de operación, sean estas las encargadas del alcantarillado pluvial del municipio o
+Distrito.
+
+5. COSTO BENEFICIO Y POSIBLES FUENTES DE FINANCIACIÓN DE SUDS
+
+Como se ha señalado en los capítulos anteriores la implementación de los SUDS puede
+ofrecer múltiples beneficios, máxime cuando se realizan esfuerzos para la gestión de la
+escorrentía de aguas superficiales. Sin embargo, para lograr una eficiencia de las
+inversiones es importante que no solo se tenga en cuenta la estructuración de los diseños,
+sino, además de un compromiso de los stakeholders o interesados en el desarrollo del
+proyecto y de una exhaustiva evaluación que permita una correcta toma de decisiones.
+
+En ese sentido, una herramienta que puede ser muy útil para el análisis y selección de la
+alternativa más viable o eficiente es el análisis de costos y beneficios asociados al proyecto
+que se pretenda desarrollar, ya que a través de este indicador es posible cuantificar la
+relación entre los costos de la ejecución de las alternativas para el manejo de las aguas
+lluvias y los beneficios obtenidos para la mitigación del riesgo de inundaciones y descargas
+a los cuerpos hídricos.
+
+Esta herramienta superpone un gran reto, ya que dentro del ejercicio es necesario minimizar
+el grado de incertidumbre sobre las variables y por ende es de gran importancia realizar un
+ejercicio muy detallado para lograr monetizar los beneficios que se podrían obtener con la
+implementación de los SUDS, además que podría llegar a facilitar la toma de decisiones
+sobre el tipo de solución más adecuada que se debe implementar.
+
+          5.1 Análisis de Costo - Beneficio
+
+Cuantificar los costos asociados al proyecto o las alternativas objeto de análisis para el
+manejo de aguas lluvias, es una labor relativamente más sencilla que el ejercicio de
+cuantificar los beneficios o el impacto monetario que se obtendrán con la implementación
+del esquema previsto.
+
+Análisis de costos:
+
+Ahora bien, para iniciar con el costeo es importante que se tenga presente que en virtud de
+la alternativa que se esté evaluando, es factible que los costos no estén asumidos
+únicamente por el desarrollador del proyecto y que estos puedan ser compartidos con los
+demás stakeholders; por ejemplo, existen prototipos en que los costos podrán ser
+cofinanciados entre el ente territorial, la empresa prestadora del servicio público de
+alcantarillado, una autoridad ambiental u otro interesado.
+
+Así las cosas, una vez contemplado los escenarios que se podrían aplicar en el territorio y
+previo al análisis integral de las alternativas en las que se deben incluir aspectos tales como:
+(técnicos, ambientales, sociales, institucionales y financieros), se debe realizar el costeo de
+las mismas, como un elemento relevante de decisión, en el que de manera general se
+deben relacionar los siguientes costos: i) inversión o capital de trabajo; ii) administración,
+operación y mantenimiento, iii) total del esquema durante su vida útil.
+
+Se sugiere, que para esta etapa de análisis de las alternativas se utilicen precios de
+referencia del mercado y posteriormente con aquellas que resulten viables, se profundice
+el análisis mediante el costeo con precios unitarios. No obstante, es importante que se
+detallen los gastos de capital (CAPEX) para evitar una subvaloración de la inversión.
+
+Se puntualiza en la necesidad de tener especial atención en el valor de la tierra, que en las
+alternativas que se requieren para la implementación de SUDS suelen ser subestimados
+por el evaluador y este aspecto tiene un impacto considerable en los precios finales.
+
+Para el análisis y consolidación, se recomienda construir una matriz que permita identificar
+fácilmente como mínimo los siguientes aspectos:
+
+     Descripción de las alternativas
+     Tipologías que conforman la alternativa
+     Cantidad (obras requeridas por tipología)
+     Valor unitario
+     Valor Total por tipología o construcción
+     Valor total de cada alternativa.
+
+Por otra parte, para la estimación de los costos de administración, operación y
+mantenimiento de los sistemas, se hace necesario identificar y establecer la estructura
+operativa y las actividades que serán necesarias para el funcionamiento y a su vez
+garantizar su sostenibilidad durante su vida útil. En ese orden de ideas, en este punto
+también se recomienda la construcción de una matriz que contenga como mínimo los
+siguientes elementos:
+
+     Item
+     Descripción
+     Unidad de medida (periodicidad del costo)
+     Cantidad
+     Costo unitario
+     Factor prestacional (para el caso de mano de obra y tipo de vinculación)
+     Costo total por item
+     Total costo mensual
+     Total costo Anual
+
+Con base en la estimación de los costos de administración, operación y mantenimiento, es
+posible identificar la estructura institucional requerida gasto operativo (OPEX) y con ello
+establecer una posible fuente de financiación para sufragar este tipo costos.
+
+Finalmente, se recomienda establecer el costo total en función del plazo del proyecto o de
+la mayor vida útil de las alternativas (en este último caso y por dar un ejemplo, inversiones
+como lo son los tanques de agua lluvia que tienen una vida útil más corta, el análisis debe
+incluir los costos de reposición). Lo anterior, permite incluir los OPEX requeridos a largo
+plazo.
+
+Análisis de beneficios:
+
+El siguiente paso, consiste en el de lograr estimar los beneficios frente a los cuales se
+comparará las inversiones, los cuales fundamentalmente están relacionados con recursos
+en: i) ahorro en atención de emergencias, ii) disminución del riesgo de inundaciones iii)
+mejora de las condiciones de vida, iv) valorización de los inmuebles y propiedades y v)
+mejora del entorno y percepción de seguridad.
+
+Para el cálculo de i y ii, es necesario realizar un estudio geográfico y meteorológico de las
+de las áreas donde se pretende implementar las alternativas para el manejo de aguas
+lluvias, con el fin de realizar la evaluación económica del riesgo sobre posibles
+inundaciones, en este punto vale la pena relacionar que existe literatura que puede apoyar
+el proceso de análisis de los beneficios, como lo son Manual multicolor (MCM) (Penning-
+Rowsell et al., 2014) y la Guía de evaluación de la gestión del riesgo de inundaciones y
+erosión costera ( Agencia de Medio Ambiente, 2010 ).
+
+No obstante, la evaluación económica de los beneficios debe tener una metodología en la
+que por menos se ejecuten las siguientes actividades:
+
+    1. Identificar la infraestructura vulnerable a un evento disruptivo
+    2. Utilizar la información disponible para estimar las pérdidas esperadas por ocurrencia
+
+         de una inundación
+    3. Calcular mediante escenarios los daños anuales promedio (DAP) de las
+
+         inundaciones
+    4. Definir los efectos de las alternativas para el manejo de aguas lluvias, y recalcular
+
+         el modelo para estimar el impacto económico con su implementación con base a los
+         daños anuales promedio (DAP).
+    5. Analizar la diferencia entre en el escenario inicial DAP y los DAP de las alternativas
+         propuestas.
+
+El valor resultante en el paso 5, constituye el valor monetizado de los beneficios que se
+devengarían en promedio cada año con la implementación de una alternativa para el
+manejo de las aguas lluvias.
+
+En complemento a lo anterior, a continuación, se mencionan algunos de los rubros que
+podrán ser tenidos en cuenta para el cálculo de los beneficios relacionados con los costos
+derivados por inundaciones y atención de emergencias: i) reasentamientos, ii) albergues
+temporales, iii) daño a la infraestructura de la entidad territorial iv) pérdida de enseres.
+
+En este punto vale la pena resaltar, que cuando se realiza la comparación entre alternativas
+SUDS e inclusive con soluciones convencionales o mixtas, es fundamental que el evaluador
+propenda por realizar comparaciones de elementos similares. Por mencionar un ejemplo,
+tanto la cantidad, como la calidad del agua drenada o un menor riesgo de inundación deben
+ser estimados para cada una de las opciones en la toma de decisiones.
+
+Así mismo, es importante resaltar la importancia que dentro del análisis se tenga en cuenta
+que para algunas de las alternativas de SUDS que contienen componentes de vegetación,
+estas se pueden realizar mediante etapas o que pueden requerir periodos de tiempo para
+alcanzar su rendimiento máximo. Razón por la cual es importante que dentro de la
+evaluación económica se consideren estas variables para la estimación de los beneficios
+en el horizonte de planeación del proyecto.
+
+Como se mencionó anteriormente es necesario que se realice una evaluación más amplia
+sobre los beneficios que pueden otorgar las alternativas con implementación de SUDS, esto
+es la estimación en la mejora de las condiciones de vida, la valorización de los inmuebles y
+propiedades y las mejoras del entorno y percepción de seguridad.
+
+Estudios realizados en experiencias internacionales utilizaron técnicas como disposición a
+pagar, disposición a aceptar, precios hedónicos, entre otros, para aproximar el valor de
+beneficios más amplios de SUDS como: amenidad, mejoras en la calidad del aire,
+biodiversidad y ecología, y mejoras en la salud, entre otros.
+
+A partir del ejercicio de la estimación de los beneficios, también es factible que en este
+punto se vinculen los mismos a su financiador directo; por ejemplo, entidades
+descentralizadas responsables de la administración de la infraestructura vial o transporte
+público, autoridades ambientales, alcaldías locales, juntas de acción comunal, empresas
+del servicio público de alcantarillado, fundaciones e incluso los residentes del área de
+influencia.
+
+En este punto, vale la pena resaltar que pueden existir varias partes interesadas que
+pueden ser beneficiadas mediante la implementación de SUDS, pero resulta fundamental
+que estos actores se identifiquen de forma temprana dentro la etapa de formulación y se
+lleve a cabo su adecuada participación. En la medida que se socialicen y se comprendan
+mejor los beneficios de SUDS es factible constituir esquemas asociativos de inversión, los
+cuales tienes las ventajas de que: i) puede existir más de una fuente de financiación y ii) se
+puede constituir una responsabilidad compartida por los costos a largo plazo.
+
+Una vez realizado el ejercicio de cuantificar los beneficios del proyecto, se procede a
+realizar la comparación con los costos de inversión, operación y mantenimiento para cada
+una de las diferentes intervenciones potenciales previstas. Para ello, se recomienda
+establecer el horizonte de planeación equivalente para las alternativas teniendo en cuenta
+el plazo útil de las soluciones previstas, aplicar una tasa de descuento con base en las
+proyecciones del Ministerio de Hacienda y Crédito Público y finalmente aplicar el Valor
+Presente Neto (VPN) dentro del análisis en los casos que corresponda.
+
+El análisis de costo ­ beneficio (B/C), también conocido como índice neto de rentabilidad
+se obtiene de dividir el total del valor de los beneficios netos, entre el valor de los costos
+totales traídos a valor presente.
+
+De donde, si el valor resultante es mayor que (>) 1 se entiende que la alternativa es viable
+para su implementación y de allí, que en función de las magnitudes resultantes de la
+relación (B/C) que se obtengan para las diferentes alternativas, es posible determinar la
+alternativa óptima para su implementación.
+
+          5.2 Posibles fuentes de financiación
+
+Como se señaló en el numeral anterior, a partir de un ejercicio juicioso de identificación de
+los costos y beneficios asociados a la alternativa propuesta, es posible identificar las fuentes
+de financiación y los actores que podrían apalancar las inversiones. En todo modo, a
+continuación, se describen las posibles fuentes de financiación tanto para la etapa de
+diseño y construcción como la de mantenimiento de los SUDS, no sin antes mencionar que
+de conformidad con las particularidades de cada territorio es posible que se puedan explorar
+algunas otras fuentes.
+
+                    5.2.1 Sistema General de Participaciones (SGP) ­ Departamento
+                              Municipio
+
+El SGP son recursos de la Nación que se transfieren a las entidades territoriales ­
+departamentos, distritos y municipios por mandato de los artículos 356 y 357 de la
+Constitución Política de Colombia, para la financiación de los servicios a su cargo, en salud,
+educación, agua potable y los definidos en el Artículo 76 de la Ley 715 de 2001 (DNP,
+2021).
+
+Considerando que el numeral 2° del artículo 165 de la Ley 1753 de 2015 "Por la cual se
+expide el Plan Nacional de Desarrollo 2014-2018 "Todos Por un Nuevo País", eliminó la
+competencia del CONPES para aprobar la distribución de los recursos del SGP descrita en
+el artículo 85° de la Ley 715 de 2001; a partir de la expedición de la mencionada Ley, la
+distribución de los recursos del SGP se realizará a través de un documento de Distribución,
+los cuales, para cada año, pueden ser consultados en el siguiente enlace
+https://www.dnp.gov.co/programas/inversiones-y-finanzas-publicas/Paginas/Sistema-
+General-de-Participaciones---SGP.aspx
+
+Por su parte, para el sector de agua potable y saneamiento básico, los artículos 10 y 11 de
+la Ley 1176 de 2007, establecen las actividades de destinación de los recursos del SGP
+para financiar la prestación de los servicios públicos domiciliarios de agua potable y
+saneamiento básico en los departamentos y municipios, las cuales incluyen:
+
+Para los departamentos:
+     Promoción, estructuración, implementación e inversión en infraestructura de
+         esquemas regionales de prestación de los servicios, de acuerdo con los planes
+         regionales y/o departamentales de agua y saneamiento.
+     Proyectos regionales de abastecimiento de agua para consumo humano.
+     Proyectos de tratamiento y disposición final de residuos líquidos con impacto
+         regional.
+     Proyectos de tratamiento, aprovechamiento y disposición final de residuos sólidos
+         con impacto regional.
+     Pago del servicio de deuda adquirida por el departamento para financiar
+         infraestructura del sector de agua potable y saneamiento básico, en cumplimiento
+         de sus competencias, en el marco del Plan Departamental de Agua y Saneamiento.
+
+Para los municipios:
+     Los subsidios que se otorguen a los estratos subsidiables de acuerdo con lo
+         dispuesto en la normatividad vigente.
+
+     Pago del servicio de la deuda originado en el financiamiento de proyectos del sector
+         de agua potable y saneamiento básico, mediante la pignoración de los recursos
+         asignados y demás operaciones financieras autorizadas por la ley.
+
+     Preinversión en diseños, estudios e interventorías para proyectos del sector de agua
+         potable y saneamiento básico.
+
+     Formulación, implantación y acciones de fortalecimiento de esquemas
+         organizacionales para la administración y operación de los servicios de acueducto,
+         alcantarillado y aseo, en las zonas urbana y rural.
+
+     Construcción, ampliación, optimización y mejoramiento de los sistemas de
+         acueducto y alcantarillado, e inversión para la prestación del servicio público de
+         aseo.
+
+     Programas de macro y micromedición.
+     Programas de reducción de agua no contabilizada.
+     Adquisición de los equipos requeridos para la operación de los sistemas de agua
+
+         potable y saneamiento básico.
+     Participación en la estructuración, implementación e inversión en infraestructura de
+
+         esquemas regionales de prestación de los municipios.
+
+                    5.2.2 Tarifas prestador del servicio público de alcantarillado
+                              (considerando el manejo de aguas lluvias como parte el servicio
+                              público de alcantarillado)
+
+Las metodologías tarifarias para los servicios públicos domiciliarios de acueducto y
+alcantarillado definen los SUDS como sistemas que se utilizan en las ciudades para
+recolectar, reducir y transportar controladamente los flujos de escorrentía. Adicionalmente,
+especifican que los prestadores a su vez podrán llevar a cabo estudios de beneficio/costo
+para la implementación de SUDS que se enmarquen en el servicio público domiciliario de
+alcantarillado. La inclusión de este tipo de iniciativas en los planes de obras e inversiones
+estará sujeta a la entidad territorial respectiva, al cierre financiero de los proyectos y a que
+su relación beneficio/costo sea mayor o igual a uno (1).
+
+                    5.2.3 Planes Departamentales de Agua ­ PDA
+
+Conforme a lo establecido en el Decreto 1425 de 2019, cualquier proyecto que se considere
+un servicio público puede ser financiado a través de los PDA, en los cuales se articulan
+diferentes fuentes de recursos, como son:
+
+     Recursos del Presupuesto General de la Nación.
+     Recursos del Sistema General de Participaciones.
+     Recursos del Sistema General de Regalías.
+     Recursos de las Autoridades Ambientales.
+     Recursos propios o de libre destinación de las entidades territoriales o de cualquier
+
+         otro participante de los Planes Departamentales para el Manejo Empresarial de los
+         Servicios de Agua y Saneamiento (PDA).
+     Recursos de inversión de los prestadores que quieran ejecutar a través de los
+         Planes Departamentales para el Manejo Empresarial de los Servicios de Agua y
+         Saneamiento (PDA).
+
+     Recursos del sector privado que se incorporen a la estructuración y ejecución de
+         proyectos en el marco de asociaciones público-privadas.
+
+     Recursos de cooperación internacional.
+     Cualquier otra fuente de recursos que pueda o deba aportarse al desarrollo de los
+
+         Planes Departamentales para el Manejo Empresarial de los Servicios de Agua y
+         Saneamiento (PDA).
+
+                    5.2.4 Sistema General de Regalías
+
+Es el conjunto de ingresos, asignaciones, órganos, procedimientos y regulaciones, que
+garantiza el uso eficiente y la destinación de los ingresos provenientes de la explotación de
+los recursos naturales no renovables, conforme con lo establecido en el artículo 360 y 361
+de la Constitución Política, la Ley 2056 de 30 de septiembre de 2020 y tiene por objeto
+determinar la distribución, objetivos, fines, administración, ejecución, control, el uso
+eficiente y la destinación de los ingresos provenientes de la explotación de dichos recursos
+naturales no renovables precisando las condiciones de participación de sus beneficiarios
+(SGR, 2021).
+
+Aunque no se describe específicamente la destinación de este tipo de recursos para SUDS,
+es importante tener en cuenta que el Artículo 35 de la mencionada Ley "Priorización y
+aprobación de los proyectos de inversión de la Asignación para la Inversión Regional",
+indica que la priorización y aprobación de los proyectos de inversión de la Asignación para
+la Inversión Regional en cabeza de los departamentos estará a cargo de los respectivos
+departamentos, teniendo en cuenta, entre otros, criterios de alto Impacto regional, social,
+económico, ambiental, agua, saneamiento básico, electrificación, gasificación por redes,
+educación, conectividad a internet a hogares estrato 1 y 2, zonas rurales, infraestructura
+educativa, hospitalaria y vial y la generación de empleo formal.
+
+                    5.2.5 Créditos tasa compensada
+
+Las tasas compensadas son recursos otorgados por la Nación, para ejecutar proyectos de
+impacto social, bajo las condiciones económicas más favorables del mercado. Con este
+mecanismo, las entidades territoriales pueden optimizar sus inversiones y disponer de
+mayor capacidad financiera para ejecutar nuevos proyectos que mejoren la calidad de vida
+de sus habitantes. En el marco del Decreto 1300 del 11 de julio de 2014, se implementa la
+línea de redescuento con tasa compensada de Agua y Saneamiento Básico con el fin de
+financiar todas las inversiones relacionadas con el sector, o aquellos nuevos planes,
+programas o políticas que se implementen por el Gobierno nacional[3].
+
+Para las líneas de crédito con tasa compensada el Ministerio de Hacienda y Crédito Público
+destina anualmente en el presupuesto general de la Nación, los recursos necesarios para
+subsidiar a la Financiera de Desarrollo Territorial la diferencia entre la tasa de captación
+promedio de FINDETER, más los costos en que ésta incurra durante la vigencia de los
+redescuentos otorgados, así como la tasa de redescuento que le ofrece a los intermediarios
+(BID, 2020).
+
+Decreto 1300 de 2014 - Por el cual se regula una línea de redescuento con tasa
+compensada de la Financiera de Desarrollo Territorial S. A. (Findeter), para el
+Financiamiento de Programas y Proyectos en el Sector de Agua y Saneamiento Básico
+Que constituye un propósito gubernamental e institucional el lograr el mejoramiento de las
+condiciones económicas y la reducción de los costos financieros de los Entes Territoriales
+que adquirieron créditos con el Patrimonio Autónomo - Grupo Financiero de Infraestructura
+Ltda., administrado por Alianza Fiduciaria.
+
+Que una de las estrategias del Gobierno nacional para cumplir este objetivo, está
+representada en la estructuración de líneas de crédito con tasa compensada a través de la
+Financiera de Desarrollo Territorial S. A. - (Findeter), que permita la sustitución de los
+pasivos contraídos con dicho Fideicomiso por los municipios con categoría 6, siempre y
+cuando la deuda no supere los $10.000.000.000.
+
+ARTÍCULO 1°. La Financiera de Desarrollo Territorial S. A. - (Findeter), de conformidad con
+lo establecido en el parágrafo del literal b) del numeral 3 del artículo 270 del Estatuto
+Orgánico del Sistema Financiero y en relación con las actividades de que tratan los literales
+a) y l) del numeral 2 del artículo 268 del mencionado Estatuto, podrá ofrecer una línea de
+redescuento con tasa compensada destinada al Financiamiento de todas las inversiones
+relacionadas con el sector de Agua y Saneamiento Básico, o aquellos nuevos planes,
+programas o políticas que se implementen por el Gobierno nacional en el Sector de Agua y
+Saneamiento Básico, así como para la sustitución de la deuda contraída por los municipios
+categoría 6 con el Patrimonio Autónomo - Grupo Financiero de Infraestructura Ltda.,
+administrado por Alianza Fiduciaria, cuyo monto por Ente Territorial no supere los diez mil
+millones de pesos ($10.000.000.000) moneda legal colombiana.
+
+Por lo anterior, a través de esta línea de crédito que FINDETER oferta a entidades como
+Departamentos, Distritos, Municipios. Entidades descentralizadas del orden territorial,
+Corporaciones autónomas regionales, se puede financiar cualquier tipo de infraestructura
+relacionada con la prestación de los servicios de agua potable y saneamiento básico, para
+los cuales aplican los sistemas urbanos de drenaje sostenible.
+
+                    5.2.6 Cooperación internacional con la Banca Multilateral
+
+La Cooperación Internacional (CI) constituye una herramienta de política exterior que le
+permite profundizar sus relaciones internacionales, y es un instrumento estratégico que
+contribuye con los procesos de desarrollo propios y de otros países del mundo.
+
+La Organización para la Cooperación y el Desarrollo Económicos (OCDE), define la
+Cooperación Internacional (CI), como "la acción conjunta para apoyar el desarrollo
+económico y social del país, mediante la transferencia de tecnologías, conocimientos,
+experiencias o recursos por parte de países con igual o mayor nivel de desarrollo, Fuentes
+Multilaterales, organizaciones no gubernamentales y de la sociedad civil". La Cooperación
+Internacional, también denominada "Cooperación para el desarrollo" es un concepto global
+que comprende diferentes modalidades de ayuda, que fluyen hacia los países de menor
+desarrollo relativo.
+
+Los principios de la Cooperación Internacional consignados en la Declaración de París ­
+acuerdo internacional que estableció compromisos globales por parte de países donantes
+y receptores para mejorar la entrega y el manejo de la ayuda con el objetivo de hacerla más
+eficaz y transparente y al cual Colombia se adhirió en el año 2007­ son: Apropiación,
+Alineación, Armonización, Enfoque en los resultados y Rendición mutua de cuentas[4].
+
+Por su parte, para la contratación de operaciones de crédito que se requieran por parte de
+las entidades territoriales, sus descentralizadas y las entidades de régimen especial sin
+garantía de la Nación, el DNP emitirá los conceptos respectivos para la autorización de la
+contratación de operaciones de crédito sin garantía de la nación. El DNP expide este
+concepto a las entidades territoriales y sus descentralizadas, sólo si se trata de una
+operación de crédito externo y debe analizar la información técnica y financiera remitida
+para la expedición del concepto de endeudamiento, el cual, en caso de resultar favorable
+informará al Ministerio de Hacienda y Crédito Público MHCP el monto, plazo y destinación
+de los recursos.
+
+Cuando la nación decida otorgar garantía soberana, el MHCP evalúa la solicitud y concepto
+del DNP y emite comunicación en coordinación con el DNP a la banca solicitando
+formalmente la inclusión de la operación de crédito en el portafolio de créditos de la
+vigencia. La banca lleva a cabo misiones con la entidad del sector, el DNP y el MHCP para
+estructurar la operación de crédito, aprobar y publicar el documento CONPES respectivo
+con la entidad del sector, para la elaboración de la minuta y acta de negociación de la
+operación de crédito.
+
+                    5.2.7 Presupuesto General de la Nación (PGN)
+
+Es el instrumento de manejo financiero más importante de la política fiscal, donde se
+programa y registra el gasto público y su forma de financiación, además de establecer las
+reglas para su ejecución. Los ingresos de la nación constituyen la sumatoria de todos los
+impuestos tributarios y no tributarios (ingresos corrientes) establecidos en el marco fiscal y
+tributario del país, así como los recursos de capital que ingresan al Presupuesto General
+de la Nación (PGN). Estos ingresos se distribuyen para el gasto público de funcionamiento,
+inversión y pago a la deuda, e incluye las transferencias a los municipios por medio del
+Sistema General de Participaciones (SGP)[5].
+
+A través del mecanismo de viabilización del MVCT se han presentado proyectos para la
+construcción de alcantarillados pluviales, manejo de drenaje pluvial, en los departamentos
+de Cauca, Córdoba, Cundinamarca, La Guajira, Norte de Santander, Putumayo, Risaralda,
+y Valle del Cauca, los cuales se han financiado con fuentes provenientes de Aportes
+Nación-Audiencias Públicas, Contrapartida-SGP-Municipio, Regalías, Créditos Banca
+Multilateral, Contrapartida Tasa Compensada y Contrapartida ESP, entre otras.
+                    5.2.8 Obras por Impuestos
+
+El artículo 238 de la Ley 1819 de 2016 creó el mecanismo de Obras por Impuestos como
+una forma de pago del impuesto de renta y complementarios que la ley les otorga a los
+contribuyentes, mediante la destinación de dicho impuesto en la inversión directa para la
+ejecución de proyectos viabilizados y prioritarios de trascendencia social en los diferentes
+municipios definidos como Zonas más Afectadas por el Conflicto Armado ­ ZOMAC que se
+encuentren debidamente aprobados por la Agencia para la Renovación del Territorio ART,
+previo visto bueno del Departamento Nacional de Planeación (DNP), relacionados con el
+suministro de agua potable, alcantarillado, energía, salud pública, educación pública o
+construcción y/o reparación de infraestructura vial (Ley 1819 de 2016).
+
+La destinación de recursos no se discrimina por zona urbana o rural del municipio, sino que
+sean pertenecientes a las Zomac. Para este fin, la Agencia para la Renovación del Territorio
+(ART) deberá llevar actualizado el Banco de Proyectos a realizar en los diferentes
+municipios pertenecientes a las Zomac, que cuenten con viabilidad técnica y presupuestal,
+priorizados según el mayor impacto que puedan tener en la disminución de la brecha de
+inequidad y la renovación te-rritorial de estas zonas, que permitan su reactivación
+económica, social y su fortalecimiento institucional, y que pueden ser ejecutados con los
+recursos tributarios provenientes de la forma de pago que se establece en el presente
+artículo. El contribuyente podrá proponer proyectos distintos a los consignados en el Banco
+de Proyectos, los cuales deberán someterse a la aprobación de la Agencia. Por su parte, el
+Consejo Superior de Política Económica y Fiscal (Confis) aprobará anualmente un cupo
+máximo de aprobación de proyectos para ser financiados por el mecanismo establecido en
+el presente proyecto. Este cupo será priorizado y distribuido entre las distintas Zomac por
+la Agencia de Renovación del Territorio, previo visto bueno del DNP.
+
+No obstante, no es claro si por medio de esta vía es posible financiar proyectos orientados
+al manejo sostenible de la escorrentía urbana, como el caso de los SUDS.
+
+                    5.2.9 Transferencia del sector eléctrico a los municipios[6]
+
+Son dineros que las empresas generadoras de energía transfieren a las Corporaciones
+Autónomas Regionales y a los municipios en cumplimiento del artículo 45 de la Ley 99 de
+1993.
+
+Los recursos que las Corporaciones Autónomas reciben de las centrales hidroeléctricas se
+deben destinar a la protección del medio ambiente y a la defensa de la cuenca hidrográfica
+del área de influencia del proyecto. Y los recursos que se reciben de las centrales térmicas
+se deben destinar a la protección del medio ambiente del área donde está ubicada la planta,
+de conformidad con el "Plan de Manejo Ambiental para el Área de Influencia de la Planta
+Térmica".
+
+Para centrales hidroeléctricas las transferencias corresponden al 6% de las ventas brutas
+de energía por generación propia, de los cuales un 3% son para las Corporaciones
+Autónomas Regionales que tengan jurisdicción en el área donde se encuentra localizada la
+cuenca hidrográfica y el embalse. El 3% restante se entrega a los municipios y distritos
+localizados en la cuenca hidrográfica, distribuido así: 1,5% para los municipios y distritos
+localizados en la cuenca hidrográfica que surte el embalse. 1,5% para los municipios y
+distritos donde se encuentra el embalse.
+
+Para centrales térmicas las transferencias corresponden al 4% distribuidos 2,5% a la
+Corporación Autónoma Regional del área donde está ubicada la planta y el 1,5% para el
+municipio donde está situada la planta generadora.
+
+Lo anterior de acuerdo con la tarifa que fije la Comisión de Regulación de Energía y Gas -
+CREG para ventas en bloque.
+
+El Decreto 421 de 2021 establece que "sobre los recursos recaudados a partir de las
+transferencias por la generación de energías limpias, la mencionada ley dispuso que su
+destinación será del 60% en partes iguales a comunidades étnicas, y el 40% para los
+municipios ubicados en el área de influencia del proyecto de generación. Dichos recursos
+deberán ser destinados al desarrollo o ejecución de proyectos de inversión en
+infraestructura, servicios públicos, saneamiento básico y/o de agua potable, así como en
+proyectos que incidan directamente en su calidad de vida y bienestar".
+
+Si bien las inversiones en el manejo de aguas lluvias puede ser considerado como
+proyectos de servicios públicos y proyectos que incidan en el mejoramiento de la calidad
+de vida de las personas, toda vez que hacen parte de las medidas de adaptación al cambio
+climático orientadas a gestión de riesgos de desastre por inundación, se debe analizar más
+a detalle si esta fuente de financiación puede ser utilizada para inversiones de SUDS.
+
+                    5.2.10 Asociaciones Público Privadas[7]
+
+El financiamiento de APP generalmente sería un esquema combinado, que incorporaría
+una mezcla de subsidios o financiamiento concesional del gobierno nacional y agencias de
+cooperación, capital privado y financiamiento a través de deuda, mayormente comercial, a
+recuperarse a través de tarifas a los usuarios e ingresos resultantes de la venta del agua
+tratada y sus subproductos.
+
+La ley 1508 de 2012 "Por la cual se establece el régimen jurídico de las Asociaciones
+Público-Privadas, se dictan normas orgánicas de presupuesto y se dictan otras
+disposiciones", establece que esta ley es aplicable a todos aquellos contratos en los cuales
+las entidades estatales encarguen a un inversionista privado el diseño y construcción de
+una infraestructura y sus servicios asociados, o su construcción, reparación, mejoramiento
+o equipamiento, actividades todas estas que deberán involucrar la operación y
+mantenimiento de dicha infraestructura. También podrán versar sobre infraestructura para
+la prestación de servicios públicos.
+
+                    5.2.11 Emisión de Bonos Verdes para una ESP
+Los bonos verdes son un tipo de deuda emitida por instituciones públicas o privadas para
+financiarse y, a diferencia de otros instrumentos de crédito, comprometen el uso de los
+fondos obtenidos con un proyecto medioambiental o relacionado con el cambio climático.
+
+Lo que diferencia a un bono verde de un bono convencional es el compromiso por parte del
+emisor de canalizar los fondos recaudados sólo a proyectos que tengan un carácter verde
+y de sostenibilidad, es decir, que produzcan un efecto positivo en relación a la problemática
+del cambio climático.
+
+Uso de los Fondos: entre los proyectos más comúnmente respaldados se encuentran:
+energía renovable; eficiencia energética; gestión sostenible de residuos; uso sostenible de
+la tierra; conservación de la biodiversidad; transporte limpio; ordenación sostenible de las
+aguas; adaptación al cambio climático; productos adaptados a la economía circular y/
+ecológica; y edificios ecológicos7.
+
+                    5.2.12 Corporaciones Autónomas Regionales[12]
+
+De acuerdo con el artículo 31 de la Ley 99 de 1993, las CAR al igual que las demás
+corporaciones tienen por objeto la ejecución de las políticas, planes, programas y proyectos
+sobre medio ambiente y recursos naturales renovables, así como el cumplimiento y
+oportuna aplicación a las disposiciones legales vigentes sobre su disposición,
+administración, manejo y aprovechamiento, conforme a las regulaciones, pautas y
+directrices expedidas por el Ministerio del Medio Ambiente y Desarrollo Sostenible.
+
+Dentro de las funciones de las CAR se encuentran "Ejecutar, administrar, operar y mantener
+en coordinación con las entidades territoriales, proyectos, programas de desarrollo
+sostenible y obras de infraestructura cuya realización sea necesaria para la defensa y
+protección o para la descontaminación o recuperación del medio ambiente y los recursos
+naturales renovables".
+
+Adicionalmente, las CAR plantean "La gestión del riesgo de desastres es un proceso social
+orientado a la formulación, ejecución, seguimiento y evaluación de políticas, estrategias,
+planes, programas, regulaciones, instrumentos, medidas y acciones permanentes para el
+conocimiento y la reducción del riesgo y para el manejo de desastres, con el propósito
+explícito de contribuir a la seguridad, el bienestar, la calidad de vida de las personas y al
+desarrollo sostenible".
+
+                    5.2.13 Impuesto Predial[13]
+
+La financiación de la infraestructura del servicio público de acueducto y alcantarillado a
+través del aumento del impuesto predial proveniente de la actualización de la formación
+catastral, con el objetivo de cerrar la brecha que existe en la cobertura del servicio de agua
+
+7 https://www.iberdrola.com/sostenibilidad/inversiones-bonos-verdes
+potable y saneamiento en los municipios menores, donde la Ley 142 de 1994, no ha sido
+efectiva por la inexistencia de incentivos económicos para que el sector privado pueda
+entrar a participar en la prestación del servicio.
+
+Aunque no se ha definido específicamente la destinación de recursos del impuesto predial
+para el desarrollo de iniciativas de SUDS, la Ley 99 de 1993 en su Artículo 44 "Porcentaje
+Ambiental de los Gravámenes a la Propiedad Inmueble, establece, con destino a la
+protección del medio ambiente y los recursos naturales renovables, un porcentaje sobre el
+total del recaudo por concepto de impuesto predial, que no podrá ser inferior al 15% ni
+superior al 25.9%. Con estos recursos se podrían financiar proyectos relacionados con
+SUDS que impacten la protección del medio ambiente.
+
+6 ACERCAMIENTO A PRESTADORES Y MUNICIPIOS ­ PERCEPCIÓN DE
+    IMPLEMENTACIÓN DE SUDS
+
+Con el objetivo de recopilar información de la percepción y grado de implementación de
+SUDS en las administraciones municipales y las empresas de servicios públicos de
+alcantarillado, se envió en la vigencia 2021 un formulario online de 23 preguntas, que nos
+permite tener un primer acercamiento del conocimiento del tema en el territorio.
+
+De las 10 respuestas diligenciadas, la mitad fue diligenciada por prestadores, dentro de los
+cuales podemos mencionar Aguas de Manizales, EAAB, EMDUPAR, Triple A,
+Aquaoccidente y la empresa de Acueducto, Alcantarillado y Aseo de Yopal - EAAAY. Los
+municipios que respondieron lo hicieron a través de la Secretaría de Infraestructura o de
+Obras Públicas, que generalmente atienden el tema de servicios públicos, y también la
+Secretaría de Planeación y de Ambiente.
+
+Frente a la responsabilidad del manejo de aguas lluvias, la figura más usada es a cargo del
+prestador mediante alcantarillado pluvial y en algunos casos combinados. La segunda
+tendencia es, una parte, a cargo de la empresa con las aguas pluviales que ingresan a la
+infraestructura y la otra parte, a cargo del municipio con ejemplos como el manejo de aguas
+superficiales, escorrentía de laderas y obras de estabilidad. En menor medida, la
+responsabilidad es del municipio a través de alcantarillado pluvial, canales periféricos
+(naturales o artificiales) o por tuberías subterráneas con descarga por medio de sumideros
+y colectores, algunas veces sin ningún tipo de tratamiento. Se reportó un caso en que no
+existe alcantarillado pluvial, es decir que las aguas lluvias no son canalizadas.
+
+Adicionalmente, comentan que dentro del marco tarifario no se encuentra económicamente
+contemplado el manejo y disposición de aguas de origen pluvial. No obstante, a una
+pregunta específica de la encuesta respondió la mayoría que tanto prestador como
+municipio están encargados del manejo de aguas lluvias.
+
+En cuanto a si tienen redes de alcantarillado combinado en el municipio, la mayoría de las
+respuestas indican que tienen un porcentaje de redes combinadas menor al 30 %; sin
+embargo, hay tres casos en los que más del 80 % de las redes es combinada.
+
+Por otra parte, los encuestados reportan que entre el 30% y 80 % de las redes corresponden
+a alcantarillados separados.
+
+Frente a la pregunta de haber considerado la implementación de SUDS, el 80 % de los
+municipios y empresas lo han hecho, con el propósito en su mayoría de regular picos altos
+de escorrentía y mitigar eventos de inundación, también para mejorar manejo de aguas
+lluvias, evitar sobrecargas en el sistema, aprovechar las aguas lluvias para el uso
+doméstico, mejorar la calidad del agua que llega a los cuerpos hídricos, optimizar el drenaje
+de las ciudades con mejores tecnologías, diseños y construcciones sostenibles. Al respecto,
+dos casos comentan las dificultades con la topografía del lugar.
+
+Respecto del avance del municipio para la implementación de SUDS, la mayoría no cuenta
+con avances, frente a tres casos donde se han construido SUDS y un caso menciona
+desarrollar normativa relacionada con SUDS. Los tipos de SUDS que se han considerado
+en mayor cantidad son los tanques de almacenamiento y los alcorques inundables.
+
+Las ventajas que se han encontrado con la implementación de SUDS son:
+
+     Control de picos de escorrentía
+     Evitar sobrecargas al sistema
+     Tener drenajes muy rápidos
+     Tener infraestructura verde en sitios claves para para desagües
+     Embellecimiento del entorno y,
+     Regulación de picos de caudal en momentos de alta precipitación.
+
+Acerca de las desventajas encontradas para la implementación son:
+
+     Riesgo en zonas de ladera en el favorecimiento de la infiltración de aguas
+     Inercia del prestador del servicio
+     No se quiere asumir el mantenimiento
+     Implementación costosa
+     Falta de directrices y normas para el diseño
+
+Frente a la coordinación interinstitucional, algunas empresas han realizado reuniones con
+el municipio y con la autoridad ambiental, y un caso con los urbanizadores, el mayor
+adelanto que se identifica por las respuestas de la encuesta, es la realización de un
+convenio entre prestador y la Secretaría de Ambiente para expedir una Guía técnica que
+permitió la implementación de SUDS por parte de otros actores. Asimismo, preocupa la
+administración de los sistemas de alcantarillado una vez estos sean entregados al
+municipio. Quienes no lo han hecho, desconocían el tema, o no cuentan con los recursos
+necesarios para consultoría y ejecución de proyectos de este tipo.
+
+Respecto a las dificultades o barreras que ha encontrado para implementar los SUDS se
+refirieron a:
+
+     Dificultades técnicas
+     Dificultades financieras
+     Falta de conocimiento
+     Falta de normas para el diseño y,
+     Baja articulación entre las normas urbanísticas y las normas de servicios públicos
+
+Con relación a contar con estudios o proyectos de SUDS, solamente dos prestadores
+afirman tener haber desarrollado algo al respecto: Aquaoccidente y la EAAB, que realizó la
+Guía técnica de Diseño, la NS 166.
+
+La mayoría de los municipios o prestadores (6 de 10) afirma tener el servicio información
+estadística sobre la ocurrencia de emergencias por inundaciones por escorrentía. Sin
+embargo, solo 4 cuentan con un plan de emergencia para inundaciones por escorrentía,
+algunos de ellos sin tener la información estadística. En esta línea, en la descripción del
+plan hacen referencia a que en caso de inundaciones en el casco urbano se despliega
+personal, equipos vactor y equipos de bombeo con el fin de remover obstrucciones en
+conductos y evacuar la acumulación de aguas, también, mencionan que se activa el plan
+operativo para inundaciones con un procedimiento detallado de las acciones en orden
+cronológico. De igual forma, se refieren al Plan de gestión del riesgo municipal y el Protocolo
+de respuesta en armonía que incluye la caracterización del municipio para actuar en
+cualquier tipo de emergencia (natural y antrópica).
+
+7 CONCLUSIONES Y RECOMENDACIONES
+
+ Existen directrices de política nacional en temas como cambio climático, gestión del
+    recurso hídrico y gestión del riesgo de desastres, en los cuales, de manera indirecta, se
+    puede identificar los SUDS como una de las medidas de adaptación al cambio climático
+    y gestión de desastres por riesgo de inundación. No obstante, en estos instrumentos no
+    hay lineamientos explícitos y definición de responsabilidades para la implementación de
+    estos sistemas.
+
+ Para el sector de Agua Potable y Saneamiento Básico se aborda de manera específica
+    los SUDS como una manera de gestionar las aguas lluvias en el marco del Reglamento
+    Técnico de Agua Potable y Saneamiento, adoptado por la Resolución 330 de 2017 que
+    fue modificada por la Resolución 799 de 2021 y en la Resolución 688 de 2014 expedida
+    por la CRA.
+
+ Teniendo en cuenta que la implementación de SUDS como medida de adaptación al
+    cambio climático para minimizar el riesgo de inundaciones es un tema que involucra no
+    solo al sector de Agua y saneamiento básico, sino al sector Vivienda, Ambiente y
+    Transporte en lo relacionado con la infraestructura vial, es fundamental que se articulen
+    los instrumentos existentes en cada uno de estos sectores y se identifiquen las
+    necesidades de mejoras normativas que tengan una incidencia en los instrumentos de
+    planificación territorial como son los Planes de Desarrollo, Planes de Ordenamiento
+    Territorial, Planes de Gestión Integral de Riesgos, Planes de Gestión Ambiental, entre
+    otros.
+
+ Si bien en Colombia se han desarrollado experiencias en materia de SUDS tanto en
+    implementación como en criterios técnicos por parte de algunas empresas de servicios
+    públicos, sigue siendo un tema que requiere trabajarse a mayor profundidad en los
+    municipios y empresas prestadoras que cuenta con menor capacidad técnica que la que
+    se tiene en las principales ciudades capitales.
+
+ El marco tarifario de acueducto y alcantarillado para empresas con más de 5 mil
+    suscriptores considera la posibilidad de incorporar obras de SUDS en el POIR y, por
+    consiguiente, en la tarifa de servicio de alcantarillado. Sin embargo, estas obras a las
+    que se hace referencia deben atender a lo establecido en el artículo 52 de la Resolución
+    CRA 688 de 2014.
+
+ Para aquellas tipologías de SUDS que, después de analizadas sus condiciones, no
+    puedan ser incluidas en la tarifa de alcantarillado, no existe aún certeza de quienes
+    serían los responsables, incluyendo la financiación de su construcción y mantenimiento.
+    Es aquí donde cobra relevancia el ejercicio exhaustivo de planificación territorial en
+    donde se articulen los diferentes enfoques para el manejo sostenible de las aguas
+    lluvias como son: medidas de adaptación al cambio climático, gestión del riesgo y
+    gestión del recurso hídrico.
+Referencias
+
+Almoradie, A., Cortes, V., & & Jonoski, A. (2015). Web-based stake-holder collaboration.
+         Journal of Flood Risk Management, 19-38.
+
+Bilta, V. D., Nieuwenhuis, E., Ven, F. v., & Langeveld, J. (2021). Root causes of failures in
+         sustainable urban drainage systems (SUDS): an exploratory study in 11
+         municipalities in The Netherlands. Blue-Green Systems.
+
+Brown, R. R., & Farrelly, M. A. (2009). Delivering sustainable urban water management: a
+         review of the hurdles we face. Water Science and Technology, 839-846.
+
+Carriquiry, A. N., Sauri, D., & March, H. (2020). Community Involvement in the
+         Implementation of Sustainable Urban Drainage Systems (SUDSs): The Case of
+         Bon Pastor, Barcelona. Sustainability, 1-19.
+
+ciria; Department for Environment Food & Rural Affairs. (2015). The SuDS Manual .
+         Lonres: British Library Cataloguing in Publication Data.
+
+Cotterill, S., & Bracken, L. J. (2020). Assessing the effectiveness of sustainable drainage
+         systems (SuDS): interventions, impacts and challenges. Water.
+
+Fratini, C. F., Geldof, G. D., Kluck, J., & Mikkelsen, P. S. (2012). Three points approach
+         (3PA) for urban flood risk management: a tool to support climate change
+         adaptation through transdisciplinarity and multifunctionality. Urban Water Journal,
+         317-331.
+
+Hajer, M. (2003). Policy without polity? Policy analysis and the institutional void. Policy
+         Sciences, 175­195.
+
+Hoang, L., & Fenner, R. A. (2016). System interactions of stormwater management using
+         sustainable urban drainage systems and Green infrastructure. Urban Water
+         Journal, 739-758.
+
+Kennedy, S., Lewi, L., E. S., & Wong, S. (2007). Sustainable Urban Drainage Systems
+         (SUDS)- More than a Drainage Solution? Sixth International Conference on
+         Sustainable Techniques and Strategies in Urban Water Management (págs. 423-
+         430). Lyon : Novatech.
+
+Marlow, D. R., Moglia, M., Cook, S., Beale, D. J., Land, C., & Road, G. (2013). Towards
+         sustainable urban water management: a. Water Reesearch, 7150-7161.
+
+Maskrey, S., Priest, S., & Mount, N. (2018). Towards evaluationcriteria in participatory
+         flood risk management. Journal ofFlood Risk Management, 1-14.
+
+Nieuwenhuis, E., Cuppen, E., Langeveld, J., & De Bruijn, H. (2021). Towards the
+         integrated management of urban water systems. Journal of Cleaner Production.
+
+Olivares-Cerpa, G. R.-P.-R. (2022). SUDS-linear" to reduce flood risk considering Climate
+         Change scenarios. Ingeniería del agua, 26(2), 77-90.
+         https://doi.org/10.4995/Ia.2022.17058., 77-90. Obtenido de
+         https://doi.org/10.4995/Ia.2022.17058.
+
+Veeneman, V. W. (2004). The Strategic Management of Large Technological Projects.
+         TBM, Delft, The Netherlands.
+
+Vilcan, T., & Potter, K. (2019). Delivering sustainable drainage systems throughthe English
+         planning system: A proposed caseof institutional void. Journal of Flood Risk
+         Management.
+Alcaldía Mayor de Bogotá D.C. (2017). Documento Técnico de Soporte - DTS. Plan de Ordenamiento Zonal del Norteciudad
+
+     Lagos  de                       Torca.                  Bogotá,         Colombia.     Obtenido       de
+
+     http://www.sdp.gov.co/sites/default/files/anexo_n_1_documento_tecnico_de_soporte.pdf
+
+[1] Resolución CRA 688 de 2016: por la cual se establece la metodología tarifaria para las personas prestadoras de los
+servicios públicos domiciliarios de acueducto y alcantarillado con más de 5.000 suscriptores en el área urbana. Resolución
+CRA 825 de 2017: por la cual se establece la metodología tarifaria para las personas prestadoras de los servicios públicos
+domiciliarios de acueducto y alcantarillado que atiendan hasta 5.000 suscriptores en el área urbana y aquellas que presten
+el servicio en el área rural independientemente del número de suscriptores que atiendan.
+[2] https://www.cra.gov.co/seccion/servicio-al-ciudadano/preguntas-frecuentes.html
+
+[3] https://www.ambitojuridico.com/noticias/general/administrativo-y-contratacion/minhacienda-anuncia-recursos-con-tasa-
+
+compensada
+
+[4]  https://www.mincit.gov.co/ministerio/planeacion/cooperacion-internacional-becas/lineamientos-de-la-cooperacion-
+
+internacional/manual-de-acceso.aspx
+
+[5]https://www.funcionpublica.gov.co/glosario/-
+
+/wiki/Glosario+2/Presupuesto+General+de+la+Naci%C3%B3n+%3COPEN_PARENTHESIS%3EPGN%3CCLOSE_PAREN
+
+THESIS%3E
+[6] https://www.chec.com.co/sostenibilidad/gestion-ambiental-integral/transferencia-del-sector-electrico
+
+[7] https://openknowledge.worldbank.org/bitstream/handle/10986/33436/146823SP.pdf?sequence=6&isAllowed=y
+
+[8] http://www.scielo.org.co/pdf/seec/v20n44/0120-6346-seec-20-44-00045.pdf
+
+[9] http://www.afi.es/EO/CDOs.pdf
+
+[10] https://colaboracion.dnp.gov.co/CDT/Ambiente/Finanzas%20del%20Clima/bonos-verdes-como-mecanismo-de-
+
+financiamiento-climatico.pdf?Web
+[11] https://www.fdn.com.co/es/financiacion/project-finance
+
+[12] https://www.car.gov.co/vercontenido/5
+
+[13] https://osgis.co/el-impuesto-predial-fuente-de-financiacion/
+

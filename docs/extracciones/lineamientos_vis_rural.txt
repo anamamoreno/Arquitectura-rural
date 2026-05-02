@@ -1,0 +1,1577 @@
+1          Lineamientos para la construcción de vivienda de interés social nueva rural
+
+Proyectos  Proyectos Tipo: más fácil, más rápido, mayor impacto
+Lineamientos para la construcción de vivienda de interés social nueva rural  2
+
+Proyectos
+
+Proyectos Tipo: más fácil, más rápido, mayor impacto                         Proyectos
+3                                                       Lineamientos para la construcción de vivienda de interés social nueva rural
+
+Director Departamento Nacional de Planeación            Ministra de Vivienda, Ciudad y Territorio
+Alexander López Maya                                    Helga María Rivas Ardila
+
+Subdirector General del Sistema General de Regalías     Viceministra de Vivienda
+Jhonattan Julián Duque Murcia                           Aydee Marqueza Marsiglia Bello
+
+Director de Gestión y Promoción del Sistema General     Director de Vivienda Rural
+de Regalías                                             Tulio Ricardo Ramírez Borbón
+José Giovany Pinzón Báez
+                                                        Subdirectora de Política y Apoyo Técnico
+Subdirector de Gestión de Proyectos de la DGP-SGR       Marisella Calpa Gómez
+Pablo César Rodríguez Acevedo
+                                                        Equipo Técnico
+Equipo Proyectos Tipo                                   Adriana del Pilar Álvarez Palacios
+Dirección de Gestión y Promoción del Sistema General    Estefany García Oviedo
+de Regalías                                             Nathaly Alexandra Bautista
+Ligia Mercedes Zárate Carvajal
+Fabiola Toro Betancourt
+Elvia Elena Pacheco Romero
+
+Subdirección General de Inversiones, Seguimiento y
+Evaluación
+Alan Guillermo Asprilla Reyes
+
+Dirección de Proyectos e Información para la Inversión
+Pública
+Jorge Antonio Cuenca Osorio
+
+Subdirección de Proyectos
+Gina Juliana Rincón Rodríguez
+
+Coordinación Metodológica Apoyo a Proyectos Tipo
+Zulma Yohana Espinosa Sierra
+Liz Oriola Rincón Estupiñán
+
+Dirección de Desarrollo Urbano
+Santiago Higuera Salazar
+
+Subdirección de Vivienda y Desarrollo Urbano Adriana
+Moreno González
+
+Equipo técnico
+Germán Mauricio Torres
+León Arturo Garzón Medina
+Carlos Fernando Rueda
+
+© Departamento Nacional de Planeación
+Calle 26 # 13-19, Edificio ENTerritorio
+Bogotá D.C., Colombia
+Teléfono: (57) 601 381 5000
+
+Proyectos                                               Proyectos Tipo: más fácil, más rápido, mayor impacto
+Lineamientos para la construcción de vivienda de interés social nueva rural                                                                                                             4
+
+Contenido
+
+1. Objetivos del documento........................................................................................................................7
+   1.1. Objetivo General.............................................................................................................................................7
+   1.2. Objetivos Específicos....................................................................................................................................7
+
+2. Descripción del problema........................................................................................................................8
+   Diagnóstico Sectorial...................................................................................................................................................... 10
+   Magnitud actual del problema ­ Déficit habitacional............................................................................................ 13
+
+3.Marco normativo..................................................................................................................................... 14
+   3.1 Normativa General ...................................................................................................................................... 14
+   Constitución Política de Colombia ............................................................................................................................. 14
+   Acto Legislativo 05 de 2011 ....................................................................................................................................... 14
+   Acto Legislativo 05 de 2019 ....................................................................................................................................... 14
+   Ley 2056 de 2020 .......................................................................................................................................................... 15
+   Decreto 1821 de 2020 .................................................................................................................................................. 15
+   Orientaciones Transitorias para la Gestión de Proyectos de Inversión- V 3.0. ........................................... 15
+    Acuerdo 12 de 2024 ..................................................................................................................................................... 15
+   3.3 Normatividad técnica vivienda de interés social nueva rural .................................................................... 15
+   Ley 3 de 1991 .................................................................................................................................................................. 15
+   Ley 388 de 1997 ............................................................................................................................................................. 15
+   Decreto Ley 890 de 2017 ............................................................................................................................................ 15
+   Reglamento Colombiano de Construcción Sismo Resistente NSR - 10 ....................................................... 15
+   Decreto 1077 de 2015 ...................................................................................................................................................16
+   Resolución 0725 de 2023 .............................................................................................................................................16
+   Resolución 0410 de 2021 .............................................................................................................................................16
+
+4.Recursos necesarios para la implementación del proyecto.............................................................. 16
+   4.1 Etapas del Proyecto ................................................................................................................................................16
+
+5. Condiciones mínimas para implementar el proyecto....................................................................... 18
+   5.1. Condiciones de implementación del proyecto ..................................................................................... 18
+    Para la asignación de subsidios: ............................................................................................................................... 18
+
+Que el hogar sea beneficiario con una clasificación SISBÉN IV entre A1 y C18. ............................ 18
+   Para la estructuración de las soluciones de vivienda ........................................................................................... 21
+   5.2 Evaluación de cumplimiento de condiciones de implementación .................................................... 22
+
+6. Alternativa propuesta........................................................................................................................... 23
+   6.1 Aspectos técnicos de la alternativa de solución .................................................................................. 23
+   A) TIPOLOGÍA LINEAL-ALARGADA VRSA1......................................................................................................... 24
+
+Proyectos Tipo: más fácil, más rápido, mayor impacto                         Proyectos
+5          Lineamientos para la construcción de vivienda de interés social nueva rural
+
+   B. TIPOLOGÍA EN (L) VRSL1....................................................................................................................................... 25
+   C. TIPOLOGÍA EN (T) VRST1........................................................................................................................................26
+   D. TIPOLOGÍA COMPACTA VRSC1........................................................................................................................... 28
+   E. TIPOLOGÍA COMPACTA VRSC2........................................................................................................................... 29
+   F. TIPOLOGÍA EN (U) VRSU1...................................................................................................................................... 31
+7. Presupuesto y cronograma.................................................................................................................. 32
+   7.1 Estructura financiera de la solución habitacional................................................................................. 32
+   7.2 Modelo de acompañamiento social.......................................................................................................... 32
+   7.3 Actividades para incluir.............................................................................................................................. 32
+8. Operación............................................................................................................................................... 37
+
+Índice de tablas
+
+   Tabla 1. Déficit habitacional rural desagregación departamental (2023)...................................................... 10
+   Tabla 2. Condiciones mínimas del predio................................................................................................................. 22
+   Tabla 3. Área Tipología VRSA 1. ................................................................................................................................ 25
+   Tabla 4. Área Tipología VRSL1. ...................................................................................................................................26
+   Tabla 5. Área Tipología VRST 1. ................................................................................................................................ 27
+   Tabla 6. Área Tipología VRSC 1. ................................................................................................................................ 29
+   Tabla 7. Área Tipología VRSC 2. ................................................................................................................................ 30
+   Tabla 8. Área Tipología VRSU1. ................................................................................................................................. 31
+   Tabla 9. Actividades para la ejecución de proyectos de inversión. .................................................................. 34
+   Tabla 10. Cronograma. ...................................................................................................................................................36
+
+Índice de ilustraciones
+
+   Ilustración 1. Déficit habitacional en centros poblados y rural disperso (2019-2023)................................. 9
+   Ilustración 2. Mapa del déficit habitacional rural por departamentos (2023)............................................... 11
+   Ilustración 3. Árbol de problemas............................................................................................................................... 13
+   Ilustración 4. Árbol de objetivos ................................................................................................................................. 14
+   Ilustración 5. Etapas de los proyectos de inversión pública .............................................................................. 18
+   Ilustración 6. Tipología Lineal ­ Alargada VRSA1................................................................................................. 25
+   Ilustración 7. Isometría Tipología Alargada VRSA1.............................................................................................. 25
+   Ilustración 8. Planta Tipología "L" VRSL1.................................................................................................................26
+   Ilustración 9. Isometría Tipología en "L" VRSL1. ....................................................................................................26
+   lustración 10. Planta Tipología "T" VRST1. ............................................................................................................ 27
+   Ilustración 11. Isometría Tipología en "T" VRST1. ................................................................................................ 27
+   Ilustración 12. Planta Tipología Compacta VRSC1. ............................................................................................. 29
+   Ilustración 13. Planta Tipología Compacta VRSC2. ............................................................................................. 30
+   Ilustración 14. Isometría Tipología Compacta VRSC2......................................................................................... 30
+   Ilustración 15. Planta Tipología "U" VRSU1. .......................................................................................................... 31
+
+Proyectos  Proyectos Tipo: más fácil, más rápido, mayor impacto
+Lineamientos para la construcción de vivienda de interés social nueva rural  6
+
+Glosario y Siglas
+
+A continuación, se presentan las definiciones y siglas                       madera burda, tabla o tablón; caña, esterilla, u otros
+requeridas para los propósitos de este documento:                            vegetales; materiales de desecho, y los hogares que
+                                                                             habitan en viviendas sin paredes. (DANE, 2021)En los
+          C                                                                  dos casos, los hogares principales de cualquier tamaño
+                                                                             y los hogares unipersonales no se consideran en déficit
+Certificado de sana posesión: Documento por el                               por este componente (DANE, 2021).
+cual se acredita la tenencia del inmueble objeto de
+intervención de manera quieta, pacífica e ininterrumpida                     Déficit habitacional: Se compone del Déficit
+por lo menos durante 5 años.                                                 Cuantitativo y el Déficit Cualitativo de Vivienda (DANE,
+                                                                             2021).
+Condiciones ambientales: Certificación expedida
+por la entidad municipal para los inmuebles donde se                         DNP: Departamento Nacional de Planeación.
+pretenden ejecutar los proyectos de vivienda de interés
+social rural y en la cual se garantiza el cumplimento                                  E
+de: adecuado uso y clasificación del suelo, no estar
+ubicado en zona de alto riesgo, no se encuentra en                           ECV: Encuesta Calidad de Vida.
+zonas de reserva, se encuentra ubicado en zona apta
+para localización de vivienda, de conformidad con                            EOT: Esquema de Ordenamiento Territorial.
+los instrumentos de ordenamiento que disponga el
+municipio.                                                                             F
+
+CTeI: Ciencia, tecnología e innovación                                       Focalización: Consiste en la identificación de los
+                                                                             potenciales hogares beneficiarios mediante el
+          D                                                                  establecimiento y aplicación de criterios objetivos
+                                                                             basados en el principio de igualdad, enfoques
+Déficit cualitativo: Identifica a los hogares que habitan                    diferenciales y de género, entre otros, buscando mejorar
+en viviendas con deficiencias no estructurales y para                        la calidad de vida de la población rural más vulnerable
+las cuales es posible hacer mejoramientos o ajustes y                        del país.
+lograr así las condiciones adecuadas de habitabilidad.
+(DANE, 2021).                                                                          H
+
+Déficit cuantitativo: Identifica a los hogares que                           Hacinamiento no mitigable: Forma parte del déficit
+habitan en viviendas con deficiencias estructurales y de                     cuantitativo. Aplica solo para las cabeceras municipales
+espacio, esto es, para los cuales es necesario adicionar                     y sus centros poblados, se consideran en déficit los
+nuevas viviendas al stock total de viviendas del país                        hogares con más de cuatro personas por cuarto para
+de tal forma que exista una relación uno a uno entre                         dormir (DANE, 2021).
+la cantidad de viviendas adecuadas y los hogares que
+requieren alojamiento. Este concepto reconoce que las                                  L
+deficiencias estructurales y de espacio de las viviendas
+en las que habitan estos hogares no son susceptibles                         Levantamiento topográfico: Según lo establecido
+de ser mejoradas para superar la condición de déficit.                       por el Instituto Geográfico Agustín Codazzi
+(DANE, 2021).                                                                (IGAC), el levantamiento topográfico es un estudio
+                                                                             técnico y descriptivo de un terreno, examinando la
+Déficit en el material de las paredes exteriores:                            superficie terrestre en la cual se tienen en cuenta las
+Forma parte del déficit cuantitativo. Se consideran en                       características físicas, geográficas y geológicas del
+déficit los hogares que habitan en viviendas en las que
+el material predominante de las paredes exteriores sea                                                                                                               Proyectos
+
+Proyectos Tipo: más fácil, más rápido, mayor impacto
+7          Lineamientos para la construcción de vivienda de interés social nueva rural
+
+terreno, pero también sus variaciones y alteraciones,                V
+se denomina a este acopio de datos o plano que refleja
+al detalle y sirve como instrumento de planificación para  Vivienda de Interés Prioritaria Rural (VIPR). Es
+edificaciones y construcciones.                            aquella vivienda de interés prioritario ubicada en
+                                                           suelo clasificado como rural en el respectivo Plan de
+          M                                                Ordenamiento Territorial, cuyo valor no exceda los
+                                                           noventa salarios mínimos mensuales legales vigentes
+MVCT: Ministerio de Vivienda, Ciudad y Territorio.         (90 SMMLV). (artículo 2.1.10.1.1.2.1. numeral 2 del
+                                                           Decreto 1077 de 2015, modificado por el artículo 2 del
+          N                                                Decreto 1247 de 2022), o las normas que lo modifiquen
+                                                           o adicionen.
+NSR-10: Reglamento Colombiano de Construcción
+Sismo Resistente.                                          Vivienda de Interés Social Rural (VISR). Es aquella
+                                                           vivienda de interés social ubicada en suelo clasificado
+NBI: Necesidades Básicas Insatisfechas                     como rural en el respectivo Plan de Ordenamiento
+                                                           Territorial, que se ajusta a las formas de vida del campo
+          P                                                y reconoce las características de la población rural,
+                                                           cuyo valor no exceda los ciento treinta y cinco salarios
+PBOT: Plan Básico de Ordenamiento Territorial.             mínimos mensuales legales vigentes (135 SMMLV).
+                                                           (artículo 2.1.10.1.1.2.1. numeral 1 del Decreto 1077
+POT: Plan de Ordenamiento Territorial.                     de 2015, modificado por el artículo 2 del Decreto 1247
+                                                           de 2022) o las normas que lo modifiquen o adicionen.
+PPVISR: Política Pública de Vivienda Interés Social
+Rural.                                                     Vivienda nueva en especie: Es la modalidad mediante
+                                                           la cual la entidad otorgante transfiere al beneficiario
+          S                                                a título de subsidio en especie una vivienda nueva,
+                                                           entendiéndose por tal, aquella que habiendo sido
+SFVR: Subsidio Familiar de Vivienda Rural: Aporte          terminada no ha sido habitada. (artículo 2.1.10.1.1.2.1.
+estatal o parafiscal en dinero o especie entregado al      numeral 3 del Decreto 1077 de 2015, modificado por
+beneficiario por la entidad otorgante del mismo, con       el artículo 2 del Decreto 1247 de 2022), o las normas
+el objeto de facilitarle una solución de vivienda de       que lo modifiquen o adicionen.
+interés social rural, sin cargo de restitución, siempre
+que el beneficiario cumpla con las condiciones que se      Vivienda rural dispersa de interés social: Es la
+establecen en las leyes.                                   unidad habitacional localizada en suelo rural de manera
+                                                           aislada que está asociada a las formas de vida del
+SGR: Sistema General de Regalías.                          campo y no hace parte de centros poblados rurales ni
+                                                           de parcelaciones destinadas a vivienda campestre.
+SMMLV: Salario mínimo mensual legal vigente.
+                                                           Vivienda rural nucleada de interés social: Es el
+          T                                                conjunto de viviendas localizadas en suelo rural que
+                                                           se agrupan en un espacio delimitado, estas viviendas
+Tipo de vivienda: Se consideran en déficit cuantitativo    se comportan como la réplica de varias unidades
+los hogares que habitan en viviendas tipo "otro"           habitacionales (casa-lote) autosuficientes que están
+(contenedor, carpa, embarcación, vagón, cueva, refugio     distanciadas de manera tal que exista independencia,
+natural) (DANE, 2021).                                     pero que se relacionen entre sí, mediante el concepto
+                                                           de productividad agrícola o pecuaria. Puede ser incluido
+                                                           el desarrollo de infraestructura para la prestación
+                                                           de servicios básicos como agua y saneamiento
+                                                           dependiendo del volumen y cantidad poblacional que
+                                                           puede ser mayor o no a 20 viviendas.
+
+Proyectos                                                  Proyectos Tipo: más fácil, más rápido, mayor impacto
+Lineamientos para la construcción de vivienda de interés social nueva rural  8
+
+Introducción
+
+Los siguientes LINEAMIENTOS contienen aspectos                                    1. Objetivos del
+metodológicos y técnicos para que las Entidades                                   documento
+T erritoriales que desarrollan proyectos de vivienda
+nueva rural de interés social o prioritaria puedan, de                       1.1. Objetivo General
+manera ágil, formular proyectos en el marco de la
+Política Pública de Vivienda de Interés Social Rural.                        Establecer los LINEAMIENTOS para que las Entidades
+Tienen el propósito de implementar estándares mínimos                        Territoriales puedan presentar proyectos de vivienda
+para el desarrollo de soluciones de vivienda en la                           de interés social nueva rural con cargo a los recursos
+modalidad de vivienda de interés social nueva rural, con                     del Sistema General de Regalías, Sistema General de
+lo cual se cualificará la calidad de la inversión pública                    Participaciones, recursos propios y otros.
+en el sector rural al disminuir tiempos y costos en la
+preparación de los proyectos.                                                1.2. Objetivos Específicos
+
+Además, incluyen definiciones conceptuales,                                  · Reducir los tiempos de estructuración, presentación
+disposiciones normativas, condiciones mínimas para                                y aprobación de proyectos de construcción de
+implementar el proyecto, presupuesto y cronograma,                                vivienda de interés social nueva rural.
+operación y mantenimiento. En particular, incorporan:
+                                                                             · Incrementar la ejecución de viviendas nuevas de
+· Alternativas de solución para la construcción de                                interés social en el sector rural del país con recursos
+     vivienda de interés social nueva rural, adaptables a                         públicos.
+     la cultura y tradición de las comunidades.
+                                                                             · Aportar un marco de referencia para la selección de
+· Recomendaciones para la formulación de proyectos                                la alternativa de solución, agilizando las tareas de
+     de vivienda de interés social nueva rural.                                   formulación y estructuración, generando ahorros en
+                                                                                  costos y tiempo.
+Por otra parte, como estrategia metodológica, se utilizan
+dos íconos de referencia para diferenciar el contenido                       · Guiar a las Entidades en las actividades de
+de mayor relevancia para quienes formulan el proyecto                             formulación y estructuración de proyectos para
+y para quienes tienen la responsabilidad técnica de                               contribuir al fortalecimiento de los procesos de
+ejecutarlo.                                                                       gestión de recursos públicos.
+
+                 Indica información de interés para la
+                 FORMULACIÓN del Proyecto.
+
+                 Indica información de interés para la
+                 EJECUCIÓN del proyecto.
+
+La información contenida en este documento puede ser
+actualizada, tanto en sus cifras, como en las normas que
+aplican para su formulación. Recomendamos consultar
+la página https:// proyectostipo.dnp.gov.co con el fin de
+verificar si el presente documento ha sido actualizado.
+
+Proyectos Tipo: más fácil, más rápido, mayor impacto                         Proyectos
+9          Lineamientos para la construcción de vivienda de interés social nueva rural
+
+     2. Descripción del                                     No obstante, los resultados del déficit habitacional
+     problema                                               también muestran que aún existe un porcentaje
+                                                            significativo de la población en esta condición, por lo que
+En este numeral se identifica la situación problema         es necesario seguir trabajando en políticas y programas
+y se definen los objetivos dirigidos a solucionarla o       que faciliten a los hogares más vulnerables del país
+mitigarla mediante la implementación del lineamiento        el acceso a una solución de vivienda, considerando
+para construcción de vivienda de interés social nueva       intervenciones específicas para la reducción del déficit
+rural. La elaboración del proyecto de inversión debe        habitacional cuantitativo en los centros poblados y la
+comenzar con un exhaustivo análisis de la problemática,     ruralidad en el país.
+seguido de la validación de los objetivos y la definición
+del alcance mediante la aplicación de la metodología        Ilustración 1. Déficit habitacional en centros poblados y rural
+del marco lógico.                                           disperso (2019-2023) (Fuente: Cálculos MVCT con base en ECV
+                                                            2019-2023 DANE (2020-2024)
+Para definir la justificación del proyecto, la pregunta a
+contestar es la siguiente:                                  
+                                                            Frente al déficit cuantitativo en centros poblados y
+      ¿Es plausible para la entidad hacer                   rural disperso en Colombia, se observa un incremento
+      inversiones en vivienda nueva rural con el            en 2022 (21,2%) respecto del año anterior. En 2023
+      fin de reducir el alto déficit habitacional           presentó una caída significativa, ubicándose en 19,9%,
+      cuantitativo en las zonas rurales del país?           siendo este año con el menor valor para el periodo
+                                                            2019-2023. El déficit cuantitativo a nivel rural se redujo
+El déficit habitacional en Colombia, particularmente en     en 2,1 pps entre los años 2019 y 2023. En 2019, el
+centros poblados y rural disperso, es una preocupación      déficit cuantitativo se situó en un nivel del 22,0%,
+creciente que requiere atención y soluciones efectivas.     indicando que aproximadamente una quinta parte de
+Un análisis detallado de los datos recopilados entre        la población en estas áreas no contaba con suficientes
+2019 y 2023 revela una fluctuación en los niveles de        viviendas.
+déficit habitacional tanto cualitativo como cuantitativo a
+nivel rural. La tendencia general del déficit habitacional  Los departamentos con los mayores niveles de déficit
+a nivel rural observada en Colombia entre 2019 y            habitacional rural, que combinan tanto el déficit
+2023, muestra variaciones moderadas en los niveles          cuantitativo como el cualitativo, son Vaupés (100,0%),
+del déficit rural total. Si se compara el 2019 con 2023,    Amazonas (99,1%) y Guainía (98,8%). Estos lugares
+se resalta una reducción del déficit total rural de 8,1     presentan una situación crítica en términos de falta de
+puntos porcentuales.                                        viviendas adecuadas tanto en cantidad como en calidad.
+
+Para la vigencia 2023, el déficit habitacional rural en
+Colombia registró una disminución de 3,4 puntos
+porcentuales (pps) con respecto al año 2022, pasando
+de 65,5% a 62,1%. Estos resultados muestran que se
+han implementado medidas efectivas para abordar
+los desafíos del déficit habitacional en el país y los
+esfuerzos realizados para proporcionar un mayor
+acceso a viviendas adecuadas y mejorar las condiciones
+de vida de la población en los centros poblados y en el
+rural disperso.
+
+Proyectos                                                   Proyectos Tipo: más fácil, más rápido, mayor impacto
+Lineamientos para la construcción de vivienda de interés social nueva rural                                                     10
+
+Departamento         % de hogares rurales en % de hogares rurales en % de hogares rurales en
+
+ Amazonas            déficit cuantitativo                                    déficit cualitativo  déficit habitacional
+ Antioquia
+ Arauca                                               89,60%                 9,50%                99,10%
+ Atlántico
+ Bogotá D.C.                                          15,50%                 45,30%               60,80%
+ Bolívar
+ Boyacá                                               50,60%                 20,00%               70,60%
+ Caldas
+ Caquetá                                              3,60%                  54,60%               58,30%
+ Casanare
+ Cauca                                                6,90%                  36,40%               43,30%
+ Cesar
+ Córdoba                                              26,30%                 58,30%               84,60%
+ Cundinamarca
+ Chocó                                                3,70%                  36,60%               40,30%
+ Guainía
+ Guaviare                                             8,00%                  47,90%               56,00%
+ Huila
+ La Guajira                                           52,30%                 29,80%               82,10%
+ Magdalena
+ Meta                                                 13,50%                 38,40%               51,90%
+ Nariño
+ Norte de Santander                                   10,90%                 49,40%               60,30%
+ Putumayo
+ Quindío                                              17,90%                 58,60%               76,50%
+ Risaralda
+ Santander                                            34,60%                 4,75%                39,30%
+ Sucre
+ Tolima                                               2,50%                  20,40%               22,90%
+ Valle
+ Vaupés                                               70,90%                 23,60%               94,50%
+ Vichada
+                                                      77,10%                 21,70%               98,80%
+
+                                                      80,90%                 10,60%               91,50%
+
+                                                      6,30%                  47,10%               53,40%
+
+                                                      2,50%                  79,00%               81,50%
+
+                                                      24,40%                 60,50%               85,00%
+
+                                                      30,10%                 27,60%               57,70%
+
+                                                      28,50%                 29,30%               57,80%
+
+                                                      20,00%                 64,10%               84,10%
+
+                                                      66,60%                 17,80%               84,40%
+
+                                                      6,00%                  27,00%               33,00%
+
+                                                      6,90%                  49,40%               56,30%
+
+                                                      16,60%                 45,40%               62,00%
+
+                                                      18,60%                 67,80%               86,40%
+
+                                                      10,80%                 49,90%               60,70%
+
+                                                      12,70%                 25,60%               38,30%
+
+                                                      96,10%                 3,90%                100,00%
+
+                                                      66,40%                 21,40%               87,80%
+
+Tabla 1. Déficit habitacional rural desagregación departamental (2023) (Fuente: Cálculos MVCT con base en ECV 2023 DANE (2024)
+
+Proyectos Tipo: más fácil, más rápido, mayor impacto                                              Proyectos
+11                                                                  Lineamientos para la construcción de vivienda de interés social nueva rural
+
+Ilustración 2. Mapa del déficit habitacional rural por departamen-          En al menos 220 municipios de Colombia se
+tos (2023) (Fuente: Cálculos MVCT con base en ECV 2019-2023                 presenta un nivel de difícil acceso vial muy alto.
+DANE (2020-2024)
+                                                                       · Baja disponibilidad de mano de obra calificada
+Los datos destacan la variabilidad en los niveles de                        para procesos constructivos, debido entre otros,
+déficit habitacional en los diferentes departamentos                        a procesos migratorios entre lo rural a lo urbano.
+de Colombia. Existen diferencias significativas entre
+los departamentos en términos de la disponibilidad                     · Baja oferta institucional para soluciones de
+y calidad de las viviendas. Estos datos resaltan la                         vivienda. Menos del 30% de Entidades Territoriales
+necesidad de políticas y programas específicos                              disponen de recursos para soluciones habitaciones
+para abordar los desafíos habitacionales en cada                            en zonas rurales y tan solo en 23 departamentos
+departamento y garantizar que todos los ciudadanos                          las Cajas de Compensación Familiar han asignado
+tengan acceso a viviendas adecuadas en términos de                          subsidios a través del Fondo de Vivienda de
+cantidad y calidad, por lo que el problema central es:                      Interés Social- FOVIS, ASOCAJAS (2024)1 .
+
+     Inadecuadas condiciones habitacionales                            · Baja aplicación de normas técnicas colombianas
+     de los hogares en situación de pobreza                                 de construcción de vivienda teniendo en cuenta
+     ubicadas en la zona rural de la entidad                                la informalidad con las que se construyen las
+     territorial                                                            viviendas.
+
+La problemática descrita obedece a las dificultades                 Lo anterior, contribuye a la baja permanencia de los
+de las familias para el desarrollo de procesos de                   hogares en la zona rural y como consecuencia de
+construcción de vivienda, dado que existe:                          ello se presenta una pérdida de apropiación cultural
+                                                                    con la ruralidad de la Entidad territorial, altos índices
+   · El limitado acceso a materiales de construcción,               de pobreza y reducción de la mano de obra para el
+        su alto costo y el elevado valor para su transporte.        desarrollo de actividades agropecuarias.
+
+                                                                    Así mismo, como consecuencia de la situación antes
+                                                                    señalada se evidencia bajo acceso a servicios públicos
+                                                                    domiciliarios y con ello incremento en los riesgos de
+                                                                    enfermedades, al tiempo que se presenta reducción
+                                                                    del tiempo utilizado para el desarrollo de actividades
+                                                                    escolares o laborales.
+
+                                                                    Finalmente, las inadecuadas condiciones habitaciones
+                                                                    en la zona rural, contribuyen al incremento de problemas
+                                                                    y seguridad en los hogares, aumentando la violencia
+                                                                    intrafamiliar y accidentes domésticos.
+
+                                                                    Diagnóstico Sectorial
+
+                                                                    La construcción participativa adelantada por el
+                                                                    Ministerio de Vivienda, Ciudad y Territorio (MVCT) en
+                                                                    el diseño de la política de vivienda rural y las lecciones
+                                                                    aprendidas por las entidades que tuvieron a su cargo
+                                                                    la gestión de esta en vigencias anteriores a 2020
+                                                                    permitieron evidenciar aspectos por mejorar en el
+                                                                    proceso de asignación y ejecución de los Subsidios
+
+1ASOCAJAS (2024). FOVIS. Disponible en el link: https://public.tableau.com/app/profile/nicolas.sacristan/viz/FOVIS/FOVIS
+
+Proyectos                                                           Proyectos Tipo: más fácil, más rápido, mayor impacto
+Lineamientos para la construcción de vivienda de interés social nueva rural  12
+
+Familiares de Vivienda Rural (SFVR), entre los cuales                                asociados a sobrecostos de materiales, de
+se resaltan:                                                                         transporte y operación.
+
+   · Alto número de subsidios asignados vs.                                     · Asignación del subsidio. Para el caso de las
+        bajo número de entrega de soluciones de                                      Entidades Territoriales, la asignación del subsidio
+        vivienda: Se evidenció un alto número de                                     estará condicionada a lo señalado en la Ley 3 de
+        subsidios asignados, pero un bajo número de                                  1991, Ley 388 de 1997, y la Ley 2079 de 2021.
+        soluciones de vivienda entregadas a satisfacción                             Asimismo, no podrá exceder el valor máximo
+        debido, entre otras cosas, a presuntos siniestros                            señalado en el artículo 293 de la Ley 2294 de
+        presentados en los proyectos.                                                2023 "Por el cual se expide el Plan Nacional
+                                                                                     de Desarrollo 2022- 2026 "Colombia Potencia
+   · Inviabilidad financiera de los proyectos:                                       Mundial de la Vida", es decir, los ciento treinta
+        En ausencia de ejercicios de prefactibilidad                                 y cinco salarios mínimos mensuales legales
+        que permitieran identificar soluciones                                       vigentes (135 SMMLV), o el valor excepcional
+        económicamente viables, cuando los ejecutores                                establecido en los Decretos y/o resoluciones que
+        se enfrentaban a la ruralidad dispersa con altos                             para el efecto emita el Ministerio de Vivienda,
+        costos de transporte de materiales, encontraban                              Ciudad y Territorio (MVCT).
+        que el valor del subsidio era insuficiente para
+        garantizar la construcción o mejoramiento de las                        · Nuevos pilares. Dentro de la Política de Vivienda
+        viviendas.                                                                   de Interés Social Rural, adoptada por el Ministerio
+                                                                                     de Vivienda, Ciudad y Territorio (MVCT) mediante
+   · Concentración en pocos ejecutores:                                              Resolución 0536 de 2020, se establecieron
+        Existen pocos oferentes para realizar procesos                               cuatro pilares: Dialogo social y participación,
+        constructivos en zonas rurales, y en caso de                                 diseño participativo e incluyente; modelo
+        incumplimiento, se incrementa el riesgo de                                   operativo eficiente y focalización equitativa;
+        siniestro de obras.                                                          regionalización de proyectos.
+
+   Teniendo en cuenta estos antecedentes, en el marco                        Finalmente, el Ministerio de Vivienda, Ciudad y Territorio
+   de la nueva Política Pública de Vivienda de Interés                       (MVCT) de la mano con el DNP se propone adelantar el
+   Social Rural (PPVISR), fue necesario realizar cambios                     lineamiento para construcción de vivienda nueva rural
+   en los procedimientos relacionados con el Subsidio                        que contempla la ejecución de acciones asociadas con
+   Familiar de Vivienda Rural (SFVR), entre los que se                       la gestión sostenible, la conservación y la restauración
+   pueden incluir:                                                           de los ecosistemas, identificados en una etapa de
+                                                                             preinversión, que permita reducir las inadecuadas
+   · Desarrollo de las etapas de alistamiento                                condiciones habitacionales de los hogares en situación
+        y prefactibilidad: Previo a la contratación y                        de pobreza ubicadas en la zona rural de la Entidad
+        ejecución de obras, la prefactibilidad permite                       territorial.
+        analizar y definir en detalle los componentes
+        técnicos de la solución de vivienda y de esta                        No obstante, corresponde a cada Entidad territorial
+        manera determinar los costos, así como los                           que formula y gestiona el proyecto analizar de forma
+        elementos de operación logística para su                             minuciosa el contexto que da lugar a la problemática
+        ejecución, de acuerdo con la ubicación de los                        existente y determinar cómo la alternativa propuesta
+        potenciales beneficiarios focalizados. Lo anterior                   en este proyecto aborda la solución en el ámbito local.
+        contribuye a mitigar el riesgo de siniestro,
+        retrasos, incumplimientos y demás factores                           A continuación, se procede a presentar los esquemas
+        que afecten la ejecución y entrega de subsidios                      de árbol de problemas y árbol de objetivos.
+
+Proyectos Tipo: más fácil, más rápido, mayor impacto                         Proyectos
+13                                                                    Lineamientos para la construcción de vivienda de interés social nueva rural
+
+                              Reducción de mano de    Incremento en      Reducción en el
+                             obra para el desarrollo  los riesgos de  tiempo utilizado para
+                             de actividades            enfermedad
+                             agropecuarias                               el desarrollo de
+                                                                      actividades escolares
+EFECTOS
+                  Altos índices                                             o laborales
+
+(RAMAS) de pobreza                                    Bajo acceso a servicios públicos
+                                                                 domiciliarios
+(RAMAS)
+
+CENTRAL
+(TRONCO)
+
+  CAUSAS
+ DIRECTAS
+
+                      Limitado acceso a
+                          materiales de
+                          construcción
+
+   CAUSAS
+INDIRECTAS
+
+  (RAÍCES)
+
+Ilustración 3. Árbol de problemas (Fuente: elaboración propia, Dirección de Vivienda Rural DVR ­ MVCT)
+
+En este sentido y teniendo en cuenta el anterior
+árbol de problemas, estos LINEAMIENTOS PARA LA
+CONSTRUCCIÓN DE VIVIENDA DE INTERÉS SOCIAL
+NUEVA RURAL buscan facilitar a las entidades
+territoriales herramientas para la formulación de
+proyectos que les permita gestionar los recursos para
+la financiación de las intervenciones, enfocadas en la
+reducción de los deficientes índices habitacionales
+presentados en los territorios.
+
+Proyectos                                                                                    Proyectos Tipo: más fácil, más rápido, mayor impacto
+Lineamientos para la construcción de vivienda de interés social nueva rural                              14
+
+Magnitud actual del problema ­ Déficit                                       de manera precisa las opciones para atender la
+habitacional                                                                 problemática y sus efectos o consecuencias.
+
+El déficit habitacional rural es de 62,1% del total de                       El árbol de objetivos consiste en escribir en positivo las
+hogares rurales, el 19,9% está en déficit cuantitativo y                     causas y el problema central que corresponderán con el
+el 42,1% en déficit cualitativo. ECV 2023 (DANE 2024).                       objetivo general y los objetivos específicos del proyecto.
+
+Teniendo claridad sobre la problemática y evaluando la                       A continuación, se presenta el árbol de objetivos
+situación actual de su territorio, el siguiente paso es, a                   desarrollado para los LINEAMIENTOS PARA LA IÓN
+partir del árbol de problemas, analizar las alternativas                     DE VIVIENDA DE INTERÉS SOCIAL RURAL NUEVA:
+de solución mediante las cuales se identificarán las
+acciones para avanzar en la atención de las necesidades
+priorizadas. El árbol de objetivos permite identificar
+
+ FINES
+(RAMAS)
+
+(RAMAS)
+
+ OBJETIVOS
+ESPECÍFICOS
+
+  DIRECTOS
+
+ OBJETIVOS                                            Evitar el mayor
+ESPECÍFICOS                                                costo de
+INDIRECTOS
+                                                        materiales de
+  (RAÍCES)                                            construcción y su
+
+                                                          transporte
+
+Ilustración 4. Árbol de objetivos (Fuente: elaboración propia, Dirección de Vivienda Rural DVR ­ MVCT))
+
+Proyectos Tipo: más fácil, más rápido, mayor impacto                                                     Proyectos
+15                            Lineamientos para la construcción de vivienda de interés social nueva rural
+
+           3.Marco normativo
+
+3.1 Normativa General                                       3.2 Normatividad sobre el Sistema General
+                                                            de Regalías
+ A continuación, se presenta el marco normativo
+relevante para este lineamiento:                            Acto Legislativo 05 de 2011
+
+Constitución Política de Colombia                           Por el cual se constituye el Sistema General de
+                                                            Regalías, se modifican los artículos 360 y 361 de la
+Artículo 2°. Son fines esenciales del Estado: servir        Constitución Política y se dictan otras disposiciones
+a la comunidad, promover la prosperidad general y           sobre el Régimen de Regalías y Compensaciones, así:
+garantizar la efectividad de los principios, derechos
+y deberes consagrados en la Constitución; facilitar         "Artículo 360. La explotación de un recurso natural
+la participación de todos en las decisiones que los         no renovable causará, a favor del Estado, una
+afectan y en la vida económica, política, administrativa    contraprestación económica a título de regalía, sin
+y cultural de la Nación; defender la independencia          perjuicio de cualquier otro derecho o compensación
+nacional, mantener la integridad territorial y asegurar     que se pacte. La ley determinará las condiciones para
+la convivencia pacífica y la vigencia de un orden justo.    la explotación de los recursos naturales no renovables.
+
+Artículo 4°. La Constitución es norma de normas. En         Mediante otra ley, a iniciativa del Gobierno, la
+todo caso de incompatibilidad entre la Constitución y la    ley determinará la distribución, objetivos, fines,
+ley u otra norma jurídica, se aplicarán las disposiciones   administración, ejecución control, el uso eficiente
+constitucionales. Es deber de los nacionales y de los       y la destinación de los ingresos provenientes de la
+extranjeros en Colombia acatar la Constitución y las        explotación de los recursos naturales no renovables
+leyes, y respetar y obedecer a las autoridades.             precisando las condiciones de participación de sus
+                                                            beneficiarios. Este conjunto de ingresos, asignaciones,
+Artículo 7°. El Estado reconoce y protege la diversidad     órganos, procedimientos y regulaciones constituye el
+étnica y cultural de la Nación colombiana.                  Sistema General de Regalías."
+
+Artículo 8°. Es obligación del Estado y de las personas     Acto Legislativo 05 de 2019
+proteger las riquezas culturales y naturales de la Nación.
+                                                            "Por el cual se, modifica el artículo 361 de la
+Artículo 51°. Todos los colombianos tienen derecho          Constitución Política y se dictan otras disposiciones
+a vivienda digna. El Estado fijará las condiciones          sobre el régimen de regalías y compensaciones". En
+necesarias para hacer efectivo este derecho y               este se previó que la vigencia de este nuevo régimen
+promoverá planes de vivienda de interés social,             estaría sujeta a la expedición de una Ley que ajuste el
+sistemas adecuados de financiación a largo plazo y          Sistema General de Regalías a las disposiciones allí
+formas asociativas de ejecución de estos programas          previstas.
+de vivienda.
+                                                            Artículo 361. Los ingresos corrientes del Sistema
+Artículo 64°. Es deber del Estado promover el acceso        General de Regalías se destinarán a la financiación de
+progresivo a la propiedad de la tierra de los trabajadores  proyectos de inversión que contribuyan al desarrollo
+agrarios, en forma individual o asociativa, y a los         social, económico, y ambiental de las Entidades
+servicios de educación, salud, vivienda, seguridad social,  Territoriales. Los ingresos a los que se refieren el inciso
+recreación, crédito, comunicaciones, comercialización       anterior se distribuirán de la siguiente manera:
+de los productos, asistencia técnica y empresarial, con
+el fin de mejorar el ingreso y calidad de vida de los       20% para los departamentos y municipios en cuyo
+campesinos.                                                 territorio se adelante la explotación de recursos
+                                                            naturales no renovables, (...)
+
+Proyectos                                                   Proyectos Tipo: más fácil, más rápido, mayor impacto
+Lineamientos para la construcción de vivienda de interés social nueva rural  16
+
+15% para los municipios más pobres de país, con                              por las instancias encargadas dentro del proceso de
+criterios de necesidades básicas insatisfechas y                             viabilidad.
+población, (...)
+                                                                             Acuerdo 12 de 2024
+34% para los proyectos de inversión regional de los
+departamentos, municipios y distritos, con criterios                         "Por el cual se adoptan los requisitos generales y
+de necesidades básicas insatisfechas, población y                            sectoriales para la viabilización de los proyectos de
+desempleo, priorizando proyectos de alto impacto                             inversión susceptibles de ser financiados con recursos
+regional. (...)                                                              del Sistema General de Regalías." Para el presente
+                                                                             lineamiento tener en cuenta el "artículo 2. Entre tanto
+10% para la inversión en ciencia, tecnología e                               la Comisión Rectora del Sistema General de Regalías
+innovación, (...)                                                            adopta los requisitos sectoriales no previstos en el
+                                                                             presente Acuerdo se deberán atender los requisitos que
+2% para el funcionamiento, la operatividad y                                 hacen parte del documento "Orientaciones Transitorias
+administración del sistema, (...)                                            para la Gestión de Proyectos de Inversión", publicado
+                                                                             en el DNP.
+1% para la operatividad del Sistema de Seguimiento,
+Evaluación y Control que velará por el uso eficiente y                       3.3 Normatividad técnica vivienda de
+eficaz de los recursos, (...)                                                interés social nueva rural
+
+Ley 2056 de 2020                                                             Ley 3 de 1991
+
+ "Por la cual se regula la organización y el                                 "Por la cual se crea el Sistema Nacional de Vivienda
+funcionamiento del Sistema General de Regalías", cuyo                        de Interés Social, se establece el subsidio familiar de
+objeto consiste en determinar la distribución, objetivos,                    vivienda, se reforma el Instituto de Crédito Territorial,
+fines, administración, ejecución, control, el uso eficiente                  ICT, y se dictan otras disposiciones."
+y la destinación de los ingresos provenientes de la
+explotación de los recursos naturales no renovables                          Ley 388 de 1997
+precisando las condiciones de participación de sus
+beneficiarios.                                                               "Por la cual se modifica la Ley 9 de 1989, y la Ley 2 de
+                                                                             1991 y se dictan otras disposiciones." Esta disposición
+Decreto 1821 de 2020                                                         corresponde a la Ley de Ordenamiento Territorial.
+                                                                             Incluye entre otros aspectos, disposiciones relacionadas
+"Por el cual se expide el Decreto Único Reglamentario                        con el Subsidio Familiar de Vivienda.
+del Sistema General de Regalías", y en el marco del
+proceso de viabilidad por las instancias encargadas de                       Decreto Ley 890 de 2017
+emitirla, según las competencias definidas en el artículo
+1.2.1.2.8. del mismo Decreto, define los requisitos                          "Por el cual se dictan disposiciones para la formulación
+generales, de fase y sectoriales que deberán cumplirse                       del Plan Nacional de Construcción y Mejoramiento
+en el marco de la estructuración de proyectos para los                       de Vivienda Social Rural". Para aquellas soluciones
+distintos sectores.                                                          de vivienda de interés social y prioritario rural, en
+                                                                             la modalidad de vivienda nueva dispersa que sean
+Orientaciones Transitorias para la Gestión                                   subsidiadas con recursos nacionales o territoriales, se
+de Proyectos de Inversión- V 3.0.                                            podrá aplicar el artículo 9 del precitado Decreto Ley.
+
+Es una guía transitoria hasta tanto la Comisión Rectora                      Reglamento Colombiano de Construcción
+del SGR expida el o los actos administrativos que los                        Sismo Resistente NSR - 10
+adopte(n). Por medio de la cual se encamina la toma de
+decisiones en el proceso de viabilidad de los proyectos                      Para el cumplimiento del Reglamento Colombiano de
+de inversión, estableciendo requisitos generales y                           Construcción Sismo Resistente- NSR-10, relacionado
+sectoriales que deben cumplir todos los proyectos de                         con el diseño de la vivienda de uno o dos pisos, se dará
+inversión susceptibles de ser financiados con recursos                       aplicabilidad a lo contenido en el "TITULO A.1.3.11 --
+del SGR, los cuales deberán ser verificados y validados                      CASAS DE UNO Y DOS PISOS -- Las edificaciones
+                                                                             de uno y dos pisos deben diseñarse de acuerdo con
+Proyectos Tipo: más fácil, más rápido, mayor impacto
+                                                                                                                                                                     Proyectos
+17         Lineamientos para la construcción de vivienda de interés social nueva rural
+
+los Capítulos A.1 a A.12 de este Reglamento. Las                  4.Recursos necesarios
+casas de uno y dos pisos del grupo de uso I, tal como             para la implementación
+lo define A.2.5.1.4, que no formen parte de programas             del proyecto
+de quince o más unidades de vivienda ni tengan más
+de 3000 m² de área en conjunto, pueden diseñarse             Teniendo claridad sobre el problema a solucionar y las
+alternativamente de acuerdo con los requisitos del           normas que aplican al proyecto, la siguiente pregunta
+Título E de este Reglamento".(NSR-10, 2010), y las           que debe hacerse es:
+normas que la modifiquen, sustituyan, adicionen o
+complementen.                                                     ¿Mi Territorial cuenta con los recursos
+                                                                  necesarios para llevar a cabo proyectos de
+Decreto 1077 de 2015                                              vivienda de interés social nueva rural?
+
+"Por medio del cual se expide el Decreto Único               Las entidades territoriales cuentan con diversas fuentes
+Reglamentario del Sector Vivienda, Ciudad y Territorio."     de financiación o pueden gestionar la concurrencia
+                                                             de fuentes para la implementación de proyectos de
+El Decreto 1077 de 2015 - Decreto Único                      inversión pública. Entre estas fuentes se encuentran el
+Reglamentario del Sector Vivienda, Ciudad y                  Sistema General de Participaciones, las Asignaciones
+Territorio incorpora en el Título 10, parte 1, Libro 2, las  Directas, la Asignación para Inversión Local y la
+disposiciones correspondientes a la Política Pública de      Asignación para la Inversión Regional, las cuales
+Vivienda Rural y Subsidio Familiar de Vivienda Rural.        forman parte del Sistema General de Regalías; así como
+(Este decreto ha sido adicionado y modificado mediante       los recursos propios de la Entidad territorial. Pueden
+los Decretos 1341 de 2022 y 1247 de 2022 en materia          además presentar iniciativas al OCAD PAZ, de acuerdo
+de vivienda rural).                                          con el plan de convocatorias definido para tal fin.
+
+Resolución 0725 de 2023                                      Cada una de estas fuentes deben ser consultadas
+                                                             de conformidad con su naturaleza, identificando
+"Por la cual se reglamenta el artículo 2.1.10.1.2.1.4 del    los recursos disponibles para financiar el proyecto.
+Decreto 1077 del 2015, se modifica la resolución 0536        Deben revisarse, además, los requisitos a cumplir para
+de 2020 y se dictan otras disposiciones."                    tener acceso a cada una de ellas, conforme al marco
+                                                             normativo.
+Mediante esta resolución se adopta la Política
+de Vivienda de Interés Social Rural, en donde se             4.1 Etapas del Proyecto
+reglamentan los artículos 2.1.10.1.1.1.1, 2.1.10.1.1.4.3
+y 2.1.10.1.1.4.6 del Decreto 1077 de 2015. Así mismo,        De acuerdo con lo establecido en el Decreto 1082
+se incluyeron en esta resolución, la metodología de          de 2015, son etapas de los proyectos de inversión
+focalización de beneficiarios del Subsidio de Vivienda       pública la preinversión, la inversión y la operación. El
+Interés Social Rural - SVISR, la reglamentación del          presente lineamiento tipo ofrece un alto porcentaje de
+Subsidio Familiar de Vivienda Rural (SFVR) en sus            desarrollo de la etapa de preinversión y es necesario
+modalidades de vivienda nueva de interés social rural        que las Entidades Territoriales que hagan uso de él
+y mejoramiento de vivienda rural. (Esta resolución ha        tengan claridad sobre el contenido y alcance de cada
+sido modificada mediante la Resolución 725 de 2023           una de estas etapas a fin de soportar la decisión de
+en materia de modalidades del SFV, definiciones, valor       hacer uso del lineamiento y aplicar adecuadamente
+del subsidio y otros).                                       este instrumento. En la siguiente ilustración se resume
+                                                             el contenido de cada una de las etapas.
+Resolución 0410 de 2021
+
+"Por la cual se adopta el Plan Nacional de Construcción
+y Mejoramiento de Vivienda de Interés Social Rural-
+PNVISR, en el marco de la Política Pública de Vivienda
+de Interés Social Rural."
+
+Proyectos                                                    Proyectos Tipo: más fácil, más rápido, mayor impacto
+Lineamientos para la construcción de vivienda de interés social nueva rural  18
+
+Ilustración 5. Etapas de los proyectos de inversión pública                          Fase de factibilidad o fase III. Este nivel se
+                                                                                     orienta a definir detalladamente los aspectos
+ Fuente: Elaboración propia, Dirección de Vivienda Rural DVR ­ MVCT                  técnicos de la solución planteada con el
+                                                                                     proyecto. Para ello, se analiza minuciosamente
+Seguidamente, se citan las definiciones contenidas en                                la alternativa recomendada en la fase anterior,
+el Decreto 1082 de 2015 para cada una de las etapas y                                prestándole particular atención al tamaño óptimo
+se da alcance a las mismas en el marco del lineamiento                               del proyecto, su momento de implementación
+tipo:                                                                                o puesta en marcha, su estructura de
+                                                                                     financiamiento, su organización administrativa,
+1.Preinversión: Etapa de preinversión. La etapa de                                   su cronograma y su plan de monitoreo.
+       preinversión es aquella en la cual se agotan los
+procesos de planeación y gestión de recursos de que                          En este sentido, durante la fase de perfil, el formulador
+tratan los Capítulos 2 y 3 del presente Título. Dentro de                    deberá identificar con información de fuentes
+esta etapa se distinguen tres fases de maduración del                        secundarias la existencia del problema, los involucrados
+proyecto denominadas: perfil o fase I, prefactibilidad o                     e identificar posibles soluciones.
+fase II y factibilidad o fase III, las cuales son definidas en
+el artículo 2.2.6.2.3. del presente Decreto.                                 Superada la fase de perfil, durante la fase de
+                                                                             prefactibilidad, la Entidad territorial deberá estudiar las
+         Fase de perfil 0 fase I. En este nivel debe                         posibles soluciones al problema planteado y contar con
+         recopilarse la información de origen secundario                     elementos diferenciadores (focalización y priorización
+         que aporte datos útiles para el proyecto, como                      de hogares) entre las mismas que le permitan optar por
+         documentos acerca de proyectos similares,                           el lineamiento tipo como la mejor opción para invertir
+         mercados y beneficiarios; con el fin de preparar                    los recursos.
+         y evaluar las alternativas del proyecto, calcular
+         sus costos y beneficios de manera preliminar.                       Finalmente, si la Entidad territorial decide como la mejor
+         Con base en esta información, se eligen                             alternativa la propuesta en el presente lineamiento tipo,
+         las alternativas que ameritan estudios más                          deberá adelantar los siguientes análisis, documentos y
+         detallados, o se toma la decisión de aplazar o                      estudios en la fase de factibilidad con lo que completaría
+         descartar el proyecto.                                              la etapa de preinversión, de acuerdo con lo establecido
+                                                                             en el numeral 5 Condiciones mínimas para implementar
+         Fase de prefactibilidad o fase II.En este                           el proyecto, numeral 6 Alternativa propuesta y
+         nivel se evalúan las alternativas que fueron                        numeral 7 Presupuesto y cronograma.
+         seleccionadas en la fase precedente y se realizan
+         estudios técnicos especializados; de manera                         Completada la etapa de preinverisón, el proyecto está
+         que, al mejorar la calidad de la información se                     listo para dar inicio a la etapa de inversión definida por
+         reduzca la incertidumbre para poder comparar                        el Decreto 1082 de la siguiente manera:
+         las alternativas y decidir cuáles se descartan y
+         cuál se selecciona. Estos estudios deben incluir                    2.Etapa de inversión. La etapa de inversión
+         como mínimo los efectos producidos por cambios                             corresponde al proceso de ejecución del que trata
+         en las variables relevantes del proyecto sobre el                   el Capítulo 4 del presente Título, por medio del cual
+         Valor Presente Neto (VPN) sobre cambios en los                      se desarrollan las actividades que permiten entregar
+         gastos de inversión y de operación del proyecto,
+         y las estimaciones de la demanda y la oferta.                                                                                                                Proyectos
+
+Proyectos Tipo: más fácil, más rápido, mayor impacto
+19  Lineamientos para la construcción de vivienda de interés social nueva rural
+
+los bienes y servicios definidos en el alcance del         Para la asignación de subsidios:
+proyecto; inicia en el momento en que el proyecto de
+inversión cuenta con recursos disponibles y se extiende    Elaborar un diagnóstico o actualización de los
+hasta el cierre de la ejecución financiera del proyecto.   hogares potenciales beneficiarios: Se debe elaborar
+                                                           para aquellos hogares que se encuentran en déficit
+La etapa de operación, de acuerdo con el Decreto 1082      habitacional rural (cuantitativo y cualitativo). Este debe
+comprende:                                                 contar al menos con los siguientes aspectos con el fin
+                                                           de determinar que el predio es apto para la intervención:
+3.Etapa de Operación. La etapa de operación
+       comprende el período en que los productos del          1. Tipo de Vivienda: Casa, apartamento, cuarto
+proyecto entran en funcionamiento y se generan los                 (s), vivienda tradicional indígena, otros (Casa
+beneficios estimados de acuerdo con los objetivos                  contenedor, carpa, cueva, embarcación, tienda,
+definidos para el proyecto. Para la puesta en marcha,              vagón, refugio natural, puente).
+operación y mantenimiento de los bienes o servicios
+entregados, se utilizarán los recursos que desde              2. Materiales de paredes exteriores, estado de
+la planeación debieron haberse identificado y que                  pisos, cocina, acueducto, alcantarillado y energía.
+aseguran su sostenibilidad.
+                                                              3. Condiciones de hacinamiento.
+  Para este lineamiento en particular, esta etapa se
+enmarca en el mantenimiento que deben realizar los            4. Área disponible y adecuada para la implantación,
+beneficiarios de las viviendas entregadas de acuerdo               accesibilidad, medios y distancia de transporte.
+con el numeral 8 Operación.
+                                                              5. L o c a l i za c i ó n g e o r re fe re n c i a d a , re g i st ro
+     5. Condiciones mínimas                                        fotográfico del predio donde se pretende realizar
+     para implementar el                                           la intervención.
+     proyecto
+                                                           Nota: El Ministerio de Vivienda, Ciudad y Territorio
+Para el uso e implementación de estos LINEAMIENTOS,        (MVCT) dispone de un formato de diagnóstico
+la Entidad territorial deberá dar cumplimiento a los       integral que puede servir de insumo, el cual no de
+siguientes criterios mínimos, los cuales buscan el éxito   implementación obligatoria. Puede ser consultado
+y la sostenibilidad del proyecto y sin los cuales no se    mediante el siguiente enlace: https://www.minvivienda.
+podrá implementar el lineamiento:                          gov.co/sites/default/files/procesos/gpv-f-73-formato-
+                                                           diagnostico-integral-1.0.xlsx
+5.1. Condiciones de implementación del proyecto
+                                                           Definir criterios de focalización y priorización de
+A continuación, se realiza una descripción general, de     los hogares: Se debe establecer que el hogar potencial
+las actividades técnicas previas a la implantación de      beneficiario cumpla con las condiciones que permitan
+las soluciones de vivienda de interés social nueva rural,  comprender la forma en que se focaliza y prioriza la
+las cuales se encuentran a cargo de la Entidad que         atención de cada hogar, considerando, por ejemplo:
+presenta el proyecto de inversión.
+                                                              · Que el hogar sea beneficiario con una
+Esta actividad forma parte del diagnóstico o línea base            clasificación SISBÉN IV entre A1 y C18.
+que da soporte a la continuidad del proyecto:
+                                                              · Que el hogar tenga Certificado de Tradición
+Proyectos                                                          y Libertad o certificado de sana posesión del
+                                                                   predio donde se realizará la vivienda.
+
+                                                              · Que los predios priorizados cuenten con la
+                                                                   posibilidad de acceder a agua para consumo
+                                                                   humano y doméstico, acorde a las normas legales
+                                                                   y a las reglamentarias.
+
+                                                                             Proyectos Tipo: más fácil, más rápido, mayor impacto
+Lineamientos para la construcción de vivienda de interés social nueva rural  20
+
+   · Que los predios estén certificados por el                                  2. Certificación en la que conste que el lote cuenta
+         municipio en: el adecuado uso y clasificación del                           con disponibilidad de infraestructura y servicios
+         suelo, no estar ubicado en zona de alto riesgo, no                          públicos básicos: energía eléctrica, evacuación
+         se encuentra en zonas de reserva, se encuentra                              de aguas servidas, suministro de agua potable
+         ubicado en zona apta para localización de                                   y recolección y disposición de residuos sólidos.
+         vivienda, de conformidad con los instrumentos
+         de ordenamiento que disponga el municipio.                             3. Cuando el terreno sea de propiedad del
+                                                                                     Municipio o de propiedad colectiva de uno
+Considerar otros aspectos previstos en la Resolución                                 o varios miembros de todos los hogares
+0725 de 2023 del Ministerio de Vivienda, Ciudad y                                    postulantes, se deberá acreditar la propiedad
+Territorio (MVCT), relacionados en el artículo 2, el cual                            del inmueble mediante certificado de tradición
+modifica el artículo 7 de la Resolución 536 de 2020:                                 y libertad expedido con anterioridad no superior
+                                                                                     a tres (3) meses de la fecha de apertura de
+"Requisitos del predio para vivienda nueva: Los predios                              convocatoria, donde conste que la propiedad
+donde se desarrollen soluciones de vivienda de Interés                               está libre de limitaciones al dominio, condiciones
+social rural nueva deberán cumplir con los siguientes                                resolutorias, embargos y gravámenes. La
+requisitos:                                                                          propiedad del lote donde serán construidas las
+                                                                                     viviendas deberá ser escriturada a cada hogar
+A)Para la modalidad de vivienda nueva rural                                          de manera individual por parte del propietario en
+          dispersa de interés social:                                                un plazo no mayor a 30 días contados desde el
+                                                                                     momento en que la familia recibe a satisfacción
+   1. "Estar ubicados en suelo rural, conforme a la                                  la vivienda construida con el subsidio que le fue
+         clasificación del suelo, prevista en el Plan de                             asignado.
+         Ordenamiento Territorial ­ POT, Plan Básico de
+         Ordenamiento Territorial - PBOT o Esquema de                           4. Para los proyectos a ser realizados dentro de
+         Ordenamiento Territorial ­ EOT.                                             los territorios pertenecientes a resguardos
+                                                                                     indígenas y comunidades negras, deberán
+   2. No podrán estar ubicadas en zona de alto riesgo                                adjuntar la respectiva resolución de constitución,
+         ni en zona de RONDA O DE protección de los                                  expedida por el Ministerio del Interior y de
+         recursos naturales.                                                         Justicia.
+
+   3. No podrán estar ubicadas en zonas de reserva                              5. Para el caso de proyectos a ser realizados en los
+         de obra pública o de infraestructura básica del                             territorios colectivos de comunidades indígenas,
+         nivel nacional, regional o municipal.                                       certificaciones serán expedidas por el Cabildo
+                                                                                     Gobernador del Resguardo Indígena".
+   4. No podrán estar ubicadas en áreas no aptas
+         para la localización de vivienda de acuerdo con                     Elaborar una convocatoria para la presentación de
+         el Plan de Ordenamiento Territorial ­ POT, Plan                     hogares: Se recomienda expedir un acto administrativo
+         Básico de Ordenamiento Territorial - PBOT o                         que permita verificar las restricciones para acceder al
+         Esquema de Ordenamiento Territorial ­ EOT.                          subsidio, señaladas en el marco normativo descrito en
+                                                                             este documento, entre las cuales se encuentra:
+   5. Contar con la posibilidad de acceder a agua
+         para consumo humano y doméstico, acorde a                              · Que sean propietarios de una vivienda en el
+         las normas legales y a las reglamentarias.                                  territorio nacional.
+
+B)Para la modalidad de vivienda rural nucleada                                  · Que alguno de los miembros del hogar, haya sido
+         de interés social, además de los requisitos                                 beneficiario de un subsidio familiar de vivienda
+mencionados, se debe contar con los siguientes:                                      nueva o mejoramiento de vivienda, que haya sido
+                                                                                     efectivamente aplicado, o de las coberturas a las
+   1. Copia de la Licencias de construcción y/o                                      tasas de interés.
+         urbanismo y/o parcelación, expedidas por la
+         Oficina de Planeación Municipal o dependencia                       Se exceptúan aquellos hogares que hayan perdido
+         competente.                                                         su vivienda por imposibilidad de pago, conforme con
+                                                                             lo previsto en el artículo 33 de la Ley 546 de 1999, o
+Proyectos Tipo: más fácil, más rápido, mayor impacto
+                                                                                                                                                                     Proyectos
+21                                                          Lineamientos para la construcción de vivienda de interés social nueva rural
+
+cuando esta haya resultado afectada o destruida por
+causas no imputables a ellos, o cuando la vivienda
+en la cual se haya aplicado el subsidio haya resultado
+totalmente destruida o quedado inhabitable como
+consecuencia de la ocurrencia de desastres de origen
+natural, calamidades públicas, emergencias, o atentados
+terroristas.
+
+También se exceptúan las viviendas que hayan sido
+abandonadas o despojadas en el marco del conflicto
+armado interno, o se encuentre en zonas de riesgo por
+la ocurrencia de eventos físicos peligrosos de origen
+tecnológico derivados de la ejecución u operación de
+obras de infraestructura o proyectos de interés nacional,
+o en zonas de afectación, reserva o retiro, por el diseño,
+ejecución u operación de obras de infraestructura
+o proyectos de interés nacional y/o estratégicos
+desarrollados por el Gobierno nacional, de conformidad
+con los análisis específicos de riesgos y planes de
+contingencia de que trata el artículo 42 de la Ley 1523
+de 2012, o las normas que lo reglamenten, modifiquen,
+adicionen o sustituyan.
+
+Condiciones mínimas del predio objeto de
+construcción
+
+En el marco del Plan Nacional de Construcción, se
+establecen las condiciones mínimas que deben cumplir
+las viviendas nuevas rurales. Estas condiciones son:
+
+Proyectos                                                   Proyectos Tipo: más fácil, más rápido, mayor impacto
+Lineamientos para la construcción de vivienda de interés social nueva rural                                                     22
+
+Aspecto      Descripción                                    Requisito
+
+Condiciones  Pendiente del área a construir                 Máximo el 4% del área de implantación
+del predio   Área Mínima                                    Entre 130 ­ 150 M2
+             Propiedad del Predio                           Certificado de Tradición y Libertad o certificado de sana posesión
+
+El porcentaje de la pendiente puede ser mayor al 4% teniendo en cuenta el ejercicio de factibilidad que se realice en la estructuración del
+proyecto, igualmente el área del predio podrá ser menor si dentro del ejercicio de factibilidad se evidencia que con el área disponible es
+posible realizar un adecuado desarrollo de la vivienda incluyendo los diferentes sistemas alternativos para manejo de excretas, residuos
+sólidos y residuos domésticos.
+
+Suelo        El certificado de condiciones ambientales      Se encuentra ubicado en suelo rural.
+             debe ser firmado por el alcalde o en su
+             defecto el secretario de planeación.           No se encuentra ubicado en Zonas de Alto Riesgo o con amenazas de
+                                                            desastres naturales (inundación, deslizamiento, etc.).
+
+                                                            No se encuentra ubicado en zonas de protección de recursos naturales
+                                                            (SIAC, SINAP, Ronda Hídrica).
+
+                                                            No se encuentra ubicado en zonas de reserva de obra pública o de
+                                                            infraestructura básica del nivel nacional, regional o municipal. (TIC,
+                                                            vías, retiro de vías, minería e hidrocarburos)
+
+                                                            Se encuentra ubicado en área apta para la localización de vivienda.
+
+                                                            No presenta conflictos de restitución de tierras de acuerdo con la Ley
+                                                            1448 de 2011.
+
+Servicios    En la zona rural, la generalidad es no contar  -Las viviendas deben contar con una fuente cercana de acceso a agua
+Públicos     con conexión a los servicios públicos, por lo  apta para el consumo humano.
+             tanto, se desarrollan sistemas alternativos
+             que permitan el acceso a agua y una
+             adecuada disposición de residuos sólidos y
+             manejo de excretas.
+
+             Lo anterior cumpliendo con lo dispuesto en
+             las normas técnicas colombianas
+
+Área de la   El área total construida de la vivienda        Entre 52 y 55M2 por unidad de vivienda de área construida
+vivienda a   deberá incluir espacios como: 3
+construir    habitaciones, sala - comedor, baño,
+             cocina, cuarto de herramientas y lavadero
+             adecuado.
+
+Tabla 2. Condiciones mínimas del predio (Fuente: Elaboración propia, Dirección de Vivienda Rural DVR ­ MVCT)
+
+Para la estructuración de las soluciones de                                  y suburbanas de cualquier grupo de uso, y para las
+vivienda                                                                     edificaciones en terrenos no aptos para el uso urbano
+                                                                             de los grupos de uso II, III y IV definidos en el Titulo A
+Las intervenciones por realizar en el proyecto deben                         de este reglamento".
+cumplir, cuando aplique, los requisitos establecidos en la
+Ley 388 de 1997, Ley 400 de 1997, Ley 142 de 1994,                           Adicionalmente, se debe tener en cuenta lo establecido
+y lo establecido en el Reglamento Técnico del Sector                         en la NSR10 relacionado con el diseño de la vivienda de
+Agua Potable y Saneamiento Básico (RAS), Reglamento                          uno o dos pisos. Para ello, se debe aplicar lo contenido
+Técnico de Instalaciones Eléctricas (RETIE), la Norma                        en el "TITULO A.1.3.11 -- CASAS DE UNO Y DOS
+Sismo Resistente (NSR 10), Reglamento Técnico de                             PISOS -- Las edificaciones de uno y dos pisos deben
+Iluminación y Alumbrado Público (RETILAP).                                   diseñarse de acuerdo con los Capítulos A.1 a A.12
+                                                                             de este Reglamento. Las casas de uno y dos pisos
+Ahora bien, para la vivienda rural dispersa se debe                          del grupo de uso I, tal como lo define A.2.5.1.4, que
+tener en cuenta lo contenido en la NSR-10, TITULO
+H.1.1.2 ­ OBLIGATORIEDAD DE LOS ESTUDIOS                                                                                                                             Proyectos
+GEOTÉCNICOS. - Los estudios geotécnicos definitivos
+son obligatorios para todas las edificaciones urbanas
+
+Proyectos Tipo: más fácil, más rápido, mayor impacto
+23                                                           Lineamientos para la construcción de vivienda de interés social nueva rural
+
+no formen parte de programas de quince o más
+unidades de vivienda ni tengan más de 3000 m² de
+área en conjunto, pueden diseñarse alternativamente
+de acuerdo con los requisitos del Título E de este
+Reglamento". (NSR-10, 2010)
+
+En el desarrollo de la estructuración del proyecto, se
+debe contemplar la ubicación y distancia de las fuentes
+de materiales que puedan afectar el costo del proyecto,
+los diseños arquitectónicos, estructurales y de redes.
+Deberán estar presentados con sus respectivos planos
+de detalle, en caso de no contar con la posibilidad de
+conexión a servicios públicos con empresas prestadores
+del servicio, se deberá incluir sistemas alternativos de
+acceso a estos.
+
+Las instalaciones internas eléctricas e hidrosanitarias
+deberán realizarse con el objetivo de facilitar la conexión
+cuando sea posible.
+
+Cuando se aplique lo dispuesto en el Decreto Ley
+890, sobre licencia de construcción y permiso de
+vertimientos, se deberá garantizar las condiciones
+técnicas establecidas para tal fin.
+
+5.2 Evaluación de cumplimiento de condiciones de
+implementación
+
+Una vez se disponga la selección de áreas que cumplen
+con los criterios establecidos en la Tabla No. 1. se
+puede continuar con el proceso de implementación
+del proyecto, siguiendo los pasos establecidos en el
+numeral anterior, para determinar si es viable y costo-
+eficiente implementar la construcción de una vivienda
+de interés social nueva en la zona rural.
+
+En caso de que los análisis sean viables, se debe
+estructurar el proyecto acorde con la naturaleza de
+la Entidad territorial, cuyo diseño corresponda entre
+otros, a determinantes como: el clima, la geografía, la
+topografía y/o la cultura, etc.
+
+Proyectos                                                    Proyectos Tipo: más fácil, más rápido, mayor impacto
+Lineamientos para la construcción de vivienda de interés social nueva rural  24
+
+     6. Alternativa propuesta.                                               6.1 Aspectos técnicos de la alternativa de solución
+
+La alternativa propuesta es la construcción de vivienda                      Programa arquitectónico: las tipologías de vivienda
+de interés social nueva rural. Para la aplicación de                         rural propuestas a continuación son el resultado de
+esta en el marco del presente lineamiento, la Entidad                        los análisis realizados por parte del Ministerio de
+territorial deberá desarrollarla como se explica en el                       Vivienda, Ciudad y Territorio (MVCT), en donde se
+presente capítulo a fin de obtener la viabilidad para la                     tuvieron en cuenta factores imprescindibles para
+etapa de inversión del proyecto.                                             el diseño óptimo de vivienda, como los son: área,
+                                                                             programa arquitectónico, materiales, costos, clima,
+El programa arquitectónico incluye tres habitaciones,                        población, accesibilidad al medio físico, entre otros.
+cuarto de herramientas, espacio múltiple, cocina,                            Adicionalmente, dichas tipologías no definen la
+lavadero, baño. La vivienda deberá incorporar los                            materialidad ni sistema constructivo, sin embargo, se
+sistemas alternativos necesarios para garantizar el                          recomienda mantener el área promedio de las tipologías
+adecuado manejo de excretas, residuos sólidos y                              y de conformidad con los usos y costumbres ajustar si
+domésticos.                                                                  es el caso los espacios propuestos.
+
+De conformidad con lo establecido en el parágrafo 4 del                      A continuación, se presentan las tipologías no
+artículo 4 de la Resolución 0725 de 2023, el valor del                       vinculantes incluidas en el Plan Nacional de
+Subsidio Familiar de Vivienda Rural contempla todos los                      Construcción y Mejoramiento de Vivienda Social
+costos directos e indirectos asociados a la construcción                     Rural, el cual puede ser consultado en el siguiente
+de la vivienda, incluyendo costos de transporte                              enlace: https://www.minvivienda.gov.co/tramites-y-
+de materiales. Por su parte de la interventoría y/o                          servicios/consultas-publicas/por-la-cual-se-adopta-el-
+supervisión técnica, podrá estar financiado por una                          plan-nacional-de-construccion-y-mejoramiento-de-
+fuente diferente al valor del Subsidio Familiar de                           vivienda-de-interes-social-rural-pnvisr-en-el-marco-
+Vivienda Rural, así mismo las obras complementarias                          de-la-politica-publica-de
+(todas aquellas que sean necesarias para la
+adecuación del predio y acceso a servicios públicos)
+que se requieran para proyectos nucleados podrán ser
+incluidas dentro del proyecto de inversión sin que su
+costo se incluya dentro del valor del Subsidio Familiar
+de Vivienda Rural.
+
+Proyectos Tipo: más fácil, más rápido, mayor impacto                         Proyectos
+25                                            Lineamientos para la construcción de vivienda de interés social nueva rural
+
+A) TIPOLOGÍA LINEAL-ALARGADA
+VRSA1
+
+PROGRAMA                     M2     % DE                         Ilustración 6. Tipología Lineal ­ Alargada VRSA1. (Fuente: Ministerio
+ARQUITECTÓNICO                      AREA                         de Vivienda, Ciudad y Territorio (2021)
+                             5,06
+ Espacio Múltiple            7,43    9,17%                       Ilustración 7. Isometría Tipología Alargada VRSA1 (Fuente: Ministe-
+ Habitación 1                7,28   13,46%                       rio de Vivienda, Ciudad y Territorio (2021).
+ Habitación 2                7,28   13,19%
+ Habitación 3                6,03   13,19%
+ Cocina                      1,15   10,92%
+ Lavadero                    2,82
+ Baño                                2,08%
+ Cuarto de Herramientas        1,7   5,11%
+ Circulación                10,04    3,08%
+ Estructura y Muros                 18,19%
+ Terraza                     6,41   11,61%
+PROGRAMA ARQUITECTÓNICO      5,39
+Dimensiones aprox. (L x A)   55,2     100%
+                            13 m       4,3 m
+
+Tabla 3. Área Tipología VRSA 1. Fuente: Ministerio de Vivienda,
+Ciudad y Territorio (MVCT) (2021)
+
+La configuración de esta tipología es de forma alargada
+para aprovechar la adaptación en terrenos angostos
+y/o áreas de implantación que requieran preservar
+elementos del medio físico. Cuenta con un diseño de
+una apertura en el volumen de su fachada principal de
+amplias dimensiones, lo cual permite el flujo del viento y
+una iluminación natural indirecta. Este acceso permite la
+adaptación de esta vivienda en climas cálidos o secos.
+
+Proyectos                                                        Proyectos Tipo: más fácil, más rápido, mayor impacto
+Lineamientos para la construcción de vivienda de interés social nueva rural                                                                   26
+
+B. TIPOLOGÍA EN (L) VRSL1
+
+PROGRAMA                       M2                     % DE                   Ilustración 8. Planta Tipología "L" VRSL1 Fuente: Ministerio de
+ARQUITECTÓNICO                                        ÁREA                   Vivienda, Ciudad y Territorio (2021).
+                                 5,5
+ Espacio Múltiple              7,43                   10,42%
+ Habitación 1                  7,28                   14,07%
+ Habitación 2                  7,28                   13,79%
+ Habitación 3                  5,33                   13,79%
+ Cocina                        2,29                   10,09%
+ Lavadero                      2,16
+ Baño                                                  4,34%
+ Cuarto de Herramientas          1,7                   4,09%
+ Circulación                   7,01                    3,22%
+ Estructura y Muros            6,82                   13,28%
+ Terraza                       8,37                   12,92%
+PROGRAMA ARQUITECTÓNICO        52,8
+Dimensiones aprox. (L x A)  8,30 m                      100%
+                                                           8m
+
+Tabla 4. Área Tipología VRSL1.Fuente: Ministerio de Vivienda,
+Ciudad y Territorio (MVCT) (2021).
+
+La tipología VRSL1 tiene como origen la configuración                        Ilustración 9. Isometría Tipología en "L" VRSL1. Fuente: Ministerio
+espacial de la tipología Alargada VRSA1 descrita en                          de Vivienda, Ciudad y Territorio (2021)
+el punto anterior, con una variación de la ubicación del
+módulo del espacio múltiple (sala, comedor, cocina) y
+baño, el cual ahora se ubica frente a las habitaciones
+y no al costado de estas, así mismo, cuenta con la
+ampliación de la placa de contrapiso en los dos accesos.
+Uno de ellos como andén perimetral para acceder al
+cuarto de herramientas o el lavadero y el otro, situado
+en el pórtico de entrada, como ampliación de la terraza.
+
+Proyectos Tipo: más fácil, más rápido, mayor impacto                         Proyectos
+27                                                               Lineamientos para la construcción de vivienda de interés social nueva rural
+
+C. TIPOLOGÍA EN (T) VRST1
+
+PROGRAMA                       M2     % DE                       lustración 10. Planta Tipología "T" VRST1. Fuente: Ministerio de
+ARQUITECTÓNICO                        AREA                       Vivienda, Ciudad y Territorio (2021).
+                                 5,2
+ Espacio Múltiple              8,41   10.18%                     Ilustración 11. Isometría Tipología en "T" VRST1. Fuente: Ministerio
+ Habitación 1                  8,41   16,46%                     de Vivienda, Ciudad y Territorio (2021).
+ Habitación 2                  8,09   16,46%
+ Habitación 3                  3,95   15,84%
+ Cocina                        0,74
+ Lavadero                      1,74    7,73%
+ Baño                          2,57    1,45%
+ Cuarto de Herramientas        5,06    3,41%
+ Circulación                   6,37    5,03%
+ Estructura y Muros                   10,96%
+ Terraza                         3,8  12,47%
+PROGRAMA ARQUITECTÓNICO      51,08
+Dimensiones aprox. (L x A)  9,30 m      100%
+                                           7m
+
+Tabla 5. Área Tipología VRST 1. Fuente: Ministerio de Vivienda,
+Ciudad y Territorio (MVCT) (2021).
+
+Esta tipología VRST1 es un modelo compacto cuyo
+diseño logra una máxima eficiencia entre muros y
+espacios internos. La configuración espacial responde
+a dos volúmenes, uno que agrupa las habitaciones y en
+el otro que agrupa los demás espacios del programa
+arquitectónico.
+
+Proyectos                                                        Proyectos Tipo: más fácil, más rápido, mayor impacto
+Lineamientos para la construcción de vivienda de interés social nueva rural  28
+
+Proyectos Tipo: más fácil, más rápido, mayor impacto                         Proyectos
+29                                                                 Lineamientos para la construcción de vivienda de interés social nueva rural
+
+D. TIPOLOGÍA COMPACTA VRSC1
+
+                                                                   La tipología VRSC1 Compacta, basó su diseño en la
+                                                                   implementación de la parametrización cuyo objetivo
+                                                                   fue lograr la mayor eficiencia espacial para un lote de
+                                                                   dimensiones de 6 x 12 metros. Para esta tipología fue
+                                                                   necesaria la reformulación de las áreas de circulación,
+                                                                   haciéndolas más eficientes y por ende menos
+                                                                   extensas en comparación a las demás tipologías. Así
+                                                                   mismo, esta circulación genera una conexión entre los
+                                                                   patios internos brindando a la vivienda ventilación e
+                                                                   iluminación natural.
+
+Ilustración 12. Planta Tipología Compacta VRSC1. Fuente: Ministe-
+rio de Vivienda, Ciudad y Territorio (2021).
+
+PROGRAMA                     M2    % DE
+ARQUITECTÓNICO                     ÁREA
+                             9,13
+ Espacio Múltiple            7,29  16,88%
+ Habitación 1                7,29  13,48%
+ Habitación 2                7,57  13,48%
+ Habitación 3                5,19  14,00%
+ Cocina                      1,21
+ Lavadero                    3,09   9,60%
+ Baño                        2,21   2,24%
+ Cuarto de Herramientas      4,34   5,71%
+ Circulación                 6,77   4,09%
+ Estructura y Muros          4,75   8,02%
+ Terraza                    54,09  12,52%
+PROGRAMA ARQUITECTÓNICO     10 m
+Dimensiones aprox. (L x A)           100%
+                                        6m
+
+Tabla 6. Área Tipología VRSC 1. Fuente: Ministerio de Vivienda,
+Ciudad y Territorio (MVCT) (2021).
+
+Proyectos                                                          Proyectos Tipo: más fácil, más rápido, mayor impacto
+Lineamientos para la construcción de vivienda de interés social nueva rural  30
+
+E. TIPOLOGÍA COMPACTA VRSC2
+
+PROGRAMA                       M2                     % DE                   Ilustración 13. Planta Tipología Compacta VRSC2. Fuente: Ministe-
+ARQUITECTÓNICO                                        ÁREA                   rio de Vivienda, Ciudad y Territorio (MVCT) (2021).
+                               9,31
+ Espacio Múltiple              7,98                   16,76%
+ Habitación 1                  7,81                   14,37%
+ Habitación 2                  7,97                   14,06%
+ Habitación 3                  5,19                   14,35%
+ Cocina                        1,21                   16,09%
+ Lavadero                      3,09
+ Baño                          2,21                    1,64%
+ Cuarto de Herramientas        4,34                    5,87%
+ Circulación                   6,77                    3,64%
+ Estructura y Muros            4,75                    2,16%
+ Terraza                     55,55                    11,14%
+PROGRAMA ARQUITECTÓNICO     9,30 m
+Dimensiones aprox. (L x A)                              100%
+                                                           6m
+
+Tabla 7. Área Tipología VRSC 2. Fuente: Ministerio de Vivienda,
+Ciudad y Territorio (MVCT) (2021).
+
+En la tipología VRSC2 ­ Compacta, los espacios se                            Ilustración 14. Isometría Tipología Compacta VRSC2.Fuente: Minis-
+distribuyen alrededor de un espacio central compuesto                        terio de Vivienda, Ciudad y Territorio (2021).
+por el espacio múltiple y la cocina. Es la configuración
+espacial donde predominan dos de sus fachadas por las
+aperturas. En términos de accesibilidad al espacio físico
+se dio la inclusión de áreas para el inmobiliario básico
+en la parametrización. Adicional al diseño, se dispuso de
+la ampliación de la placa de contrapiso en el acceso y
+en la fachada del lavadero y el cuarto de herramientas.
+
+Proyectos Tipo: más fácil, más rápido, mayor impacto                         Proyectos
+31                                                                 Lineamientos para la construcción de vivienda de interés social nueva rural
+
+F. TIPOLOGÍA EN (U) VRSU1
+
+                                                                   En la tipología VRSU1 ­ "En U", la circulación distribuye
+                                                                   los espacios con una mayor eficiencia y conecta los tres
+                                                                   accesos de la vivienda. En términos de accesibilidad al
+                                                                   espacio físico y la inclusión de áreas para el mobiliario
+                                                                   básico. Adicional al diseño, se dispuso de la ampliación
+                                                                   de la placa de contrapiso en el acceso y en la fachada
+                                                                   del lavadero y el cuarto de herramientas.
+
+Ilustración 15. Planta Tipología "U" VRSU1. Fuente: Ministerio de
+Vivienda, Ciudad y Territorio (2021).
+
+PROGRAMA                    M2      % DE
+ARQUITECTÓNICO                      ÁREA
+                             6,76
+ Espacio Múltiple            7,94    12,30%
+ Habitación 1                7,94    14,45%
+ Habitación 2                7,94    14,45%
+ Habitación 3                4,16    14,45%
+ Cocina                      1,74    7,57%
+ Lavadero                    3,24    3,17%
+ Baño                        2,48    5,90%
+ Cuarto de Herramientas      5,44    4,51%
+ Circulación                 7,3     9,90%
+ Estructura y Muros          0       13,29%
+ Terraza                    54,94
+PROGRAMA ARQUITECTÓNICO     8,30 m  100%
+Dimensiones aprox. (L x A)          7,60 m
+
+Tabla 8. Área Tipología VRSU1. (Fuente: Ministerio de Vivienda,
+Ciudad y Territorio (MVCT) (2021).
+
+Proyectos                                                          Proyectos Tipo: más fácil, más rápido, mayor impacto
+Lineamientos para la construcción de vivienda de interés social nueva rural  32
+
+Proyectos Tipo: más fácil, más rápido, mayor impacto                         Proyectos
+33                                                        Lineamientos para la construcción de vivienda de interés social nueva rural
+
+7. Presupuesto y
+cronograma
+
+7.1 Estructura financiera de la solución habitacional
+
+El valor del Subsidio Familiar de Vivienda Rural
+contempla todos los costos directos e indirectos
+asociados a la construcción de la vivienda, incluyendo
+costos de transporte de materiales y los que
+correspondan al proceso de acompañamiento social.
+
+Por su parte el valor de la interventoría podrá ser
+financiado con recursos diferentes al valor del Subsidio
+Familiar de Vivienda Rural (SFVR), por lo que no
+necesariamente se podrían encontrar incorporados
+dentro del valor individual del Subsidio Familiar de
+Vivienda Rural.
+
+7.2 Modelo de acompañamiento social
+
+Dentro de las actividades se recomienda incluir
+un componente relacionado con modelo de
+acompañamiento social previsto para el proyecto. Este
+debe contener acciones que promueven la inclusión
+social y la participación efectiva de los beneficiarios
+para que las soluciones de vivienda conlleven al
+desarrollo de entornos saludables que fortalezcan la
+cultura ciudadana y promuevan prácticas constructivas
+apropiadas a las regiones.
+
+7.3 Actividades para incluir
+
+Para la ejecución de proyectos de inversión dirigidos
+a la construcción de vivienda de interés social nueva
+rural, se recomienda tener en cuenta las siguientes
+actividades, las cuales pueden variar de conformidad
+con el sistema constructivo seleccionado:
+
+Proyectos                                                 Proyectos Tipo: más fácil, más rápido, mayor impacto
+Lineamientos para la construcción de vivienda de interés social nueva rural                                         34
+
+                 OBJETIVO GENERAL                       Mejorar las condiciones habitacionales de las familias en
+                                                      situación de pobreza ubicadas en la zona rural de la entidad
+
+                                                                                            territorial.
+
+ OBJETIVO        PRODUCTO     UNIDAD DE               CANTIDAD               ACTIVIDAD           ETAPA      VR.TOTA
+ESPECÍFICO                      MEDIDA                                                                            L
+
+Facilitar a los               UNIDAD DE                                      Realizar obras      Inversión  $235.529
+  hogares el                     MEDIDA                                       preliminares
+
+desarrollo de                                                                      Realizar      Inversión  $6.301.333
+   procesos                                                                     cimentación
+                                                                                                 Inversión  $31.491.746
+constructivos                                                                      Realizar      Inversión  $12.650.000
+ de vivienda                                                                    estructuras
+ nueva rural
+                                                                             Construir muros
+
+                                                                             Instalar pisos      Inversión  $6.166.099
+
+                                                                             Construir cubierta  Inversión  $5.175.557
+
+                                                                                Realizar         Inversión  $827.258
+                                                                             instalaciones
+
+                                                                              hidráulicas
+
+                  Viviendas                                                     Realizar         Inversión  $3.399.445
+                 de Interés                                                  instalaciones
+
+                     Social   Número de               50                     eléctricas
+                 construidas   viviendas
+                                                                                Realizar                    $1.256.182
+                                                                             instalaciones       Inversión
+
+                                                                             sanitarias
+
+                                                                             Realizar acabados   Inversión  $3.454.013
+
+                                                                             Realizar obras de   Inversión  $5.415.911
+                                                                                 carpintería     Inversión  $2.854.529
+                                                                                                 Inversión  $2.641.809
+                                                                             Instalar aparatos   Inversión  $3.335.000
+                                                                                    y otros      Inversión
+                                                                                                 Inversión  $7.475.000
+                                                                              Construir pozo                $92.679.411
+                                                                                   séptico
+
+                                                                                Implementar
+                                                                                  modelo de
+
+                                                                             acompañamiento
+                                                                                      social
+
+                                                                                  Realizar la
+                                                                                Interventoría
+
+                                                                               TOTAL VALOR
+                                                                              POR VIVIENDA
+
+Tabla 9. Actividades para la ejecución de proyectos de inversión. (Fuente: Ministerio de Vivienda, Ciudad y Territorio (MVCT) (2024). Activida-
+des y valores de referencia
+
+Proyectos Tipo: más fácil, más rápido, mayor impacto                                                        Proyectos
+35         Lineamientos para la construcción de vivienda de interés social nueva rural
+
+A.Interventoría                                                de apoyo a la supervisión (Como funcionario o servidor
+         La interventoría consistirá en el seguimiento         público de la entidad) es de revisión constante de la
+integral a cada una de las actividades que integre el          ejecución de los contratos de obra e interventoría a
+proyecto, la cual será ejercida por una persona natural o      su cargo, en sus aspectos técnicos, administrativos,
+jurídica contratada para tal fin por la Entidad territorial o  financieros, contables y jurídicos (según aplique).
+el ejecutor del proyecto. La cual se revisará que cumpla
+los estándares técnicos y especificaciones definidas en        Para los proyectos que contemplen en su estructura
+el proyecto de inversión.                                      presupuestal el apoyo a la supervisión, es necesario
+                                                               presentar un análisis de costos para realizar dicha
+En resumen, la interventoría integral será aquella que         actividad. Se sugiere presupuestar un profesional con
+sea técnica, administrativa y financiera, se hará de           un perfil adecuado para realizar esta actividad.
+manera presencial a través del personal asignado por
+el interventor. En esta, se debe ofrecer además de la          El valor mensual podrá cotizarse con base a las tablas
+aplicación de todos los recursos y sistemas utilizados         prestacionales establecidas por la entidad por un tiempo
+para la ejecución del contrato, objeto de interventoría,       igual o superior al del proyecto; considerando que
+la implementación del plan de calidad.                         podría realizar el seguimiento de ambos contratos (obra
+                                                               e interventoría) en sus etapas pre y post contractual. El
+Con el fin de diagramar los procedimientos de las              presupuesto se debe presentar desagregado.
+principales actividades que la interventoría debe
+cumplir durante la obra, estas se califican de la siguiente    C.Cronograma
+manera:                                                               Se presenta un cronograma de referencia para la
+                                                               construcción de una vivienda, las actividades incluidas
+   · Actividades Técnicas.                                     corresponden a la ejecución física del proyecto, sin
+                                                               embargo, según sea el caso se deberán incluir las
+   · Actividades Administrativas y Financieras.                actividades financieras que se requieran al inicio y final
+                                                               del proyecto para determinar una ejecución integral
+   · Actividades de Control.                                   de este. Adicionalmente, las actividades presentadas
+                                                               en el presente documento deberán ser ajustadas de
+Las tres (3) actividades anteriores se deben cumplir en        conformidad con el sistema constructivo y materiales
+sus tres fases durante la ejecución del contrato de obra       empleados en la construcción de la vivienda.
+a intervenir:
+
+   · Preliminares e iniciación del contrato.
+
+   · Desarrollo y ejecución de la obra.
+
+   · Recibo y liquidación de la Obra.
+
+B.Supervisión
+       Es el seguimiento integral que debe hacer
+la Entidad territorial a la ejecución de uno o varios
+contratos de un proyecto en sus etapas (precontractual,
+contractual y post contractual) para asegurar que
+cumplan con su propósito. Para esto puede designar
+uno o varios profesionales de apoyo con conocimientos
+y experiencia en actividades relacionadas con el objeto
+contractual por modalidad de prestación de servicios,
+mediante un oficio de designación. El rol del profesional
+
+Proyectos                                                      Proyectos Tipo: más fácil, más rápido, mayor impacto
+Lineamientos para la construcción de vivienda de interés social nueva rural               36
+
+ACTIVIDAD                                                                             MESES
+                         1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+
+Etapa precontractual
+Realizar obras
+preliminares
+
+Realizar cimentación
+
+Realizar estructuras
+
+Realizar instalaciones
+hidráulicas
+Realizar instalaciones
+eléctricas
+Realizar instalaciones
+sanitarias
+
+C onstruir muros
+
+Instalar pisos
+
+C onstruir cubierta
+
+Realizar acabados
+
+Realizar obras de
+carpintería
+Instalar aparatos y
+otros
+
+C onstruir pozo séptico
+
+Implementar modelo
+de acompañamiento
+social
+Realizar la
+
+interventoría
+Realizar el cierre y
+liquidación del
+proyecto
+
+Tabla 10. Cronograma. Fuente: Elaboración propia, Dirección de Vivienda Rural DVR ­ MVCT
+
+Proyectos Tipo: más fácil, más rápido, mayor impacto                                      Proyectos
+37                                                          Lineamientos para la construcción de vivienda de interés social nueva rural
+
+8. Operación
+
+Para la operación del presente proyecto se hace
+necesario que las Entidades Territoriales aseguren el
+mantenimiento de las viviendas entregadas.
+
+Para ello, se recomienda incluir en el acto administrativo
+de adjudicación del subsidio una obligación del
+hogar, en la cual se compromete "En su condición de
+propietarios o poseedores de las viviendas construidas
+y entregadas a título de subsidio familiar de vivienda:
+mantener la vivienda entregada en condiciones
+de habitabilidad y salubridad y no destruirla o
+desmantelarla total ni parcialmente (...)".
+
+Lo anterior, en concordancia, con lo establecido en el
+artículo 19 de la Resolución 0725 de 2023 "Por la cual
+se reglamenta el artículo 2.1.10.1.2.1.4 del Decreto
+1077 de 2015, se modifica la Resolución 0536 y se
+dictan otras disposiciones".
+
+Proyectos                                                   Proyectos Tipo: más fácil, más rápido, mayor impacto
+Lineamientos para la construcción de vivienda de interés social nueva rural  38
+
+Proyectos Tipo: más fácil, más rápido, mayor impacto                         Proyectos
+

@@ -1,0 +1,1056 @@
+RESOLUCIÓN NÚMERO 40150 DE 03 MAY 2024 Hoja 1 de 23 ­ Libro 1
+
+  "Por la cual se modifica el Reglamento Técnico de Iluminación y Alumbrado Público - RETILAP"
+
+        MINISTERIO DE MINAS Y ENERGÍA
+
+                           LIBRO 1
+               ASPECTOS GENERALES
+
+REGLAMENTO TÉCNICO DE ILUMINACIÓN Y
+                ALUMBRADO PÚBLICO
+                          RETILAP
+RESOLUCIÓN NÚMERO 40150 DE 03 MAY 2024 Hoja 2 de 23 ­ Libro 1
+
+  "Por la cual se modifica el Reglamento Técnico de Iluminación y Alumbrado Público - RETILAP"
+
+El Reglamento Técnico de Iluminación y Alumbrado Público ­ RETILAP, está
+conformado por cuatro (4) libros, cada uno incluye los requisitos específicos en el marco
+del objeto y alcance del mismo, sus temáticas se dividen en:
+
+    1) LIBRO 1 ­ ASPECTOS GENERALES: Presenta el objeto del Reglamento Técnico
+         y relaciona las definiciones y abreviaturas usadas en este.
+
+    2) LIBRO 2 ­ PRODUCTOS OBJETO DEL RETILAP: Incluye los productos usados en
+         instalaciones de sistemas de iluminación objeto del Reglamento Técnico, sus
+         requisitos generales y específicos, ensayos mínimos, excepciones y prohibiciones.
+
+    3) LIBRO 3 ­ INSTALACIONES DE SISTEMAS DE ILUMINACIÓN: Presenta los
+         requisitos generales para la realización de proyectos de iluminación y los requisitos
+         específicos para instalaciones de sistemas de iluminación interior, exterior, de
+         alumbrado público, túneles y áreas clasificadas.
+
+    4) LIBRO 4 ­ EVALUACIÓN DE LA CONFORMIDAD: Establece los requisitos de
+         evaluación de la conformidad para los productos, instalaciones y personas objeto de
+         cumplimiento del Reglamento Técnico. Además, incluye los requisitos que deben
+         cumplir los Organismos Evaluadores de la Conformidad y proporciona las
+         herramientas necesarias para que las Entidades de Vigilancia y Control, en el marco
+         de sus atribuciones y funciones, realicen sus actividades. Finalmente, presenta los
+         lineamientos del régimen sancionatorio, transitoriedad e interpretación, revisión,
+         actualización y vigencia del Reglamento.
+RESOLUCIÓN NÚMERO 40150 DE 03 MAY 2024 Hoja 3 de 23 ­ Libro 1
+
+  "Por la cual se modifica el Reglamento Técnico de Iluminación y Alumbrado Público - RETILAP"
+
+                             LIBRO 1 ­ ASPECTOS GENERALES
+                                         Tabla de contenido
+
+TÍTULO 1 ­ OBJETO Y ÁMBITO DE APLICACIÓN ......................................................................... 4
+     Artículo 1.1.1. Objeto .................................................................................................................... 4
+
+TÍTULO 2 ­ DEFINICIONES Y ABREVIATURAS.............................................................................. 5
+     Artículo 1.2.1. Definiciones ........................................................................................................... 5
+     Artículo 1.2.2. Abreviaturas ......................................................................................................... 21
+     Artículo 1.2.3. Acrónimos y siglas ............................................................................................... 23
+RESOLUCIÓN NÚMERO 40150 DE 03 MAY 2024 Hoja 4 de 23 ­ Libro 1
+
+  "Por la cual se modifica el Reglamento Técnico de Iluminación y Alumbrado Público - RETILAP"
+
+                             LIBRO 1 ­ ASPECTOS GENERALES
+
+                    TÍTULO 1 ­ OBJETO Y ÁMBITO DE APLICACIÓN
+
+Artículo 1.1.1. Objeto
+
+El Reglamento Técnico de Iluminación y Alumbrado Público ­ RETILAP, tiene por
+objeto fundamental establecer los requisitos técnicos que deben cumplir las instalaciones
+de todos los sistemas de iluminación y alumbrado público, tendientes a garantizar: los
+niveles y calidades de la energía lumínica requerida en la actividad visual, la seguridad en
+el abastecimiento energético, la protección del consumidor y la preservación del medio
+ambiente; previniendo, minimizando o eliminando los riesgos originados por la instalación
+y el uso de sistemas de iluminación.
+
+El RETILAP, también promueve el Uso Racional y Eficiente de la Energía - URE, por lo cual
+establece las especificaciones mínimas para que las instalaciones de sistemas de
+iluminación y los productos usados en estas, garanticen la seguridad y confort visual, a
+través de su diseño, operación y mantenimiento.
+
+Igualmente, el RETILAP es un instrumento técnico-legal para Colombia, que sin crear
+obstáculos innecesarios al comercio o al ejercicio de la libre competencia, permita
+garantizar que las instalaciones, equipos y productos usados en los sistemas de iluminación
+objeto del Reglamento, cumplan con los siguientes objetivos:
+
+    1) Objetivos legítimos
+
+              a) Proteger la vida y la salud humana.
+              b) Proteger la vida animal y vegetal.
+              c) Proteger el medio ambiente.
+              d) Promover para que las instalaciones de sistemas de iluminación y alumbrado
+
+                   público y sus productos apliquen el URE.
+              e) Prevenir prácticas que puedan inducir a error al usuario.
+
+    2) Objetivos específicos: Se establecen con el fin de cumplir los anteriores objetivos
+         legítimos.
+
+              a) Establecer las condiciones para prevenir accidentes o lesiones en la salud
+                   visual, causados por instalaciones o productos de iluminación inadecuados
+                   o deficientes.
+
+              b) Determinar las condiciones para evitar el desperdicio de iluminación,
+                   causada por mal diseño de instalaciones o ejecuciones defectuosas.
+
+              c) Establecer las condiciones para evitar alteraciones en los ciclos de vida
+                   naturales de la flora y fauna, causadas por desperdicio en iluminación
+                   artificial invasiva continua en su hábitat.
+
+              d) Establecer las condiciones para evitar daños y prevenir riesgos a los seres
+                   vivos, en los sectores o áreas en que se necesite una instalación de un
+                   sistema de iluminación, debido al deslumbramiento causado por exceso o
+                   carencia de luz.
+
+              e) Establecer los requisitos mínimos para los productos objeto del Reglamento,
+                   orientados a generar confianza respecto a su eficiencia y adecuada
+                   compatibilidad de funcionamiento.
+
+              f) Establecer lineamientos y procedimientos uniformes para las instalaciones
+                   de los sistemas de iluminación objeto del presente Reglamento, que
+                   promueva la seguridad visual de los seres humanos, teniendo en cuenta
+                   aspectos psicofisiológicos como el bienestar, el rendimiento visual y la
+                   sensación de confort de los usuarios de dichas instalaciones.
+RESOLUCIÓN NÚMERO 40150 DE 03 MAY 2024 Hoja 5 de 23 ­ Libro 1
+
+  "Por la cual se modifica el Reglamento Técnico de Iluminación y Alumbrado Público - RETILAP"
+
+              g) Establecer las responsabilidades y requisitos que deben cumplir las
+                   personas que intervienen y usan las instalaciones de sistemas de
+                   iluminación objeto del Reglamento.
+
+              h) Establecer los requisitos y procedimientos para demostrar la conformidad
+                   con el presente Reglamento.
+
+                      TÍTULO 2 ­ DEFINICIONES Y ABREVIATURAS
+
+Para los efectos de aplicación del presente Reglamento, se deben tener en cuenta las
+siguientes definiciones y abreviaturas.
+
+Artículo 1.2.1. Definiciones
+
+Para la aplicación e interpretación de este Reglamento, se tendrán en cuenta las siguientes
+definiciones:
+
+        1.2.1.1. Relativas a los sistemas de iluminación interior, exterior y
+        alumbrado público
+
+Las siguientes definiciones relativas a los sistemas de iluminación interior, exterior y
+alumbrado público son tomadas o adaptadas de las siguientes normas y/o estándares
+técnicos. Cuando un término no aparezca dentro de las definiciones aquí descritas, se
+recomienda consultar estas normas y/o estándares técnicos:
+
+    Tabla 1.2.1.1 a. Normas y/o estándares técnicos de referencia de consulta de definiciones relativas a los sistemas de
+                                                  iluminación interior, exterior y alumbrado público.
+
+                      Referente Normativo
+
+   ANSI/IES LS-1-21   Ciencia de la iluminación: nomenclatura y definiciones para la ingeniería de iluminación. -
+                      Lighting Science: Nomenclature and Definitions for Illuminating Engineering.
+         NTC 900      REGLAS GENERALES Y ESPECIFICACIONES PARA EL ALUMBRADO PÚBLICO (Cuarta
+                      actualización). - GENERAL RULES AND SPECIFICATIONS FOR STREET LIGHTING
+        NTC 2230      (Fourth update).
+    ISO/CIE 8995-1    Luminarias. Parte 1: requisitos generales y ensayos. - Luminaries. Part 1: General
+                      requirements and tests.
+        CIE S 017     Iluminación de lugares de trabajo -- Parte 1: Interior. - Workplace lighting -- Part 1: Interior.
+                      Vocabulario internacional de iluminación, 2ª edición (https://cie.co.at/e-ilv). - International
+       EN 12464-1     Lighting Vocabulary, 2nd edition (https://cie.co.at/e-ilv).
+                      Luz e iluminación. Iluminación de puestos de trabajo Puestos de trabajo interiores - Light
+       IEC 61347-1    and lighting. Lighting of work places Indoor work places.
+                      Equipo de control de lámparas ­ Parte 1: Requisitos generales y de seguridad. - Lamp
+    NTC-IEC 62504     controlgear ­ Part 1: General and safety requirements.
+                      Iluminación general. Productos de diodos emisores de luz (LED) y equipos relacionados.
+        IEC 62717     Términos y definición. - General lighting. Light-emitting diode (LED) products and related
+                      equipment. Terms and definition.
+     ISO CIE 22012    Módulos LED para iluminación general - Requisitos de desempeño. - LED modules for
+           RETIE      general lighting - Performance requirements.
+          RETIQ       Luz e iluminación - Determinación del factor de mantenimiento. - Light and lighting ­
+                      Maintenance factor determination.
+   UNE-EN 13201-5     Reglamento Técnico de Instalaciones Eléctricas
+                      Reglamento Técnico de Etiquetado
+         UL 1993      Iluminación de carreteras. Parte 5: Indicadores de prestaciones energéticas. Iluminación vial
+      ISO/IEC 2382    - Parte 5: Indicadores de rendimiento energético. - Road lighting. Part 5: Energy performance
+                      indicators. Road lighting - Part 5: Energy performance indicators.
+        CIE S 020     Lámparas autobalastadas y adaptadores de lámpara. - Self-Ballasted Lamps and Lamp
+        ISO 30061     Adapters.
+ Documento Básico     Tecnología de la información -- Vocabulario. - Information technology -- Vocabulary.
+    HE - Ahorro de    Iluminación de Emergencia. - Emergency Lighting.
+Energía, Sección HE3  Iluminación de Emergencia. - Emergency Lighting.
+      Biblioteca de
+  iluminación de IES  Anexo A Terminología. Ministerio de Fomento Secretaría de Estado de Infraestructuras,
+       NTC 6519-1     Transporte y Vivienda de España.
+
+       NTC 6519-2     Biblioteca de iluminación de IES (https://www.ies.org/standards/lighting-library/). - IES
+                      Lighting Library (https://www.ies.org/standards/lighting-library/)
+         UL 8750      Iluminación. Requisitos y aplicaciones de iluminación. Parte 1: Espacios interiores. -
+                      Lightning. Lighting requirements and applications. Part 1: Indoor spaces.
+        ISO 14644     Iluminación. Requisitos y aplicaciones de iluminaciones. Parte 2: Espacios exteriores. -
+                      Lightning. Lighting requirements and applications. Part 2: Outdoor spaces.
+                      Equipo de diodos emisores de luz (LED) para uso en productos de iluminación. - Light
+                      Emitting Diode (LED) Equipment for Use in Lighting Products.
+                      Salas limpias y entornos controlados asociados - Cleanrooms and associated controlled
+                      environments
+RESOLUCIÓN NÚMERO 40150 DE 03 MAY 2024 Hoja 6 de 23 ­ Libro 1
+
+  "Por la cual se modifica el Reglamento Técnico de Iluminación y Alumbrado Público - RETILAP"
+
+Adaptación: Proceso mediante el cual el estado del sistema visual es modificado por la
+exposición previa y presente a estímulos que pueden tener varios valores de luminancia,
+distribuciones espectrales y subtensos angulares. La adaptación a frecuencias espaciales
+específicas, orientaciones, tamaños, etc., se reconoce como incluida en esta definición.
+Aislamiento: Aislamiento de las partes vivas, destinado a asegurar la protección principal
+contra las descargas eléctricas. No comprende, necesariamente, el aislamiento utilizado
+exclusivamente para fines funcionales
+Altura de montaje: Distancia vertical desde un plano de referencia (por ejemplo, el suelo
+o el plano de trabajo), a una luminaria.
+Área de la tarea visual: Corresponde con la superficie donde se ubica y efectúa una tarea
+especifica. Para lugares de trabajo donde se desconoce el tamaño y/o la ubicación del área
+de la tarea visual, se considerará la extensión total del área o recinto para realizar los
+diseños. En instalaciones de sistemas de iluminación de emergencia esta área corresponde
+con tareas, trabajos o actividades potencialmente peligrosas.
+Área limpia: Área en la cual la concentración del número de partículas de aire es controlado
+y clasificado, diseñado, construido y operado, de manera que permita el control a la
+introducción, generación y retención de partículas dentro de la sala.
+Arreglo LED: Conjunto de diodos emisores de luz (LED), o matrices sobre una placa de
+circuito impreso o sustrato, puede incluir elementos ópticos e interfaces térmicas,
+mecánicas y eléctricas adicionales que están destinadas a conectarse al lado de carga de
+un controlador LED. La fuente de alimentación y la base estándar no están incorporadas en
+el conjunto de LED.
+Balasto electrónico: Dispositivos estabilizadores destinados a la alimentación de una o
+varias bombillas. También puede ser construido para reemplazar balastos
+electromagnéticos en sistemas de descarga.
+
+                                     Figura 1.2.1.1. a. Ejemplos de balastos electrónicos (Fuente propia).
+
+Bombilla: Fuente de luz eléctrica provista de al menos un casquillo o sistema de acople
+tipo socket o portabombilla. Para los productos con las mismas características que las
+bombillas eléctricas para la iluminación general, pero construidos para emitir radiación
+óptica, principalmente en el espectro IR o UV, se suele utilizar el término "bombilla IR" o
+"bombilla UV".
+Bombilla de conversión LED lineal tipo A: Destinada a la sustitución directa de una
+bombilla lineal fluorescente que opera desde el balasto integral sin modificaciones a la
+luminaria fluorescente.
+Bombilla de conversión LED lineal tipo B: Destinada al funcionamiento en luminarias
+con portalámparas tradicionales de tipo fluorescente conectados directamente al circuito
+derivado. Esto incluye tanto las luminarias con cableado de fábrica, como las convertidas
+para este propósito bajo un programa de modernización.
+RESOLUCIÓN NÚMERO 40150 DE 03 MAY 2024 Hoja 7 de 23 ­ Libro 1
+
+  "Por la cual se modifica el Reglamento Técnico de Iluminación y Alumbrado Público - RETILAP"
+
+Bombilla de conversión LED lineal tipo C: Destinada al funcionamiento en luminarias
+con portalámparas tradicionales de tipo fluorescente conectados a un driver LED integral.
+Esto incluye tanto las luminarias con cableado de fábrica, como las convertidas para este
+propósito bajo un programa de modernización.
+Bombilla de estado sólido decorativa: Toda fuente luminosa diseñada para brindar un
+atractivo visual, generar las condiciones para resaltar un objeto o espacio puntual, con
+propósitos distintos a los de proporcionar visibilidad a una tarea visual humana. Incluye
+bombillas vintage, bombillas RGB, RGBA, RGBW, bombillas inteligentes para uso
+decorativo, bombillas con panel solar integrado, entre otros que presenten características
+similares. Pueden estar provistas de elementos para su control y conexión a la fuente de
+alimentación. Se incluyen las bombillas decorativas provistas con conectores USB para
+alimentación y/o control.
+
+                         Figura 1.2.1.1. b. Ejemplos de bombillas de estado sólido decorativas (Fuente propia).
+
+Bombilla LED: Fuente de luz LED provista de base única o base doble, o sistemas que se
+acoplen a dispositivos tipo socket o portabombilla, o que incorpora uno o más módulos LED
+y posiblemente incluye uno o más componentes eléctricos, ópticos, mecánicos y térmicos,
+interfaces y equipos de control. Una bombilla LED puede ser integrada (bombilla LEDi),
+semi- integrada (bombilla LEDsi) o no integrada (Bombilla LEDni).
+Bombilla LED integrada (LEDi): Bombilla LED que incorpora el equipo de control y
+cualquier otro elemento adicional necesario para el funcionamiento estable de la fuente de
+luz, diseñada para la conexión directa a la tensión de alimentación.
+Bombilla LED no integrada (LEDni): Bombilla que necesita un equipo de control separado
+para su funcionamiento.
+Bombilla LED semi integrada (LEDsi): Bombilla LED que lleva la unidad de control del
+equipo de control y que funciona mediante una fuente de alimentación separada del equipo
+de control.
+Bx o Fx (Fracción de falla): Porcentaje x de un número de módulos LED del mismo tipo
+que en su vida nominal designa el porcentaje (fracción) de fallas. Esta fracción de falla
+expresa el efecto combinado de todos los componentes de un módulo, incluidos los
+RESOLUCIÓN NÚMERO 40150 DE 03 MAY 2024 Hoja 8 de 23 ­ Libro 1
+
+  "Por la cual se modifica el Reglamento Técnico de Iluminación y Alumbrado Público - RETILAP"
+
+mecánicos, en lo que respecta a la salida de luz. El efecto del LED podría ser menos
+luminoso de lo que se afirma o no tener luz en absoluto. Para los módulos LED,
+normalmente se aplica una fracción de falla del 10 % y/o 50 %, indicada como F10 y/o F50.
+Cable de alimentación (supply cord): Conductor eléctrico externo rígido o flexible (cable
+o cordón), que sirve para la energización de la luminaria y está fijado a la misma.
+Las luminarias pueden suministrarse con un cable de alimentación, o bien concebirse para
+ser utilizadas con un cable de alimentación, por ejemplo, mediante conexiones Tipo X o Y.
+Campo visual: Parte de una escena externa que se percibe cuando un observador mira en
+algún punto.
+Candela (cd): Unidad del Sistema Internacional (SI) de intensidad luminosa, igual a la
+intensidad luminosa en una dirección dada, de una fuente que emite radiación
+monocromática de frecuencia 540 × 1012 Hz y tiene una intensidad radiante en esa
+dirección de 1/683 W / sr.
+Certificación parcial: Proceso de certificación de una instalación de un sistema de
+iluminación o alumbrado público por partes, es decir, la instalación no fue certificada
+plenamente.
+Certificación plena: Proceso de certificación de una instalación de un sistema de
+iluminación o alumbrado público respecto del cumplimiento de los requisitos establecidos
+en el RETILAP, el cual consiste en la declaración de cumplimiento suscrita por la persona
+competente responsable del diseño de la instalación, la declaración de cumplimiento de la
+construcción de la instalación, acompañadas del dictamen de inspección.
+Chip sobre tarjeta de circuito: Este componente puede considerarse como un
+encapsulado LED o módulo LED cuando se usa como tal, comúnmente conocido como
+CoB, por sus siglas en inglés Chip on Board.
+Conjunto óptico: Conjunto de elementos necesarios para controlar y dirigir la luz producida
+por una o varias fuentes de luz o módulos LED (pueden incluir lentes, refractor y/o reflector).
+Contaminación lumínica: Conjunto de todos los efectos adversos de la luz artificial que
+influyen en la atmosfera y que generan disminución de la percepción visual astronómica.
+
+                                           Figura 1.2.1.1. c. Contaminación lumínica (Fuente propia).
+
+Declaración de conformidad del proveedor: Certificación emitida por la persona o la
+organización que suministra el producto, responsable en Colombia respecto a la
+conformidad de este con el Reglamento técnico.
+RESOLUCIÓN NÚMERO 40150 DE 03 MAY 2024 Hoja 9 de 23 ­ Libro 1
+
+  "Por la cual se modifica el Reglamento Técnico de Iluminación y Alumbrado Público - RETILAP"
+
+Declaración de cumplimiento: Documento público que es emitido bajo la gravedad de
+juramento en el que se asegura que la instalación cumple con todos los requisitos del
+presente Reglamento que le apliquen y que se constituye en documento fundamental del
+proceso de certificación, suscrita por los profesionales competentes responsables del
+diseño, construcción, operación y mantenimiento de instalaciones de sistemas de
+iluminación, quienes asumen la responsabilidad de los efectos de la instalación de
+iluminación.
+Densidad de flujo luminoso (en una superficie): Cociente entre el flujo luminoso por
+unidad de área de una superficie. No es necesario que sea una superficie física, también
+puede ser un plano matemático. Véase también iluminancia y exitancia luminosa.
+Depreciación luminosa de una fuente luminosa: Relación entre la salida de lúmenes de
+la bombilla después de un período prolongado de funcionamiento en condiciones de
+funcionamiento nominales y su salida de lúmenes inicial en las mismas condiciones de
+funcionamiento.
+
+Deslumbramiento: Sensación producida por luminancias dentro del campo visual que son
+suficientemente mayores que la luminancia a la que los ojos están adaptados para causar
+molestia, incomodidad o pérdida de rendimiento visual o de visibilidad. Existen dos tipos de
+deslumbramiento, molesto o discapacitante. La magnitud de la sensación del
+deslumbramiento depende de factores como el tamaño, la posición y la luminancia de la
+fuente, el número de fuentes y la luminancia a la que los ojos están adaptados.
+Diagrama polar: Gráfica en 2D que representa en coordenadas polares la distribución de
+las intensidades luminosas distribuidas en el espacio, en planos definidos por ángulos C.
+Generalmente se representan los planos C = 0° -180°, C = 90° -270° y para alumbrado
+público el plano que contenga la intensidad máxima. Las curvas de intensidad luminosa se
+expresan e indican ya sea en candelas (cd) o en candelas por 1000 lm (cd/klm).
+Difusor: Dispositivo utilizado para proteger el bloque conjunto óptico de una luminaria o
+fuente luminosa, también puede ser usado para redirigir o dispersar la luz.
+
+Dispositivo de protección contra sobretensiones transitorias: Componente electrónico
+diseñado para limitar las sobretensiones transitorias y conducir las corrientes de impulso,
+contiene al menos un elemento no lineal.
+Driver (Equipo de alimentación y/o control o Controlgear): Fuente de alimentación
+eléctrica o electrónica, o equipo de control LED (controlgear for LED module; LED
+controlgear). El cual se encuentra entre la alimentación eléctrica y uno o más módulos LED
+que sirve para la alimentación de estos dispositivos a su tensión o corriente nominal y que
+puede consistir en una o más partes separadas; puede incluir medios para la regulación de
+niveles de luz emitida, corrección del factor de potencia y la supresión de radio
+interferencias, además de otras funciones de control. El equipo puede consistir en una
+fuente de alimentación y en una unidad de control, o puede estar integrado total o
+parcialmente con el módulo o módulos LED.
+
+                          Figura 1.2.1.1. d. Ejemplos de Drivers para fuentes luminosas LED (Fuente propia).
+RESOLUCIÓN NÚMERO 40150 DE 03 MAY 2024 Hoja 10 de 23 ­ Libro 1
+
+  "Por la cual se modifica el Reglamento Técnico de Iluminación y Alumbrado Público - RETILAP"
+
+Eficacia luminosa: Relación entre el flujo luminoso total emitido por una fuente luminosa o
+luminaria y la potencia consumida por la misma. Se expresa en lúmenes/vatio (lm/W). El
+término eficacia luminosa se puede aplicar a un solo componente, múltiples componentes,
+o en conjunto con cualquier equipo de control eléctrico asociado. El usuario deberá indicar
+si el valor expresado se refiere a la fuente, o a una luminaria completamente ensamblada.
+
+Eficiencia de una luminaria: El flujo luminoso emitido por una luminaria, dividido por el
+flujo luminoso emitido por la(s) fuente(s). También conocida como relación de salida de luz
+(light output ratio, LOR).
+
+Encapsulado LED: Componente eléctrico simple que contiene uno o más chips LED,
+incluyendo eventualmente los elementos ópticos y las interfaces térmicas, mecánicas y
+eléctricas. El componente no incluye la unidad de control del equipo de control, no incluye
+el casquillo y no está conectado directamente a la tensión de alimentación. Un encapsulado
+LED es un componente discreto y forma parte del módulo LED o bombilla LED.
+
+Ensayo: Conjunto de pruebas y controles a los cuales se somete un bien para asegurarse
+que cumple normas y pueda desempeñar la función requerida.
+
+Ensayo de endurancia: Ensayo realizado para comprobar que el producto bajo prueba no
+deja de funcionar prematuramente bajo condiciones de calentamiento o enfriamiento
+sufridos durante los ciclos de servicio.
+
+Ensayo de rutina: También llamado individual, es un ensayo/prueba efectuada a los
+productos durante o después de la fabricación sin que se afecte negativamente el producto
+y que confirme que el desarrollo de la producción cumple con los requerimientos del diseño
+y de la norma técnica con la cual se desarrolla el producto.
+
+Ensayo tipo: También llamada de verificación, es un ensayo/prueba que se realiza sobre
+uno o más prototipos para demostrar la conformidad del diseño del producto y de los
+materiales contra los requisitos de una norma técnica. Estos ensayos pueden ser
+destructivos o no destructivos.
+
+Exitancia luminosa (M): La densidad de área del flujo luminoso que sale de una superficie
+en un punto. Anteriormente, emisión luminosa.
+
+Factor de depreciación del flujo luminoso (fLF): Expresa la depreciación del flujo
+luminoso a lo largo del tiempo debido al envejecimiento de la fuente luminosa o luminaria
+durante el funcionamiento normal (excluyendo factores externos). Se define como la
+relación entre el flujo luminoso depreciado (en un momento dado de su vida) y su flujo
+luminoso inicial.
+
+Factor de mantenimiento (FM): Coeficiente de la iluminancia producida por la instalación
+de iluminación tras el periodo de vida definido y la iluminancia producida por la instalación
+cuando está nueva.
+
+Factor de mantenimiento de la luminaria (fLM): Expresa la salida relativa de la luminaria
+debido a la suciedad depositada sobre las fuentes luminosas, componentes ópticos u otros
+componentes que influyen en el rendimiento de la luminaria.
+
+Factor de mantenimiento de la superficie (fSM): Se define como la relación entre la luz
+reflejada por las superficies de una habitación después de un cierto periodo de uso de la
+instalación de luz, y la luz reflejada cuando la instalación se considera convencionalmente
+nueva. La depreciación de la reflexión de la superficie se tendrá en cuenta mediante el
+factor de mantenimiento de la superficie. Para aplicaciones en interiores, se refiere a todas
+las superficies reflectantes relevantes, como paredes y techos. Este factor se basa en la
+distribución de la luminaria, la reflectancia de las superficies principales (techo / pared /
+suelo), la categoría de contaminación ambiental y el intervalo de renovación de la superficie.
+
+Factor de mantenimiento del flujo luminoso: Factor usado en el cálculo de la luminancia
+e iluminancia después de un período dado y en circunstancias establecidas. Tiene en
+cuenta la hermeticidad de la luminaria, la depreciación del flujo luminoso de la fuente
+RESOLUCIÓN NÚMERO 40150 DE 03 MAY 2024 Hoja 11 de 23 ­ Libro 1
+
+  "Por la cual se modifica el Reglamento Técnico de Iluminación y Alumbrado Público - RETILAP"
+
+luminosa, la clasificación de los niveles de contaminación del sitio y el período de operación
+(limpieza) de la luminaria.
+Factor de supervivencia (fS): Expresa la probabilidad de que la fuente luminosa y/o
+luminaria continúen funcionando en un momento dado. también es considerado como la
+fracción del número total de bombillas que continúan funcionando en un instante dado en
+condiciones definidas y la frecuencia de conmutación.
+Familia de productos: Conjunto de productos que pertenecen al mismo modelo, que son
+iguales en forma, cuyas características constructivas y de operación se ajustan
+simultáneamente a los parámetros y valores de agrupación técnicos y/o funcionales.
+Flujo Hemisférico Superior (FHS): Se define como el porcentaje de flujo de una luminaria
+o instalación que se emite por encima del plano horizontal, cuando la luminaria o luminarias
+están instaladas. Dicho plano corresponde al ángulo  = 90° en el sistema de representación
+(C, ). El flujo hemisférico se expresa como un porcentaje del flujo total emitido por la
+luminaria. Conocido también como Upward light ratio (ULR).
+Flujo luminoso (): Generación de radiación visible de una fuente luminosa por unidad de
+tiempo. Su unidad es el lumen (Im).
+Fotometría: Medición de cantidades asociadas con la luz. La fotometría puede ser visual
+cuando se usa el ojo para hacer una comparación, o física cuando las mediciones se hacen
+mediante receptores físicos.
+Fuente luminosa: Dispositivo que emite energía radiante capaz de excitar la retina y
+producir una sensación visual.
+Fuente luminosa integrada: Bombilla eléctrica (fuente luminosa) que no se puede
+desmontar sin sufrir daños permanentes, que puede incorporar equipo de control y todos
+los elementos adicionales necesarios para el arranque y funcionamiento estable de la
+fuente de luz, diseñada para conexión directa a la tensión de alimentación.
+
+                              Figura 1.2.1.1. e. Ejemplos de fuente luminosa integrada LED (Fuente propia).
+
+Fuente de alimentación: Dispositivo eléctrico o electrónico que, formando parte del
+equipo, permite controlar la corriente, la tensión o la potencia dentro de sus límites de
+diseño, pero que no incluye otra función de control de LED.
+RESOLUCIÓN NÚMERO 40150 DE 03 MAY 2024 Hoja 12 de 23 ­ Libro 1
+
+  "Por la cual se modifica el Reglamento Técnico de Iluminación y Alumbrado Público - RETILAP"
+
+Iluminación: Aplicación de luz a una escena, objetos o su entorno. Este término no debe
+ser utilizado para referirse a la densidad de flujo luminoso en una superficie.
+
+Iluminación de acento: Iluminación direccional para enfatizar un objeto en particular o para
+llamar la atención sobre un punto en el campo de visión.
+
+Iluminación de continuidad. Parte de la iluminación de emergencia prevista para permitir
+que las actividades normales continúen sustancialmente sin cambios.
+
+Iluminación de emergencia. Corresponde con la iluminación prevista para ser usada
+cuando falla el suministro de energía eléctrica de la iluminación general.
+
+Iluminación de evacuación. Parte de la iluminación de emergencia que ilumina las rutas
+de evacuación, las zonas que requieren iluminación (de seguridad) antipánico y las áreas
+de alto riesgo cuando falla la iluminación normal, así como la señalización de evacuación.
+
+Iluminación direccional: Iluminación en la que la luz en el plano de trabajo o en un objeto
+incide predominantemente desde una dirección particular.
+
+Iluminación diurna: Iluminación para la cual la luz diurna es la fuente de luz.
+
+Iluminación integradora: Iluminación que integra efectos visuales y no visuales y produce
+beneficios fisiológicos y/o psicológicos en los seres humanos. El término "iluminación
+integradora" implica cambios en niveles lumínicos y temperaturas de color correlacionadas
+del sistema de iluminación y se aplica únicamente a los seres humanos. No se incluye la
+iluminación principalmente con fines terapéuticos (fototerapia). Adicionalmente, el término
+"iluminación centrada en el ser humano" se utiliza con un significado similar.
+
+Iluminación localizada: Iluminación diseñada para iluminar el área definida
+funcionalmente con mayor iluminancia en ciertas posiciones específicas, por ejemplo,
+aquellas en las que se realiza el trabajo.
+
+Iluminancia (E): Densidad de área del flujo luminoso incidente en un punto de una
+superficie. La unidad de iluminancia es el lux (lx).
+
+Iluminancia cilíndrica (Ev,c;Ec): Valor medio de iluminancia en la superficie curva exterior
+de un cilindro muy pequeño (real o imaginario) que está orientado verticalmente en un punto
+en el espacio. La iluminancia cilíndrica a veces también se define como la media aritmética
+de la iluminancia vertical, Ev,v, en un punto. Se expresa en lux (lx = lm·m2).
+
+Iluminancia horizontal (Eh): Iluminancia en un plano horizontal, se expresa en lux (lx =
+lm·m2).
+
+Iluminancia vertical (Ev,v;Ev): Iluminancia en un plano vertical, se expresa en lux (lx =
+lm·m2).
+
+Iluminancia promedio inicial (Ei): Iluminancia promedio en una superficie específica
+cuando la instalación de iluminación es nueva.
+
+Iluminancia promedio mantenida (Em): Valor por debajo del cual no debe descender la
+iluminancia promedio en el área especificada. Es la iluminancia media (iluminancia
+promedio) sobre la superficie especificada en el momento en que se debe realizar el
+mantenimiento. La iluminancia promedio mantenida se expresa en lux (lx = lm·m2).
+
+Incremento de umbral (TI): Medida de deslumbramiento de discapacidad expresada como
+el aumento porcentual en el contraste requerido entre un objeto y su fondo para que el
+objeto se vea igualmente bien con una fuente de deslumbramiento presente. Valores altos
+de TI corresponden a un mayor deslumbramiento incapacitante.
+
+Índice de reproducción cromática (IRC): Corresponde a una medida del grado de cambio
+de color que experimentan los objetos cuando son iluminados por la fuente de luz, en
+comparación con el color de esos mismos objetos cuando son iluminados por una fuente
+de referencia de temperatura de color comparable. También conocido como CRI, por sus
+RESOLUCIÓN NÚMERO 40150 DE 03 MAY 2024 Hoja 13 de 23 ­ Libro 1
+
+  "Por la cual se modifica el Reglamento Técnico de Iluminación y Alumbrado Público - RETILAP"
+
+siglas en inglés Colour Rendering Index o también como índice de rendimiento de color
+(Ra).
+
+Intensidad luminosa (De una fuente puntual de luz en una dirección dada), l: Flujo
+luminoso por unidad de ángulo sólido en la dirección en cuestión. Por lo tanto, es el flujo
+luminoso sobre una pequeña superficie centrada y normal a esa dirección, dividido por el
+ángulo sólido (en estereorradianes) el cual es subtendido por la superficie en la fuente.
+
+Instalación de iluminación: Parte de un sistema de iluminación que comprende las
+luminarias y sus estructuras de soporte, instaladas en la ubicación o propiedad en cuestión.
+Se consideran como Instalaciones de sistemas de iluminación los circuitos eléctricos de
+alimentación, las fuentes luminosas, las luminarias y los dispositivos de control, soporte y
+fijación que se utilicen exclusivamente para la iluminación interior y exterior de bienes de
+uso público o privado, dentro de los límites y definiciones establecidos en el presente
+Reglamento.
+
+Led (Diodo Emisor de Luz): Dispositivo de estado sólido que incluye una unión p-n y que
+emite una radiación óptica incoherente bajo la acción de una corriente eléctrica. Expresión
+tomada de su nombre (Light Emitting Diode). La emisión de radiación puede estar en las
+regiones de longitud de onda ultravioleta, visible o infrarroja.
+
+Límite del Índice de deslumbramiento unificado, (UGRL): El valor máximo (límite)
+permitido del nivel de deslumbramiento producido por una instalación de iluminación, este
+valor es adimensional.
+
+Lumen (lm): Unidad de medida del flujo luminoso en el Sistema Internacional (SI).
+Radiométricamente, se determina a partir de la potencia radiante (ver flujo luminoso).
+Fotométricamente, es el flujo luminoso emitido dentro de una unidad de ángulo sólido (un
+estereorradián) por una fuente puntual que tiene una intensidad luminosa uniforme de una
+candela.
+
+Luminancia (L): En un punto de una superficie, en una dirección, se interpreta como la
+relación entre la intensidad luminosa en la dirección dada producida por un elemento de la
+superficie que rodea el punto, con el área de la proyección ortogonal del elemento de
+superficie sobre un plano perpendicular en la dirección dada. La unidad de luminancia es
+candela por metro cuadrado (cd/m2).
+
+Luminancia de velo (Para deslumbramiento discapacitante) (Lvelo): Luminancia que se
+superpone a la imagen de la retina y reduce el contraste por la luz parásita en el ojo, esta
+se expresa en candelas por metro cuadrado (cd/m2).
+
+Luminancia de velo equivalente (Para deslumbramiento discapacitante o reflejos de
+velo) (Lv): Luminancia que, cuando se suma por superposición a la luminancia tanto del
+fondo que se adapta como del objeto, hace que el umbral de luminancia o el umbral de
+diferencia de luminancia sea el mismo en las dos siguientes condiciones:
+
+    1) Deslumbramiento presente, pero sin luminancia adicional.
+    2) Presencia de luminancia adicional, pero sin deslumbramiento.
+La luminancia del velo equivalente se expresa en candelas por metro cuadrado (cd/m2).
+
+Luminaria: Aparato que distribuye, filtra o transforma la luz transmitida desde al menos una
+fuente de radiación óptica y que incluye, excepto las propias fuentes, todas las partes
+necesarias para la fijación y protección de las fuentes y, cuando es necesario, los circuitos
+auxiliares junto con los medios para conectarlos a la fuente de alimentación.
+RESOLUCIÓN NÚMERO 40150 DE 03 MAY 2024 Hoja 14 de 23 ­ Libro 1
+
+  "Por la cual se modifica el Reglamento Técnico de Iluminación y Alumbrado Público - RETILAP"
+
+                                            Figura 1.2.1.1. f. Ejemplos de luminarias (Fuente propia).
+
+Luminaria Clase 0: Luminaria en que la protección contra las descargas eléctricas recae
+sobre el aislamiento principal.
+Esto implica que no hay medios para la conexión de las partes conductoras accesibles, si
+las hay, a un conductor de protección que forme parte del cableado fijo de la instalación,
+descansando la protección, en caso de falla del aislamiento principal, sobre el medio
+circundante.
+Las luminarias Clase 0 pueden tener, un encerramiento de material aislante que constituya
+una parte o el conjunto del aislamiento principal o un encerramiento metálico separado de
+las partes vivas por al menos un aislamiento principal.
+Si una luminaria con encerramiento de material aislante permite la conexión de partes
+internas a tierra, la luminaria será de Clase I.
+Luminaria Clase I: Luminaria en la que la protección contra las descargas eléctricas no
+recae exclusivamente sobre el aislamiento principal, sino que tienen una medida de
+seguridad suplementaria bajo la forma de medios de conexión de las partes conductoras
+accesibles, a un conductor de protección puesto a tierra, formando parte del cableado fijo
+de la instalación, de tal manera que las partes conductoras accesibles no puedan llegar a
+ser peligrosas en caso de defecto del aislamiento principal.
+Para una luminaria destinada a utilizarse con un cable flexible o cordón, estos medios
+comprenden un conductor de protección formando parte del cable flexible.
+Las luminarias Clase I pueden tener partes con doble aislamiento o aislamiento reforzado.
+Las luminarias Clase I pueden tener partes en las que la protección contra las descargas
+eléctricas dependa del funcionamiento a Muy Baja Tensión de Seguridad (SELV, por sus
+siglas en inglés Safety Extra Low Voltage).
+Luminaria Clase II: Luminaria en que la protección contra las descargas eléctricas no recae
+únicamente sobre el aislamiento principal, sino que comprende medidas de seguridad
+suplementarias, tales como el doble aislamiento o el aislamiento reforzado y en las que no
+existen medios de puesta a tierra de protección o dependencia de las condiciones de la
+instalación.
+Luminaria Clase III: Luminaria en la que la protección contra las descargas eléctricas recae
+en la alimentación con muy baja tensión de seguridad (SELV) y en la que no se generan
+tensiones superiores a la muy baja tensión de seguridad.
+RESOLUCIÓN NÚMERO 40150 DE 03 MAY 2024 Hoja 15 de 23 ­ Libro 1
+
+  "Por la cual se modifica el Reglamento Técnico de Iluminación y Alumbrado Público - RETILAP"
+
+Luminaria Decorativa: Toda luminaria de uso fijo, móvil o portátil, exclusivamente
+diseñada para que en sí o por el flujo luminoso de su(s) fuente(s) luminosa(s) brinde un
+atractivo visual. Entre ellas se encuentran las lámparas de pie, luminarias móviles de mesa,
+luminarias tipo guirnalda, luces intermitentes, elementos de iluminación navideña en sus
+distintas formas y tipo manguera luminosa.
+Por otra parte, las luminarias decorativas incluyen las luminarias ornamentales,
+candelabros, apliques decorativos, luminarias decorativas de techo o pared, luminarias
+colgantes, las cuales pueden ser usadas en sistemas de iluminación general siempre y
+cuando sean de uso fijo, cuenten con curvas fotométricas y den cumplimiento con los
+niveles de iluminación y uniformidad establecidos en el presente Reglamento.
+Las luminarias decorativas pueden estar provistas de elementos para su control y conexión
+a la fuente de alimentación. Incluyen a los productos de iluminación decorativa provistos
+con conectores USB para alimentación y/o control.
+
+                                      Figura 1.2.1.1. g. Ejemplo de luminaria decorativa (Fuente propia).
+
+Luminaria LED: Luminaria que incorpora una o más fuentes de luz LED.
+
+                                         Figura 1.2.1.1. h. Ejemplos de luminarias LED (Fuente propia).
+RESOLUCIÓN NÚMERO 40150 DE 03 MAY 2024 Hoja 16 de 23 ­ Libro 1
+
+  "Por la cual se modifica el Reglamento Técnico de Iluminación y Alumbrado Público - RETILAP"
+
+Luminaria portátil: Luminaria que, en uso normal, se puede mover fácilmente de un lugar
+a otro, mientras está conectada a la fuente de alimentación.
+Se consideran como luminarias portátiles las luminarias para montaje en pared equipadas
+con un cable flexible, fijado de forma permanente para conexión a una clavija, luminarias
+fijadas a su soporte por medio de una tuerca de mariposa o de una pinza o de un gancho
+de manera que puedan ser fácilmente quitadas de su soporte con la mano.
+
+                                        Figura 1.2.1.1. i. Ejemplos de luminaria portátil (Fuente propia).
+
+Lux (lx): Unidad de medida de iluminancia en el Sistema Internacional (SI). Un lux es igual
+a un lumen por metro cuadrado (1 Ix = 1 Im/m2).
+Malla de cálculo: Distribución de puntos de cálculo, que se superpone sobre el área que
+se pretende iluminar, en la que se muestra la cantidad de luz que llega a determinada
+ubicación desde las luminarias seleccionadas en el diseño, que permite evaluar la
+distribución de la luz en un espacio determinado.
+Malla de medición: Malla de cálculo que se utiliza para ubicar puntos de medición en el
+espacio para evaluar la cantidad de iluminación real en el área de medición. Estos puntos
+de medición se ubican para medir los niveles de iluminación en el área diseñada.
+Modelo de un producto: Denominación dada a un equipo en consideración al
+cumplimiento de un conjunto de características funcionales y técnicas, las cuales definen
+una condición específica de prestación de servicio y desempeño. Tal denominación no
+incluye diferenciación por características estéticas del producto.
+Módulo LED: Fuente de luz LED que no tiene casquillo, que incorpora uno o más
+encapsulados LED en un circuito impreso y la posibilidad de incluir uno o más de los
+siguientes elementos: componentes eléctricos, ópticos, mecánicos y térmicos, interfaces y
+equipos de control. Un módulo LED puede ser integrado (módulo LEDi, tipo 1), semi
+integrado (módulo LEDsi, Tipo 2) o no integrado (módulo LEDni, Tipo 3). El módulo LED
+está normalmente diseñado para formar parte de una bombilla LED o una luminaria LED.
+RESOLUCIÓN NÚMERO 40150 DE 03 MAY 2024 Hoja 17 de 23 ­ Libro 1
+
+  "Por la cual se modifica el Reglamento Técnico de Iluminación y Alumbrado Público - RETILAP"
+
+                                Figura 1.2.1.1. j. Clasificación de módulos LED (Adaptada de "IEC 62717").
+
+                                          Figura 1.2.1.1. k. Ejemplos de módulos LED (Fuente propia).
+
+Módulo LED integrado (Módulo LEDi): Módulo LED que incorpora el dispositivo de control
+y cualquier otro elemento adicional necesario para el funcionamiento estable de la fuente
+de luz, diseñado para la conexión directa a la tensión de alimentación. Los módulos LEDi
+se designan como "Tipo 1".
+Módulo LED no integrado (Módulo LEDni): Módulo que necesita una circuitería de control
+o un equipo de control separado para su funcionamiento. Los módulos LEDni se designan
+como "Tipo 3". Se consideran como una matriz de LED, uno o más encapsulados LED en
+un circuito impreso o un substrato en una estructura geométrica. No se incluyen más
+elementos adicionales como componentes eléctricos, ópticos, mecánicos o térmicos.
+Módulo LED semi integrado (Módulo LEDsi): Módulo LED que lleva la unidad de control
+del equipo de control y que funciona mediante una fuente de alimentación separada del
+equipo de control. Los módulos LEDsi se designan como "Tipo 2".
+Módulo lineal flexible LED: Placa de circuito flexible con diodos emisores de luz (LED)
+montados en la superficie y cualquier otro elemento adicional necesario para el
+RESOLUCIÓN NÚMERO 40150 DE 03 MAY 2024 Hoja 18 de 23 ­ Libro 1
+
+  "Por la cual se modifica el Reglamento Técnico de Iluminación y Alumbrado Público - RETILAP"
+
+funcionamiento estable de la fuente de luz. Generalmente vienen con adhesivo en su
+respaldo y también son conocidos como cinta LED, ribbon light, LED tape o LED strip light.
+
+Oled (Diodo Emisor de Luz Orgánico): Diodo emisor de luz de película delgada
+compuesto de material a base de carbono en capas entre dos superficies de electrodos y
+que sirve como fuente de área difusa. Expresión dada del inglés (Organic Light Emitting
+Diode).
+
+Organismo de acreditación: Entidad que acredita los organismos de certificación e
+inspección y laboratorios de pruebas y ensayos que hagan parte del Subsistema Nacional
+de la Calidad.
+
+Pantallas VDT: Terminal de usuario con una pantalla de visualización, y generalmente
+equipado con una unidad de entrada como un teclado. También conocidas con los
+siguientes términos y abreviaturas estandarizados por ISO: terminal de visualización de
+video; Visual Display Terminal - VDT; terminal de visualización visual; unidad de
+presentación visual; VDU.
+
+Persona competente: Es la persona natural que ha adquirido conocimientos y habilidades
+y ha demostrado su formación a través de matrícula profesional vigente, que según la
+normatividad legal lo autorice o acredite para el ejercicio de la profesión.
+
+Plano de trabajo: Superficie de referencia definida como el plano en el que normalmente
+se realiza el trabajo.
+
+Potencia en modo de espera de la luminaria: Potencia eléctrica consumida por la
+luminaria durante el periodo en el que la fuente o fuentes de luz no están en funcionamiento,
+la cual se expresa en vatios (W). Para luminarias de iluminación de emergencia, no se
+incluye la potencia de carga nominal de iluminación de emergencia.
+
+Productor para Colombia: Quien de manera habitual, directa o indirectamente, produzca,
+fabrique, ensamble o importe productos. También se considera productor, quien produzca,
+fabrique, ensamble, o importe productos sujetos al Reglamento técnico.
+
+Proporción de falla, F: Proporción de la población que ha perdido la capacidad de realizar
+una determinada función en un intervalo de tiempo especificado. La proporción de falla es
+adimensional.
+
+Proyector: Unidad de iluminación que, por medio de espejos y/o lentes, concentra la luz
+en un ángulo sólido limitado, para obtener un alto valor de intensidad luminosa.
+
+Radiación visible: Radiación óptica capaz de causar una sensación visual directamente.
+No existen límites precisos para el rango espectral de la radiación visible, ya que dependen
+de la cantidad de flujo radiante que llega a la retina y la capacidad de respuesta del
+observador. El límite inferior se toma generalmente entre 360 nm y 400 nm y el límite
+superior entre 760 nm y 830 nm.
+
+Referencia de un producto: Identificación que se le da a un producto o servicio en razón
+a sus características o usos.
+
+Reflectancia de una superficie o medio: Relación entre el flujo reflejado y el flujo
+incidente. Se expresa en %.
+
+Reflector: Dispositivo que utiliza predominantemente la reflexión para alterar la distribución
+espacial de la radiación de una fuente. Además de la reflexión, un reflector también puede
+tener un ligero efecto de difusión y absorción.
+
+Reflexión: Término general para el proceso mediante el cual el flujo incidente deja una
+superficie (estacionaria) o medio desde el lado incidente sin cambios en la frecuencia. La
+reflexión suele ser una combinación de reflexión especular (regular) y reflexión difusa.
+RESOLUCIÓN NÚMERO 40150 DE 03 MAY 2024 Hoja 19 de 23 ­ Libro 1
+
+  "Por la cual se modifica el Reglamento Técnico de Iluminación y Alumbrado Público - RETILAP"
+
+Reflexión difusa: Proceso por el cual el flujo incidente es redirigido sobre un rango de
+ángulos.
+
+Reflexión especular (regular): Proceso mediante el cual el flujo incidente es redirigido en
+el ángulo especular. También llamada reflexión regular.
+
+Refracción: Proceso mediante el cual la dirección de un rayo de luz cambia cuando pasa
+oblicuamente de un medio a otro en el que su velocidad es diferente.
+
+Refractor: Dispositivo utilizado para redirigir el flujo luminoso de una fuente, principalmente
+por el proceso de refracción.
+
+Rendimiento visual: Es el término usado para describir la velocidad con la que funciona el
+ojo, así como la precisión con la cual se puede llevar a cabo una tarea visual. El valor del
+rendimiento visual para la percepción de un objeto se incrementa hasta cierto nivel al
+incrementar la iluminancia o la luminancia del local. Otros factores que influyen sobre el
+rendimiento visual son el tamaño de la tarea visual y su distancia al observador, así como
+los contrastes de color y luminancia.
+
+Resistencia térmica de un módulo LED, R: Cociente de la diferencia de temperatura
+termodinámica por el flujo térmico correspondiente desde el módulo LED al disipador
+térmico y se expresa en K.W-1 Los puntos de medida deberían situarse en la unión, en la
+tarjeta o en el ambiente, siendo la localización de cada uno de ellos determinada por el
+fabricante o vendedor responsable.
+
+Ruta de evacuación: Camino especificado para evacuar un recinto o lugar en el evento de
+una emergencia.
+
+Salida de emergencia: Umbral que define un espacio interior de uno exterior, y que está
+destinado únicamente para evacuar un recinto en el caso de una emergencia.
+
+Señalización de evacuación: Señal que da un mensaje de seguridad general, obtenido
+por la combinación de colores y formas geométricas y que, mediante la adición de un
+símbolo gráfico, da un mensaje de seguridad particular.
+
+Tarea visual: Elementos visuales del trabajo/actividad que se está realizando. Considerada
+como la actividad que realiza el ojo humano en conjunto con otras tareas manuales, físicas
+o mentales, requiriéndose para su adecuado desarrollo unos determinados niveles de
+iluminación, contraste, uniformidad y deslumbramiento. Los principales elementos visuales
+son el tamaño de la estructura, su luminancia, su contraste con el fondo, su color y su
+duración.
+
+Temperatura ambiente de funcionamiento (Ta): es el valor máximo o rango adecuado
+de temperatura ambiente bajo el cual equipo de iluminación fue diseñado para su correcto
+funcionamiento, se expresa en grados centígrados (°C).
+
+Temperatura de color (De una fuente luminosa): Temperatura absoluta de un cuerpo
+negro que al ser calentado a una determinada temperatura adquiere una cromaticidad igual
+a la que tiene la fuente luminosa. Se mide en Kelvin (K).
+
+Temperatura de funcionamiento (Tp): Temperatura relacionada con el funcionamiento
+del módulo LED, se expresa en grados Celsius (°C) y se mide en un punto tp dado.
+
+Temperatura de unión o juntura (Tj): Temperatura en la unión p-n, expresada en la escala
+Celsius o de grados centígrados (°C).
+
+Temperatura superficial del cuerpo (Tc): es la temperatura que puede poseer la carcasa
+o cuerpo de una luminaria, modulo led o fuente de alimentación eléctrica o electrónica.
+
+Temperatura máxima nominal de funcionamiento (Tp,nn): Temperatura más elevada
+en el punto Tp relacionada con el funcionamiento del módulo LED, declarada por el
+RESOLUCIÓN NÚMERO 40150 DE 03 MAY 2024 Hoja 20 de 23 ­ Libro 1
+
+  "Por la cual se modifica el Reglamento Técnico de Iluminación y Alumbrado Público - RETILAP"
+
+fabricante o vendedor responsable, expresada en la escala Celsius o de grados centígrados
+(°C). La localización de Tp y Tc puede ser diferente. Para un funcionamiento dado, la
+temperatura Tp,nn es un valor fijo, no variable, en el que nn, el número en el subíndice,
+indica la vida declarada correspondiente, en kilohoras , por ejemplo, Tp,60, donde nn = 60,
+representa una vida declarada de 60 000 h. Puede haber más de una temperatura Tp,nn,
+dependiendo de la vida especificada.
+
+Temperatura nominal máxima (Del conjunto eléctrico de luminaria): Temperatura
+máxima permisible que puede ocurrir en la superficie externa (en un punto determinado, si
+está marcado) bajo condiciones normales de operación a la tensión nominal o la tensión
+máxima del rango nominal de tensión.
+
+Tensión nominal de alimentación: Valor de la tensión eléctrica de alimentación
+especificado por el fabricante y según el cual se determinan las condiciones de aislamiento
+y de funcionamiento de un equipo. Se expresa como un valor numérico, cuya unidad de
+medida es el voltio (V).
+
+Tiempo de estabilización: Tiempo requerido por la fuente de luz LED o por la luminaria
+LED para obtener una emisión de flujo luminoso y consumo de potencia eléctrica estables
+con una entrada eléctrica constante.
+
+Transmisión (De la luz): Término general usado para referirse al proceso mediante el cual
+el flujo incidente deja una superficie o un medio por un lado diferente al del lado incidente,
+sin experimentar cambio de frecuencia. La transmisión a través de un medio suele ser una
+combinación de transmisión regular y transmisión difusa.
+
+Transmisión difusa: Proceso por el cual el flujo incidente que pasa a través de una
+superficie o medio se dispersa.
+
+Uniformidad de iluminancia: Relación entre la iluminancia mínima y la iluminancia media
+de una superficie calculada/medida.
+
+Uniformidad de luminancia: Relación entre la luminancia mínima y la luminancia media
+de una superficie calculada/medida.
+
+Uniformidad longitudinal de la luminancia de la superficie de la carretera (UL):
+Relación entre la luminancia mínima y la luminancia máxima en la dirección longitudinal a
+lo largo de la línea central de cada carril. La uniformidad longitudinal de la luminancia de la
+superficie de la carretera tiene unidad uno.
+
+Uniformidad general de la luminancia de la superficie de la carretera: Relación entre
+la luminancia mínima en un punto y la luminancia media de la superficie de la carretera en
+un área de evaluación. Cuando el valor de luminancia se refiere únicamente a la parte de
+la calzada de la carretera, puede denominarse "luminancia de la calzada". La uniformidad
+general de la luminancia de la superficie de la carretera tiene unidad uno.
+
+Vida útil: Es el periodo de tiempo que se espera tener en servicio el activo en condiciones
+garantizadas por el fabricante o proveedor.
+
+Visión fotópica: Estado operativo del sistema visual que se produce a luminancias
+superiores a aproximadamente 10 cd/m2. Para estas luminancias, la respuesta visual está
+dominada por los fotorreceptores de cono y se pueden percibir los colores.
+
+Visión mesópica: Este estado operativo del sistema visual es intermedio entre los estados
+fotópico y escotópico. En el estado mesópico, tanto los conos como los bastones están
+activos. El rango de luminancias se encuentra aproximadamente entre 0,001 cd/m2 y 10
+cd/m2.
+
+        1.2.1.2. Relativas al servicio público
+
+Las definiciones relativas al servicio público son las establecidas en el artículo 2.2.3.1.2 del
+Decreto Único Reglamentario del Sector Administrativo de Minas y Energía, 1073 de 2015,
+RESOLUCIÓN NÚMERO 40150 DE 03 MAY 2024 Hoja 21 de 23 ­ Libro 1
+
+  "Por la cual se modifica el Reglamento Técnico de Iluminación y Alumbrado Público - RETILAP"
+
+modificado por el artículo 1° del Decreto 943 del 30 de mayo de 2018 "Por el cual se
+modifica y adiciona la Sección 1, Capítulo 6 del Título III del Libro 2 del Decreto Único
+Reglamentario del Sector Administrativo de Minas y Energía, 1073 de 2015, relacionado
+con la prestación del servicio de alumbrado público"
+
+En caso de que se modifiquen las definiciones asociadas al servicio de alumbrado público
+dadas en la norma, se deberá remitir al contenido del documento que la modifique, aclare,
+o sustituya.
+
+        1.2.1.3. Relativas a tránsito
+
+Las definiciones relativas a tránsito corresponden a las establecidas en:
+
+    1) La Ley 769 del 6 de julio de 2002 "por la cual se expide el Código Nacional de
+         Tránsito Terrestre y se dictan otras disposiciones", junto con sus modificaciones,
+         aclaraciones o sustituciones posteriores.
+
+Se deberá remitir al contenido de las Leyes o Decretos que los modifiquen, aclaren o
+sustituyan, las anteriores disposiciones normativas.
+
+        1.2.1.4. Relativas al espacio público y planes de ordenamiento
+
+Las definiciones relativas al espacio público son las establecidas en:
+
+    1) Ley 9 del 11 de enero de 1989, Reforma Urbana, junto con sus modificaciones,
+         aclaraciones o sustituciones posteriores.
+
+Aquellas relacionadas con los planes de ordenamiento territorial son las establecidas en:
+
+    1) Ley 388 de 1997 "Por la cual se modifica la Ley 9 de 1989, y la Ley 2 de 1991 y se
+         dictan otras disposiciones", junto con sus modificaciones, aclaraciones o
+         sustituciones posteriores.
+
+Se deberá remitir al contenido de las Leyes o Decretos que los modifiquen, aclaren o
+sustituyan, las anteriores disposiciones normativas.
+
+        1.2.1.5. Relativas al Estatuto del Consumidor y al Subsistema Nacional
+        de la Calidad
+
+Las definiciones relativas al Estatuto del Consumidor y al Subsistema Nacional de la
+Calidad son las establecidas en:
+
+    1) Ley 1480 del 12 de octubre de 2011 "por medio de la cual se expide el Estatuto del
+         Consumidor y se dictan otras disposiciones.", junto con sus modificaciones,
+         aclaraciones o sustituciones posteriores.
+
+    2) Decreto 1074 de 2015 "Por medio del cual se expide el Decreto Único Reglamentario
+         del Sector Comercio, Industria y Turismo", modificado por el Decreto 1595 de 2015
+         "por el cual se dictan normas relativas al Subsistema Nacional de la Calidad y se
+         modifica el Capítulo VII y la Sección 1 del Capítulo VIII del Título I de la Parte 2 del
+         Libro 2 del Decreto Único Reglamentario del Sector Comercio, Industria y Turismo,
+         Decreto número 1074 de 2015, y se dictan otras disposiciones."
+
+Se deberá remitir al contenido de las Leyes o Decretos que los modifiquen, aclaren o
+sustituyan, las anteriores disposiciones normativas.
+
+Artículo 1.2.2. Abreviaturas
+
+A continuación, se relacionan las abreviaturas empleadas en el Reglamento:
+RESOLUCIÓN NÚMERO 40150 DE 03 MAY 2024 Hoja 22 de 23 ­ Libro 1
+
+  "Por la cual se modifica el Reglamento Técnico de Iluminación y Alumbrado Público - RETILAP"
+
+ABREVIATURA                Tabla 1.2.2. a. Abreviaturas.
+
+         Uo                                   SIGNIFICADO
+          L
+       Lprom   Uniformidad de iluminancia
+         Q     Luminancia
+         Dp    Luminancia promedio
+         DE    Energía radiante
+       VEEI    Indicador de densidad de potencia (PDI)
+          E    Indicador de consumo anual de energía (AECI)
+               Valor de eficiencia energética de la instalación
+         i     Iluminancia
+        m      Iluminancia promedio
+    m,pared    Iluminancia inicial
+    m,techo    Iluminancia mantenida
+       m,z     Iluminancia en paredes
+         z     Iluminancia en techos
+         Fm    Iluminancia cilíndrica media mantenida
+        TCP    Iluminancia cilíndrica promedio
+       UGR     Factor de mantenimiento
+       UGRL    Temperatura de color correlacionada
+          lx   Índice de deslumbramiento unificado (Unified Glare Rating)
+          n    Valor límite del índice de deslumbramiento unificado
+          P    Lux
+         R     Eficacia luminosa
+         i     Reflectancia de una superficie
+          C    Flujo luminoso reflejado
+          q    Flujo luminoso incidente
+         Eh    Contraste
+          r    Coeficiente de luminancia
+         Qo    Iluminancia horizontal en el punto p.
+     M1...M6   Coeficiente reducido de luminancia
+          v    Coeficiente promedio de luminancia
+          T    Clases de Iluminación para vías vehiculares
+         S1    Velocidad de circulación
+         S2    Tránsito de vehículos
+         Kp    Factor especular 1
+         qp    Factor especular 2
+     R1...R4   Factor especular
+        T.I.   Factor de luminancia para incidencia vertical
+         Lv    Clases de superficie
+        Lvelo  Incremento de umbral
+         UL    Luminancia de velo equivalente
+         lm    Luminancia de velo
+               Factor de uniformidad longitudinal de luminancia
+    CRI o Ra   Lumen
+       AOM     Longitud de onda
+               Índice de reproducción cromática
+               Administración, operación y mantenimiento
+RESOLUCIÓN NÚMERO 40150 DE 03 MAY 2024 Hoja 23 de 23 ­ Libro 1
+
+  "Por la cual se modifica el Reglamento Técnico de Iluminación y Alumbrado Público - RETILAP"
+
+Artículo 1.2.3. Acrónimos y siglas
+
+Para efectos del presente Reglamento y una mayor información, se presenta un listado de
+los acrónimos y siglas comúnmente relacionadas con el sector de iluminación; unas
+corresponden a los principales organismos de normalización, otras son de instituciones o
+asociaciones nacionales e internacionales.
+
+                Tabla 1.2.3. a. Acrónimos y siglas usadas en el Reglamento.
+
+      ÁMBITO       SIGLA         ORGANISMO DE NORMALIZACIÓN / INSTITUCIÓN /               NORMA
+                ACRÓNIMO              ASOCIACION NACIONAL E INTERNACIONAL
+INTERNACIONAL                                                                                CIE
+      E.E.U.U.       CIE   Commission Internationale de l'Eclairage                    IESNA o IES
+      ESPAÑA       IESNA   Illuminating Engineering Society of North America
+     E.E. U.U.    AENOR    Asociación Española de Normalización y Certificación              UNE
+     EUROPA         ANSI   American National Standards Institute                            ANSI
+      E.E.U.U.   CENELEC   Comitè Europèen de Normatization Electro- technique                EN
+      E.E.U.U.      ASTM   American Standard for Testing and Materials                      ASTM
+                   NEMA    National Electrical Manufacturers Association                   NEMA
+    COLOMBIA     ICONTEC   Instituto Colombiano de Normas Técnicas y Certificación           NTC
+INTERNACIONAL              International Electrotechnical Comisión                           IEC
+                     IEC   Institute of Electrical and Electronics Engineers             IEEE STD
+      E.E.U.U.      IEEE   Instituto Argentino de Normalización y Certificación             IRAM
+   ARGENTINA        IRAM   Asociación Argentina de Luminotecnia                        IRAM - AADL
+   ARGENTINA        AADL   International Organization for Standardization                    ISO
+INTERNACIONAL        ISO   Deutsches Institut fur Normung                                    VDE
+    ALEMANIA         DIN   Dirección General de Normas                                      NOM
+                           Asociación de Normalización y Certificación                       NMX
+      MÉXICO           --  Asociación Brasilera de Normas Técnicas                           NBR
+      MÉXICO        ANCE   Comisión Panamericana de Normas Técnicas.
+      BRASIL        ABNT   Organismo Nacional de Acreditación de Colombia                      --
+PANAMERICANO      COPANT   Cooperación Inter Americana de Acreditación                         --
+    COLOMBIA       ONAC    Foro Internacional de Acreditación                                  --
+INTERNACIONAL       IAAC   Organización Internacional para Organismos de Acreditación          --
+INTERNACIONAL                                                                                  --
+INTERNACIONAL        IAF
+                    ILAC
+

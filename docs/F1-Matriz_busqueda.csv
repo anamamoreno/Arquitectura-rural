@@ -1,0 +1,90 @@
+ID_busqueda,Clima_TdR,Subtipo_Köppen,Categoria,Subsistema,Nombre,Familia,Eje,Prioridad,Estado,N_fuentes,Fuentes_clave_M1,Observaciones
+BS-001,calido_humedo,Af,sistema,S2,Palafito madera,madera-guadua,E1,alta,pendiente,,,Pacífico chocoano; elevación >1.5m
+BS-002,calido_humedo,Am,sistema,S2,Bahareque encementado,tierra,E1,alta,pendiente,,,Caribe húmedo; NSR-10 Título E
+BS-003,calido_humedo,Af,sistema,S2,Guadua rolliza estructural,madera-guadua,E1,alta,pendiente,,,Eje cafetero + Pacífico
+BS-004,calido_humedo,Am,sistema,S3,Esterilla de guadua,madera-guadua,E1,media,pendiente,,,Cerramiento liviano ventilado
+BS-005,calido_humedo,Am,sistema,S2,Mampostería confinada ventilada,mamposteria,E1,media,pendiente,,,Con pared de protección solar SR
+BS-006,calido_humedo,Af,sistema,S2,Palafito amazónico,madera-guadua,E1,media,pendiente,,,Vivienda rural indígena
+BS-007,calido_seco,Aw,sistema,S2,Tapia pisada,tierra,E1,alta,pendiente,,,Valles interandinos secos
+BS-008,calido_seco,Aw,sistema,S2,Adobe,tierra,E1,alta,pendiente,,,Altiplanos áridos
+BS-009,calido_seco,BSh,sistema,S2,BTC - bloque tierra comprimida,tierra,E1,alta,pendiente,,,Tatacoa, Villa de Leyva
+BS-010,calido_seco,BSh,sistema,S2,Mampostería con masa térmica,mamposteria,E1,media,pendiente,,,Muros >20cm
+BS-011,calido_seco,BWh,sistema,S2,Yotojoro wayúu,vernaculo,E1,alta,pendiente,,,Alta Guajira - vacío normativo
+BS-012,calido_seco,Aw,sistema,S2,Bahareque encementado Llanos,tierra,E1,media,pendiente,,,Orinoquía
+BS-013,templado,Cfb,sistema,S2,Bahareque encementado eje cafetero,tierra,E1,alta,pendiente,,,Patrimonio PCC UNESCO
+BS-014,templado,Cfb,sistema,S2,Tapia pisada andina,tierra,E1,alta,pendiente,,,Boyacá, Nariño
+BS-015,templado,Cfb,sistema,S2,Adobe,tierra,E1,media,pendiente,,,
+BS-016,templado,Cfb,sistema,S2,Mampostería confinada,mamposteria,E1,alta,pendiente,,,Sistema dominante VIS rural
+BS-017,templado,Cfb,sistema,S2,Guadua rolliza,madera-guadua,E1,media,pendiente,,,
+BS-018,frio,Cwb,sistema,S2,Tapia pisada altiplano,tierra,E1,alta,pendiente,,,Cundiboyacense
+BS-019,frio,Cwb,sistema,S2,Adobe con aislamiento,tierra,E1,alta,pendiente,,,Nariño
+BS-020,frio,Cwb,sistema,S2,Mampostería confinada con aislamiento térmico,mamposteria,E1,alta,pendiente,,,
+BS-021,frio,Cwb,sistema,S2,Quincha,tierra,E1,media,pendiente,,,Sur andino
+BS-022,frio,ET,sistema,S2,Vivienda altoandina páramo,vernaculo,E1,alta,pendiente,,,Sumapaz - vacío normativo; literatura andina PE/BO/EC
+BS-023,calido_humedo,,material,S1,Pilotes de madera inmunizada,madera-guadua,E4,alta,pendiente,,,Anti humedad permanente
+BS-024,calido_humedo,,material,S4,Teja de polialuminio reciclado,reciclado,E4,media,pendiente,,,Tetra Pak
+BS-025,calido_humedo,,material,S4,Palma amarga / iraca / real,vernaculo,E4,media,pendiente,,,Cubierta vernácula
+BS-026,calido_seco,,material,S2,Tierra cruda estabilizada,tierra,E4,alta,pendiente,,,6-10% cemento o cal
+BS-027,calido_seco,,material,S4,Teja de barro cocido,ceramica,E4,media,pendiente,,,Producción local
+BS-028,templado,,material,S2,Guadua Kunth,madera-guadua,E4,alta,pendiente,,,NTC 5301
+BS-029,templado,,material,S2,Madera aserrada certificada,madera-guadua,E4,alta,pendiente,,,FSC
+BS-030,templado,,material,S3,Bloque de concreto,mamposteria,E4,media,pendiente,,,GWP moderado
+BS-031,frio,,material,S6,Aislante paja comprimida,vernaculo,E4,alta,pendiente,,,Alternativa natural
+BS-032,frio,,material,S6,Aislante lana de oveja,vernaculo,E4,media,pendiente,,,Disponibilidad altoandina
+BS-033,todos,,material,S2,Ladrillo ecológico PET,reciclado,E4,media,pendiente,,,Innovación CO
+BS-034,todos,,material,S3,Vidrio común (referencia base),otro,E4,baja,pendiente,,,Para comparar con vidrio control solar
+BS-035,todos,,material,S6,Pintura bajo VOC,otro,E4,media,pendiente,,,Ver Cartilla Uniandes-CCCS
+BS-036,calido_humedo,,complemento,S4,Alero perimetral amplio,-,E1,alta,pendiente,,,>80cm voladizo
+BS-037,calido_humedo,,complemento,S4,Cubierta SRI alto,-,E1,alta,pendiente,,,Anexo 1 MP-10
+BS-038,calido_humedo,,complemento,S3,Ventilación cruzada diseñada,-,E1,alta,pendiente,,,Anexo 1 MP-13
+BS-039,calido_humedo,,complemento,S4,Ventilación por efecto chimenea,-,E1,alta,pendiente,,,
+BS-040,calido_humedo,,complemento,S3,Vidrio de control solar SHGC,-,E1,media,pendiente,,,Anexo 1 MP-07
+BS-041,calido_seco,,complemento,S4,Alero + protección solar combinada,-,E1,alta,pendiente,,,Anexo 1 MP-05
+BS-042,calido_seco,,complemento,S3,Masa térmica muros gruesos,-,E1,alta,pendiente,,,Anexo 1 MP-14
+BS-043,calido_seco,,complemento,S3 S4,Night flush,-,E1,alta,pendiente,,,Anexo 1 MP-15
+BS-044,calido_seco,BSh BWh,complemento,S5,Captación pluvial + jagüey,-,E3,alta,pendiente,,,Anexo 1 MW-06 prioritario
+BS-045,calido_seco,BWh,complemento,S5,Atrapanieblas,-,E3,media,pendiente,,,Páramo y Guajira alta
+BS-046,templado,,complemento,S3,Protección solar horizontal,-,E1,alta,pendiente,,,Anexo 1 MP-03
+BS-047,templado,,complemento,S3,Protección solar vertical,-,E1,media,pendiente,,,Anexo 1 MP-04
+BS-048,templado,,complemento,S4,Cubierta verde,-,E1,media,pendiente,,,Anexo 1 MP-01
+BS-049,frio,,complemento,S4,Aislamiento térmico de cubierta,-,E1,alta,pendiente,,,Anexo 1 MP-09
+BS-050,frio,,complemento,S2 S3,Aislamiento térmico de pared,-,E1,alta,pendiente,,,Anexo 1 MP-11
+BS-051,frio,,complemento,S3,Vidrio de aislamiento térmico U,-,E1,alta,pendiente,,,Anexo 1 MP-06
+BS-052,frio,,complemento,S2,Orientación solar y ganancia pasiva,-,E1,alta,pendiente,,,Anexo 1 MP (diseño)
+BS-053,todos,,complemento,S5,Iluminación LED >90 lm/W,-,E2,alta,pendiente,,,Anexo 1 MA-02 obligatoria
+BS-054,todos,,complemento,S5,Panel solar fotovoltaico aislado,-,E2,alta,pendiente,,,ZNI rural
+BS-055,frio templado,,complemento,S5,Calentador solar de agua,-,E2,alta,pendiente,,,Anexo 1 MA-12
+BS-056,frio,,complemento,S5,Estufa eficiente / cocina mejorada,-,E2,alta,pendiente,,,Biomasa + reducción PM2.5
+BS-057,calido_seco,,complemento,S5,Enfriamiento evaporativo,-,E2,media,pendiente,,,Anexo 1 MA-13
+BS-058,todos,,complemento,S5,Biodigestor doméstico,-,E2,media,pendiente,,,Con producción animal
+BS-059,todos,,complemento,S5,Captación aguas lluvias (base),-,E3,alta,pendiente,,,Anexo 1 MW-06
+BS-060,todos,,complemento,S5,Tratamiento aguas grises (humedal artificial),-,E3,media,pendiente,,,Anexo 1 MW-05
+BS-061,todos,,complemento,S5,Pozo séptico / biodigestor sanitario,-,E3,alta,pendiente,,,Sin red
+BS-062,todos,,complemento,S5,Inodoro de bajo consumo,-,E3,alta,pendiente,,,Anexo 1 MW-04
+BS-063,todos,,complemento,S5,Ducha y lavamanos de bajo consumo,-,E3,alta,pendiente,,,Anexo 1 MW-01 MW-02
+BS-064,calido_seco,,complemento,Exterior,Paisajismo nativo eficiente en agua,-,E3,media,pendiente,,,Anexo 1 MW-07
+BS-065,todos,,metodologia,-,Análisis del sitio,-,transversal,media,pendiente,,,TdR P2
+BS-066,todos,,metodologia,-,Análisis higrométrico de materiales,-,transversal,media,pendiente,,,Literatura escasa ES
+BS-067,todos,,metodologia,-,Simulación energética (EnergyPlus/DesignBuilder),-,transversal,baja,pendiente,,,
+BS-068,todos,,metodologia,-,Monitoreo post-ocupación (POE),-,transversal,baja,pendiente,,,
+BS-069,todos,,metodologia,-,Factor de luz día / autonomía lumínica,-,transversal,baja,pendiente,,,
+BS-070,calido_seco,BWh,complemento,S4,Sobrecubierta tejida de yotojoro sobre zinc,vernaculo,E1,alta,pendiente,,,Reducción térmica hasta 80% según fuente del líder; caso wayúu Guajira
+BS-071,todos,,complemento,S3,Espacios de transición (corredor; terraza; patio interior),-,E1,media,pendiente,,,Regulación térmica pasiva por tipología arquitectónica
+BS-072,todos,,complemento,S4,Cubierta inclinada con pendiente >25%,-,E1,media,pendiente,,,Facilita evacuación pluvial + recolección + efecto chimenea
+BS-073,todos,,complemento,S3 S4,Iluminación natural por diseño (ventanas; clarabollas; patios),-,E1 E2,alta,pendiente,,,Reduce dependencia de iluminación artificial
+BS-074,calido_seco frio,BWh,complemento,S5,Microturbina eólica doméstica,-,E2,media,pendiente,,,ZNI Guajira y altoandino con vientos sostenidos
+BS-075,frio templado,,material,S1 S2,Piedra local (mampostería en piedra),mamposteria,E4,media,pendiente,,,Altiplanos con canteras locales; sobrecimientos vernáculos
+BS-076,calido_seco calido_humedo,,complemento,S5,Aljibe tradicional de almacenamiento,-,E3,media,pendiente,,,Almacenamiento subterráneo; Caribe y Santanderes
+BS-077,todos,,metodologia,todos,Verificación de cumplimiento NSR-10,-,transversal,alta,pendiente,,,Estándar innegociable; Título E mampostería; Título G madera; Título H guadua experimental
+BS-078,todos,,material,S2 S3,Energía embebida en materiales estructurales y envolvente,-,E4,alta,pendiente,,,Res. 0534 A-E-1; ACV; ISO 14044; Demanda Primaria de Energía
+BS-079,todos,,complemento,S2 S3 S4,Circularidad y gestión de RCD,-,E4,alta,pendiente,,,Res. 0534 A-R-1 a A-R-6; reincorporación a ciclo biológico o tecnológico; diseño modular
+BS-080,todos,,material,S2 S4,Madera responsable y prevención deforestación,madera-guadua,E4,alta,pendiente,,,Res. 0534 A-FL-1 y A-FL-2; FSC; PEFC; Salvoconducto SUNL; LOF
+BS-081,todos,,complemento,S3,Confort acústico (diseño + control ruido),-,E1,media,pendiente,,,Res. 0534 S-CA-1; máximo 40 dBA ruido de fondo; tratamiento acústico si >60 dBA
+BS-082,todos,,complemento,S3,Calidad del aire interior (renovación + extracción),-,E1,media,pendiente,,,Res. 0534 S-A-1; ASHRAE 62.1/62.2-2022; sensores CO/CO2; ventilación natural
+BS-083,todos,,material,S6,Materiales no tóxicos (HPD; VOC; REACH),-,E4,alta,pendiente,,,Res. 0534 S-H-1; pinturas; recubrimientos; adhesivos; pisos; aislamientos; Cradle to Cradle; GreenGuard
+BS-084,todos,,complemento,S5,FNCE y autogeneración renovable (solar; eólica; biomasa),-,E2,alta,pendiente,,,Res. 0534 A-EM-8; mínimo 1% energía total; CEELA C14; incluye microeólica y biogás
+BS-085,todos,,complemento,S5,Estufas eficientes y reducción de humo (impacto salud mujeres),-,E2,alta,pendiente,,,Ley 2462/2025 Fin 3 (reducir carga doméstica) + Fin 8 (transición energética); PM2.5; cocinas a leña; exposición diferencial 3-5h/día
+BS-086,todos,,estrategia,S3,Diseño de espacios productivos domésticos (cocina amplia; patio secado; zona procesamiento),-,E1,alta,pendiente,,,Ley 2462/2025 Fin 1 (saberes tradicionales) + Art. 9 (economía cuidado); vivienda como unidad productiva
+BS-087,calido_seco calido_humedo,,complemento,S5,Captación pluvial como reducción de acarreo de agua (impacto género),-,E3,alta,pendiente,,,Ley 2462/2025 Fin 3 (reducir carga doméstica); mujeres y niñas cargan agua; distancia y tiempo
+BS-088,todos,,estrategia,S3,Accesibilidad y diseño universal en vivienda rural,-,transversal,alta,pendiente,,,Ley 2462/2025 Enfoque 7 (discapacidad); Res. 0534 S-AC-1 S-AC-2; NTC 6047; Ley 361/1997; Ley 1618/2013
+BS-089,todos,,material,S2 S3 S4,Saberes constructivos ancestrales de comunidades étnicas,-,E4,alta,pendiente,,,Ley 2462/2025 Enfoques 8 y 12 (étnico-racial + diferencial étnico); Fin 1 (respeto saberes); indígenas; afro; raizales; ROM

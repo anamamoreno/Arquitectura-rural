@@ -1,0 +1,912 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>F0-3-Síntesis-Anexo1.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> or <div class="page"></div> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<h1 id="tabla-maestra--anexo-1-res-01942025">Tabla maestra — Anexo 1 Res. 0194/2025</h1>
+<blockquote>
+<p><strong>¿Qué es este documento?</strong> Síntesis estructurada del <strong>Anexo 1 de la Resolución 0194 de 2025</strong> (Guía de Construcción Sostenible del MVCT), que es el marco normativo obligatorio del proyecto. Extrae y organiza en tablas consultables: la clasificación climática oficial, los porcentajes mínimos de ahorro de energía y agua exigidos por tipología y clima, el catálogo completo de medidas pasivas, activas e hídricas con su aplicabilidad, y los objetivos bioclimáticos por clima. Su función es servir como <strong>referencia rápida</strong> durante todo el levantamiento — evita tener que buscar dentro de las 14.659 líneas del PDF original cada vez que se necesita verificar si una estrategia tiene respaldo normativo o no.</p>
+</blockquote>
+<p><strong>Fuente:</strong> Anexo No. 1 — Guía de construcción sostenible para el ahorro de agua y energía en edificaciones (MVCT, GreenLoop, dic 2024).
+<strong>Extracción:</strong> automatizada desde PDF + validación manual de tablas clave.
+<strong>Archivo base:</strong> <code>docs/extracciones/anexo_0194_raw.txt</code> (14.659 líneas).
+<strong>Versión:</strong> 0.1 — borrador.
+<strong>Fecha:</strong> 2026-04-14.</p>
+<hr>
+<h2 id="1-hallazgo-crítico--resuelve-pregunta-a11">1. Hallazgo crítico — resuelve pregunta A.1.1</h2>
+<p><strong>El Anexo 1 adopta la clasificación Caldas (pisos térmicos IDEAM) complementada con Lang (humedad relativa).</strong> Resultado: <strong>4 climas</strong> idénticos a los del TdR.</p>
+<p>Esto <strong>confirma</strong> la espina dorsal de nuestra estrategia. Köppen sigue siendo capa analítica complementaria válida.</p>
+<h3 id="11-umbrales-oficiales-tabla-1-del-anexo">1.1 Umbrales oficiales (Tabla 1 del Anexo)</h3>
+<table>
+<thead>
+<tr>
+<th>Clima</th>
+<th>Temperatura</th>
+<th>Altitud</th>
+<th>Humedad relativa</th>
+<th>Ciudad representativa</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Frío</strong></td>
+<td>&lt; 12 °C</td>
+<td>&gt; 3.000 msnm</td>
+<td>(no diferenciada)</td>
+<td>Bogotá (2.640 m)*</td>
+</tr>
+<tr>
+<td><strong>Templado</strong></td>
+<td>12–18 °C</td>
+<td>2.000–2.999 msnm</td>
+<td>(no diferenciada)</td>
+<td>Medellín (1.405 m), Ibagué (1.168 m)</td>
+</tr>
+<tr>
+<td><strong>Cálido seco</strong> (incluye semihúmedo)</td>
+<td>18–24 °C y &gt;24 °C</td>
+<td>1.000–1.999 y &lt;1.000</td>
+<td>HR &lt; 75 %</td>
+<td>Cali (926 m), Bucaramanga (950 m)</td>
+</tr>
+<tr>
+<td><strong>Cálido húmedo</strong></td>
+<td>&gt; 24 °C</td>
+<td>&lt; 1.000 msnm</td>
+<td>HR &gt; 75 %</td>
+<td>Barranquilla (24 m)</td>
+</tr>
+</tbody>
+</table>
+<p>*Nota: Bogotá aparece en fila de &quot;Frío&quot; en el Anexo aunque esté a 2.640 m. La clasificación es indicativa; el listado oficial de municipios está en <strong>Anexo 2</strong> de la Resolución (mapa + listado por municipio).</p>
+<h3 id="12-problemas-lógicos-relativos-a-los-tdr">1.2 Problemas lógicos relativos a los TdR</h3>
+<ul>
+<li><strong>El Anexo no diferencia páramo (ET Köppen)</strong> dentro de &quot;frío&quot;. Nuestro vacío normativo declarado se confirma.</li>
+<li><strong>Alta Guajira (BWh)</strong> queda dentro de &quot;cálido seco&quot; sin tratamiento diferenciado. Confirma vacío.</li>
+<li><strong>La guía original apunta a edificaciones urbanas</strong> (incluye hoteles, centros comerciales, hospitales). Para vivienda rural, las aplicables son <strong>Vivienda VIS y VIP unifamiliar</strong>.</li>
+</ul>
+<h2 id="2-objetivos-de-diseño-por-clima-tabla-16-del-anexo">2. Objetivos de diseño por clima (Tabla 16 del Anexo)</h2>
+<table>
+<thead>
+<tr>
+<th>Clima</th>
+<th>Objetivos bioclimáticos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Frío</strong></td>
+<td>Maximizar calentamiento por radiación solar (orientación). Reducir impacto del viento. Reducir volúmenes este-oeste para aumentar ganancia solar</td>
+</tr>
+<tr>
+<td><strong>Templado</strong></td>
+<td>Maximizar sol en áreas de vivienda principales. Sombra en alcobas y cocina. Controlar viento para circulación en periodos cálidos</td>
+</tr>
+<tr>
+<td><strong>Cálido seco</strong></td>
+<td>Edificio como disipador de calor. Maximizar sombra. Reducir fachada oeste</td>
+</tr>
+<tr>
+<td><strong>Cálido húmedo</strong></td>
+<td>Maximizar flujo de viento (ventilación cruzada y amontonada). Zonificación según viento (ubicación habitaciones). Máxima sombra</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Referencia citada:</strong> Szokolay, <em>Introducción a la ciencia arquitectónica — Lo básico en diseño sostenible</em> (metáfora de las &quot;tres pieles&quot;).</p>
+<h2 id="3-porcentajes-mínimos-de-ahorro-tablas-10-y-11">3. Porcentajes mínimos de ahorro (Tablas 10 y 11)</h2>
+<p>Filtrados para tipologías rurales relevantes (Vivienda VIS y VIP).</p>
+<h3 id="31-energía--mínimo-de-ahorro-vs-línea-base">3.1 Energía (% mínimo de ahorro vs. línea base)</h3>
+<table>
+<thead>
+<tr>
+<th>Tipología</th>
+<th>Frío</th>
+<th>Templado</th>
+<th>Cálido seco</th>
+<th>Cálido húmedo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Vivienda No VIS Unifamiliar</td>
+<td>15</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Vivienda VIS Unifamiliar</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+</tr>
+<tr>
+<td>Vivienda VIP Unifamiliar</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+</tr>
+</tbody>
+</table>
+<h3 id="32-agua--mínimo-de-ahorro-vs-línea-base">3.2 Agua (% mínimo de ahorro vs. línea base)</h3>
+<table>
+<thead>
+<tr>
+<th>Tipología</th>
+<th>Frío</th>
+<th>Templado</th>
+<th>Cálido seco</th>
+<th>Cálido húmedo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Vivienda No VIS Unifamiliar</td>
+<td>25</td>
+<td>25</td>
+<td>20</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Vivienda VIS Unifamiliar</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+</tr>
+<tr>
+<td>Vivienda VIP Unifamiliar</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Observación:</strong> los ahorros exigidos a VIS y VIP son menores que a No VIS — reflejo del compromiso costo-beneficio. Relevante para el Producto 1: las estrategias que se recomienden deben viabilizar <strong>mínimo esos porcentajes</strong> con presupuesto de vivienda social.</p>
+<p><em>Nota técnica: la extracción del PDF mezcla filas de tipologías VIS/VIP con otros usos (comercial, oficinas, hotel, educativo, hospital). Los valores aquí mostrados corresponden a las filas etiquetadas como &quot;Vivienda&quot;; validar contra la versión oficial para fines de cumplimiento.</em></p>
+<h2 id="4-catálogo-de-medidas-del-anexo-1">4. Catálogo de medidas del Anexo 1</h2>
+<p>Clasificación según estructura del Anexo: <strong>pasivas</strong> (arquitectónicas) y <strong>activas</strong> (mecánicas/eléctricas). Tercera categoría: <strong>agua</strong>.</p>
+<h3 id="41-medidas-pasivas-de-eficiencia-energética">4.1 Medidas pasivas de eficiencia energética</h3>
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>Medida</th>
+<th>Aplicabilidad por clima (viviendas VIS/VIP)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>MP-01</td>
+<td>Cubierta verde</td>
+<td>Todos los climas (opcional en cálido húmedo)</td>
+</tr>
+<tr>
+<td>MP-02</td>
+<td>Relación ventana-pared (RVP)</td>
+<td>Todos</td>
+</tr>
+<tr>
+<td>MP-03</td>
+<td>Elementos de protección solar horizontal</td>
+<td>Templado, cálido seco, cálido húmedo (alero)</td>
+</tr>
+<tr>
+<td>MP-04</td>
+<td>Elementos de protección solar vertical</td>
+<td>Templado, cálido seco</td>
+</tr>
+<tr>
+<td>MP-05</td>
+<td>Elementos de protección solar combinados</td>
+<td>Templado, cálido seco, cálido húmedo</td>
+</tr>
+<tr>
+<td>MP-06</td>
+<td>Vidrios de aislamiento térmico (Valor U)</td>
+<td>Frío principalmente</td>
+</tr>
+<tr>
+<td>MP-07</td>
+<td>Vidrios de protección solar (SHGC)</td>
+<td>Templado, cálido seco, cálido húmedo</td>
+</tr>
+<tr>
+<td>MP-08</td>
+<td>Vidrios de protección solar + aislamiento (U + SHGC)</td>
+<td>Uso mixto</td>
+</tr>
+<tr>
+<td>MP-09</td>
+<td>Cubierta de protección solar (Valor U)</td>
+<td>Todos</td>
+</tr>
+<tr>
+<td>MP-10</td>
+<td>Cubierta de protección solar (SRI)</td>
+<td>Cálido seco, cálido húmedo</td>
+</tr>
+<tr>
+<td>MP-11</td>
+<td>Pared de protección solar (Valor U)</td>
+<td>Frío, templado</td>
+</tr>
+<tr>
+<td>MP-12</td>
+<td>Pared de protección solar (SR)</td>
+<td>Cálido seco, cálido húmedo</td>
+</tr>
+<tr>
+<td>MP-13</td>
+<td><strong>Ventilación natural</strong></td>
+<td>Templado, cálido seco, cálido húmedo</td>
+</tr>
+<tr>
+<td>MP-14</td>
+<td><strong>Inercia térmica</strong></td>
+<td>Todos, especialmente frío y cálido seco</td>
+</tr>
+<tr>
+<td>MP-15</td>
+<td>Night flush (purga nocturna)</td>
+<td>Cálido seco principalmente</td>
+</tr>
+</tbody>
+</table>
+<h3 id="42-medidas-activas-de-eficiencia-energética">4.2 Medidas activas de eficiencia energética</h3>
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>Medida</th>
+<th>Aplicabilidad</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>MA-01</td>
+<td>Sensores de ocupación / fotométricos / dimerizadores</td>
+<td>No residencial principalmente</td>
+</tr>
+<tr>
+<td>MA-02</td>
+<td><strong>Iluminación eficiente (LED, CFL, T5) &gt;90 lm/W</strong></td>
+<td><strong>Todos — obligatoria de facto</strong></td>
+</tr>
+<tr>
+<td>MA-03</td>
+<td>Sensores de CO₂</td>
+<td>No residencial</td>
+</tr>
+<tr>
+<td>MA-04</td>
+<td>Sensores de CO (parqueaderos)</td>
+<td>No aplica en vivienda rural</td>
+</tr>
+<tr>
+<td>MA-05</td>
+<td>Variadores de velocidad para bombas</td>
+<td>No residencial</td>
+</tr>
+<tr>
+<td>MA-06</td>
+<td>Variadores de velocidad para torres de enfriamiento</td>
+<td>No aplica en vivienda rural</td>
+</tr>
+<tr>
+<td>MA-07</td>
+<td>Recuperación de calor aire de extracción</td>
+<td>No aplica en vivienda rural</td>
+</tr>
+<tr>
+<td>MA-08</td>
+<td>DOAS (Dedicated Outdoor Air System)</td>
+<td>No aplica en vivienda rural</td>
+</tr>
+<tr>
+<td>MA-09</td>
+<td>COP de aire acondicionado</td>
+<td>Cálido húmedo principalmente</td>
+</tr>
+<tr>
+<td>MA-10</td>
+<td>Sub-medición de electricidad</td>
+<td>Opcional</td>
+</tr>
+<tr>
+<td>MA-11</td>
+<td>Factores de corrección de potencia</td>
+<td>No residencial</td>
+</tr>
+<tr>
+<td>MA-12</td>
+<td><strong>Agua caliente solar</strong></td>
+<td>Frío, templado</td>
+</tr>
+<tr>
+<td>MA-13</td>
+<td>Enfriamiento evaporativo</td>
+<td>Cálido seco</td>
+</tr>
+<tr>
+<td>MA-14</td>
+<td>Calentamiento radiante</td>
+<td>Frío</td>
+</tr>
+</tbody>
+</table>
+<h3 id="43-medidas-de-eficiencia-en-agua">4.3 Medidas de eficiencia en agua</h3>
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>Medida</th>
+<th>Aplicabilidad</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>MW-01</td>
+<td><strong>Lavamanos de bajo consumo</strong></td>
+<td>Todos</td>
+</tr>
+<tr>
+<td>MW-02</td>
+<td><strong>Duchas de bajo consumo</strong></td>
+<td>Todos</td>
+</tr>
+<tr>
+<td>MW-03</td>
+<td>Orinales eficientes</td>
+<td>No residencial</td>
+</tr>
+<tr>
+<td>MW-04</td>
+<td><strong>Inodoros de bajo consumo</strong></td>
+<td>Todos</td>
+</tr>
+<tr>
+<td>MW-05</td>
+<td>Tratamiento de aguas residuales y reciclaje (aguas grises)</td>
+<td>Opcional, depende capacidad</td>
+</tr>
+<tr>
+<td>MW-06</td>
+<td><strong>Recolección y reutilización de aguas lluvias</strong></td>
+<td>Todos (a discreción en VIS)</td>
+</tr>
+<tr>
+<td>MW-07</td>
+<td>Paisajismo eficiente en agua</td>
+<td>Donde aplique</td>
+</tr>
+</tbody>
+</table>
+<h2 id="5-estrategias-bioclimáticas-por-clima--síntesis-para-matriz-m2">5. Estrategias bioclimáticas por clima — síntesis para matriz M2</h2>
+<p>Basado en Tabla 16 + Tablas 12–15 del Anexo, filtrado para <strong>Vivienda VIS/VIP unifamiliar</strong>:</p>
+<h3 id="51-clima-frío--estrategias-prioritarias">5.1 Clima frío — estrategias prioritarias</h3>
+<p><strong>Energía pasiva:</strong> inercia térmica (MP-14), aislamiento térmico en cubierta (MP-09) y paredes (MP-11), orientación para ganancia solar.
+<strong>Energía activa:</strong> iluminación eficiente (MA-02), agua caliente solar (MA-12), calentamiento radiante (MA-14).
+<strong>Agua:</strong> aparatos de bajo consumo (MW-01, MW-02, MW-04), captación pluvial a discreción (MW-06).</p>
+<h3 id="52-clima-templado--estrategias-prioritarias">5.2 Clima templado — estrategias prioritarias</h3>
+<p><strong>Energía pasiva:</strong> protección solar horizontal+vertical (MP-03, MP-04), ventilación natural (MP-13), cubierta SRI (MP-10), vidrios SHGC (MP-07).
+<strong>Energía activa:</strong> iluminación eficiente (MA-02), agua caliente solar opcional (MA-12).
+<strong>Agua:</strong> aparatos de bajo consumo + captación pluvial.</p>
+<h3 id="53-clima-cálido-seco--estrategias-prioritarias">5.3 Clima cálido seco — estrategias prioritarias</h3>
+<p><strong>Energía pasiva:</strong> inercia térmica alta (MP-14), protección solar combinada (MP-05), night flush (MP-15), cubierta SRI (MP-10), ventilación cruzada (MP-13).
+<strong>Energía activa:</strong> iluminación eficiente (MA-02), enfriamiento evaporativo (MA-13).
+<strong>Agua:</strong> aparatos de bajo consumo + <strong>captación pluvial prioritaria</strong> + reuso de aguas grises.</p>
+<h3 id="54-clima-cálido-húmedo--estrategias-prioritarias">5.4 Clima cálido húmedo — estrategias prioritarias</h3>
+<p><strong>Energía pasiva:</strong> ventilación cruzada máxima (MP-13), sombra total (MP-03, MP-05), cubierta SRI (MP-10), protección pared oeste (MP-12).
+<strong>Energía activa:</strong> iluminación eficiente (MA-02), COP de AA eficiente si aplica (MA-09).
+<strong>Agua:</strong> aparatos de bajo consumo; captación pluvial <strong>a discreción del constructor</strong> (el Anexo la marca como opcional por alta disponibilidad).</p>
+<h2 id="6-cruce-con-los-ejes-del-producto-1">6. Cruce con los ejes del Producto 1</h2>
+<table>
+<thead>
+<tr>
+<th>Eje P1</th>
+<th>Cobertura del Anexo 1</th>
+<th>Vacíos detectados para la matriz</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>E1 Bioclimática pasiva</td>
+<td><strong>Amplia</strong> — Tabla 16 + 15 medidas MP</td>
+<td>Sin estrategias específicas para páramo ni alta Guajira</td>
+</tr>
+<tr>
+<td>E2 Eficiencia energética activa</td>
+<td><strong>Amplia</strong> — 14 medidas MA</td>
+<td>Sesgo a edificación urbana; faltan soluciones off-grid rural (solar FV aislado, biogás)</td>
+</tr>
+<tr>
+<td>E3 Eficiencia hídrica</td>
+<td>Media — 7 medidas MW</td>
+<td>Faltan soluciones para zonas sin red (pozos, manantiales, tratamiento autónomo)</td>
+</tr>
+<tr>
+<td>E4 Materiales sostenibles</td>
+<td><strong>Débil / ausente</strong></td>
+<td>El Anexo trata desempeño de envolvente pero <strong>no materiales con atributos de sostenibilidad</strong> (tierra, guadua, reciclados). <strong>Vacío grande</strong> — el P1 deberá cubrirlo con otras fuentes</td>
+</tr>
+<tr>
+<td>E5 Metodologías pre-diseño</td>
+<td>Parcial</td>
+<td>Menciona simulación y confort (ASHRAE 55) pero no desarrolla protocolos</td>
+</tr>
+</tbody>
+</table>
+<h3 id="61-implicación-crítica">6.1 Implicación crítica</h3>
+<p>El Anexo 1 cubre <strong>E1, E2 y E3</strong> con solvencia para vivienda urbana, pero el <strong>eje E4 (materiales sostenibles)</strong> está prácticamente ausente. Como el TdR del Producto 1 lo exige explícitamente, <strong>tu levantamiento debe apoyarse en otras fuentes</strong> para este eje: Cartilla de Materiales del Ministerio (ya en <code>Referencias-proyecto/</code>), Sello Ambiental Colombiano, literatura de arquitectura vernácula.</p>
+<h2 id="7-estructura-completa-del-anexo-1-para-navegación">7. Estructura completa del Anexo 1 (para navegación)</h2>
+<table>
+<thead>
+<tr>
+<th>Capítulo</th>
+<th>Contenido</th>
+<th>Líneas (archivo raw)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. Descripción</td>
+<td>Introducción, antecedentes, edificaciones sostenibles, metodología</td>
+<td>~70–700</td>
+</tr>
+<tr>
+<td>2. Lista de medidas</td>
+<td>Catálogo de pasivas + activas + agua</td>
+<td>~700–1.400</td>
+</tr>
+<tr>
+<td>3. Análisis de costos</td>
+<td>Costo-beneficio por medida</td>
+<td>~1.400–1.500</td>
+</tr>
+<tr>
+<td>4. Matriz de implementación</td>
+<td><strong>Tablas 6–9: matriz por clima</strong></td>
+<td>1.540 / 3.044 / 4.555 / 6.130</td>
+</tr>
+<tr>
+<td>5. Porcentaje mínimo de ahorro</td>
+<td><strong>Tablas 10–11 energía y agua</strong></td>
+<td>7.721 / 7.759</td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Tablas 12–15: medidas recomendadas por clima</strong></td>
+<td>7.801 / 7.903 / 7.996 / 8.081</td>
+</tr>
+<tr>
+<td>6. Energía — medidas pasivas</td>
+<td>Técnicas, estrategias, objetivos</td>
+<td>8.177–8.560</td>
+</tr>
+<tr>
+<td></td>
+<td>Tabla 16: objetivos por clima</td>
+<td>8.235</td>
+</tr>
+<tr>
+<td>7. Energía — medidas activas</td>
+<td>HVAC, iluminación, economizadores, COP, VFD, recuperación calor</td>
+<td>8.562–9.400</td>
+</tr>
+<tr>
+<td></td>
+<td>Tablas 17–18: requerimientos eficiencia AA</td>
+<td>8.846 / 8.890</td>
+</tr>
+<tr>
+<td>8. Agua</td>
+<td>Estrategias y principios</td>
+<td>~9.400–9.600</td>
+</tr>
+<tr>
+<td></td>
+<td>Tablas 19–20: accesorios, tratamiento, reciclaje</td>
+<td>9.412 / 9.481</td>
+</tr>
+<tr>
+<td>9. Buenas prácticas</td>
+<td>Ascensores, viento, almacenamiento de reciclables</td>
+<td>9.600–10.000+</td>
+</tr>
+</tbody>
+</table>
+<h2 id="8-próximos-pasos-sugeridos">8. Próximos pasos sugeridos</h2>
+<ol>
+<li><strong>Descargar Anexo 2</strong> de la Resolución (listado oficial de municipios por clima) — crítico para aplicación territorial.</li>
+<li><strong>Validar manualmente las tablas 10 y 11</strong> contra el PDF original (la extracción automática mezcló filas).</li>
+<li><strong>Extraer tablas 6–9 (matriz de implementación)</strong> para obtener criterios de priorización: potencial de ahorro, costo, periodo de retorno, disponibilidad en mercado, facilidad de inclusión.</li>
+<li><strong>Construir las estrategias de sostenibilidad aplicables a vivienda rural (Res. 0194 + CEELA)</strong> como subproducto de valor agregado.</li>
+<li><strong>Flaggear ante el director:</strong> el eje E4 (materiales sostenibles) no está cubierto por el Anexo → el P1 asume cobertura propia desde otras fuentes.</li>
+</ol>
+<hr>
+<p><strong>Control de versiones</strong></p>
+<table>
+<thead>
+<tr>
+<th>Versión</th>
+<th>Fecha</th>
+<th>Cambios</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0.1</td>
+<td>2026-04-14</td>
+<td>Extracción inicial + estructura navegable + identificación de vacíos</td>
+</tr>
+</tbody>
+</table>
+
+</body>
+</html>

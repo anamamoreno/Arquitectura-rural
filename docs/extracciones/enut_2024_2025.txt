@@ -1,0 +1,1656 @@
+                                            Boletín técnico
+
+                                                                                             Bogotá D.C., octubre 28 de 2025
+
+                 Encuesta Nacional de Uso del Tiempo
+                                      (ENUT)
+
+                         Resultados preliminares
+                       octubre 2024 ­ marzo 2025
+
+Gráfico 1. Tiempo diario promedio por participante en actividades de trabajo no remunerado, según
+sexo (horas y minutos)
+Total nacional
+Octubre 2024 ­ marzo 2025 p
+
+                 9:36                                                                    8:53
+                                                                              3:03
+                 8:24             7:35                          7:14
+                                                     3:14
+Horas y minutos  7:12
+
+                 6:00
+
+                 4:48
+
+                 3:36      3:12
+
+                 2:24
+
+                 1:12
+
+                 0:00                                   Cabecera municipales  Centros poblados y rural disperso
+                                     Total Nacional         Título del eje
+
+                                                     Hombre Mujer
+
+Fuente: DANE, ENUT.
+Nota: P: resultados preliminares
+
+Contenido
+
+· Introducción                                       · Actividades de trabajo no remunerado
+· Población objetivo                                 · Población migrante
+· Actividades de trabajo remunerado                  · Ficha metodológica
+                                                     · Glosario
+
+COM-070-PDT-001-f-002 V18
+                                      Boletín técnico
+
+                                                                       Encuesta Nacional de Uso del Tiempo (ENUT)
+                                                                  Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+                       Introducción(1)(2)
+
+La Encuesta Nacional de Uso del Tiempo (ENUT), genera información sobre el tiempo dedicado
+por la población de 10 años y más a actividades de trabajo, remunerado y no remunerado, y
+actividades personales. La ENUT recolecta información para la población civil no institucional
+residente en todo el territorio nacional. Tiene su origen en el marco de la Ley 1413 de 2010 en la
+cual se establece "la inclusión de la economía del cuidado en el sistema de cuentas nacionales
+con la finalidad de medir la contribución de la mujer al desarrollo económico y social del país y
+como herramienta para la definición e implementación de políticas públicas". La aplicación de la
+encuesta tiene una periodicidad trienal, siendo esta la cuarta iteración o levantamiento de
+información de la operación con un periodo de recolección de 52 semanas, comprendido entre
+los meses de septiembre de 2024 y septiembre de 2025.
+
+En esta versión de la ENUT la operación estadística cuenta con una representatividad geográfica
+para total nacional, total de cabeceras municipales, total de centros poblados y zonas rurales
+dispersas, así como siete regiones del país: Bogotá, San Andrés, Caribe, Oriental, Central, Pacífica
+y por primera vez Amazonía y Orinoquía. Para este primer boletín de la ENUT 2024 ­ 2025, se
+presentarán los resultados del periodo octubre de 2024 a marzo de 2025 (primeros 6 meses
+completos de recolección) con representatividad de total nacional y regiones y desagregación en
+cabeceras municipales y de centros poblados y rural disperso de estos dominios. Para este
+periodo se obtiene información de cerca de 33.500 hogares. Los resultados presentados en este
+boletín contienen las proyecciones de población elaboradas con base en los resultados del Censo
+2018.
+
+Para la iteración 2024 - 2025 de la ENUT se incluyen preguntas sobre el cuidado de personas con
+discapacidad o adultas mayores, el intercambio de jornales, el trabajo comunitario y la transmisión
+de saberes ancestrales, así como un módulo de migración y el aumento de la cobertura de la
+encuesta por el convenio establecido con el Ministerio de Igualdad y Equidad, gracias a esta
+cooperación interinstitucional, por primera vez la ENUT ofrece información desagregada para las
+regiones Orinoquía y Amazonía. Este Boletín de resultados preliminares sólo incluye estas regiones
+con el fin de resaltar los esfuerzos realizados en este convenio interadministrativo.
+
+1 Datos expandidos con proyecciones de población elaboradas con base en los resultados del Censo 2018.
+2 El trabajo remunerado corresponde al trabajo comprendido en el Sistema de Cuentas Nacionales. El trabajo no
+remunerado corresponde al trabajo NO comprendido en el Sistema de Cuentas Nacionales.
+
+                                                                                                                                                                                                                       2
+                                      Boletín técnico
+
+                                                                       Encuesta Nacional de Uso del Tiempo (ENUT)
+                                                                  Octubre 2024 -marzo 2025 (Resultados preliminares)
+Finalmente, la ENUT, basa su estructura conceptual en la separación de las actividades humanas
+en actividades de trabajo y actividades personales, siguiendo la estructura del Sistema de Cuentas
+Nacionales (SCN). Las actividades de trabajo se separan en dos grandes grupos, el trabajo incluido
+en la frontera de producción del SCN o trabajo remunerado y el trabajo que se encuentra por
+fuera de dicha frontera, denominado trabajo no remunerado. La Tabla 1 permite una mejor
+comprensión de las actividades incluidas en cada uno de los grandes grupos:
+Tabla 1. Agrupación de actividades de trabajo y personales
+
+Fuente: DANE, ENUT ­ Encuesta Nacional de Uso del Tiempo.
+
+                                                                                                                                                                                                                       3
+                                                                     Boletín técnico
+
+                                                                Encuesta Nacional de Uso del Tiempo (ENUT)
+                                                            Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+                    1. POBLACIÓN OBJETIVO
+
+1.1 Población Total nacional
+
+Durante el periodo comprendido entre octubre de 2024 y marzo de 2025, la población de 10 años
+y más en Colombia estimada (población objetivo de la ENUT) fue de 45,5 millones de personas, lo
+que representa el 85,5% de la población nacional. De esta, el 51,7% eran mujeres.
+
+Durante el periodo octubre de 2024 y marzo de 2025, la población de 10 años y más en las
+cabeceras de Colombia, se estimó en 35,3 millones de personas, de estas, el 52,7% eran mujeres.
+
+Por su parte, para el mismo periodo, la población de los centros poblados y áreas rurales dispersas
+se estimó en 10,2 millones de personas, con una participación del 48,1% de las mujeres.
+
+Gráfico 2. Población total y de 10 años y más, según sexo (en miles de personas)
+Total nacional
+Octubre 2024 ­ marzo 2025p
+
+                    30.000         27.304
+                    25.000  25.890
+                    20.000
+Población en miles  15.000                        21.311                        23.517
+                                           19.450                        21.952
+
+                                                                                               18.615
+                                                                                        16.662
+
+                    10.000                                  6.4405.993                                 5.2904.903
+                     5.000
+
+                    0
+
+                            Total Nacional Cabecera         Centros Total Nacional Cabecera            Centros
+
+                                           municipales poblados y rural                 municipales poblados y rural
+
+                                                            disperso                                   disperso
+
+                                           Poblacion Total                Poblacion de 10 años y más
+
+                                                            Hombre Mujer
+
+Fuente: DANE, ENUT.
+Nota: Resultados en miles. Por efecto del redondeo, los totales pueden diferir ligeramente.
+Nota: P: resultados preliminares
+
+                                                                                                                      4
+                                 Boletín técnico
+
+                            Encuesta Nacional de Uso del Tiempo (ENUT)
+                        Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+1.2 Regiones
+
+Para el periodo octubre de 2024 a marzo de 2025, la población estimada en la región de la
+Orinoquía fue de 2,0 millones de personas, por su parte en la región de la Amazonía se estimó en
+1,1 millones de personas.
+
+Para el periodo analizado la proporción de mujeres de 10 años y más de las regiones Amazonía y
+Orinoquía fue menor que la del total nacional con porcentajes de 49,9% y 50,1% respectivamente.
+
+Tabla 2. Población total y de 10 años y más, según sexo (unidades y porcentaje)
+Regiones
+Octubre 2024 ­ marzo 2025p
+
+                Población total (miles)                                                      Población de 10 años y más (miles)
+
+Dominio         Hombre  Mujer                                                                Hombre  Mujer
+
+Total Nacional  25.890  27.304                                                               21.952  23.517
+Orinoquía
+Amazonía        997     990                                                                  831     828
+
+                559     551                                                                  450     451
+
+Fuente: DANE, ENUT.
+Nota: Resultados en miles. Por efecto del redondeo, los totales pueden diferir ligeramente.
+Nota: P: resultados preliminares
+
+                                                                                                             5
+                                                                   Boletín técnico
+
+                                                              Encuesta Nacional de Uso del Tiempo (ENUT)
+                                                          Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+           2. Actividades de trabajo remunerado
+
+Para la ENUT una actividad de trabajo es toda actividad que puede delegarse en otra persona y
+da lugar a un producto, sea un bien o un servicio, susceptible de intercambiarse en el mercado.
+
+2.1 Participación en Trabajo remunerado y sus actividades conexas3
+       (comprendido en el SCN)
+
+Resultados 2016-2017 y 2020-20214
+
+Gráfico 3. Participación en actividades de trabajo remunerado y sus actividades conexas, según sexo
+Total nacional. 2016-2017 / 2020-2021
+Cifras en porcentaje
+
+            60,0  55,7
+
+                                                                        53,3
+
+            50,0
+
+Porcentaje  40,0
+                                                            35,1
+
+                                                                                                                              29,9
+            30,0
+
+            20,0
+
+            10,0
+
+            0,0                                                         2020-2021
+                                            2016-2017
+
+                                                          Periodo ENUT
+
+                                                          Hombre Mujer
+
+Fuente: DANE, ENUT.
+Nota: Datos no comparables con los resultados 2024-2025.
+
+3 Las actividades conexas incluyen los traslados relacionados con estas actividades y búsqueda de trabajo
+4 Estos resultados no son comparables con el periodo analizado ya que corresponden a información de 52 semanas
+de recolección y se incluyen en el presente boletín como contexto de los resultados presentados.
+
+                                                                                                                                                                                                                      6
+                                                       Boletín técnico
+
+                                                  Encuesta Nacional de Uso del Tiempo (ENUT)
+                                              Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+2.1.1 Total nacional
+
+En el periodo comprendido entre octubre de 2024 y marzo de 2025, para el total nacional, el 55,6%
+de los hombres de 10 años y más participó en actividades de trabajo remunerado, mientras que
+en estas actividades participó el 34,4% de las mujeres en estas edades.
+
+En las cabeceras municipales el 52,5% de los hombres y el 34,2% de las mujeres, participó en
+actividades de trabajo remunerado, este porcentaje fue de 65,2% y 35,3% respectivamente en
+centros poblados y rural disperso.
+
+Gráfico 4. Participación diaria en actividades de trabajo remunerado y sus actividades conexas, según
+sexo (unidades y porcentaje)
+Total nacional
+Octubre 2024 ­ marzo 2025p
+
+            70,0                                                                          65,2
+                                                                                                      35,3
+            60,0  55,6                             52,5
+                                                               34,2                Centros poblados y rural
+            50,0                                                                             disperso
+                                              Cabecera municipales
+Porcentaje  40,0        34,4
+
+            30,0
+
+            20,0
+
+            10,0
+
+            0,0
+                              Total Nacional
+
+                                                                    Hombre  Mujer
+
+Fuente: DANE, ENUT.
+Nota: Por efecto del redondeo, los porcentajes pueden diferir ligeramente.
+Nota: P: resultados preliminares
+
+2.1.2 Regiones
+
+Por desagregación regional, Para la Orinoquía la proporción de hombres y mujeres que reportaron
+participación en actividades de trabajo remunerado fue de 56,2% y 33,9%, respectivamente; en la
+Amazonía estas cifras correspondieron a 59,8% y 40,2%, observándose una mayor participación
+de las mujeres para esta región al comparar con el total nacional.
+
+                                                                                                             7
+                                           Boletín técnico
+
+                                      Encuesta Nacional de Uso del Tiempo (ENUT)
+                                  Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+Tabla 3. Participación diaria en actividades de trabajo remunerado, según sexo (porcentaje)
+Regiones
+Octubre 2024 ­ marzo 2025p
+
+Dominio                           Hombre  Mujer
+                                      %     %
+
+Total Nacional                    55,6    34,4
+
+Orinoquía                         56,2    33,9
+
+Amazonía                          59,8    40,2
+
+Fuente: DANE, ENUT.
+Nota: P: resultados preliminares
+
+2.2 Tiempo promedio por participante en trabajo remunerado
+       (comprendido en el SCN)
+
+2.2.1 Total nacional
+
+Para el periodo comprendido entre octubre de 2024 y marzo de 2025, en el total nacional, se
+estima que los hombres que realizaron actividades de trabajo remunerado dedicaron 9 horas y 9
+minutos a estas labores, por su parte, las mujeres que realizaron estas actividades dedicaron 7
+horas y 44 minutos.
+
+Por dominio geográfico, en las cabeceras municipales el tiempo promedio por participante en
+trabajo remunerado fue de 9 horas y 30 minutos para los hombres y 8 horas y 26 minutos para las
+mujeres. En los centros poblados y rural disperso, este promedio se ubicó en 8 horas y 16 minutos
+y 5 horas y 6 minutos, respectivamente.
+
+                                                                                             8
+                                                    Boletín técnico
+
+                                               Encuesta Nacional de Uso del Tiempo (ENUT)
+                                           Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+Gráfico 5. Tiempo diario promedio por participante en actividades de trabajo remunerado y sus
+actividades conexas, según sexo (Horas y minutos)
+Total nacional
+Octubre 2024 ­ marzo 2025p
+
+                 10:48    9:09             9:30                      8:16
+                  9:36               7:44            8:26                      5:06
+                  8:24
+Horas y minutos   7:12    Total Nacional
+                  6:00
+                  4:48
+                  3:36
+                  2:24
+                  1:12
+                  0:00
+
+                                               Cabecera municipales  Centros poblados y rural
+                                           Hombre Mujer                       disperso
+
+Fuente: DANE, ENUT.
+Nota: P: resultados preliminares.
+
+2.2.2 Regiones
+
+Al desagregar los resultados por regiones, en la región Orinoquía el tiempo promedio por
+participante en trabajo no remunerado fue de 8 horas y 37 minutos para los hombres y 7 horas y
+31 minutos para las mujeres; en la región Amazonía este promedio correspondió a 8 horas y 11
+minutos y 5 horas y 39 minutos, respectivamente, 58 minutos menos en hombres y 2 horas 5
+minutos menos para mujeres comparado con el total nacional.
+
+Tabla 4. Tiempo diario promedio por participante en actividades de trabajo remunerado y sus
+
+actividades conexas, según sexo (horas y minutos)
+
+Regiones
+Octubre 2024 ­ marzo 2025p
+
+                 Dominio                   Hombre                    Mujer
+                                               %                       %
+
+Total Nacional                                     9:09                              7:44
+Orinoquía
+Amazonía                                           8:37                              7:31
+
+                                                   8:11                              5:39
+
+Fuente: DANE, ENUT.
+Nota: P: resultados preliminares.
+
+                                                                                               9
+                                                     Boletín técnico
+
+                                                Encuesta Nacional de Uso del Tiempo (ENUT)
+                                            Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+                    3. Actividades de trabajo no remunerado
+
+3.1 Participación en Trabajo no remunerado y sus actividades
+       conexas5 (no comprendido en el SCN) ­ total
+
+Resultados 2016-2017 y 2020-20216
+
+Gráfico 6. Participación diaria en actividades de trabajo no remunerado y sus actividades conexas,
+según sexo
+Total nacional. 2016-2017 / 2020-2021
+Cifras en porcentaje
+
+            100,0                     89,0                                  90,3
+             90,0   60,9                                  63,0
+             80,0
+Porcentaje   70,0
+             60,0
+             50,0
+             40,0
+             30,0
+             20,0
+             10,0
+               0,0
+
+                    2016-2017                             2020-2021
+
+                                            Periodo ENUT
+
+                                            Hombre Mujer
+
+Fuente: DANE, ENUT.
+Nota: Datos no comparables con los resultados 2024-2025.
+
+5 Las actividades conexas incluyen los traslados relacionados con estas actividades
+6 Estos resultados no son comparables con el periodo analizado ya que corresponden a información de 52 semanas
+de recolección y se incluyen en el presente boletín como contexto de los resultados presentados.
+
+                                                                                                                                                                                                                      10
+                                      Boletín técnico
+
+                                                                       Encuesta Nacional de Uso del Tiempo (ENUT)
+                                                                  Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+3.1.1 Total nacional
+
+En el periodo comprendido entre octubre de 2024 y marzo de 2025, para el total nacional, el 65,5%
+de los hombres de 10 años y más participó en actividades de trabajo no remunerado, mientras
+que en estas actividades participó el 90,0% de las mujeres.
+
+En las cabeceras municipales el 66,9% de los hombres y el 89,1% de las mujeres, participó en
+actividades de trabajo no remunerado, este porcentaje fue de 60,8% y 93,4% respectivamente en
+centros poblados y rural disperso, 4,7 puntos menos de participación por parte de los hombres y
+3,4 puntos porcentuales por parte de las mujeres al comparar este dominio con el total nacional.
+
+Gráfico 7. Participación diaria en actividades de trabajo no remunerado y sus actividades conexas,
+según sexo (porcentaje)
+Total nacional
+Octubre 2024 ­ marzo 2025p
+
+            100,0                        90,0            89,1          93,4
+
+            90,0
+
+            80,0
+
+            70,0                   65,5            66,9
+
+Porcentaje                                                       60,8
+
+            60,0
+
+            50,0
+
+            40,0
+
+            30,0
+
+            20,0
+
+            10,0
+
+            0,0
+
+                                   Total Nacional  Cabecera municipales Centros poblados y rural
+
+                                                                 disperso
+
+                                                   Hombre Mujer
+
+Fuente: DANE, ENUT.
+Nota: P: resultados preliminares.
+
+3.1.2 Regiones
+
+Por desagregación regional, en la región Orinoquía la proporción de hombres y mujeres que
+reportaron participación en actividades de trabajo no remunerado fue de 61,0% y 89,7%,
+respectivamente; en la región Amazonía por su parte, estas cifras correspondieron a 69,4% y
+94,3%, 4,9 puntos más de participación por parte de los hombres y 4,3 puntos porcentuales por
+parte de las mujeres al comparar este dominio con el total nacional.
+
+                                                                                                  11
+                                            Boletín técnico
+
+                                       Encuesta Nacional de Uso del Tiempo (ENUT)
+                                   Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+Tabla 5. Participación diaria en actividades de trabajo no remunerado, según sexo (unidades y
+
+porcentaje)
+
+Regiones
+Octubre 2024 ­ marzo 2025p
+
+             Dominio               Hombre  Mujer
+                                       %     %
+
+Total Nacional                     65,5    90,0
+
+Orinoquía                          61,0    89,7
+
+ Amazonía                          69,4    94,3
+
+Fuente: DANE, ENUT.
+Nota: P: resultados preliminares.
+
+3.2 Tiempo promedio por participante en trabajo no remunerado
+       (comprendido en el SCN) ­ total
+
+3.2.1 Total nacional
+
+Para el periodo comprendido entre octubre de 2024 y marzo de 2025, en el total nacional, se
+estima que los hombres que realizaron actividades de trabajo no remunerado dedicaron 3 horas
+y 12 minutos a estas labores, por su parte, las mujeres que realizaron estas actividades dedicaron
+7 horas y 35 minutos.
+
+Por dominio geográfico, en las cabeceras municipales el tiempo promedio por participante en
+trabajo no remunerado fue de 3 horas y 14 minutos para los hombres y 7 horas y 14 minutos para
+las mujeres. En los centros poblados y rural disperso, este promedio se ubicó en 3 horas y 3
+minutos y 8 horas y 53 minutos, respectivamente, para las mujeres de este dominio una diferencia
+de 1 hora y 18 minutos más comparado con el total nacional.
+
+                                                  12
+                                                              Boletín técnico
+
+                                                         Encuesta Nacional de Uso del Tiempo (ENUT)
+                                                     Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+Gráfico 8. Tiempo diario promedio por participante en actividades de trabajo no remunerado y sus
+actividades conexas, según sexo (Horas y minutos)
+Total nacional
+Octubre 2024 ­ marzo 2025p
+
+                 9:36                                                                    8:53
+                                                                              3:03
+                 8:24        7:35                               7:14
+                                                     3:14
+Horas y minutos  7:12
+
+                 6:00
+
+                 4:48
+
+                 3:36  3:12
+
+                 2:24
+
+                 1:12
+
+                 0:00                                   Cabecera municipales  Centros poblados y rural disperso
+                                     Total Nacional         Título del eje
+
+                                                     Hombre Mujer
+
+Fuente: DANE, ENUT.
+Nota: P: resultados preliminares.
+
+3.2.2 Regiones
+
+Al desagregar los resultados por regiones, en la región Orinoquía el tiempo promedio por
+participante en trabajo no remunerado fue de 3 horas y 12 minutos para los hombres y 9 horas y
+7 minutos para las mujeres (1 hora y 32 minutos más que las mujeres del total nacional); en la
+región Amazonía por su parte, este tiempo promedio correspondió a 3 horas y 0 minutos y 9 horas
+y 47 minutos, respectivamente, 2 horas y 12 minutos más para las mujeres de esta región
+comparadas con las mujeres en el total nacional.
+
+                                                                                                                 13
+                                                                    Boletín técnico
+
+                                                               Encuesta Nacional de Uso del Tiempo (ENUT)
+                                                           Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+Tabla 6. Tiempo diario promedio por participante en actividades de trabajo no remunerado, según
+
+sexo (horas y minutos)
+
+Regiones
+Octubre 2024 ­ marzo 2025p
+
+Dominio                                                    Hombre                          Mujer
+                                                               %                             %
+
+Total Nacional                                             3:12                            7:35
+
+Orinoquía                                                  3:12                            9:07
+
+ Amazonía                                                  3:00                            9:47
+
+Fuente: DANE, ENUT.
+Nota: P: resultados preliminares.
+
+3.3 Participación en Trabajo no remunerado (no comprendido en el
+       SCN) por grupos de actividad
+
+3.3.1 Total nacional
+
+En el periodo comprendido entre octubre de 2024 y marzo de 2025, para el total nacional, la
+actividad de trabajo no remunerado con mayor participación de los hombres es limpieza y
+mantenimiento con el 39,9% participando en ella, mientras que la actividad suministro de
+alimentos es la que mayor participación de mujeres tiene con el 78,7%.
+
+Gráfico 9. Participación diaria en actividades de trabajo no remunerado, según sexo (porcentaje)
+Total nacional
+Octubre 2024 ­ marzo 2025p
+
+            90        78,7
+
+            80                                       70,0
+
+            70
+
+Porcentaje  60
+
+            50  34,9                     37,8  39,9
+
+            40
+
+            30                                             20,7 22,8                16,4
+                                                                                3,6
+            20                     11,0                               8,1 12,8                    3,1 7,4
+
+            10
+
+            0
+
+                Suministro de Mantenimiento Limpieza y Compras y Cuidado de Cuidado físico Apoyo a
+
+                Alimentos de Vestuario mantenimiento administración menores de 5 de personas del personas del
+
+                                                           del hogar años del hogar hogar         hogar
+
+                                                     Hombre Mujer
+
+Fuente: DANE, ENUT.
+Nota: P: resultados preliminares.
+
+                                                                                                               14
+                                                  Boletín técnico
+
+                                             Encuesta Nacional de Uso del Tiempo (ENUT)
+                                         Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+3.3.2 Regiones
+
+Por desagregación regional, la actividad Mantenimiento de vestuario de trabajo no remunerado
+tanto en la región Orinoquía como Amazonía es la que presenta mayor diferencia en mujeres al
+comparar con el total nacional, con 8,8 y 19,5 puntos porcentuales respectivamente; para los
+hombres de estas regiones, esta misma actividad presenta una diferencia de 2,4 y 5,6 puntos
+porcentuales respectivamente frente a los hombres del total nacional.
+
+Tabla 7. Participación diaria en actividades de trabajo no remunerado, según sexo (unidades y
+
+porcentaje)
+
+Regiones
+
+Octubre 2024 ­ marzo 2025p
+
+Dominio      Suministro de         Mantenimiento de       Limpieza y          Compras y
+               Alimentos                Vestuario      mantenimiento     administración del
+
+                                                                                  hogar
+
+             Hombre Mujer Hombre Mujer Hombre Mujer Hombre Mujer
+
+Total        34,9  78,7            11    37,8          39,9  70,0        20,7  22,8
+Nacional
+
+Orinoquía 36,6     77,3            13,4  46,6          33,3  67,3        17,7  22,4
+
+Amazonía 38,9      85,8            16,6  57,3          39,2  74,8        21,2  19,7
+
+ Dominio          Cuidado de        Cuidado físico de  Apoyo a personas
+             menores de 5 años     personas del hogar        del hogar
+Total
+Nacional           del hogar       Hombre Mujer        Hombre Mujer
+
+             Hombre Mujer
+
+             8,1   12,8            3,6   16,4          3,1   7,4
+
+Orinoquía    6,6   14,3            3,5   18,8          3,8   6,9
+
+Amazonía     8,5   16,0            3,6   21,6          3,5   10,5
+
+Fuente: DANE, ENUT.
+Nota: P: resultados preliminares.
+
+                                                                                     15
+                                      Boletín técnico
+
+                                                                       Encuesta Nacional de Uso del Tiempo (ENUT)
+                                                                  Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+3.4 Tiempo promedio por participante en trabajo no remunerado
+       (comprendido en el SCN) por grupos de actividad
+
+3.4.1 Total nacional
+
+Para el total nacional, en el periodo comprendido entre octubre de 2024 y marzo de 2025, el
+tiempo promedio dedicado a todas las actividades de trabajo no remunerado fue mayor en las
+mujeres que en los hombres. Las actividades con mayor diferencia en tiempo de dedicación
+fueron: suministro de alimentos con 1 hora y 0 minutos, cuidado físico de personas del hogar con
+37 minutos y mantenimiento de vestuario con 25 minutos más de dedicación por parte de ellas
+frente al tiempo reportado por ellos.
+
+Gráfico 10. Tiempo diario promedio por participante en actividades de trabajo no remunerado, por
+grupos de actividad, según sexo (Horas y minutos)
+Total nacional
+Octubre 2024 ­ marzo 2025p
+
+                 2:09       2:03
+
+                 1:55                                                        1:47
+                                                                        1:32
+Horas y minutos  1:40                  1:23       1:23                                  1:32       1:26
+                                  0:58       1:09                                  0:55       1:12
+                 1:26
+                 1:12 1:03                              0:561:00
+
+                 0:57
+
+                 0:43
+
+                 0:28
+
+                 0:14
+
+                 0:00
+
+                       Suministro de Mantenimiento Limpieza y Compras y Cuidado de Cuidado físico Apoyo a
+
+                       Alimentos de Vestuario mantenimiento administración menores de 5 de personas del personas del
+
+                                                        del hogar años del hogar hogar        hogar
+
+                                                        Título del eje
+
+                                             Hombre Mujer
+
+Fuente: DANE, ENUT.
+Nota: P: resultados preliminares.
+
+                                                                                                                      16
+                                                                 Boletín técnico
+
+                                                            Encuesta Nacional de Uso del Tiempo (ENUT)
+                                                        Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+3.4.2 Regiones
+
+Al desagregar los resultados de tiempos por regiones, En la Orinoquía la actividad que mayor
+diferencia en tiempo para los hombres presenta comparado con el total nacional, es el cuidado
+de menores de 5 años con 18 minutos más al día dedicados por ellos en esta región, seguido del
+apoyo a personas con 11 minutos más.
+
+En el caso de las mujeres de la Orinoquía, la mayor diferencia frente a tiempos de dedicación en
+el total nacional se encuentra en la actividad de cuidado físico de personas del hogar con 11
+minutos menos de tiempo dedicado a estas actividades.
+
+En la Amazonía la actividad que mayor diferencia en tiempo para los hombres presenta
+comparado con el total nacional, es el cuidado físico de personas del hogar con 15 minutos menos
+al día dedicados por ellos en esta región, seguido del apoyo a personas con 10 minutos menos.
+
+En el caso de las mujeres de la Amazonía, la mayor diferencia en tiempos de dedicación frente al
+el total nacional se encuentra en la actividad de cuidado físico de personas del hogar con 24
+minutos menos de tiempo dedicado a estas actividades, seguido de cuidado de menores de 5
+años con 15 minutos menos al día.
+
+Tabla 8. Tiempo diario promedio por participante en actividades de trabajo no remunerado, por
+
+grupos de actividad según sexo (horas y minutos)
+Regiones
+
+Octubre 2024 ­ marzo 2025p
+
+Dominio                            Suministro de  Mantenimiento de       Limpieza y          Compras y
+                                     Alimentos         Vestuario      mantenimiento     administración del
+
+                                                                                                 hogar
+
+           Hombre Mujer Hombre Mujer Hombre Mujer Hombre Mujer
+
+Total                              1:03  2:03     0:58  1:23          1:09  1:23        0:56  1:00
+Nacional
+
+Orinoquía 1:03                           2:03     1:02  1:20          1:09  1:19        0:45  0:54
+
+Amazonía 1:06                            1:56     0:48  1:19          0:59  1:18        0:48  0:56
+
+ Dominio        Cuidado de                         Cuidado físico de  Apoyo a personas
+           menores de 5 años                      personas del hogar        del hogar
+Total
+Nacional         del hogar                        Hombre Mujer        Hombre Mujer
+Orinoquía
+           Hombre Mujer
+
+                                   1:32  1:47     0:55  1:32          1:12  1:26
+
+                                   1:14  1:39     0:50  1:21          1:23  1:34
+
+Amazonía 1:24                            1:32     0:40  1:08          1:02  1:22
+
+Fuente: DANE, ENUT.
+Nota: P: resultados preliminares.
+
+                                                                                                    17
+                                      Boletín técnico
+
+                                 Encuesta Nacional de Uso del Tiempo (ENUT)
+                             Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+                      4. Población Migrante
+
+4.1 Población objetivo
+
+Para el periodo octubre de 2024 a marzo de 2025, la población de 10 años y más estimada, nacida
+en Colombia fue de 45,6 millones de personas, por su parte la población nacida fuera de Colombia
+se estimó en 1,8 millones de personas.
+
+Para el periodo analizado la proporción de mujeres de 10 años y más nacidas en Colombia fue de
+51,7%, mientras que en las nacidas fuera fue de 51,5%.
+
+Tabla 9. Población de 10 años y más, por lugar de nacimiento según sexo (en miles)
+Total nacional
+Octubre 2024 ­ marzo 2025p
+
+Dominio                      Población de 10 años y más (miles)
+Total nacional
+                             Hombre                                                          Mujer
+
+                             21.952                                                          23.517
+
+Nacido(a) en Colombia        21.053                                                          22.565
+
+Nacido(a) fuera de Colombia  899                                                             952
+
+Fuente: DANE, ENUT.
+Nota: Resultados en miles. Por efecto del redondeo, los totales pueden diferir ligeramente.
+Nota: P: resultados preliminares.
+
+4.2 Participación en Trabajo remunerado y sus actividades conexas7
+       (comprendido en el SCN)
+
+Para el periodo analizado, el 55,4% de hombre de 10 años y más nacidos en Colombia reportó
+participar en actividades de trabajo remunerado, mientras que para los hombres nacidos fuera de
+Colombia este porcentaje fue de 59,3%.
+
+7 Las actividades conexas incluyen los traslados relacionados con estas actividades y búsqueda de trabajo
+
+                                                                                                                                                                                                                      18
+                                                                                 Boletín técnico
+
+                                                                            Encuesta Nacional de Uso del Tiempo (ENUT)
+                                                                        Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+Por su parte, el 34,3% de las mujeres de 10 años y más nacidas en Colombia, realizó actividades
+de trabajo remunerado, este porcentaje para las mujeres nacidas fuera de Colombia fue de 37,9%.
+
+Gráfico 11. Participación diaria en actividades de trabajo remunerado y sus actividades conexas, por
+lugar de nacimiento, según sexo (porcentaje)
+Total nacional
+Octubre 2024 ­ marzo 2025p
+
+            70,0
+
+            60,0  55,4                                                         59,3
+                                                                                                 37,9
+            50,0
+
+Porcentaje  40,0                   34,3
+
+            30,0
+
+            20,0
+
+            10,0
+
+            0,0                                                                Nacido(a) fuera de Colombia
+                                   Nacido(a) en Colombia
+                                                                        Mujer
+                                                                Hombre
+
+Fuente: DANE, ENUT.
+Nota: P: resultados preliminares.
+
+4.3 Tiempo por participación en Trabajo remunerado y sus actividades
+       conexas (comprendido en el SCN)
+
+Para el periodo octubre de 2024 a marzo de 2025, el tiempo diario dedicado por los hombres de
+10 años y más nacidos en Colombia a actividades de trabajo remunerado fue de 9 horas y 7
+minutos, mientras que para los hombres nacidos fuera de Colombia el tiempo de dedicación a
+estas actividades fue de 9 horas y 42 minutos.
+
+Por su parte, las mujeres de 10 años y más nacidas en Colombia, que realizaron actividades de
+trabajo remunerado, dedicaron 7 horas y 41 minutos a estas actividades; para las mujeres nacidas
+fuera de Colombia el tiempo de dedicación fue de 8 horas y 45 minutos.
+
+                                                                                                            19
+                                                            Boletín técnico
+
+                                                       Encuesta Nacional de Uso del Tiempo (ENUT)
+                                                   Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+Gráfico 12. Tiempo diario promedio por participante en actividades de trabajo remunerado y sus
+actividades conexas, por lugar de nacimiento, según sexo (horas y minutos)
+Total nacional
+Octubre 2024 ­ marzo 2025p
+
+Horas y minutos  10:48     9:07                                  9:42
+                  9:36                       7:41                                  8:45
+                  8:24
+                  7:12  Nacido(a) en Colombia             Nacido(a) fuera de Colombia
+                  6:00
+                  4:48
+                  3:36
+                  2:24
+                  1:12
+                  0:00
+
+                                   Hombre          Mujer
+
+Fuente: DANE, ENUT.
+Nota: P: resultados preliminares.
+
+4.4 Participación en Trabajo no remunerado y sus actividades
+       conexas8 (no comprendido en el SCN)
+
+Para el periodo analizado, el 65,3% de hombres de 10 años y más nacidos en Colombia reportó
+participar en actividades de trabajo no remunerado, mientras que para los hombres nacidos fuera
+de Colombia este porcentaje fue de 68,5%.
+
+Por su parte, el 89,9% de las mujeres de 10 años y más nacidas en Colombia, realizó actividades
+de trabajo no remunerado, este porcentaje para las mujeres nacidas fuera de Colombia fue de
+92,8%.
+
+8 Las actividades conexas incluyen los traslados relacionados con estas actividades
+
+                                                                                                                                                                                                                      20
+                                                                          Boletín técnico
+
+                                                                     Encuesta Nacional de Uso del Tiempo (ENUT)
+                                                                 Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+Gráfico 13. Participación diaria en actividades de trabajo no remunerado y sus actividades conexas,
+por lugar de nacimiento, según sexo (porcentaje)
+Total nacional
+Octubre 2024 ­ marzo 2025p
+
+            100,0                                                                    92,8
+                                                           89,9
+
+            90,0
+
+            80,0
+
+            70,0  65,3                                                         68,5
+
+Porcentaje  60,0
+
+            50,0
+
+            40,0
+
+            30,0
+
+            20,0
+
+            10,0
+
+            0,0                                                                Nacido(a) fuera de Colombia
+                                   Nacido(a) en Colombia
+
+                                                                 Hombre Mujer
+
+Fuente: DANE, ENUT.
+Nota: P: resultados preliminares.
+
+4.5 Tiempo por participación en Trabajo no remunerado y sus
+       actividades conexas (no comprendido en el SCN)
+
+Para el periodo octubre de 2024 a marzo de 2025, el tiempo diario dedicado por los hombres de
+10 años y más nacidos en Colombia a actividades de trabajo no remunerado fue de 3 horas y 10
+minutos, mientras que para los hombres nacidos fuera de Colombia el tiempo de dedicación a
+estas actividades fue de 3 horas y 37 minutos.
+
+Por su parte, las mujeres de 10 años y más nacidas en Colombia, que realizaron actividades de
+trabajo no remunerado, dedicaron 7 horas y 30 minutos a estas actividades; para las mujeres
+nacidas fuera de Colombia el tiempo de dedicación fue de 9 horas y 31 minutos.
+
+                                                                                                            21
+                                                            Boletín técnico
+
+                                                       Encuesta Nacional de Uso del Tiempo (ENUT)
+                                                   Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+Gráfico 14. Tiempo diario promedio por participante en actividades de trabajo remunerado y sus
+actividades conexas, por lugar de nacimiento, según sexo (horas y minutos)
+Total nacional
+Octubre 2024 ­ marzo 2025p
+
+Horas y minutos  10:48                       7:30                                  9:31
+                  9:36     3:10                                  3:37
+                  8:24  Nacido(a) en Colombia             Nacido(a) fuera de Colombia
+                  7:12
+                  6:00
+                  4:48
+                  3:36
+                  2:24
+                  1:12
+                  0:00
+
+                                   Hombre          Mujer
+
+Fuente: DANE, ENUT.
+Nota: P: resultados preliminares.
+
+                                                                                         22
+                                      Boletín técnico
+
+                                                                       Encuesta Nacional de Uso del Tiempo (ENUT)
+                                                                  Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+Ficha Metodológica
+
+ Nombre de la operación estadística y sigla: Encuesta
+   Nacional de Uso del Tiempo - ENUT
+
+ Entidad responsable:
+ Indique si su operación estadística es:
+ - Censo ___
+ - Encuesta por muestreo probabilístico X
+ - Encuesta por muestreo no probabilístico ___
+ - A partir del aprovechamiento de registros administrativos ___
+ -Derivada___
+
+                                                                                                                                                                                                                      23
+Antecedentes                Boletín técnico
+
+                              Encuesta Nacional de Uso del Tiempo (ENUT)
+                          Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+              Establecer cómo distribuyen el tiempo las personas en sus
+              actividades cotidianas, ha sido una inquietud constante en
+              investigadores alrededor del mundo. Las primeras
+              investigaciones sobre el uso del tiempo se remontan a la
+              primera década del siglo XX con estudios sociales sobre las
+              condiciones de vida de la clase obrera, en barrios específicos
+              de algunas ciudades de Europa y Estados Unidos, en donde
+              se buscaba determinar la distribución entre trabajo y tiempo
+              libre (Reeves, 1913).
+              Con el trabajo seminal de Reid (1934), se empieza el debate
+              académico acerca del uso del tiempo en actividades no
+              remuneradas dentro del hogar y el método para estimar el
+              valor económico de dichas actividades dentro del sistema de
+              cuentas nacionales. Sin embargo, no es hasta los trabajos de
+              Mincer (1962) y Becker (1965) que la "Nueva Economía del
+              Hogar" entra en las agendas internacionales con el objetivo
+              de valorar el mercado de la asignación del tiempo dentro del
+              hogar y sus implicaciones.
+              En 1964 se desarrolló el Proyecto Multinacional de
+              Investigación Comparativa sobre la Distribución del Tiempo.
+              Este abarcó 12 países (siete de Europa oriental, tres de
+              Europa occidental, Estados Unidos y Perú) y permitió realizar
+              comparaciones internacionales y evidenciar las dificultades
+              metódicas y analíticas al comparar la información, lo que dio
+              como resultado una base para el desarrollo de metodologías
+              para la investigación de este tema (Szalai, ed., 1972).
+              Con los antecedentes académicos de Reid (1934), Mincer
+
+              (1962), Becker (1965), y el proyecto de Multinacional sobre
+
+              la distribución de uso del tiempo (Szalai, ed., 1972), se inicia
+
+              24
+               Boletín técnico
+
+                  Encuesta Nacional de Uso del Tiempo (ENUT)
+              Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+una agenda internacional respecto a la participación de la
+mujer en el desarrollo de las Naciones. En la Primera
+Conferencia Mundial sobre la Condición Jurídica y Social de la
+Mujer realizada en México (1975), se plantea como uno de los
+objetivos para la labor de las Naciones Unidas, la integración
+y plena participación de la mujer en el desarrollo. En sintonía
+con los acuerdos de la Primera Conferencia (1975), los países
+miembros de la CEPAL aprobaron en La Habana en 1977 el
+Plan de Acción Regional sobre la Integración de la Mujer en el
+Desarrollo Económico y Social de América Latina (PAR). Dicho
+Plan de Acción se evalúa periódicamente y a la fecha contiene
+numerosos aspectos orientados a medir y reconocer el trabajo
+no remunerado y su aporte al Producto Interno Bruto (PIB).
+En 1979 el reporte de progreso en el desarrollo de estadísticas
+de uso del tiempo, presentado a la Comisión de Estadística de
+las Naciones Unidas en su sesión número 20, consideró la
+información sobre el uso del tiempo como un nuevo campo
+de estadísticas que permite obtener información relacionada
+con los aspectos económicos y condiciones sociales de la
+población y en especial con el desarrollo de métodos de
+medición de la fuerza laboral en los cuales se incluyan las
+labores del hogar, principalmente desarrolladas por mujeres.
+En 1995 se celebró la Cuarta Conferencia Mundial sobre la
+Mujer en China y, como resultado, se formuló la agenda
+denominada La Declaración y Plataforma de Acción de Beijing.
+En este texto se recomendó que los servicios estadísticos
+internacionales, y los organismos gubernamentales así como
+los de las Naciones Unidas, deben procurar "Mejorar la
+obtención de datos sobre toda la contribución de la mujer y
+del hombre a la economía, incluyendo su participación en el
+sector no estructurado", ademas "Desarrollar una clasificación
+internacional de actividades para las estadísticas sobre el uso
+del tiempo en que se aprecien las diferencias entre mujeres y
+hombres en lo relativo al trabajo remunerado y no
+remunerado, y reunir datos desglosados por sexo"
+
+                                                                                                                                 25
+               Boletín técnico
+
+                  Encuesta Nacional de Uso del Tiempo (ENUT)
+              Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+(Declaración y Plataforma de Acción de Beijing,1995, pags. 94
+y 95).
+
+                                                                                                                                 26
+Objetivo general                      Boletín técnico
+Objetivos específicos
+                                         Encuesta Nacional de Uso del Tiempo (ENUT)
+                                     Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+                        En este contexto descrito previamente, se crea la necesidad
+                        de contar con información sobre el uso y asignación del
+                        tiempo que hace la población a actividades remuneradas y
+                        no remunerado o no estructuradas, y a actividades
+                        personales, motivando el surgimiento en Colombia de la
+                        operación estadística Encuesta Nacional de Uso del Tiempo
+                        ENUT.
+                        La ENUT produce información estadística, que permita la
+                        caracterización del tiempo dedicado por la población de 10
+                        anos o mas, a actividades de trabajo, remunerado y no
+                        remunerado, y actividades personales.
+                        Esta iniciativa se acoge desde 2012, ano de la primera
+                        aplicación. Esta se realizó para un periodo de 52 semanas
+                        entre agosto de 2012 y julio de 2013. La segunda aplicación
+                        de la ENUT se realizó entre septiembre de 2016 y agosto de
+                        2017. La tercera aplicación de la ENUT se realizó entre
+                        septiembre de 2020 y agosto de 2021. La entrega mas
+                        reciente se esta realizando entre septiembre de 2024 a
+                        agosto de 2025.
+
+                       Producir información estadística, que permita la
+                       caracterización del tiempo dedicado por la población de 10
+                       anos o mas, a actividades de trabajo, remunerado y no
+                       remunerado, y a actividades personales.
+
+                           · Generar información insumo para la medición de la
+                                Economía del Cuidado a través de la Cuenta Satélite.
+
+                           · Producir información base para la construcción de
+                                indicadores que permitan la formulación, seguimiento
+                                y evaluación de política pública con enfoque de
+                                género.
+
+                           · Producir información base para la construcción de
+                                indicadores que permitan la formulación, seguimiento
+                                y evaluación de política pública relacionada con el uso
+                                del tiempo.
+
+                       27
+Alcance temático                  Boletín técnico
+Conceptos básicos
+                                     Encuesta Nacional de Uso del Tiempo (ENUT)
+                                 Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+                   Condiciones de vida relacionadas con el Uso del Tiempo
+
+                    Actividades relacionadas con el trabajo: Comprenden el
+                    tiempo dedicado a trabajos a tiempo completo o parcial, o
+                    el tiempo dedicado a buscar trabajo. Para las personas que
+                    trabajan, incluye el trabajo principal y el segundo trabajo
+                    potencial. También se incluyen los descansos en el lugar de
+                    trabajo, así como el tiempo dedicado a ir al trabajo
+                    (Conceptos estandarizados DANE).
+                    Frontera de la producción en el SCN: Comprende a) la
+                    producción de todos los bienes o servicios que se ofrecen o
+                    que se pretende ofrecer a unidades distintas de aquellas que
+                    los producen, incluso la producción de bienes o servicios
+                    utilizados completamente en el proceso de producción de
+                    dichos bienes o servicios; b) la producción por cuenta propia
+                    de todos los bienes retenidos por sus productores para su
+                    autoconsumo final o para su formación bruta de capital; c) la
+                    producción por cuenta propia de productos que capturan
+                    conocimiento, retenidos por sus productores para su
+                    autoconsumo final o formación bruta de capital, con
+                    exclusión (por convención) de éstos cuando son producidos
+                    por los hogares para su uso propio; d) la producción por
+                    cuenta propia de servicios de vivienda ocupada por sus
+                    propietarios; y e) la producción de servicios domésticos y
+                    personales producidos empleando personal de servicio
+                    doméstico remunerado (Marco central del Sistema de
+                    Cuentas Nacionales - SCN, 2008).
+                    Trabajo comprendido en el SCN: Actividad cuyo fin es la
+                    producción de un bien o servicio comprendida dentro de la
+                    frontera de producción del SCN. Esto equivale al trabajo
+                    remunerado, es decir, al conjunto de actividades que realizan
+                    las personas, destinadas a producir bienes y servicios para la
+                    obtención de ingresos de algún tipo (adaptado del glosario
+                    de la Dirección de Síntesis y Cuentas Nacionales, DANE).
+                    Trabajo no comprendido en el SCN: Actividad que
+                    contribuye a la producción de servicios para uso final propio
+                    de los hogares y por la cual, la persona que la realizó no
+
+                                                                                                                                                    28
+Variables                   Boletín técnico
+Indicadores
+                               Encuesta Nacional de Uso del Tiempo (ENUT)
+                           Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+              recibe remuneración alguna, y que, por tanto, no se
+              encuentra comprendido dentro de la frontera de producción
+              del SCN. Esto equivale al Trabajo no remunerado que se
+              define a continuación.
+              Trabajo no remunerado: Se refiere al conjunto de
+              actividades no remuneradas, realizadas con el objetivo de
+              proveer bienes y servicios para los miembros de la familia y
+              de la comunidad. Incluye actividades tales como: servicios de
+              apoyo, producción de bienes y servicios para uso final
+              propio, abastecimiento de agua y combustible,
+              autoconstrucción y reparación de la vivienda, y servicios de
+              cuidado, en el propio hogar o en otros hogares sin recibir
+              pago alguno (adaptado del glosario de la Dirección de
+              Síntesis y Cuentas Nacionales, DANE).
+
+             Tiempo: Se entiende como las sumatoria de horas y minutos
+             destinadas a una actividad o grupo de actividades
+             contemplada en la Encuesta Nacional de uso del Tiempo. La
+             unidad de tiempo son horas y minutos (hh:mm).
+             Participación: Se define como la realización de una actividad
+             específica considerada en la Encuesta Nacional de Uso del
+             Tiempo durante un periodo de tiempo determinado (periodo
+             de referencia).
+
+                        10 ñ  á  
+                                    í  
+
+             ó   =
+
+                        10 ñ  á
+
+                                                                        (: )
+                 =
+
+                                                                     10 ñ  á  
+                                                                                  í  
+
+                          (: )
+
+                =
+
+                        10 ñ  á
+
+                    29
+                                  Boletín técnico
+
+                             Encuesta Nacional de Uso del Tiempo (ENUT)
+                         Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+Estándares estadísticos  · Clasificación Industrial Internacional Uniforme de
+empleados                    todas las actividades económicas. Revisión 4
+
+Universo de estudio      Adaptada para Colombia (CIIU Rev. 4 A.C.).
+Población objetivo
+                         · División Político  Administrativa de
+
+                         Colombia (DIVIPOLA).
+
+                         · Clasificación Única de Ocupaciones (CUOC) adaptación
+
+                         para Colombia del estandar internacional para la
+                         clasificación de las ocupaciones, de acuerdo con las
+
+                         indicaciones de la Organización Internacional del
+                         Trabajo (OIT) y los Principios Fundamentales de las
+                         Estadísticas Oficiales edición 2023.
+
+                         · Clasificación internacional de actividades para
+                             estadística de uso del tiempo adaptada para Colombia
+                             ICATUS 2016 A.C, publicada en el ano 2020.
+
+                         Esta conformado por la población civil no institucional
+                         residente en todo el territorio nacional.
+
+                         La población objetivo esta conformada por la población civil
+                         no institucional de 10 anos y mas, residente en todo el
+                         territorio nacional, incluyendo los nuevos departamentos de
+                         la Orinoquia y Amazonia.
+
+                                                                     30
+Unidades estadísticas                 Boletín técnico
+
+                                         Encuesta Nacional de Uso del Tiempo (ENUT)
+                                     Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+                       Unidad de observación.
+
+                       Viviendas, hogares y personas.
+
+                       Unidad de muestreo.
+
+                       Existen varias unidades de muestreo dependiendo de la etapa
+                       de la cual se esté hablando. Las unidades primarias de
+                       muestreo se relacionan con la primera etapa, las unidades
+                       secundarias con la segunda etapa y así sucesivamente. Para
+                       esta encuesta en particular se definen 2 etapas, y sus unidades
+                       de muestreo asociadas son las siguientes:
+
+                           · Unidades Primarias de Muestreo (UPM): se denominan
+                                así todos los municipios del país.
+
+                           · Unidades Secundarias de Muestreo (USM): son los
+                                segmentos o medidas de tamano MT (areas de 10
+                                viviendas en promedio) tanto en la cabecera como en
+                                el resto del municipio, con límites naturales facilmente
+                                identificables en los que se encuestan todos los
+                                hogares.
+
+                       Unidad de análisis.
+                       Viviendas, hogares y personas.
+
+Marco estadístico (censal o Esta constituido por el inventario cartografico y el archivo
+
+muestral)              agregado de viviendas y hogares a nivel de manzana, para
+                       cabeceras municipales y centros poblados y el agregado a
+
+                       nivel de sección cartografica para los centros poblados -
+
+                       rural disperso; datos obtenidos a partir de la información del
+
+                       Censo Nacional de Población y Vivienda (CNPV) de 2018.
+
+Fuentes de datos       La fuente de información de la investigación esta constituida
+                       por los hogares y personas seleccionados en un muestreo
+                       probabilístico. Se trata, por tanto, de una fuente primaria de
+                       información.
+
+                       31
+                                      Boletín técnico
+
+                                 Encuesta Nacional de Uso del Tiempo (ENUT)
+                             Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+Tamaño de muestra (si aplica)El tamano de la muestra total para el ano de aplicación de la
+                                          encuesta es de aproximadamente 50.000 hogares, contenidos
+                                          en 4614 segmentos. Los segmentos son areas de 10 viviendas
+                                          en promedio, tanto en la cabecera como en el resto del
+                                          municipio.
+
+Diseño muestral (si aplica)  Se optó por muestreo probabilístico, multietapico,
+                             estratificado de conglomerados desiguales y autoponderado.
+                             Tiene cobertura nacional, que permite obtener resultados por
+                             zona urbana, rural y seis regiones del país. Por consiguiente,
+                             prevalecen las premisas y características de la muestra
+                             maestra, con las particularidades propias de la investigación.
+
+Precisión de los resultados  Se estableció como precisión deseable de los indicadores de
+(si aplica)                  nivel o magnitud, un error estandar relativo (ESrel) maximo de
+                             0,05 o 5%, para tasas de alrededor del 10%.
+
+Mantenimiento y rotación deEl marco se actualiza de forma parcial mediante los ejercicios
+
+la muestra (si aplica)       de recuento que se realizan previos a la recolección. Se
+
+                             actualiza en su totalidad cuando se realizan censos de
+                             población y vivienda. Los recuentos se realizan de manera
+                             permanente, por lo cual la actualización parcial es continua. El
+
+                             marco con el cual se realiza la investigación es el generado
+                             por el CNPV 2018.
+
+Cobertura geográfica         La ENUT tiene cobertura nacional incluyendo los nuevos
+Periodo de referencia        departamentos de la Orinoquia y Amazonia. Se ha establecido
+                             la desagregación geografica a nivel de regiones, es decir,
+                             Caribe, Central, Oriental, Pacífica, Bogota, San Andrés,
+                             Orinoquía y Amazonía.
+
+                             El día anterior: día calendario inmediatamente anterior al día
+                             en que se realiza la encuesta, corresponde a las 24 horas,
+                             desde las 00:00 horas a las 23:59 horas.
+
+Periodo de recolección       Trienal - recolección continua durante 52 semanas (1 ano de
+/ acopio y frecuencia        recolección). Periodo 2024-2025.
+
+                             32
+                                      Boletín técnico
+
+                                 Encuesta Nacional de Uso del Tiempo (ENUT)
+                             Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+Método de recolección        Entrevista directa a todas las personas de 10 anos y mas
+o acopio                     pertenecientes a los hogares seleccionados en la muestra,
+                             para las personas menores de 10 anos se utiliza encuestado
+                             idóneo (persona de 18 anos o mas encargada de su cuidado).
+
+                                          Desagregación geográfica.
+Desagregación geográfica y
+
+temática                     La desagregación geografica de la Encuesta Nacional de Uso
+
+                             del Tiempo (ENUT) tendra una representación anual (2024-
+
+                             2025), por cada región, cabecera y resto.
+
+                             Desagregación tematica.
+
+                             Tiempo utilizado en trabajo remunerado, trabajo no
+                             remunerado y en actividades personales, desagregado según
+                             sexo y edad.
+
+                             ENUT 2012 ­ 2013; ENUT 2016 ­ 2017; ENUT 2020-2021
+
+                                          Microdatos anonimizados.
+
+Periodo y frecuencia Abril de 2014 con información recolectada en agosto de 2012
+disponible de los resultados a julio de 2013. Abril de 2018 con información recolectada en
+
+                                          septiembre de 2016 a agosto de 2017. Julio de 2022 con
+                                          información recolectada en septiembre de 2020 a agosto de
+                                          2021.
+
+Medios de difusión y acceso  · Boletín técnico.
+                             · Comunicado de prensa.
+                             · Presentación de resultados en PowerPoint.
+                             · Anexos.
+                             · Base de datos anonimizada en pagina web del DANE.
+
+                                 Los cuales se encuentran disponibles en la pagina web
+                                 del DANE y los microdatos anonimizados se
+                                 encuentran en el Archivo Nacional de Datos - ANDA.
+
+                                                                        33
+                                      Boletín técnico
+
+                                                                       Encuesta Nacional de Uso del Tiempo (ENUT)
+                                                                  Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+Glosario
+
+Actividades con menores de 5 años: Para efectos de la ENUT, es el conjunto de actividades que
+incluye: jugar, leer o contar cuentos y/o llevar al parque. (Clasificación nacional de actividades para
+estadísticas de uso del tiempo adaptada para Colombia, 2020).
+
+Actividades relacionadas con el trabajo: Comprenden el tiempo dedicado a trabajos a tiempo
+completo o parcial, o el tiempo dedicado a buscar trabajo. Para las personas que trabajan, incluye
+el trabajo principal y el segundo trabajo potencial. También se incluyen los descansos en el lugar
+de trabajo, así como el tiempo dedicado a ir al trabajo (Conceptos estandarizados DANE).
+
+Actividades de apoyo a miembros del hogar: Para efectos de la ENUT, es el conjunto de
+actividades que incluye: ayudar con tareas o trabajos escolares, acompañar a citas médicas,
+odontológicas, urgencias, terapias u otras atenciones en salud y/o llevar o traer a personas del
+hogar al sitio de estudio, trabajo o a eventos culturales deportivos o recreativos. (Clasificación
+nacional de actividades adaptada para Colombia, 1998).
+
+Actividades de compras y administración del hogar: Para efectos de la ENUT, es el conjunto de
+actividades que incluye: comprar artículos personales para el hogar, comprar o reclamar
+medicamentos, dirigir o supervisar actividades de trabajo doméstico en el hogar, pagar facturas,
+poner o recoger encomiendas, buscar vivienda para comprar o tomar en arriendo y/o cobrar
+subsidios. (Clasificación nacional de actividades adaptada para Colombia, 1998).
+
+Actividades de cuidado físico a miembros del hogar: Para efectos de la ENUT, es el conjunto
+de actividades que incluye: alimentar a una persona o ayudarle a hacerlo, bañar o vestir a una
+persona o ayudarle a hacerlo, suministrar medicamentos y/o hacer terapias o dar tratamiento a
+enfermedades. (Clasificación nacional de actividades adaptada para Colombia, 1998).
+
+Actividades de cuidado personal: Comprende el tiempo dedicado a las actividades desarrolladas
+por las personas que no se pueden delegar en alguien más, tales como: dormir, tomar una siesta,
+comer y beber, y otros servicios del hogar, médicos y personales, higiene, visitas al médico,
+peluquería, entre otras. (Conceptos estandarizados DANE).
+
+Actividades de educación: Para efectos de la ENUT, es el conjunto de actividades que
+incluye: asistencia a educación formal, hacer tareas o trabajos escolares, asistencia a
+educación informal y no formal y/o otras actividades relacionadas con el estudio.
+(Clasificación nacional de actividades adaptada para Colombia, 1998).
+
+                                                                                                                                                                                                                      34
+                                      Boletín técnico
+
+                                                                       Encuesta Nacional de Uso del Tiempo (ENUT)
+                                                                  Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+Actividades de limpieza, mantenimiento y reparación para el hogar: Para efectos de
+la ENUT, es el conjunto de actividades que incluye: barrer, trapear, tender camas, sacudir
+el polvo, sacar la basura, cuidar mascotas, cuidar el jardín, limpiar el vehículo, traer
+combustible para uso del hogar diferente a leña, reparar o hacer instalaciones en la
+vivienda, reparar electrodomésticos, muebles o vehículos del hogar y/o llevar a reparar
+electrodomésticos muebles o vehículos del hogar. (Clasificación nacional de actividades
+adaptada para Colombia, 1998).
+
+Actividades de mantenimiento de vestuario: Para efectos de la ENUT, es el conjunto de
+actividades que incluye: lavar, planchar o guardar la ropa de las personas del hogar,
+reparar ropa, cobijas, maletas o calzado de las personas del hogar, llevar o recoger ropa
+o zapatos de la lavandería o zapatería. (Clasificación nacional de actividades adaptada
+para Colombia, 1998).
+
+Actividades de suministro de alimentos: Para efectos de la ENUT, es el conjunto de
+actividades que incluye: preparar y servir alimentos, levantar los platos o lavar la loza,
+llevarle la comida a personas del hogar al sitio de trabajo o estudio. (Clasificación nacional
+de actividades adaptada para Colombia, 1998).
+
+Actividades de uso medios de comunicación: Para efectos de la ENUT, es el conjunto
+de actividades que incluye: ver televisión, videos o películas, escuchar música, bajar música
+por internet o escuchar la radio, navegar por internet, chatear, jugar con el computador o
+con una consola de videojuegos, hablar por teléfono, leer libros, revistas o periódicos.
+(Clasificación nacional de actividades adaptada para Colombia, 1998).
+
+Actividades de vida social: Para efectos de la ENUT, es el conjunto de actividades que
+incluye: asistencia a bares, sitios de baile o fiestas, visitar familiares o amigos, conversar,
+charlar, aconsejar o consolar a personas del hogar, charlar con personas de otros hogares,
+asistencia a velorios o entierros. (Clasificación nacional de actividades adaptada para
+Colombia, 1998).
+
+Actividades de voluntariado: Para efectos de la ENUT, es el conjunto de actividades que
+incluye: trabajo doméstico y de cuidado no remunerado para otros hogares, trabajo
+voluntario en beneficio de la comunidad, trabajo voluntario a través de Instituciones Sin
+Fines de Lucro que Sirven a los Hogares. (Clasificación nacional de actividades adaptada
+para Colombia).
+
+                                                                                                                                                                                                                      35
+                                      Boletín técnico
+
+                                                                       Encuesta Nacional de Uso del Tiempo (ENUT)
+                                                                  Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+Actividades de vida cultural, aficiones y deporte: Para efectos de la ENUT, es el
+conjunto de actividades que incluye: asistir a eventos deportivos, parques recreativos o
+temáticos, practicar de manera libre algún deporte, hacer yoga, ir al gimnasio, juegos
+diferentes a videojuegos, juegos de computador, celular o tableta, ir a cine, teatro, danza,
+música en vivo o exposiciones de arte o museos, practicar algún instrumento musical,
+realizar alguna otra actividad artística. (Clasificación nacional de actividades adaptada para
+Colombia, 1998).
+
+Actividades de vida religiosa: Para efectos de la ENUT, es el conjunto de actividades que
+incluye: rezar, meditar, ir a misa o culto religioso. (Clasificación nacional de actividades
+adaptada para Colombia, 1998).
+
+Día de referencia: Período continúo de 24 horas durante las cuales los encuestados
+informaron sus actividades (ENUT, 2013).
+
+Día promedio: Refleja una distribución promedio de tiempo en las diferentes actividades
+de las personas de la población en referencia y todos los días de la semana (ENUT, 2013).
+
+Día promedio hábil: Se define como el promedio de participación o tiempo en las
+diferentes actividades durante los días hábiles (lunes a viernes) excluyendo los días
+festivos. (ENUT, 2013).
+
+Día promedio no hábil: Se define como el promedió de participación o tiempo en las
+diferentes actividades durante los días no hábiles (sábados, domingos y festivos) (ENUT,
+2013).
+
+Educación formal: Es aquella que se imparte en instituciones educativas aprobadas, en
+una secuencia regular de ciclos lectivos, con sujeción a pautas curriculares progresivas y
+conducentes a grados y títulos. Se divide en tres niveles: Preescolar, Básica y Media
+(Conceptos estandarizados DANE).
+
+Educación informal: Se considera como todo conocimiento libre y espontáneamente
+adquirido, proveniente de personas, entidades, medios de comunicación masiva, medios
+impresos, tradiciones, costumbres, comportamientos sociales y otros no estructurados
+(Conceptos estandarizados DANE).
+
+Frontera de la producción en el SCN: Comprende a) la producción de todos los bienes
+o servicios que se ofrecen o que se pretende ofrecer a unidades distintas de aquéllas que
+
+                                                                                                                                                                                                                      36
+                                      Boletín técnico
+
+                                                                       Encuesta Nacional de Uso del Tiempo (ENUT)
+                                                                  Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+los producen, incluso la producción de bienes o servicios utilizados completamente en el
+proceso de producción de dichos bienes o servicios; b) la producción por cuenta propia
+de todos los bienes retenidos por sus productores para su autoconsumo final o para su
+formación bruta de capital; c) la producción por cuenta propia de productos que capturan
+conocimiento, retenidos por sus productores para su autoconsumo final o formación
+bruta de capital, con exclusión (por convención) de éstos cuando son producidos por los
+hogares para su uso propio; d) la producción por cuenta propia de servicios de vivienda
+ocupada por sus propietarios; y e) la producción de servicios domésticos y personales
+producidos empleando personal de servicio doméstico remunerado (Marco central del
+Sistema de Cuentas Nacionales - SCN, 2008).
+
+Servicios: Conjunto de actividades desarrolladas por unidades económicas, encaminadas
+a generar o aponer a disposición de personas hogares o empresas una amplia gama de
+productos intangibles. Poseen una diversidad de características de acuerdo con las
+necesidades de quienes los solicitan (Conceptos estandarizados DANE).
+
+Trabajo de cuidado: Conjunto de actividades humanas, remuneradas o no, realizadas con
+el fin de producir servicios de cuidado para satisfacer las necesidades básicas de terceras
+personas o para uso final propio. Se diferencian de las actividades de ocio en la medida
+en que podrían ser reemplazadas por bienes de mercado o servicios pagados, si
+circunstancias tales como ingreso, condiciones de mercado o inclinaciones personales
+permitieran que el servicio fuera delegado en una tercera persona (Tomado de las
+definiciones estipuladas por la Comisión Intersectorial de la Ley 1413 de 2010, creada por
+el Decreto 2490 de 2013, DANE).
+
+Trabajo comprendido en el SCN: Actividad cuyo fin es la producción de un bien o
+servicio comprendida dentro de la frontera de producción del SCN. Esto equivale al trabajo
+remunerado, es decir, al conjunto de actividades que realizan las personas, destinadas a
+producir bienes y servicios para la obtención de ingresos de algún tipo (adaptado del
+glosario de la Dirección de Síntesis y Cuentas Nacionales, DANE).
+
+Trabajo no comprendido en el SCN: Actividad que contribuye a la producción de
+servicios para uso final propio de los hogares y por la cual, la persona que la realizó no
+recibe remuneración alguna, y que, por tanto, no se encuentra comprendido dentro de la
+frontera de producción del SCN. Esto equivale al Trabajo no remunerado que se define a
+continuación. Trabajo no remunerado: Se refiere al conjunto de actividades no
+remuneradas, realizadas con el objetivo de proveer bienes y servicios para los miembros
+de la familia y de la comunidad. Incluye actividades tales como: servicios de apoyo,
+
+                                                                                                                                                                                                                      37
+                                      Boletín técnico
+
+                                                                       Encuesta Nacional de Uso del Tiempo (ENUT)
+                                                                  Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+producción de bienes y servicios para uso final propio, abastecimiento de agua y
+combustible, autoconstrucción y reparación de la vivienda, y servicios de cuidado, en el
+propio hogar o en otros hogares sin recibir pago alguno (adaptado del glosario de la
+Dirección de Síntesis y Cuentas Nacionales, DANE).
+Trabajo en producción de bienes para uso final propio de los hogares: Es el conjunto
+de actividades que incluye: acarreo de agua, recolección de leña, elaboración de prendas
+de vestir para las personas del hogar o de otros hogares, construir o ampliar una vivienda
+y/o actividades de producción agropecuaria para uso final propio (Manual del sistema de
+cuentas nacionales, 2008).
+
+                                                                                                                                                                                                                      38
+                                      Boletín técnico
+
+                                                                       Encuesta Nacional de Uso del Tiempo (ENUT)
+                                                                  Octubre 2024 -marzo 2025 (Resultados preliminares)
+
+Si requiere información adicional, contáctenos a través del correo
+
+contacto@dane.gov.co
+
+Departamento Administrativo Nacional de Estadística (DANE)
+Bogotá D.C., Colombia
+
+www.dane.gov.co
+
+                                                                                                                                                                                                                      39
+

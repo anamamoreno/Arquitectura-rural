@@ -1,0 +1,725 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>F0-4-Producto1-Estrategia.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> or <div class="page"></div> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<h1 id="entregable-1-estrategia-del-levantamiento-de-información">ENTREGABLE 1: Estrategia del Levantamiento de información</h1>
+<p><strong>Proyecto:</strong> Guía técnica de estándares de sostenibilidad para vivienda rural y pública (Res. 0194/2025).
+<strong>Producto 1:</strong> Levantamiento de información sobre estándares de sostenibilidad aplicables para las tipologías de viviendas rurales existentes en los 4 climas de Colombia.
+<strong>Inicio:</strong> 2026-04-14 · <strong>Cierre:</strong> 2026-04-28.
+<strong>Versión:</strong> B-0.3.</p>
+<hr>
+<h2 id="1-objetivo-del-entregable-1-del-producto-1">1. Objetivo del Entregable 1 del Producto 1</h2>
+<p>Formular e implementar una estrategia para la recolección efectiva y eficiente de la información desde fuentes secundarias de información sobre estándares de sostenibilidad para la construcción aplicables a los climas de Colombia.</p>
+<h2 id="2-enfoque-metodológico">2. Enfoque metodológico</h2>
+<p>Se adopta un levantamiento focalizado con trazabilidad tipo <strong>PRISMA simplificado</strong>: ecuaciones booleanas sobre bases indexadas e hispanohablantes, <strong>búsqueda en bola de nieve (<em>snowballing</em>)</strong> dirigida desde fuentes clave, y fichaje sistemático de una base documental pre-validada por el líder del proyecto.</p>
+<p><strong>Trazabilidad tipo PRISMA simplificado:</strong> <em>Permite responder, en caso de auditoría del Ministerio, preguntas como: &quot;¿Cómo encontraron esta fuente?&quot; → Respuesta: ecuación E1-C3-SC ejecutada en Scopus el 2026-04-16, posición 14 de 87 resultados, aprobada tras lectura de resumen. &quot;¿Por qué descartaron aquella otra?&quot; → Respuesta: incumple criterio temporal (publicada en 2008, anterior a 2015). &quot;¿Cuántas fuentes consultaron en total?&quot; → Respuesta: 150 brutas, 80 filtradas, 45 leídas a texto completo, 30 incluidas en M1. Sin trazabilidad, tu levantamiento es opinión experta no verificable. Con trazabilidad PRISMA simplificada, es evidencia reconstruible.</em></p>
+<p><strong>Búsqueda en bola de nieve (<em>snowballing</em>):</strong> <em>técnica que expande el universo bibliográfico a partir de fuentes clave, rastreando sus referencias citadas (hacia atrás) y las publicaciones que las citan (hacia delante). Útil para capturar literatura no indexada en bases internacionales — especialmente tesis colombianas y casos vernáculos.</em></p>
+<h2 id="3-alcances-del-producto-1-que-retroalimenta-el-producto-2">3. Alcances del Producto 1 que retroalimenta el Producto 2</h2>
+<table>
+<thead>
+<tr>
+<th>El Producto 1 entrega</th>
+<th>El Producto 2 hace con eso</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Universo de estándares trazable (matriz M1)</td>
+<td>Selecciona los 2 sistemas por clima y llena matriz M2</td>
+</tr>
+<tr>
+<td>Estrategias de sostenibilidad aplicables a vivienda rural — obligatorias (Res. 0194) y recomendadas (CEELA)</td>
+<td>Convierte el mapeo en narrativa de la guía</td>
+</tr>
+<tr>
+<td>Lista preliminar de vacíos normativos</td>
+<td>Decide cómo tratarlos en la guía</td>
+</tr>
+<tr>
+<td>Lista corta de casos vernáculos</td>
+<td>Los caracteriza técnicamente e ilustra</td>
+</tr>
+<tr>
+<td>Métricas cuantitativas de desempeño</td>
+<td>Traduce a lenguaje simple por audiencia</td>
+</tr>
+</tbody>
+</table>
+<p><em>En el Producto 1 <strong>no redacta la guía</strong> ni decide sistemas constructivos; aporta la base documental con la que arquitectos y expertos trabajarán.</em></p>
+<p><em>Selección final de los 2 sistemas constructivos por clima: decisión de los arquitectos del equipo. Redacción de la guía y enfoque editorial: responsabilidad de los 2 expertos directores.</em></p>
+<h2 id="4-marco-climático-y-normativo">4. Marco climático y normativo</h2>
+<p><strong>Clasificación climática adoptada:</strong> Caldas (pisos térmicos IDEAM) complementada con Lang (humedad relativa). Resultan <strong>4 climas</strong>: frío, templado, cálido seco, cálido húmedo — idénticos a los definidos en los Términos de Referencia.</p>
+<p><strong>Clasificación Köppen-Geiger (8 subtipos):</strong> se mantiene como capa analítica complementaria, marcada en columna dedicada de la matriz M1. No implica búsquedas adicionales en esta fase; permite análisis post-hoc para detectar diferencias dentro de cada clima TdR.</p>
+<p><strong>Marco normativo obligatorio:</strong></p>
+<ul>
+<li>Resolución 0194 de 2025 — Anexo 1 Guía de Construcción Sostenible.</li>
+<li>15 criterios CEELA (Centros de Eficiencia Energética en edificaciones de América Latina).</li>
+</ul>
+<h2 id="5-base-documental-pre-validada">5. Base documental pre-validada</h2>
+<p>El director del proyecto validó como insumo oficial los siguientes documentos, que cubren aproximadamente el 50 % del levantamiento requerido:</p>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Documento</th>
+<th>Ejes que cubre</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Anexo 1 Res. 0194/2025</td>
+<td>Bioclimática, energía activa, eficiencia hídrica</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Cartilla de Materiales (Uniandes-CCCS, 2021)</td>
+<td>Materiales sostenibles</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Guía de Materiales para Construcción Sostenible (MADS, 2022)</td>
+<td>Materiales sostenibles</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Lineamientos VIS Nueva Rural (DNP-MVCT)</td>
+<td>Tipologías y sistemas</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Guía de Vivienda Rural (Alcaldía Bogotá, 2018)</td>
+<td>Bioclimática y páramo</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Inventario de Sistemas Constructivos VIS (2000)</td>
+<td>Sistemas constructivos</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Hábitat Para La Paz</td>
+<td>Vernáculo y género/inclusión</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Vivienda y Cultura Digital</td>
+<td>Metodologías</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Vivienda Nueva Rural</td>
+<td>Aplicación integrada</td>
+</tr>
+<tr>
+<td>10</td>
+<td>La sostenibilidad y cambio climático</td>
+<td>Marco general</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Estrategia de trabajo:</strong> fichar estos documentos en la Semana 1 y complementar con búsqueda focalizada en Semana 2 para cerrar vacíos específicos (cálido húmedo y cálido seco rurales, principalmente).</p>
+<h2 id="6-entregables-del-equipo-de-investigación">6. Entregables del equipo de investigación</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Entregable</th>
+<th>Alcance</th>
+<th>Líder</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Protocolo de búsqueda</td>
+<td>12 ecuaciones (EN + ES) sobre 3 bases principales, registro Excel trazable</td>
+<td>Responsable búsqueda</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Biblioteca Zotero organizada</td>
+<td>Base pre-validada + búsqueda focalizada, tags consistentes por eje/clima/sistema</td>
+<td>Responsable búsqueda</td>
+</tr>
+<tr>
+<td>3</td>
+<td><strong>Matriz M1</strong> — universo de estándares</td>
+<td>~100–150 filas × ~20 columnas filtrables</td>
+<td>Responsable búsqueda</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Estrategias de sostenibilidad aplicables a vivienda rural — obligatorias (Res. 0194) y recomendadas (CEELA)</td>
+<td>Mapeo operativo de las medidas del Anexo con los 15 criterios CEELA</td>
+<td>Responsable búsqueda</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Informe preliminar de vacíos normativos</td>
+<td>Declaración de zonas climáticas o ejes temáticos sin cobertura documental suficiente</td>
+<td>Responsable búsqueda</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Lista de casos vernáculos</td>
+<td>3–5 casos por clima con foto, localización y referencia, para caracterización posterior por arquitectos</td>
+<td>Responsable búsqueda</td>
+</tr>
+</tbody>
+</table>
+<h2 id="7-ejes-temáticos">7. Ejes temáticos</h2>
+<p>Cinco ejes guían el levantamiento; la profundidad esperada en cada uno se ajusta a la disponibilidad de evidencia y al plazo:</p>
+<table>
+<thead>
+<tr>
+<th>Eje</th>
+<th>Profundidad</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>E1 Bioclimática pasiva</td>
+<td>Alta — el Anexo 1 la cubre bien, se complementa con literatura vernácula</td>
+</tr>
+<tr>
+<td>E2 Eficiencia energética activa</td>
+<td>Media-alta — el Anexo 1 cubre contexto urbano; se levanta evidencia específica para vivienda rural off-grid y zonas no interconectadas</td>
+</tr>
+<tr>
+<td>E3 Eficiencia hídrica</td>
+<td>Media — el Anexo 1 cubre contexto urbano; se levanta evidencia para vivienda sin red</td>
+</tr>
+<tr>
+<td>E4 Materiales sostenibles</td>
+<td>Media — el Anexo 1 no desarrolla este eje; se apoya en Cartillas MVCT + MADS</td>
+</tr>
+<tr>
+<td>E5 Metodologías pre-diseño</td>
+<td>Baja-media — se enumeran las metodologías recomendadas (análisis del sitio, simulación, higrometría, POE) sin desarrollarlas</td>
+</tr>
+</tbody>
+</table>
+<h2 id="8-vacíos-declarables">8. Vacíos declarables</h2>
+<p>Se entregan identificados y documentados, pero no resueltos, al cierre del Producto 1:</p>
+<ul>
+<li><strong>Páramo (ET Köppen):</strong> sin estrategias específicas en Anexo 1 ni CEELA; se propone adaptación desde literatura andina como valor agregado.</li>
+<li><strong>Alta Guajira (BWh Köppen):</strong> salinidad y déficit hídrico extremo sin tratamiento diferenciado.</li>
+<li><strong>Higrometría de materiales:</strong> literatura escasa en español.</li>
+<li><strong>Metodologías de verificación de cumplimiento:</strong> no desarrolladas a profundidad; requieren cruce normativo específico con NTC, NSR-10, RAS, RETIE.</li>
+</ul>
+<h2 id="9-capacidad-y-reparto-de-esfuerzo">9. Capacidad y reparto de esfuerzo</h2>
+<p><strong>2 semanas</strong> (10 días hábiles) con <strong>~120 horas</strong> de capacidad combinada entre los dos responsables de búsqueda.
+<strong>Distribución estimada de las 120 horas:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Actividad</th>
+<th>Horas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Setup y protocolo</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Fichaje de documentos pre-validados</td>
+<td>25</td>
+</tr>
+<tr>
+<td>Búsquedas focalizadas</td>
+<td>25</td>
+</tr>
+<tr>
+<td>Screening y selección</td>
+<td>15</td>
+</tr>
+<tr>
+<td>Extracción a matriz M1</td>
+<td>30</td>
+</tr>
+<tr>
+<td>Estrategias de sostenibilidad</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Coordinación y cierre</td>
+<td>5</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>~120 h</strong></td>
+</tr>
+</tbody>
+</table>
+<h2 id="10-coordinación">10. Coordinación</h2>
+<table>
+<thead>
+<tr>
+<th>Alineamiento</th>
+<th>Frecuencia</th>
+<th>Duración</th>
+<th>Participantes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sync entre responsables de búsqueda</td>
+<td>Diaria</td>
+<td>15 min</td>
+<td>Ambos</td>
+</tr>
+<tr>
+<td>Reunión con arquitectos</td>
+<td>2 veces (arranque y entrega)</td>
+<td>45 min</td>
+<td>Responsable de búsqueda + arquitectos</td>
+</tr>
+<tr>
+<td>Reunión con expertos directores</td>
+<td>1 vez (validación protocolo + facilitación de accesos)</td>
+<td>30 min</td>
+<td>Responsable de búsqueda + 2 expertos</td>
+</tr>
+</tbody>
+</table>
+<h2 id="11-acceso-a-bases-indexadas">11. Acceso a bases indexadas</h2>
+<p>Los 2 expertos directores tienen acceso institucional a Scopus y Web of Science, y lo facilitan al equipo de búsqueda. El responsable con dedicación parcial ejecuta las búsquedas bajo esos accesos o solicita exportación de resultados.</p>
+<p>Bases complementarias abiertas: SciELO, Redalyc, Google Scholar, repositorios institucionales universitarios colombianos (UNAL, UniAndes, Javeriana, UPB, UniValle, UIS).</p>
+<h2 id="12-reunión-con-arquitectos--2026-04-15">12. Reunión con arquitectos — 2026-04-15</h2>
+<p>Primera reunión del cronograma (45 min) con objetivos acotados:</p>
+<ol>
+<li>Acordar <strong>taxonomía preliminar de sistemas constructivos</strong> para etiquetar M1 desde el día uno.</li>
+<li>Alinear expectativas sobre los entregables (matriz M1 filtrable + lista de casos vernáculos).</li>
+<li>Acordar fecha de segunda reunión al cierre (2026-04-28 o antes).</li>
+</ol>
+<p>Base de discusión: taxonomía en 6 dimensiones (origen del conocimiento, grado de industrialización, integralidad, material estructural dominante, cimentación, aplicabilidad climática).</p>
+<h2 id="13-riesgos-del-plazo-y-mitigaciones">13. Riesgos del plazo y mitigaciones</h2>
+<table>
+<thead>
+<tr>
+<th>Riesgo</th>
+<th>Mitigación</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Dedicación parcial de uno de los responsables limita capacidad</td>
+<td>El responsable full-time asume liderazgo de extracción; el de dedicación parcial concentra método y búsquedas indexadas</td>
+</tr>
+<tr>
+<td>Demora en accesos Scopus / WoS</td>
+<td>Avanzar con SciELO + Redalyc + Google Scholar + repositorios CO desde el día 1</td>
+</tr>
+<tr>
+<td>Demora en cierre de taxonomía de sistemas</td>
+<td>Operar con taxonomía provisional propia si no se cierra con arquitectos a tiempo</td>
+</tr>
+<tr>
+<td>Eje E4 (materiales) sin tiempo suficiente</td>
+<td>Apoyarse en Cartilla Materiales + Guía MADS + Inventario Sistemas como base primaria</td>
+</tr>
+<tr>
+<td>Fatiga del equipo de búsqueda</td>
+<td>Ritmo de 8 h/día sostenible; sin horas extra</td>
+</tr>
+<tr>
+<td>Baja densidad de evidencia en cálido húmedo y cálido seco rurales</td>
+<td>Priorización explícita de esos dos climas en ecuaciones y búsqueda en bola de nieve (<em>snowballing</em>) desde el día 2</td>
+</tr>
+</tbody>
+</table>
+<h2 id="14-documentos-complementarios">14. Documentos complementarios</h2>
+<ul>
+<li><code>F1-Protocolo_busqueda.md</code> — protocolo de búsqueda con ecuaciones (EN + ES), criterios de inclusión/exclusión y registro.</li>
+<li><code>F0-Mapeo_climatico.md</code> — mapeo detallado entre clasificación TdR, Caldas-Lang y Köppen-Geiger.</li>
+<li><code>F0-Tabla_Maestra_Anexo1.md</code> — síntesis del Anexo 1 Res. 0194/2025 (medidas pasivas, activas, agua; porcentajes de ahorro; objetivos por clima).</li>
+<li><code>F0-Analisis_PDFs_Referencias.md</code> — análisis de la base documental pre-validada por eje.</li>
+<li><code>F0-Material_reunion_arquitectos.md</code> — material operativo para la primera reunión con arquitectos.</li>
+<li><code>F4-Matriz_M1.csv</code> y <code>F4-Matriz_M1_diccionario.md</code> — plantilla de la matriz M1 y diccionario de datos.</li>
+</ul>
+<hr>
+<p><strong>Control de versiones</strong></p>
+<table>
+<thead>
+<tr>
+<th>Versión</th>
+<th>Fecha</th>
+<th>Cambios</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>B-0.3</td>
+<td>2026-04-15</td>
+<td>Reescritura como documento autónomo: eliminadas referencias a versiones previas, lenguaje positivo de estrategia (no comparativa), descripción completa del marco normativo y ejes, tabla explícita de la frontera P1↔P2</td>
+</tr>
+</tbody>
+</table>
+
+</body>
+</html>

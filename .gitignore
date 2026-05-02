@@ -1,0 +1,51 @@
+# PDFs y archivos pesados — viven en local; usar Git LFS si se requiere compartir
+FUENTES/*.pdf
+Referencias-proyecto/*.pdf
+Referencias-proyecto/*.docx
+Referencias-proyecto/*.doc
+Referencias-otros/
+Referencias-estandares/
+Referencia-vivienda-rural/
+
+# Exports PDF generados desde los .md (los .md son la fuente de verdad)
+*.md.pdf
+
+# Config local de Claude Code — NO subir
+.claude/
+
+# Huérfano del flujo previo
+docs/F7-Candidatos_revision.html
+
+# Outputs derivables de scripts
+resultados/
+CO-resultados/
+
+# Archivos de trabajo Excel
+*.xlsx
+*.xls
+~$*
+
+# Locks
+*.lock
+.~lock.*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.python-version
+
+# IDE / editores
+.vscode/
+.idea/
+*.swp
+*~
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Sistema
+.DS_Store
+Thumbs.db

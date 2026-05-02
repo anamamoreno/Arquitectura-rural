@@ -1,0 +1,1838 @@
+ CARTILLA
+ MATERIALES
+ DE CONSTRUCCIÓN:
+
+   Una herramienta para la toma de decisiones
+                                                 informadas
+
+Systemic perspectives on low-carbon cities in Colombia
+An integrated urban modelling approach for policy and
+regulatory analysis
+
+Febrero 2021
+Elaborado por:
+
+Equipo Uniandes:
+
+José A. Guevara, Hernando Vargas y Felipe Rivera.
+
+Equipo CCCS:
+
+Tatiana Carreño, Juan David Lizcano, Camilo Luengas, Angélica Ospina,
+Alejandra Ovalle, Lorena Pupo.
+
+Con la colaboración de:
+Luis A. Guzmán, Guillermo Jiménez, Juana Mariño, Nicanor Quijano, Juan P.
+Rodríguez, Manuel Rodríguez.
+
+Natalia Bernal, Charly Cepeda, Jhon Escorcia, Álvaro A. Garay, Mónica Giraldo,
+Sara Jiménez, Luis G. Marín, Natalia Montoya, Eliana Ortiz, María Rincón,
+Flavio Suarez, Oscar Torres.
+
+Germán Andrade, Sarah Arboleda, Susanne Charlesworth, Julio Dávila, Carlos
+Giraldo, Dario Hidalgo, Daniel Oviedo, Ricardo Smith y Dimitri Zaninovich.
+
+ISBN: 978-958-58223-5-1
+Bogotá, febrero 2021
+
+Universidad de los Andes | Vigilada Mineducación.
+Reconocimiento como Universidad: Decreto 1297 del 30 de mayo de 1964.
+Reconocimiento Personería Jurídica: Resolución 28 del 23 de febrero de 1949
+Minjusticia.
+
+Consejo Colombia de Construcción Sostenible 2020.
+Todos los derechos reservados
+Bogotá, Colombia
+
+info@cccs.org.co
+Internet: www.cccs.org.co
+
+El contenido de la presente publicación se encuentra protegido por las normas
+internacionales y nacionales vigentes sobre propiedad intelectual, por tanto su
+utilización, reproducción, comunicación pública, transformación, distribución,
+préstamo público e importación, total o parcial, en todo o en parte, en formato
+impreso, digital, o cualquier formato conocido o por conocer, se encuentran
+prohibidos, y solo serán lícitos en la medida en que se cuente con la autorización
+previa y expresa por escrito de los autores. El CCCS no garantiza la precisión,
+confiabilidad o integridad del contenido incluido en este trabajo, ni de las
+conclusiones o juicios descritos en este documento, y no acepta responsabilidad
+alguna por omisiones o errores (incluidos, entre otros, errores tipográficos y
+errores técnicos) en el contenido en absoluto o por confianza al respecto.
+El objetivo central de la cartilla de materiales que se presenta a continuación consiste en identi-
+ficar los principales atributos de sostenibilidad en los materiales de construcción y presentar el
+estado actual del mercado nacional con relación a estos aspectos. Este documento hace parte
+de los resultados de la investigación "Systemic perspectives on low-carbon cities in Colombia-
+An integrated urban modeling approach for policy and regulatory analysis", liderada por la
+Universidad de los Andes con el Consejo Colombiano de Construcción Sostenible.
+
+Contenido
+
+Sección 1: Aspectos generales: sostenibilidad, edificaciones y materiales  1
+
+Sección 2: Criterios de sostenibilidad para materiales                     2
+
+Sección 3: Análisis de ciclo de vida6
+
+Sección 4: Materiales y familias de materiales                             8
+
+Sección 5: Aplicación en proyecto ejemplo21
+
+Conclusiones y Recomendaciones23
+
+Referencias24
+
+Anexos25
+Sección 1
+Aspectos generales:
+Sostenibilidad, edificaciones y materiales
+
+El alcance de esta guía consiste en identificar los principales atributos de sostenibilidad en los materiales de construcción y presentar
+el estado actual del mercado nacional con relación a estos aspectos. Para esto se presentará la importancia de la selección de los mate-
+riales de un proyecto, algunas herramientas del mercado para identificar cuáles pueden representar menores impactos negativos en el
+ambiente y en la salud o calidad del ambiente interior.
+
+Existen diferentes técnicas para evaluar los materiales y productos. En general la industria de los materiales a nivel mundial ha migrado
+paulatinamente de atributos sencillos a brindar información relacionada a los aspectos ambientales por medio de atributos múltiples,
+entre los que se encuentran las Declaraciones Ambientales de Producto (EPD, por sus siglas en inglés) y los Análisis de Ciclo de Vida
+(LCA, por sus siglas en inglés). A su vez la creciente demanda de información complementaria a los aspectos técnicos y de desempeño
+de productos o materiales, ha posicionado a los Reportes de Sostenibilidad Corporativa, como una herramienta para conocer aspectos
+fundamentales de los procesos productivos y las acciones implementadas en términos sociales, económicos y de gobernanza. En gene-
+ral la industria de los materiales recorre un camino hacia la transparencia en la información, para demostrar sus compromisos en materia
+ambiental, motivada en gran medida por las iniciativas gubernamentales frente al cambio climático, los requerimientos técnicos de los
+sistemas de certificación en construcción sostenible y un usuario informado.
+
+La responsabilidad de los desarrolladores de proyecto, constructores y especificadores, y en general, de los actores de la cadena de valor
+del sector de la construcción, es esencial por su capacidad para influir en la elección de materiales y productos con atributos de soste-
+nibilidad. Un proceso de selección de materiales apropiado en los desarrollos inmobiliarios tiene el potencial de impactar positivamente
+la sociedad, la productividad de las industrias, la disponibilidad, extensión de la vida útil y la conservación de los recursos naturales, al
+igual que el desempeño propio de las ciudades y edificaciones en la optimización de los recursos.
+
+                                            Cartilla de Materiales I Febrero 2021  1
+Sección 2
+
+           Cartilla de Materiales I Febrero 2021  2
+  Sección 2
+  Criterios de sostenibilidad para materiales
+
+Los criterios de sostenibilidad para materiales apuntan a dos objetivos, el primero la reducción de impactos negativos en el ambiente,
+asociados a los procesos de extracción, procesamiento, fabricación, instalación, reutilización, reciclaje y disposición final. El segundo ob-
+jetivo, hace referencia al impacto positivo en la salud de los ocupantes de una edificación, por ejemplo, por los efectos que puedan tener
+en la calidad del ambiente interior. En este último punto es importante destacar el tiempo promedio que pasan las personas en espacios
+cerrados al día, siendo este cercano al 90% [1].
+
+Por una parte, los impactos negativos en el ambiente se reducen al preservar los recursos no renovables, tener buenas prácticas en la
+cadena productiva de los materiales y productos, y la especificación de estos que procure reducirlos. Así, tener una mayor eficiencia en
+los procesos de extracción, manufactura y construcción; además de promover la reducción de la generación de residuos, la reutilización
+o recuperación y encaminar las acciones hacia un modelo de economía circular. Por otra parte, la calidad del aire interior se puede ver
+afectada por una serie de riesgos asociados a los materiales, tales como emisión de gases potencialmente tóxicos, aumento de la expo-
+sición al fuego donde la inflamabilidad y la liberación de gases tóxicos puede ser peligroso para la salud [2].
+
+A continuación, se resumen las estrategias a considerar para cada enfoque:
+
+Reducción de impactos negativos en el ambiente
+
+· Materiales regionales: las emisiones asociadas al transporte de materiales hasta la ubicación del proyecto, representan uno de los
+     procesos que más energía requiere, especialmente, para los materiales más voluminosos y con mayor representación en términos
+     de cantidad en el proyecto. La adquisición de productos fomenta la economía local. Las distancias y posibilidad de llevar a cabo
+     esta estrategia están sujetas a las condiciones propias del proyecto. En los casos donde sea posible, se tienen como referentes las
+     siguientes distancias tomadas a partir de sistemas de certificación para edificaciones sostenibles:
+
+          · Sistema de certificación Living Building Challenge: los materiales pesados como los agregados, el concreto y el ladrillo de-
+               ben adquirirse en un radio de 100 millas (160 km), los materiales de peso medio en un radio de 500 millas (804 km) y los
+               materiales ligeros en un radio de 1000 millas (1609 km) del lugar del proyecto.
+
+          · Sistema de certificación LEED: promueve la adquisición de productos obtenidos (extraídos, fabricados y comprados) en un
+               radio de 100 millas (160 km) del lugar del proyecto.
+
+          · Sistema de certificación CASA Colombia: promueve la adquisición de productos que hayan sido extraídos, procesados y
+               manufacturados en un radio no mayor a 300 km del sitio del proyecto.
+
+· Materiales con bajo carbono y energía embebida: la especificación de materiales con estas características, implica que requieren
+     consumos energéticos no tan altos y generan bajas emisiones durante su producción. Tanto el carbono como la energía embebida,
+     son categorías de impacto ambiental que pueden utilizarse para comparar dos materiales, al tener en cuenta todos sus procesos de
+     producción (Calkins).
+
+· Materiales con bajas emisiones contaminantes y bajo consumo de recurso hídrico: algunos procesos de producción de materiales
+     de construcción tienen asociados emisiones de contaminantes o partículas nocivas al suelo, agua y aire. Por esto, se incentivan las
+     prácticas donde los fabricantes consideren en sus procesos controles de contaminación y prácticas que reduzcan los impactos a
+
+[1] Referencia WorldGBC Better Places for People; [2] DPTI Australia
+
+3 Cartilla de Materiales I Febrero 2021
+    los medios naturales. Entre los materiales con procesos más contaminantes se encuentran la minería de metales, la producción de
+    metales primarios, el acabado de metales, la producción de cemento, y la producción y eliminación de PVC (Calkins)
+
+· Materiales que reduzcan el uso de recursos:
+
+          · Reutilizar estructura existente: la evaluación previa a la intervención de un proyecto es importante para considerar la adap-
+               tación o adecuación de estructuras existentes, esto reduce los impactos asociados a los procesos de transporte y disposi-
+               ción de residuos de construcción y demolición (RCD), y adquisición de mayores cantidades de productos nuevos para el
+               proyecto.
+
+          · Reducir el uso de materiales: considerar desde el diseño estructuras más livianas o que requieren menos materiales, por
+               ejemplo, al disminuir la cantidad de acabados o ornamentos, puede contribuir a la reducción de impactos asociados a los
+               procesos de extracción, manufactura y transporte de materiales.
+
+          · Incorporar estrategias de sostenibilidad durante la construcción: Si bien el concreto es uno de los materiales más utilizados,
+               contiene un alto carbono y una alta energía embebida, debido a los procesos de fabricación del cemento y transporte de
+               agregados. Sin embargo, estrategias como la incorporación de aditivos como los plastificantes o superplastificantes y ma-
+               teriales cementantes suplementarios como las cenizas volantes o las escorias de fundición de alto horno, permiten reducir
+               el consumo de cemento, manteniendo las mismas resistencias, lo cual implica menores impactos ambientales. Si además
+               en diferentes sistemas estructurales como las losas se utilizan materiales aligerantes, el impacto ambiental por el total del
+               sistema es mucho menor. Vale la pena mencionar que la Asociación Global de Cemento y Concreto (GCCA, por sus siglas en
+               inglés) ha establecido metas y compromisos importantes en su meta de tener una producción de concreto carbono neutral
+               a 2050 (GCCA Climate Ambition Statement, Towards a Carbon Neutral Concrete)
+
+          · Recuperar y reutilizar materiales o productos en su totalidad: esta buena práctica permite reducir los impactos y costos aso-
+               ciados al transporte de nuevos materiales al proyecto, a la disposición de los RCD y reducción de uso de materiales vírgenes.
+               En lo posible, es mejor utilizarlos en este mismo proyecto, de lo contrario, se sugiere tener una buena cadena de custodia
+               para garantizar las condiciones que permitan su uso posterior.
+
+          · Especificar materiales y productos con potencial de reutilización y diseño para el desmontaje (DfD): estas especificaciones
+               contribuyen a expandir el ciclo de vida de los productos, al facilitar las condiciones donde pueden ser fácilmente removidos
+               al final de su uso y ser reutilizados (Calkins).
+
+          · Especificar los materiales y productos de contenido reciclado: acorde a la definición del estándar ISO 14021, el contenido
+               reciclado se entiende como "la proporción, en masa, de material reciclado en un producto o embalaje". En este concepto se
+               incluye:
+
+                          · Material preconsumo: Material rescatado del flujo de residuos durante un proceso de fabricación. Se excluye la
+                               reutilización de materiales como los reprocesados, triturados o desechos generados en el proceso y que son
+                               susceptibles de poder ser reutilizados en el mismo proceso que los ha generado.
+
+                          · Material postconsumo: Material generado por viviendas o por instalaciones comerciales, industriales e institu-
+                               cionales en su rol como usuarios finales del producto que ya no se puede utilizar para su fin previsto. Incluye
+                               devoluciones de materiales de la cadena de distribución.
+
+          · Especificar los materiales o productos de los fabricantes con programas de devolución de productos: estos programas han
+               incentivado la responsabilidad extendida de los productores, al reducir, recolectar y reutilizar los residuos por embalajes e
+               incluso, sus productos al finalizar su ciclo de vida. En Colombia, el Ministerio de Ambiente ha liderado un programa poscon-
+               sumo de residuos, donde los productos de baterías usadas plomo ácido y bombillas fluorescentes usadas, han sido uno de
+               los productos donde los empresarios de la industria han tenido grandes avances.
+
+Cartilla de Materiales I Febrero 2021  4
+Reducción de impactos negativos en la salud:
+
+· Materiales y productos de baja emisión: en productos como adhesivos, sellantes, acabados y revestimientos se encuentran com-
+     puestos orgánicos volátiles (COV) y productos químicos que al liberarse en forma de gas contaminan medios como el aire, suelo y
+     agua. Incrementando las posibilidades de llegar a seres humanos y tener afectaciones en la salud.
+
+· Especificar materiales o productos que eviten los productos o subproductos químicos tóxicos: algunos productos pueden emitir
+     toxinas en diferentes etapas de su ciclo de vida, según los procesos en los que se involucren y las interacciones con otros compo-
+     nentes. Debido a esto se deben evitar productos con sustancias químicas peligrosas como los PBT, los carcinógenos conocidos y
+     sospechosos, los teratógenos, entre otros. Instituciones como la Agencia de Protección Ambiental de Estados Unidos (US EPA),
+     tienen inventarios con información de las emisiones tóxicas. En el caso de la EPA el Inventario se denomina Toxics Release Inventory
+     (TRI). También resulta útil en esta materia, la Red List del sistema de certificación Living Building Challenge, y la lista REACH de la
+     Agencia Europea de Sustancias y Mezclas Químicas (ECHA, por sus siglas en inglés).
+
+5 Cartilla de Materiales I Febrero 2021
+                                                                      Ilustración 1. Criterios de sostenibilidad para materiales de construcción
+
+[1] Referencia WorldGBC Better Places for People; [2] DPTI Australia
+
+                                                                      Cartilla de Materiales I Febrero 2021                                       6
+Sección 3
+
+7 Cartilla de Materiales I Febrero 2021
+Sección 3
+Análisis de ciclo de vida
+
+Las edificaciones y los materiales utilizados durante su construcción generan impactos ambientales a lo largo de cada una de las
+diferentes etapas de su ciclo de vida. Una de las metodologías que permiten cuantificar estos impactos es el análisis de ciclo de vida
+(ACV). En esta sección se va a presentar, de manera sintética, la metodología de ACV tanto para los materiales como para las edifi-
+caciones.
+
+El ciclo de vida es definido por la normativa ISO como "las etapas consecutivas e interrelacionadas de un sistema del producto, desde
+la adquisición de materia prima o de su generación a partir de recursos naturales hasta la disposición final". El análisis de ciclo de
+vida, por otra parte, corresponde a la "recopilación y evaluación de las entradas, las salidas y los impactos ambientales potenciales
+de un sistema del producto a través de su ciclo de vida" [1]. La metodología de ACV se puede aplicar entonces a cualquier sistema de
+producto establecido y busca poder reportar cualquier impacto ambiental significativo. Por lo tanto, el análisis tiene en cuenta una
+amplia gama de problemáticas ambientales tales como la calidad del aire, el uso y calidad del agua, la toxicidad para la vida humana
+y el funcionamiento ecosistémico y el calentamiento global, entre otros [2].
+
+Un material o producto de construcción es un artículo fabricado o procesado que se utiliza en estas obras [3]. Las declaraciones
+ambientales de producto (DAP) son documentos desarrollados con el fin de proporcionar información estandarizada del ACV de un
+producto [2]. La Organización Internacional de Normalización (ISO) contempla tres tipos de etiquetas y declaraciones ambientales
+según la definición de criterios mínimos y de la existencia de certificaciones independientes. Dentro de las normativas más relevantes
+se destacan las siguientes: ISO 14020, 14021, 14024 y 14025. En bases de datos reconocidas, tales como The International EPD System,
+se incluyen únicamente declaraciones tipo III (ISO 14025) [4]. Las DAP pueden tener diferentes alcances dependiendo de las etapas
+del ciclo de vida que evalúen: las que contemplan únicamente la extracción de materia prima, transporte y manufactura se denominan
+de la cuna a la puerta (`cradle to gate') y las que incluyen todos los procesos desde la etapa de extracción de la materia prima hasta la
+etapa de demolición, reciclaje y disposición se denominan de la cuna a la tumba (`cradle to grave'). En algunos casos, algunas decla-
+raciones tienen en cuenta una cantidad de etapas mayor a las declaraciones de la cuna a la puerta, pero menor que las declaraciones
+de la cuna a la tumba. En este caso, estas DAP se denominan de la cuna a la puerta con opciones (`cradle to gate with options') [3].
+El ACV puede realizarse también en las edificaciones. En efecto, tal y como se presenta de manera gráfica en la Figura 1, la normativa
+EN 15978 establece diferentes módulos y etapas del ciclo de vida de una edificación. Se definen cinco grandes etapas de análisis: la
+etapa de producto (módulos A1-A3), que incluye la extracción de la materia prima, el transporte hasta la fábrica y la manufactura de
+los insumos; la etapa de construcción (módulos A4-A5) que incluye el transporte de los materiales hasta la obra y la propia construc-
+ción de la edificación; la etapa de uso (módulos B1-B7), que incluye, entre otras, el uso, el mantenimiento, la reparación y las remode-
+laciones; la etapa de fin de vida (módulos C1-C4), que incluye, entre otras, la demolición, el transporte y el manejo de los residuos; las
+cargas y beneficios que exceden los límites del sistema (módulo D).
+
+                           Cartilla de Materiales I Febrero 2021  8
+                                                              INFORMACIÓN DE LA EVALUACIÓN DEL EDIFICIO
+
+                                             Información del ciclo de vida del edificio                                                                                                      Información adicional
+                                                                                                                                                                                              más allá del ciclo de
+    A1-3                                           A1-5                          B1-7                                        C1-1
+                                                                                                                                                                                                 vida del edificio
+     Etapa de                                 Etapa de                   Etapa de USO                        Etapa de FIN DE VIDA
+    PRODUCTO                               PROCESO DE                                                                                                                                                               D
+                                         CONSTRUCCIÓN
+                                                                                                                                                                                              Beneficios y cargas más
+A1  A2         A3                        A4  A5               B1         B2  B3        B4            B5  C1  C2  C3                C4                                                        allá del límite del sistema
+
+Suministro                                                                                                                                                                                          Potencial de
+   de materias                                                                                                                                                                                      reutilización,
+                                                                                                                                                                                             recuperación y reciclaje
+      primas
+               Transporte
+                            Fabricación
+                                              Transporte
+                                                        Proceso de
+                                                           construcción
+                                                               instalación
+
+                                                                            Uso
+
+                                                                                                                   Mantenimiento
+                                                                                                                             Reparación
+                                                                                                                                      Sustitución
+
+                                                                                                                                                 Rehabilitación
+
+                                                                                                                                         Deconstrucción
+                                                                                                                                             demolición
+                                                                                                                                                        Transporte
+                                                                                                                                                                    Tratamiento
+                                                                                                                                                                        de residuos
+                                                                                                                                                                                    Vertido
+                                         Escenario Escenario  Escenario      Escenario
+
+                                                               B6        Uso de energía en servicio      Escenario Escenario Escenario Escenario
+                                                              Escenario  Uso de agua en servicio
+
+                                                               B7
+                                                              Escenario
+
+Figura 1. Representación esquemática de las diferentes etapas del ciclo de vida
+La aproximación de la normativa EN 15978 se basa en datos obtenidos en declaraciones ambientales de producto, módulos de información (especificados en la normativa EN 15804) y
+otras fuentes de información. La evaluación incluye la edificación en su totalidad y contempla el análisis de los diferentes productos, procesos y servicios de construcción [3]. En algunos
+casos, cuando no se dispone de DAP o cuando se van a analizar las etapas del ciclo de vida que dependen de variables temporales, la normativa mencionada plantea la alternativa
+de poder definir escenarios que permitan complementar la descripción de la edificación. Estos escenarios deben presentarse junto con los supuestos utilizados (que deben estar
+debidamente sustentados) de tal manera que puedan ser aplicados a diferentes modelos.
+
+9 Cartilla de Materiales I Febrero 2021
+Sección 4
+
+           Cartilla de Materiales I Febrero 2021  10
+  Sección 4
+  Materiales y familias de materiales
+
+Esta sección presenta la recolección de información para materiales a nivel nacional, con el propósito de entender los avances en el
+mercado en términos de sostenibilidad. Para este fin, se establecieron nueve atributos de sostenibilidad, para evaluar el enfoque de
+cada material, estos fueron: (i) Etiqueta según ISO, (ii) Potencial de calentamiento global GWP, medido en kg CO2 equivalente / kg
+material, (iii) Análisis de ciclo de vida, (iv) Declaración ambiental del producto, (v) Informes de sostenibilidad, (vi) Contenido recicla-
+do, medido en %, (vii) Origen regional, (viii) Declaración de ingredientes, y (ix) Responsabilidad extendida del productor.
+Igualmente, se determinaron quince categorías de clasificación para los materiales, basándose en el estándar MasterFormat. A partir
+de esto, las categorías de clasificación son:
+
+Acabados (A)  Adhesivos (AD)   Aislamientos (AS) Biomateriales (BM)  Cubierta (C)                               Estructura (E)
+
+HVAC (H)      Iluminación (I)  Impermeabilizante (IM) Instalaciones (INS) Maderas, plásticos y                  Mampostería (M)
+                                                                                              compuestos (MPC)
+
+              Perfilería (PE)  Pisos (P) Ventanería y puertas (VP)
+
+Es importante destacar que no fue posible conseguir toda la información para los materiales seleccionados en todos los criterios, así
+mismo, la información mencionada en esta cartilla se considera dinámica al considerar la evolución de la industria de los materiales
+en los próximos años por la concientización frente a sus impactos ambientales y en la salud, y las normativas que exijan un desarrollo
+en el país. De igual manera, se evidencia que la información mencionada en este documento fue obtenida en las páginas web de las
+empresas, bases de datos digitales y entrevistas realizadas por el grupo de investigación de edificaciones del proyecto.
+
+11 Cartilla de Materiales I Febrero 2021
+     ID    Clasifi-  Material    Nombre               Marca/       Certificación                                          Atributo de sostenibilidad
+A-1        cación                Comercial            Empresa
+         Acabados                                                                 Etiqueta         GWP     Análisis  Declaración  Informes    Contenido   Origen   Declaración    Respons-
+A-2                                                                                según            (kg    de Ciclo  Ambiental       de       reciclado  Regional  de Ingredi-    abilidad
+         Acabados                                                                   ISO         CO2eq/ kg  de Vida     del Pro-                                                 extendida de
+A-3                                                                               (I, II, III)  material)                         sostenibi-     (%)                  entes      productor
+         Acabados                                                                                                       ducto       lidad
+A-4
+         Acabados    Pinturas    PINTURA ALTA PINTUCO S.A. GREENGUARD N/A N/A                              N/A       N/A          N/A         N/A        N/A       TVOC: < 0.22 N/A
+A-5
+A-6      Acabados                ASEPSIA                           Gold                                                                                            mg/m³
+A-7      Acabados
+A-8      Acabados                                                                                                                                                  Individual
+A-9      Acabados
+A-10     Acabados                                                                                                                                                  VOCs: 1/2
+A-11     Acabados
+A-12     Acabados                                                                                                                                                  CREL or
+         Acabados
+A-13                                                                                                                                                               1/100th TLV
+         Acabados
+                     Pinturas    Viniltex Vida        PINTUCO S.A. GREENGUARD     N/A N/A                  N/A       N/A          N/A         N/A        N/A       TVOC: < 0.22 N/A
+                                                                       Gold
+                                                                                                                                                                   mg/m³
+
+                                                                                                                                                                   Individual
+
+                                                                                                                                                                   VOCs: 1/2
+
+                                                                                                                                                                   CREL or
+
+                                                                                                                                                                   1/100th TLV
+
+                     Pinturas    INTERVINIL           PINTUCO S.A. GREENGUARD     N/A N/A                  N/A       N/A          N/A         N/A        N/A       TVOC: < 0.22 N/A
+                                 PRO 400                               Gold
+                                                                                                                                                                   mg/m³
+
+                                                                                                                                                                   Individual
+
+                                                                                                                                                                   VOCs: 1/2
+
+                                                                                                                                                                   CREL or
+
+                                                                                                                                                                   1/100th TLV
+
+                     Pinturas    VINILTEX PRO PINTUCO S.A. GREENGUARD N/A N/A                              N/A       N/A          N/A         N/A        N/A       TVOC: < 0.22 N/A
+
+                                 650                               Gold                                                                                            mg/m³
+
+                                                                                                                                                                   Individual
+
+                                                                                                                                                                   VOCs: 1/2
+
+                                                                                                                                                                   CREL or
+
+                                                                                                                                                                   1/100th TLV
+
+                     Masilla en  Masilla en           Etex-Gyplac                 Tipo I N/A               N/A       N/A          N/A         N/A        N/A       <0.02 g/L N/A
+                     pasta       pasta
+
+                     Masilla flexible Masilla Acaba-  Etex-Super-                 Tipo I N/A               N/A                    N/A         N/A        N/A       8.5 - 9.5 g/L N/A
+                                      do Texturizado  board
+                                      Superboard
+
+                     Pintura techos Pintura Techos Corona                         Tipo I N/A               N/A       N/A          Informe N/A            N/A       VOC: < 50 g/L N/A
+                                                                                                                                  GRI
+                     interiores  interiores
+
+                     Pintura Exterior Pintura Extra- Corona                       Tipo I N/A               N/A       N/A          Informe N/A            N/A       VOC: < 50 g/L N/A
+                                      blindaje                                                                                    GRI
+
+                     Pintura interior Pintura Pro-    Corona                      Tipo I N/A               N/A       N/A          Informe N/A            N/A       VOC: < 50 g/L N/A
+                                      fessional alta                                                                              GRI
+                                      cobertura
+
+                     Pintura interior Vinilo tipo 1 - Tito Pabón                  Tipo III N/A             N/A       N/A          N/A         N/A        N/A       VOC: 0       N/A
+                                      Cero VOC
+                                                                                                                                                                   g/L según
+
+                                                                                                                                                                   SCAQMD Rule
+
+                                                                                                                                                                   1113
+
+                     Estuco Plástico Estuco plástico Tito Pabón                   Tipo III N/A             N/A       N/A          N/A         N/A        N/A       VOC <= 50 N/A
+
+                                                                                                                                                                   g/L según
+
+                                                                                                                                                                   SCAQMD Rule
+
+                                                                                                                                                                   1113
+
+                     Pintura interi- Vinilo fino      Tito Pabón                  Tipo III N/A             N/A       N/A          N/A         N/A        N/A       VOC <= 35 N/A
+                     or/exterior tipo 1
+                                                                                                                                                                   g/L Blanco
+
+                                                                                                                                                                   VOC <= 30
+
+                                                                                                                                                                   g/L Color
+
+                                                                                                                                                                   según
+
+                                                                                                                                                                   SCAQMD Rule
+
+                                                                                                                                                                   1113
+
+                     Acrílico    Acryl Tito -         Tito Pabón                  Tipo III N/A             N/A       N/A          N/A         N/A        N/A       VOC <= 80 N/A
+
+                                 Baños y cocinas                                                                                                                   g/L según
+
+                                                                                                                                                                   SCAQMD Rule
+
+                                                                                                                                                                   1113
+
+                                                                                                                                                         Cartilla de Materiales I Febrero 2021  12
+     ID    Clasifi-  Material             Nombre         Marca/          Certificación                                          Atributo de sostenibilidad
+           cación                         Comercial      Empresa
+A-14     Acabados                                                                       Etiqueta         GWP     Análisis  Declaración  Informes    Contenido Origen    Declaración        Respons-
+A-15     Acabados                                                                        según            (kg    de Ciclo  Ambiental       de       reciclado Regional  de Ingredi-        abilidad
+                                                                                          ISO         CO2eq/ kg  de Vida     del Pro-                                                    extendida de
+A-16     Acabados                                                                       (I, II, III)  material)                         sostenibi-     (%)                 entes          productor
+A-17     Acabados                                                                                                             ducto       lidad
+A-18     Acabados
+A-19     Acabados    Pintura exterior Pintura para       Tito Pabón                     Tipo III N/A             N/A       N/A          N/A         N/A     N/A         VOC <= 80 N/A
+A-20     Acabados                     teja
+A-21     Acabados                                                                                                                                                       g/L según
+AD-1     Adhesivo
+                                                                                                                                                                        SCAQMD Rule
+AD-2     Adhesivo
+                                                                                                                                                                        1113
+AD-3     Adhesivo
+AD-4     Adhesivo    Pintura              Caparazón      Tito Pabón                     Tipo III N/A             N/A       N/A          N/A         N/A     N/A         VOC <= 50 N/A
+
+AD-5     Adhesivo                                                                                                                                                       g/L Blanco
+
+                                                                                                                                                                        VOC <= 70
+
+                                                                                                                                                                        g/L Color
+
+                                                                                                                                                                        según
+
+                                                                                                                                                                        SCAQMD Rule
+
+                                                                                                                                                                        1113
+
+                     Pintura              Vinilo Corriente Tito Pabón                   Tipo III N/A             N/A       N/A          N/A         N/A     N/A         VOC <= 44 N/A
+                                          tipo 2
+                                                                                                                                                                        g/L según
+
+                                                                                                                                                                        SCAQMD Rule
+
+                                                                                                                                                                        1113
+
+                     Impermeabili- Sikawall              Sika                           Tipo III N/A             N/A       N/A          Informe N/A         N/A         VOC <            N/A
+                                                                                                                                        GRI Global
+                     zante                401 - Pintura                                                                                                                 100g/L según
+
+                                          texturizada                                                                                                                   SCAQMD
+
+                                                                                                                                                                        304-91
+
+                     Esmalte              Esmalte Zero Pinturas Bler                    Tipo I N/A               N/A       N/A          N/A         N/A     N/A         VOC < 100g/L N/A
+                                          Bler
+                     Pintura                                                            Tipo I N/A               N/A       N/A          N/A         N/A     N/A         VOC < 100g/L N/A
+                     Alquídica            Zero Oxido Bler Pinturas Bler
+                     Anticorrosivo
+                                          Eco Protector  Pinturas Bler                  Tipo I N/A               N/A       N/A          N/A         N/A     N/A         VOC < 100g/L N/A
+                     Esmalte              Bler
+                     Adhesivo en                         Pinturas Bler                    Tipo I N/A             N/A       N/A          N/A         N/A     N/A         VOC < 100g/L N/A
+                     polvo                Eco Esmalte    Corona                         Tipo I N/A
+                                                                                                                 N/A       N/A          Informe N/A         N/A         VOC: 0.02 g/L N/A
+                                          Pegacor Max                                                                                   GRI
+                                          adhesivo bajo                                                                                                                 Declaración de
+                                          en polvo
+                                                                                                                                                                        ingredientes
+
+                                                                                                                                                                        CAS (Chemical
+
+                                                                                                                                                                        Abstracts
+
+                                                                                                                                                                        Service)
+
+                     Adhesivo en          Pegacor Super Corona                          Tipo I N/A               N/A       N/A          Informe N/A         N/A         VOC: 0.00 g/L N/A
+                     polvo                cubriente                                                                                     GRI
+                                                                                                                                                                        Declaración de
+
+                                                                                                                                                                        ingredientes
+
+                                                                                                                                                                        CAS (Chemical
+
+                                                                                                                                                                        Abstracts
+
+                                                                                                                                                                        Service)
+
+                     Adhesivo             Pegacor Pasta  Corona                         Tipo I N/A               N/A       N/A          Informe N/A         N/A         VOC: 0.07 g/L N/A
+                     mezcla lista         Lista          Corona                                                                         GRI
+                                                                                        Tipo I N/A               N/A       N/A                              N/A         VOC: 0.00 g/L N/A
+                     Adhesivo en          Pegacor                                                                                       Informe N/A
+                     polvo                Porcelánico                                                                                   GRI                             Declaración de
+
+                                                                                                                                                                        ingredientes
+
+                                                                                                                                                                        CAS (Chemical
+
+                                                                                                                                                                        Abstracts
+
+                                                                                                                                                                        Service)
+
+                     Adhesivo             Sikadur 32 Sika                               Tipo III N/A             N/A       N/A          Informe N/A         N/A         VOC < 70         N/A
+                     epóxico              Primer                                                                                        GRI Global
+                                                                                                                                                                        g/L Versión
+
+                                                                                                                                                                        Normal
+
+                                                                                                                                                                        VOC < 100
+
+                                                                                                                                                                        g/L Versión
+
+                                                                                                                                                                        Lenta
+
+                                                                                                                                                                        según Directiva
+
+                                                                                                                                                                        2004/42/CE
+
+13 Cartilla de Materiales I Febrero 2021
+     ID  Clasifi-      Material    Nombre          Marca/    Certificación                                           Atributo de sostenibilidad
+         cación                    Comercial       Empresa
+AD-6                                                                        Etiqueta         GWP     Análisis  Declaración  Informes    Contenido   Origen   Declaración        Respons-
+                                                                             según            (kg    de Ciclo  Ambiental       de       reciclado  Regional  de Ingredi-        abilidad
+AS-1                                                                          ISO         CO2eq/ kg  de Vida     del Pro-                                                     extendida de
+AS-2                                                                        (I, II, III)  material)                         sostenibi-     (%)                  entes          productor
+AS-3                                                                                                              ducto       lidad
+AS-4
+AS-5     Adhesivos/ Adhesivos/Se- Varios           Toxement                 Tipo I N/A               N/A       N/A          N/A         N/A        N/A       Aparente-        N/A
+AS-6     Sellantes llantes/varios
+AS-7                                                                                                                                                         mente los
+AS-8
+AS-9                                                                                                                                                         productos
+AS-10
+                                                                                                                                                             tienen infor-
+
+                                                                                                                                                             mación sobre
+
+                                                                                                                                                             los VOC. Esto
+
+                                                                                                                                                             no es posible
+
+                                                                                                                                                             verificarlo en
+
+                                                                                                                                                             las fichas téc-
+
+                                                                                                                                                             nicas de cada
+
+                                                                                                                                                             producto
+
+         Aislamientos              ATAC            Saint-Gobain EPD, Climate Tipo III N/A            N/A       N/A          N/A         N/A        N/A       N/A              N/A
+
+                                                   FIBERGLASS Declaration
+
+                                                   ISOVER
+
+         Aislamientos              BLACK THEATER Saint-Gobain EPD, Climate Tipo III N/A              N/A       N/A          N/A         N/A        N/A       N/A              N/A
+
+                                                   FIBERGLASS Declaration
+
+                                                   ISOVER
+
+         Aislamientos              CLIMAVER        Saint-Gobain EPD, Climate Tipo III N/A            N/A       N/A          N/A         N/A        N/A       N/A              N/A
+
+                                   NETO            FIBERGLASS Declaration
+
+                                                   ISOVER
+
+         Aislamientos              ECOVENT         Saint-Gobain EPD, Climate Tipo III N/A            N/A       N/A          N/A         N/A        N/A       N/A              N/A
+
+                                                   FIBERGLASS Declaration
+
+                                                   ISOVER
+
+         Aislamientos Fibra de vidrio FRESCASA ECO Saint-Gobain EPD, Climate Tipo III N/A            N/A       N/A          N/A         N/A        N/A       N/A              N/A
+
+                                                   FIBERGLASS Declaration
+
+                                                   ISOVER
+
+         Aislamientos Fibra de vidrio FRESCASA ECO Saint-Gobain EPD, Climate Tipo III N/A            N/A       N/A          N/A         N/A        N/A       N/A              N/A
+
+                                   FOIL            FIBERGLASS Declaration
+
+                                                   ISOVER
+
+         Aislamientos Fibra de vidrio FRESCASA ECO Saint-Gobain EPD, Climate Tipo III N/A            N/A       N/A          N/A         N/A        N/A       N/A              N/A
+
+                                   MBI             FIBERGLASS Declaration
+
+                                                   ISOVER
+
+         Aislamientos Fibra de vidrio FRESCASA ECO Saint-Gobain EPD, Climate Tipo III N/A            N/A       N/A          N/A         N/A        N/A       N/A              N/A
+
+                                   PAPEL           FIBERGLASS Declaration
+
+                                                   ISOVER
+
+         Aislamientos Lana mineral ISOVER ARENA Saint-Gobain EPD, Climate Tipo III N/A               N/A       N/A          N/A         N/A        N/A       N/A              N/A
+
+                                                   FIBERGLASS Declaration
+
+                                                   ISOVER
+
+         Aislamientos Panel Sand-  Panel Sand-     ACH Saint- EPD           Tipo III 42.5            Cuna a Externa         N/A         Elementos N/A        Durante el N/A
+                        wich       wich ACH con    Gobain                                                                               formados             ciclo de vida
+                                   núcleo de lana  Transformados                                     Tumba                              por acero            del producto
+                                   mineral         SA                                                                                   son trans-           no se utilizan
+                                                                                                                                        portados a           sustancias
+                                                                                                                                        planta de            peligrosas
+                                                                                                                                        reciclaje.           listadas en
+                                                                                                                                        Restante             "Candidate List
+                                                                                                                                        se envía a           of Substances
+                                                                                                                                        vertedero.           of Very High
+                                                                                                                                                             Concern
+                                                                                                                                                             (SVHC) for
+                                                                                                                                                             authorisation"
+                                                                                                                                                             en un porcen-
+                                                                                                                                                             taje mayor al
+                                                                                                                                                             0,1% del peso
+                                                                                                                                                             del producto
+
+                                                                                                                                                   Cartilla de Materiales I Febrero 2021  14
+     ID  Clasifi-  Material               Nombre          Marca/   Certificación                                            Atributo de sostenibilidad
+AS-11    cación                           Comercial       Empresa
+                                                                                  Etiqueta         GWP      Análisis  Declaración  Informes    Contenido       Origen   Declaración      Respons-
+BM-1                                                                               según            (kg     de Ciclo  Ambiental       de       reciclado      Regional  de Ingredi-      abilidad
+BM-2                                                                                ISO         CO2eq/ kg   de Vida     del Pro-                                                       extendida de
+C-1                                                                               (I, II, III)  material)                          sostenibi-     (%)                      entes        productor
+                                                                                                                         ducto       lidad
+C-2
+E-1      Aislamientos Panel Sand-         Panel Sand-     ACH Saint- EPD          Tipo III 38.06            Cuna a Externa         N/A         Elementos N/A            Durante el N/A
+E-2                     wich              wich ACH con    Gobain                                                                               formados                 ciclo de vida
+E-3                                       núcleo de PUR   Transformados                                     Tumba                              por acero                del producto
+E-4                                       y PIR           SA                                                                                   son trans-               no se utilizan
+E-5                                                                                                                                            portados a               sustancias
+                                                                                                                                               planta de                peligrosas
+                                                                                                                                               reciclaje.               listadas en
+                                                                                                                                               Restante                 "Candidate List
+                                                                                                                                               se envía a               of Substances
+                                                                                                                                               vertedero.               of Very High
+                                                                                                                                                                        Concern
+                                                                                                                                                                        (SVHC) for
+                                                                                                                                                                        authorisation"
+                                                                                                                                                                        en un porcen-
+                                                                                                                                                                        taje mayor al
+                                                                                                                                                                        0,1% del peso
+                                                                                                                                                                        del producto
+
+         Biomate-  Piso bambú                             Hunter   EPD            Tipo III 5.829            Cuna a Externa         N/A         N/A            N/A       N/A            N/A
+         riales
+                                                          Douglas                                           puerta
+
+         Biomate-  Piso bambú                             Hunter   FSC            Tipo I                    N/A       N/A          N/A         N/A            N/A       N/A            N/A
+         riales
+                                                          Douglas
+
+         Cubierta Paneles                 Paneles tipo Metecno de EPD             Tipo III 103.502 N/A                N/A          N/A         El producto N/A          N/A            N/A
+
+                   aislados (tipo sándwich de Colombia S.A.                                                                                    no contiene
+
+                   sándwich)              metal aislados                                                                                       materiales
+
+                                          para paredes,                                                                                        reciclados,
+
+                                          techos y                                                                                             pero uno
+
+                                          tejados                                                                                              de sus
+
+                                                                                                                                               principales
+
+                                                                                                                                               compo-
+
+                                                                                                                                               nentes es
+
+                                                                                                                                               el acero
+
+                                                                                                                                               galvanizado
+
+                                                                                                                                               que puede
+
+                                                                                                                                               contener
+
+                                                                                                                                               hasta
+
+                                                                                                                                               un 80%
+
+                                                                                                                                               de acero
+
+                                                                                                                                               reciclado.
+
+         Cubierta  Placa ondulada Teja Ondulada ETEX-Proteja                      Tipo I                    N/A       N/A          N/A         N/A            N/A       Declaración de N/A
+                   de cemento Proteja
+                                                                                                                                                                        ingredientes
+
+                                                                                                                                                                        CAS (Chemical
+
+                                                                                                                                                                        Abstracts
+
+                                                                                                                                                                        Service)
+
+         Estructura Cemento               Cemento Verde Argos      EPD            N/A           0.554       Cuna a Interna         Informe N/A                N/A       SÍ             SÍ
+
+                                          de Uso General                                                    puerta                 GRI
+
+         Estructura Cemento               Cemento         Argos    ISO 14001 N/A                0.628       N/A       N/A          Informe 15% de ma- N/A               N/A            SÍ
+
+                                                                                                                                   GRI         terias primas
+
+                                                                                                                                               alternativas
+
+         Estructura Cemento               Cemento         CEMEX    ISO 14001 N/A                0.626       N/A       N/A          Informe 2.7% para N/A                N/A            SÍ
+
+                                                                                                                                   GRI         ton de
+
+                                                                                                                                               productos
+
+                                                                                                                                               cementantes
+
+         Estructura Cemento               Cemento         HOLCIM   ISO 14001 N/A                0.593       N/A       N/A          Informe N/A                N/A       N/A            SÍ
+
+                                                                   Y BVC                                                           GRI
+
+         Estructura Concreto              Concreto        Argos    ISO 14001 N/A                14 (valor N/A         N/A          Informe 15% por m3 N/A               N/A            SÍ
+
+                                                                                                para m3 de                         GRI         de concreto
+
+                                                                                                concreto
+
+15 Cartilla de Materiales I Febrero 2021
+     ID  Clasifi-    Material    Nombre           Marca/       Certificación                                           Atributo de sostenibilidad
+         cación                  Comercial        Empresa
+E-6                                                                           Etiqueta         GWP     Análisis  Declaración  Informes    Contenido   Origen   Declaración        Respons-
+E-7                                                                            según            (kg    de Ciclo  Ambiental       de       reciclado  Regional  de Ingredi-        abilidad
+E-8                                                                             ISO         CO2eq/ kg  de Vida     del Pro-                                                     extendida de
+E-9                                                                           (I, II, III)  material)                         sostenibi-     (%)                  entes          productor
+E-10                                                                                                                ducto       lidad
+E-11
+H-1      Estructura Agregados    Agregados        Argos        ISO 14001 N/A                0.002      N/A       N/A          Informe N/A            N/A       N/A              SÍ
+H-2
+H-3                                                                                                                           GRI
+H-4
+H-5      Estructura Agregados Agregados Estudio UPME N/A                      N/A           0.0025 Cuna a N/A                 N/A         N/A        N/A       N/A              N/A
+H-6
+H-7                              gruesos                                                               puerta
+H-8
+H-9      Estructura Agregados Agregados Estudio UPME N/A                      N/A           0.139      Cuna a N/A             N/A         N/A        N/A       N/A              N/A
+H-10
+I-1                              finos                                                                 puerta
+
+I-2      Estructura Agregados Agregados Estudio UPME N/A                      N/A           0          Cuna a N/A             N/A         N/A        N/A       N/A              N/A
+
+I-3                              finos - arena                                                         puerta
+IM-1
+                                 de río
+
+         Estructura  Acero refuerzo Acero corru-  DIACO        ISO 14001                    N/A        N/A       N/A          N/A         N/A        N/A       N/A              SÍ
+                                      gado        GERDAU
+
+         Estructura Acero        Acero            Estudio UPME N/A            N/A           2.6994 Cuna a N/A                 N/A         N/A        N/A       N/A              N/A
+
+                                                                                                       puerta
+
+         HVAC        Aislamiento AEROCOR          Fiberglass                  Tipo II N/A              N/A       N/A          Saint       64.33%     N/A       EUCEB            N/A
+
+                                                                                                                              Gobain
+
+         HVAC        Aislamiento CLIMAVER         Fiberglass                  Tipo II N/A              N/A       N/A          Saint       62.80%     N/A       EUCEB            N/A
+
+                                 DECO                                                                                         Gobain
+
+         HVAC        Aislamiento CLIMAVER         Fiberglass                  Tipo II N/A              N/A       N/A          Saint       62.80%     N/A       EUCEB            N/A
+
+                                 NETO                                                                                         Gobain
+
+         HVAC        Aislamiento CLIMAVER         Fiberglass                  Tipo III 5.43            Cuna a Externa         Saint       N/A        N/A       N/A              N/A
+
+                                 NETO                                                                  puerta                 Gobain
+
+         HVAC        Aislamiento CLIMAVER         Fiberglass                  Tipo II N/A              N/A       N/A          Saint       60.20% N/A           EUCEB            N/A
+
+                                 PLUS                                                                                         Gobain
+
+         HVAC        Aislamiento DUCTOGLASS Fiberglass                        Tipo II N/A              N/A       N/A          Saint       60%        N/A       EUCEB            N/A
+
+                                 GOLD                                                                                         Gobain
+
+         HVAC        Aislamiento ZERO DUCT Fiberglass                         Tipo II N/A              N/A       N/A          Saint       78.80% N/A           EUCEB            N/A
+
+                                 WRAP                                                                                         Gobain
+
+         HVAC        Aislamiento DUCTLINER Fiberglass                         Tipo II N/A              N/A       N/A          Saint       62,8 a     N/A       EUCEB            N/A
+
+                                                                                                                              Gobain 78,8%
+
+         HVAC        Aislamiento FLEXIVER         Fiberglass                  Tipo II N/A              N/A       N/A          Saint       50%        N/A       EUCEB            N/A
+
+                                                                                                                              Gobain
+
+         HVAC        Lámina      Acero Lamina-    Acesco                      Tipo II 2.452            Cuna a Interna         Acesco N/A             N/A       N/A              N/A
+                                 do en Caliente
+                                 Galvanizado                                                           puerta
+
+         Iluminación Luminarias                   PHILIPS                     N/A           N/A        N/A       N/A          N/A         N/A        N/A       N/A              SI
+                                                  LIGHTING
+                                                  COLOMBIANA
+                                                  S.A.S
+
+         Iluminación Luminarias                   OSRAM DE                    N/A           N/A        N/A       N/A          N/A         N/A        N/A       N/A              SI
+                                                  COLOMBIA
+                                                  ILUMINACIO-
+                                                  NES S.A.
+
+         Iluminación Luminarias                   HIGH LIGHTS                 N/A           N/A        N/A       N/A          N/A         N/A        N/A       N/A              SI
+                                                  S.A.
+
+         Impermea- Mortero       Mortero Flexi-                               Tipo I N/A               N/A       N/A          Informe 0%             N/A       VOC: 0.53 g/L N/A
+         bilizante Flexible      ble Paraguas                                                                                 GRI
+                                 Bicomponente                                                                                                                  - Parte Líquida
+
+                                                                                                                                                               Declaración de
+
+                                                                                                                                                               ingredientes
+
+                                                                                                                                                               CAS (Chemical
+
+                                                                                                                                                               Abstracts
+
+                                                                                                                                                               Service)
+
+                                                                                                                                                     Cartilla de Materiales I Febrero 2021  16
+     ID  Clasifi-     Material            Nombre       Marca/         Certificación                                           Atributo de sostenibilidad
+INS-1    cación                           Comercial    Empresa
+INS-2                                                                                 Etiqueta         GWP     Análisis  Declaración  Informes    Contenido       Origen   Declaración        Respons-
+                                                                                       según            (kg    de Ciclo  Ambiental       de       reciclado      Regional  de Ingredi-        abilidad
+MPC-1                                                                                   ISO         CO2eq/ kg  de Vida     del Pro-                                                         extendida de
+                                                                                      (I, II, III)  material)                         sostenibi-     (%)                      entes          productor
+MPC-2                                                                                                                       ducto       lidad
+MPC-3
+MPC-4    Instalaciones PVC                Tubería PVC  Mexichem                       N/A           N/A        N/A       N/A          Pacto       N/A            N/A       N/A              SI
+MPC-5                                                  Colombia
+                                                       S.A.S (PAVCO)                                                                  Global UN
+
+         Instalaciones Aparatos           General      Corona         Informe de N/A                N/A        N/A       N/A          Informe % de uso N/A                 N/A              N/A
+                        sanitarios
+                                                                      Sostenibilidad                                                  GRI         de materias
+
+                                                                      Corporativa                                                     Pacto       provenientes
+
+                                                                      2018                                                            Global del reciclaje
+
+                                                                                                                                                  fue
+
+                                                                                                                                                  de 2,72%
+
+                                                                                                                                                  del total de
+
+                                                                                                                                                  consumo de
+
+                                                                                                                                                  materias pri-
+
+                                                                                                                                                  mas (pastas
+
+                                                                                                                                                  cerámicas,
+
+                                                                                                                                                  esmaltes y
+
+                                                                                                                                                  rotura)
+
+         Maderas,     Recubrimien-        Línea Domus  Triplex Acemar C2C             Tipo I N/A               N/A       N/A          N/A         C2C            N/A       Material         N/A
+         plásticos y  tos en madera                    S.A.S.
+         compuestos   para techos y                                                                                                               Reutilización            Health Certi-
+                      paredes
+                                                                                                                                                  del material:            ficate (Cradle
+
+                                                                                                                                                  Plata                    to Cradle
+
+                                                                                                                                                                           Certified
+
+                                                                                                                                                                           Banned List
+
+                                                                                                                                                                           compliant
+
+                                                                                                                                                                           & Material
+
+                                                                                                                                                                           Health optimi-
+
+                                                                                                                                                                           zation strategy
+
+                                                                                                                                                                           developed)
+
+         Maderas, Maderas                              Triplex Acemar FSC             Tipo I N/A               N/A       N/A          N/A         N/A            N/A       N/A              N/A
+         plásticos y
+         compuestos                                    S.A.S.
+         Maderas, Maderas
+         plásticos y                                   Masisa                         Tipo II N/A              N/A       N/A          Informe N/A                N/A       N/A              N/A
+         compuestos
+                                                                                                                                      Integrado
+         Maderas, Tablero Madera ECOPLAC
+         plásticos y Descubierto                                                                                                      (Social,
+         compuestos
+                                                                                                                                      Ambiental
+         Maderas, Tablero Madera MDF
+         plásticos y Descubierto                                                                                                      y Econó-
+         compuestos
+                                                                                                                                      mico)
+
+                                                       Masisa         FSC             Tipo I N/A               N/A       N/A          N/A         N/A            N/A       Cumple con N/A
+                                                                                                                                                                           la norma
+                                                       Masisa         FSC, CARB Tipo I N/A                     N/A       N/A          N/A         Certificado N/A          europea E1,
+                                                                      PHASE 2, SCS                                                                                         que identifica
+                                                                      Preconsumer                                                                 SCS Pre-                 a los productos
+                                                                                                                                                                           con baja
+                                                                                                                                                  consumer:                emisión de
+                                                                                                                                                                           formaldehído
+                                                                                                                                                  Garantiza
+                                                                                                                                                                           Cumple con N/A
+                                                                                                                                                  que un %                 la norma
+                                                                                                                                                                           europea E1,
+                                                                                                                                                  del conteni-             que identifica
+                                                                                                                                                                           a los productos
+                                                                                                                                                  do de este               con baja
+                                                                                                                                                                           emisión de
+                                                                                                                                                  producto,                formaldehído
+
+                                                                                                                                                  proviene
+
+                                                                                                                                                  de madera
+
+                                                                                                                                                  reciclada
+
+                                                                                                                                                  en procesos
+
+                                                                                                                                                  industriales
+
+17 Cartilla de Materiales I Febrero 2021
+     ID  Clasifi-  Material    Nombre           Marca/      Certificación                                          Atributo de sostenibilidad
+MPC-6    cación                Comercial        Empresa
+MPC-7                                                       HPD v2.1,      Etiqueta         GWP     Análisis  Declaración  Informes    Contenido   Origen   Declaración    Respons-
+MPC-8                                                       FSC-COC         según            (kg    de Ciclo  Ambiental       de       reciclado  Regional  de Ingredi-    abilidad
+MPC-9                                                                        ISO         CO2eq/ kg  de Vida     del Pro-                                                 extendida de
+MPC-10                                                                     (I, II, III)  material)                         sostenibi-     (%)                  entes      productor
+M-1                                                                                                              ducto       lidad                                       N/A
+M-2
+         Maderas, Madera       XTREME MATTE Lamitech                       N/A           N/A        N/A       N/A          N/A         N/A        N/A       N/A
+PE-1     plásticos y laminada  WT
+P-1      compuestos
+                               Fire Rated Lam Lamitech      HPD v2.1       N/A           N/A        N/A       N/A          N/A         N/A        N/A       N/A          N/A
+P-2      Maderas, Madera
+         plásticos y laminada  Chromacore Lamitech          HPD v2.1       N/A           N/A        N/A       N/A          N/A         N/A        N/A       N/A          N/A
+P-3      compuestos
+                               High Pressure Lamitech       HPD v2.1       N/A           N/A        N/A       N/A          N/A         N/A        N/A       N/A          N/A
+         Maderas, Madera
+         plásticos y laminada  Laminate
+         compuestos
+                               Compact          Lamitech    HPD v2.1       N/A           N/A        N/A       N/A          N/A         N/A        N/A       N/A          N/A
+         Maderas, Madera
+         plásticos y laminada  Ladrillo de      Estudio UPME N/A           N/A           0.2165 Cuna a N/A                 N/A         N/A        N/A       N/A          N/A
+         compuestos            arcilla                                                                 puerta
+
+         Maderas, Madera       Ladrillo o blo-  Ladrillera  Reconocimien- N/A            N/A        N/A       N/A          N/A         N/A        N/A       N/A          Sí: - Gestión
+         plásticos y laminada  que cerámico     Santa Fe    to ambiental                                                                                                 de residuos
+         compuestos                                         RACES                                                                                                        posconsumo-
+                                                                                                                                                                         Recolección,
+         Mampos- Arcilla                                                                                                                                                 tratamiento y
+         tería                                                                                                                                                           reutilización
+                                                                                                                                                                         o reciclaje
+         Mampos- Arcilla                                                                                                                                                 de manera
+         tería                                                                                                                                                           ecológica.
+
+         Perfilería Aluminio   Perfilería       Alumina                    Tipo I N/A               N/A       N/A          N/A         Se entrega Se entre- N/A          N/A
+         Pisos                 Aluminio
+                                                                                                                                       según      ga según
+         Pisos
+                                                                                                                                       solicitud solicitud
+
+                               Terrazzo Tiles Concord       GREENGUARD N/A               N/A        N/A       N/A          N/A         N/A        N/A       TVOC: < 0.22 N/A
+
+                                                Terrazzo Com- Gold                                                                                          mg/m³
+
+                                                pany Inc.                                                                                                   Individual
+
+                                                                                                                                                            VOCs: 1/2
+
+                                                                                                                                                            CREL or
+
+                                                                                                                                                            1/100th TLV
+
+                               Epoxy Terrazzo Concord       GREENGUARD N/A               N/A        N/A       N/A          N/A         N/A        N/A       TVOC: < 0.22 N/A
+
+                               System           Terrazzo Com- Gold                                                                                          mg/m³
+
+                                                pany Inc.                                                                                                   Individual
+
+                                                                                                                                                            VOCs: 1/2
+
+                                                                                                                                                            CREL or
+
+                                                                                                                                                            1/100th TLV
+
+         Pisos                 Groutless        Concord     GREENGUARD N/A               N/A        N/A       N/A          N/A         N/A        N/A       TVOC: < 0.22 N/A
+
+                               EZPour Epoxy Terrazzo Com- Gold                                                                                              mg/m³
+
+                               158              pany Inc.                                                                                                   Individual
+
+                                                                                                                                                            VOCs: 1/2
+
+                                                                                                                                                            CREL or
+
+                                                                                                                                                            1/100th TLV
+
+                                                                                                                                                  Cartilla de Materiales I Febrero 2021  18
+     ID  Clasifi-  Material               Nombre           Marca/    Certificación                                               Atributo de sostenibilidad
+P-4      cación                           Comercial        Empresa
+                                                                                     Etiqueta         GWP     Análisis  Declaración  Informes    Contenido Origen    Declaración        Respons-
+P-5                                                                                   según            (kg    de Ciclo  Ambiental       de       reciclado Regional  de Ingredi-        abilidad
+                                                                                       ISO         CO2eq/ kg  de Vida     del Pro-                                                    extendida de
+P-6                                                                                  (I, II, III)  material)                         sostenibi-     (%)                 entes          productor
+P-7                                                                                                                        ducto       lidad
+P-8
+P-9      Pisos     Revestimiento Novalis                   Novalis   N/A             Tipo III 5.05E+01 SI               SI           N/A         *sistema NO         Compliant N/A
+P-10
+P-11                                      NovaLay LVT                                                                                            de reciclaje        with California
+VP-1
+VP-2                                                                                                                                             interno             Department of
+
+                                                                                                                                                                     public Health
+
+                                                                                                                                                                     Standard
+
+                                                                                                                                                                     v1.1, 2010
+
+                                                                                                                                                                     and certified
+
+                                                                                                                                                                     by FloorScore
+
+                                                                                                                                                                     Flooring
+
+                                                                                                                                                                     Products
+
+                                                                                                                                                                     Certification
+
+                                                                                                                                                                     Program for
+
+                                                                                                                                                                     Indoor Air
+
+                                                                                                                                                                     Quality
+
+         Pisos     General                General          Corona    Informe de N/A                N/A        N/A       N/A          Informe % de uso N/A            N/A              N/A
+
+                                                                     Sostenibilidad                                                  GRI         de materias
+
+                                                                     Corporativa                                                     Pacto       proveni-
+
+                                                                     2018                                                            Global entes del
+
+                                                                                                                                                 reciclaje fue
+
+                                                                                                                                                 de 2,72%
+
+                                                                                                                                                 del total de
+
+                                                                                                                                                 consumo de
+
+                                                                                                                                                 materias pri-
+
+                                                                                                                                                 mas (pastas
+
+                                                                                                                                                 cerámicas,
+
+                                                                                                                                                 esmaltes y
+
+                                                                                                                                                 rotura)
+
+         Pisos     Porcelanato Porcelanato Corona                    N/A             Tipo II N/A              N/A       N/A          Informe No se indica SI         VOC: 0 g/L N/A
+
+                                          Urban Arena,                                                                               GRI
+
+                                          Porcelanato
+
+                                          Quarx, Malaya
+
+         Pisos     Madera                 Piso Narra       Corona    N/A             Tipo II N/A              N/A       N/A          Informe No se indica SI         VOC: 0 g/L N/A
+
+                                          Terracota, Piso                                                                            GRI
+
+                                          Pared Madeira
+
+                                          Multico
+
+         Pisos     Marmolizados Piso Citrino Corona                  N/A             Tipo II N/A              N/A       N/A          Informe     No se indica SI     VOC: 0 g/L N/A
+                                                                                                                                     GRI         No se indica SI     VOC: 0 g/L N/A
+                   Brillantes             Beige
+                                                                                                                                     Informe
+         Pisos     Guardaescobas GUARDAE                   Corona    N/A             Tipo II N/A              N/A       N/A          GRI
+
+                                          MADERA BEIGE
+
+                                          CU
+
+         Pisos     Escalones              Huella Cemen- Corona       N/A             Tipo II N/A              N/A       N/A          Informe     No se indica SI     VOC: 0 g/L N/A
+                                                                                                                                     GRI
+                                          to Gris Caras
+
+                                          Diferenciadas
+
+         Pisos     General                                 Alfa      N/A             N/A           N/A        N/A       N/A          Pacto       N/A            N/A  N/A              N/A
+
+                                                                                                                                     Global
+
+         Ventanería y Ventana             Fully Tempered Tecnoglass  EPD - Product   Tipo III      61.94      Cuna a    Externa      N/A         N/A            N/A  N/A              N/A
+         puertas                                                     Specific        Tipo III                           Externa
+                                          Glass            S.A.S.                                             puerta
+         Ventanería y Ventana                                        EPD - Product
+         puertas                          SINGLE HUNG Tecnoglass     Specific                      293.7765 Cuna a                   N/A         N/A            N/A  N/A              N/A
+                                                                                                                 tumba
+                                          WINDOW           S.A.S.
+
+VP-3     Ventanería y Ventana             ANODIZED Tecnoglass EPD - Product Tipo III 10.2641 Cuna a Externa                          N/A         N/A            N/A  N/A              N/A
+
+         puertas                          ALUMINUM S.A.S.            Specific                                 tumba
+
+                                          EXTRUSION
+
+19 Cartilla de Materiales I Febrero 2021
+     ID  Clasifi-  Material    Nombre      Marca/          Certificación                                           Atributo de sostenibilidad
+         cación                Comercial   Empresa
+VP-4                                                                      Etiqueta         GWP     Análisis  Declaración  Informes    Contenido   Origen   Declaración    Respons-
+VP-5                                                                       según            (kg    de Ciclo  Ambiental       de       reciclado  Regional  de Ingredi-    abilidad
+VP-6                                                                        ISO         CO2eq/ kg  de Vida     del Pro-                                                 extendida de
+VP-7                                                                      (I, II, III)  material)                         sostenibi-     (%)                  entes      productor
+VP-8                                                                                                            ducto       lidad
+VP-9
+VP-10    Ventanería y Ventana  FIXED       Tecnoglass EPD - Product Tipo III 293.7765 Cuna a Externa                      N/A         N/A        N/A       N/A          N/A
+VP-11    puertas
+VP-12                          WINDOW      S.A.S.          Specific                                tumba
+VP-13    Ventanería y Ventana
+         puertas               PROJECT     Tecnoglass EPD - Product Tipo III 293.7765 Cuna a Externa                      N/A         N/A        N/A       N/A          N/A
+VP-14
+         Ventanería y Ventana  WINDOW      S.A.S.          Specific                                tumba
+         puertas
+                               SWING DOORS Tecnoglass EPD - Product Tipo III 18.7444 Cuna a Externa                       N/A         N/A        N/A       N/A          N/A
+         Ventanería y Ventana
+         puertas                           S.A.S.          Specific                                tumba
+
+         Ventanería y Ventana  STOREFRONT Tecnoglass EPD - Product Tipo III 442.032 Cuna a Externa                        N/A         N/A        N/A       N/A          N/A
+         puertas
+                               WINDOW      S.A.S.          Specific                                tumba
+         Ventanería y Ventana
+         puertas               Laminated   Tecnoglass EPD - Product Tipo III 62.65                 Cuna a Externa         N/A         N/A        N/A       N/A          N/A
+
+         Ventanería y Ventana  Glass       S.A.S.          Specific                                tumba
+         puertas
+                               LowE Glass Tecnoglass EPD - Product Tipo III 62.65                  Cuna a Externa         N/A         N/A        N/A       N/A          N/A
+         Ventanería y Ventana
+         puertas                           S.A.S.          Specific                                tumba
+
+         Ventanería y Ventana  Insulating  Tecnoglass EPD - Product Tipo III 61.94                 Cuna a Externa         N/A         N/A        N/A       N/A          N/A
+         puertas
+                               Glass       S.A.S.          Specific                                puerta
+         Ventanería y Ventana
+         puertas               CURTAIN WALL Tecnoglass EPD - Product Tipo III 287.343 Cuna a Externa                      N/A         N/A        N/A       N/A          N/A
+
+         Ventanería y Vidrio               S.A.S.          Specific                                tumba
+         puertas
+                               WINDOW      Tecnoglass EPD - Product Tipo III 442.032 Cuna a Externa                       N/A         N/A        N/A       N/A          N/A
+
+                               WALL        S.A.S.          Specific                                tumba
+
+                               PAINTED     Tecnoglass EPD - Product Tipo III 10.2641 Cuna a Externa                       N/A         N/A        N/A       N/A          N/A
+
+                               ALUMINUM S.A.S.             Specific                                tumba
+
+                               EXTRUSION
+
+                                           Tecnoglass Inc                 N/A           N/A        N/A       N/A          Pacto       N/A        N/A       N/A          N/A
+
+                                                                                                                          Global UN
+
+                                                                                                                                                 Cartilla de Materiales I Febrero 2021  20
+Sección 5
+
+21 Cartilla de Materiales I Febrero 2021
+Sección 5
+Aplicación en proyecto ejemplo
+
+A modo de ejemplo, en esta sección se realiza una evaluación ambiental de una edificación según los lineamientos establecidos por
+la normativa EN 15 978. El alcance va a limitarse a la etapa de producto (módulo A1-A3) y se va a analizar únicamente el potencial de
+calentamiento global (GWP). Se van a incluir en el análisis los materiales con los que se cuente información de su GWP en la cartilla.
+
+La metodología de cálculo hace uso de la siguiente ecuación:
+
+                                                              GW Pi = GWPA1-A3 =  an,i x GWPn,i
+
+En donde:
+
+GW Pi : Potencial de calentamiento global de la edificación durante la etapa i (kgCO).
+
+GW PA1-A3i : Potencial de calentamiento global de la edificación durante la etapa de producto (kgCO).
+
+an,i : Cantidades brutas del producto n utilizadas durante la etapa i (kg o m³. generalmente).
+
+GW Pn,i : Potencial de calentamiento global del producto n durante la etapa i (kgCO).
+
+El siguiente análisis se hace sobre uno de los prototipos utilizados en el proyecto mediante el sistema `Mampostería Estructural' de
+6 pisos y 24 apartamentos. En la Table 1 se presentan las cantidades de material utilizadas en la edificación de acuerdo con su com-
+ponente específico. En la Tabla 2 se presentan los factores de emisión utilizados. Idealmente, la evaluación ambiental debería incluir
+la totalidad de los materiales utilizados en la construcción; sin embargo, en esta sección se analizan únicamente los materiales de
+los que se tiene conocimiento, tanto de la cantidad utilizada, como de su potencial de calentamiento global (GWP). Se evalúan cinco
+materiales: cemento, acero, ladrillo, vidrio y agregados.
+
+Material          Cemento (kg)                                Acero (kg)  Ladrillo (kg)          Vidrio (kg)  Agregados (kg)
+                                                                 490.8          0.0                   0.0           46511.1
+Losa cubierta     7480.6                                        2568.9          0.0                   0.0          119400.1
+                                                               27832.6                                0.0          56603.6
+Muro concreto     19857.9                                         0.0        160516.1                                 0.0
+                                                                 2945.1         0.0                2404.0          282110.2
+Muro mampostería  10372.3                                       5053.7          0.0                   0.0
+                                                                38891.1         0.0                   0.0         163042.5
+Ventanería        0.0                                                                                             667667.4
+                                                                             160516.1              2404.0
+Losa entrepiso    45738.2
+
+Cimentación       21935.7
+
+Total             105384.6
+
+Tabla 1. Cantidades de material utilizadas en la edificación
+
+                                                                                                              Cartilla de Materiales I Febrero 2021  22
+Material          Cemento (kg)             Acero (kg)  Ladrillo (kg)  Vidrio (kg)  Agregados (kg)
+GWP (kgCO2eq/kg)       0.628                  2.699        0.217         4.072           0.002
+
+Tabla 2. Factores de emisión utilizados 1
+
+El análisis realizado permite cuantificar el impacto, respecto al calentamiento global, de los materiales de construcción utilizados en
+una edificación. Esta información puede ser útil para los diferentes actores de la construcción ya que permitiría:
+
+  · Responder a una solicitud o requerimiento respecto a la huella de carbono asociada a la edificación o al inmueble demandado
+       por parte de un cliente potencial
+
+  · Facilitar la labor empresarial de una constructora que quiere llevar un control del impacto ambiental de los inmuebles construi-
+       dos o que necesita presentar estos resultados con fines comerciales.
+
+  · Facilitar la toma de decisiones, durante las etapas iniciales de diseño, con miras a minimizar el impacto ambiental de los mate-
+       riales.
+
+1 Se utilizan Cemento y Agregados ARGOS; vidrio `Laminated Glass' de TECNOGLASS S.A.S; se toma el valor genérico de GWP de
+los otros materiales (ladrillo y acero).
+
+23 Cartilla de Materiales I Febrero 2021
+Conclusiones y Recomendaciones
+
+A partir de la recolección de la información y su análisis, es posible determinar que existe un avance en la industria de materiales a
+nivel nacional, en el cual empresas con diferentes ofertas de productos, cuentan con atributos de sostenibilidad en distintas fases de
+avance. Algunos con estrategias a nivel de responsabilidad corporativa, y otros con un enfoque desde sus procesos de extracción,
+fabricación, o disposición final. Así mismo, se evidencia como empresas cuentan con mayores capacidades técnicas y planes de tran-
+sición hacia prácticas más sostenibles.
+
+Colombia presenta una baja productividad en el uso de los recursos, de acuerdo a cifras del Departamento Nacional de Planeación,
+Fedesarrollo, Global Green Growth Institute y el Programa de las Naciones Unidas para el Medio Ambiente, indicadores como, la pro-
+ductividad del agua (USD/m3 usado), la tierra (USD/km2 de tierra arable), la intensidad del consumo de materiales (Kg/PIB) y la in-
+tensidad energética (MJ/USD), se encuentran por debajo de valores que presentan países de ingresos medio-alto. Así mismo, existen
+importantes brechas en materia de reciclaje y potencial de aprovechamiento de materiales, entre estos acero, cemento, concreto y
+polímeros. En este marco la industria de la construcción tiene un papel fundamental con relación al flujo y selección de materiales con
+atributos de sostenibilidad, en dónde se estima que la construcción de edificaciones demanda más de 90 millones de toneladas de
+materiales por año, genera aportes al Producto Interno Bruto (PIB) nacional superiores al 6,5% de acuerdo a cifras del Departamento
+Administrativo Nacional de Estadística para el año 2019, consume el 60% de los recursos naturales no renovables extraídos de la tierra,
+el 40% de energía del país y genera el 30% de las emisiones de CO2 (MADS, 2019).
+
+Finalmente, la recopilación que presenta esta cartilla de materiales no es una representación completa del mercado actual en el país.
+No obstante, entrega un marco de referencia a partir del cual los desarrolladores de proyectos pueden empezar a buscar materiales
+con estos atributos y contribuir a elevar los estándares del mercado en esta práctica desde la demanda del mercado. Es así, como será
+el progreso del sector, donde se deben tener claras las interacciones entre los negocios, los impactos en el ambiente y la repercusión
+en la sociedad.
+
+                                Cartilla de Materiales I Febrero 2021  24
+  Referencias
+
+[1] ISO, "ISO 14040:2006(es) - Gestión ambiental -- Análisis del ciclo de vida -- Principios y marco de referencia." 2006.
+[2] Construction Products Association, "A guide to understanding the embodied impacts of construction products." 2012.
+[3] BSI Standards Publication, "BS EN 15978:2011." 2012.
+[4] "The International EPD® System - The International EPD® System," 2020. https://www.environdec.com/.
+[5] Argos, "Environmental Data Sheet - Rioclaro cemento UG con arcillas." 2019, [Online]. Available: https://mnisaccp01.blob.core.
+windows.net/colombia/ARGOS_Self_Declaration_Cemento_UG_Arcillas.pdf?sv=2017-04-.
+[6] Cementos Argos, "Reporte Integrado 2019." [Online]. Available: https://www.grupoargos.com/Portals/0/documentos/reporte integrado/
+Reporte_Integrado_Argos_2019.pdf.
+[7] Cementos Argos, "Indicadores ambientales." 2019, [Online]. Available: https://sostenibilidad.argos.co/Portals/16/Indicadores Ambientales.
+pdf?ver=2020-03-12-144021-253.
+[8] CEMEX, "CEMEX LATAM HOLDINGS INFORME INTEGRADO 2019." [Online]. Available: https://www.cemexcolombia.com/
+documents/45752949/45757628/2019-reporte-integrado.pdf/13514b02-34aa-1005-ad36-fc07f2e819e0.
+[9] HOLCIM, "Informe de Desarrollo Sostenible 2016-2017." [Online]. Available: https://issuu.com/comunicacionescorporativasholcimcol/docs/
+ids_lafargeholcim_2016-2017.
+[10] HOLCIM, "Holcim Colombia Primera Empresa Del Sector En Lograr La Declaracion Ambiental De Producto | Holcim Colombia S.A. - Hol-
+cim Colombia S.A.," 2016. https://www.holcim.com.co/comunicaciones/holcim-colombia-primera-empresa-del-sector-en-lograr-la-declaracion-
+ambiental-de-producto (accessed Aug. 18, 2020).
+[11] UPME-Ecoingeniería, "Determinación de propiedades físicas y, estimación del consumo energético de la producción, de acero, concreto,
+vidrio, ladrillo y otros materiales, entre ellos los alternativos y otros de uso no tradicional, utilizados en la construcción de edificaciones." 2012.
+[12] DIACO GERDAU, "Medio Ambiente y sociedad - DIACO." [Online]. Available: https://gerdau.com.co/MEDIOAMBIENTEYSOCIEDAD/Recicla-
+je/Desintegracion.aspx.
+[13] Ladrillera Santa Fe, "Santafé, una empresa sostenible reconocida por la CA." .
+[14] GCCA Climate Ambition Statement: Towards carbon neutral concrete. [Online]. Available: https://gccassociation.org/wp-content/
+uploads/2020/09/GCCA_ClimateAmbitionStatement_Print_AW.pdf
+[15] CALKINS, "Materials for Sustainable Sites. A Complete Guide to the Evaluation, Selection, and Use of Sustainable Construction Materials"
+2009.
+
+25 Cartilla de Materiales I Febrero 2021
+      Anexos
+
+      ID                                            Descripción del producto                                         Link
+A-1
+A-2       Pintura interior antibacteriana de alta calidad                                                            https://spot.ul.com/main-app/products/detail/5e28a9d355b0e81ec00f2ce6?page_type=Products%20Catalog
+A-3
+A-4       Pintura de alta calidad para interiores, contiene compuestos orgánicos poco volátiles                      https://spot.ul.com/main-app/products/detail/5d2724d955b0e8745842c60b?page_type=Products%20
+A-5                                                                                                                  Catalog
+A-6
+          Pintura interior estándar, contiene compuestos orgánicos poco volátiles                                    https://spot.ul.com/main-app/products/detail/5d152e9955b0e851f04191f0?page_type=Products%20Catalog
+A-7
+          Pintura de alta calidad para interiores, contiene compuestos orgánicos poco volátiles                      https://spot.ul.com/main-app/products/detail/5d152e9255b0e851f04191dd?page_type=Products%20Catalog
+A-8
+          Masilla o compuesto desarrollado para el tratamiento de juntas en placas de yeso, masillado o estucado https://etex.com.co/media/ficha-tecnica/gyplac-masilla-en-pasta.pdf#_
+A-9
+          de revoques y placas de fibrocemento                                                                       ga=2.44345572.198815082.1593180631-1930733356.1593180631
+A-10
+A-11      Masilla flexible de grano grueso, lista para usar para acabados texturizados en exteriores e interiores,   https://etex.com.co/media/ficha-tecnica/masilla-superboard-acabado-texturizado.pdf#_
+A-12      con alta capacidad de llenado, fácil aplicación y alta elasticidad, es un excelente complemento de aca-    ga=2.24448122.198815082.1593180631-1930733356.1593180631
+          bado sobre los sistemas de construcción en seco con placas de cemento Superboard® y sobre revoques
+A-13      o pañetes tradicionales
+
+A-14      Pintura arquitectónica tipo 3 base agua, de bajo olor, diseñada especialmente para cielos en ambientes     https://corona.co/medias/pintura-techos-interiores-ficha-tecnica.pdf?context=bWFzdGVyfGRvY3VtZW50c3w-
+A-15      interiores                                                                                                 zMzc0MjN8YXBwbGljYXRpb24vcGRmfGhkMC9oMjcvODgwNjI2MzUyMTMxMC9waW50dXJhLXRlY2hvcy1pb-
+A-16                                                                                                                 nRlcmlvcmVzLWZpY2hhLXRlY25pY2EucGRmfGFmZWRhZDMwNjFjZmUxZjQ0ZjdhYzI5ZGRkZjQxZDY4OGU4ZD-
+                                                                                                                     c3Yzg5MDlhNTgwODQ1ZDUzY2VkMzAwZjRhZTA
+
+          Especialmente diseñada para exteriores                                                                     https://corona.co/medias/pintura-extrablindaje-ficha-tecnica.pdf?context=bWFzdGVyfGRvY3VtZW50c3w0N-
+                                                                                                                     TY4NzB8YXBwbGljYXRpb24vcGRmfGgzMC9oMWEvODgwNjI2MzEyODA5NC9waW50dXJhLWV4dHJhYmxpb-
+                                                                                                                     mRhamUtZmljaGEtdGVjbmljYS5wZGZ8NThmMTdjZjE1MjExYzZkMmNkNDJiNGM4MGZiZTk3YzkzZDgxMjQ4Z-
+                                                                                                                     TA4Nzc4NjllMjlhNTIzMGMzMjhkNmNhMA
+
+          Pintura arquitectónica tipo 2 base agua, de bajo olor, diseñada especialmente para ambientes interiores    https://corona.co/medias/pintura-professional-alta-cobertura-ficha-tecnica.pdf?context=bWFzdGVyfGRvY3VtZW-
+                                                                                                                     50c3w0NTIyNjB8YXBwbGljYXRpb24vcGRmfGg1Ny9oMjEvODgwNjI2MzM1NzQ3MC9waW50dXJhLXByb2Zlc3N-
+                                                                                                                     pb25hbC1hbHRhLWNvYmVydHVyYS1maWNoYS10ZWNuaWNhLnBkZnxjYjYxM2EzNWI3OTU0ZDNkZDZjMjhkN-
+                                                                                                                     jBjZWEyODhhMmMyY2ViMTA3NmZiZTlmN2VjYjU0ZTAwYmU5OTUzMDg4
+
+          Pintura arquitectónica interior/exterior                                                                   https://www.pinturastitopabon.com/tienda/vinilo-tipo-1-cero-voc-galon1gl/
+
+          Estuco Plástico                                                                                            https://www.pinturastitopabon.com/tienda/estuco-plastico-cunete-28kl/
+
+          El Vinilo Fino Tipo 1 es ideal para decorar y proteger superficies interiores y exteriores cubierto como:  https://www.pinturastitopabon.com/tienda/vinilo-fino-tipo-1-cunete-5gl/
+          estuco, cemento, concreto, yeso y madera. Es un producto a base de dispersión acuosa estable de un
+          homopolímero o de un copolímero vinil acrílico con acabado mate y terso, diluible en agua, rendidor y
+          buen secado.
+
+          Producto especialmente diseñado para aplicar en áreas residenciales tanto interiores y exteriores como     https://www.pinturastitopabon.com/tienda/acryltito-banos-y-cocinas-cunete-5gl/
+          salas de recepción y zonas comunes, debido a su composición se recomienda para baños y cocinas por
+          su alta resistencia a la humedad superficial, se puede aplicar en madera, paredes, cemento y concreto
+
+          Pintura para techos                                                                                        https://www.pinturastitopabon.com/tienda/pintura-para-teja-balde2-5gl/
+
+          Pintura para fachadas y paredes exteriores                                                                 https://www.pinturastitopabon.com/tienda/caparazon-balde2-5gl/
+
+          Pintura para techos y paredes interiores                                                                   https://www.pinturastitopabon.com/tienda/vinilo-corriente-tipo-2-galon1gl/
+
+A-17      SikaWall®-401 Pintura Texturizada es un recubrimiento elástico base agua, resistente a rayos UV, con https://col.sika.com/content/dam/dms/co01/c/SikaWall%C2%AE-401%20Pintura%20Texturizada.pdf
+
+          protección a la carbonatación, impermeable
+
+                                                                                                                           Cartilla de Materiales I Febrero 2021                                                            26
+      ID                                  Descripción del producto                                                                                                   Link
+A-18
+A-19      Esmalte sintético brillante diluible con agua, fabricado con materias primas Biorenovables. No contiene      https://pinturasbler.com/wp-content/uploads/2020/04/Ficha-Te%CC%81cnica-ESMALTE-ZERO-BLER%C2%AE.pdf
+A-20      cromo, plomo, ni mercurio, libre de metales pesados. Producto ideal para recubrir superficies dentro de
+A-21      ambientes industriales y domésticos de alta resistencia a la intemperie, ambientes húmedos modera-
+AD-1      dos, excelente adherencia, cubrimiento, flexibilidad y brillo
+
+AD-2      Pintura Alquídica Industrial inhibidora de la corrosión por barrera y por intercambio iónico, diluible con   https://pinturasbler.com/lineas/anticorrosivos/zero-oxido-bler/
+          AGUA, fabricado con materias primas Biorenovables. No genera olores fuertes a solventes. Anticorrosivo
+AD-3      de alto desempeño y bajo impacto. No contiene cromo, plomo, mercurio, libre de metales pesados. Es
+AD-4      un producto ideal para proteger de la oxidación superficies en ambientes industriales y domésticos.
+
+AD-5      Anticorrosivo diluible con agua. Durante el proceso de aplicación y curado de la película no emite olores https://pinturasbler.com/lineas/anticorrosivos/eco-protector-bler/
+AD-6      a solventes que afecten la salud de seres vivos y el medio ambiente. Inhibe la corrosión por barrera y
+AS-1      por intercambio iónico. Excelente resistencia química y al agua.
+AS-2
+AS-3      Pintura de acabado acrílica                                                                                  https://pinturasbler.com/lineas/esmaltes/eco-esmalte-bler/
+
+          Pegacor® Max, adhesivo bajo en polvo, es un adhesivo cementicio                                              https://corona.co/medias/pegacor-max-hoja-seguridad.pdf?context=bWFzdGVyfGRvY3VtZW50c3wyNjU2N-
+                                                                                                                       TR8YXBwbGljYXRpb24vcGRmfGgwMC9oYmYvODc5Njc0ODEyMDA5NC9wZWdhY29yLW1heC1ob2phLXNlZ-
+                                                                                                                       3VyaWRhZC5wZGZ8YTU0MzcyNDQ4ZTAzNGExYWFmMzUxNGNjYWEyYzg2MTUxMzA4Mzg0MjQzZjMxYzYxY-
+                                                                                                                       TE3ZDExNzgwMTdkN2Q5MA
+
+          Pegacor Super cubriente                                                                                      https://corona.co/medias/pegacor-max-ficha-tecnica.pdf?context=bWFzdGVyfGRvY3VtZW50c3w1MTU0ND-
+                                                                                                                       F8YXBwbGljYXRpb24vcGRmfGhlZS9oYmIvODc5Njc0ODA1NDU1OC9wZWdhY29yLW1heC1maWN-
+                                                                                                                       oYS10ZWNuaWNhLnBkZnxhMWM4YWEyMzVjYWQ0MDM5NDM4YWVjNGNkOWZiNDk2NmExNWM1ZWQzM-
+                                                                                                                       mU3NzQyOTY1NzQzOTcwN2RmYTZkNmYz
+
+                                                                                                                       https://corona.co/medias/pegacor-supercubriente-ficha-tecnica.pdf?context=bWFzdGVyfGRvY3VtZW50c3w1M-
+                                                                                                                       Dg2NTB8YXBwbGljYXRpb24vcGRmfGgzYi9oY2QvODc5Njc0ODU3ODg0Ni9wZWdhY29yLXN1cGVyY3Vicmllb-
+                                                                                                                       nRlLWZpY2hhLXRlY25pY2EucGRmfGU5ZDBhZjJmODQ2NWNjMzQ5YWYxZWExNjA0NGNiOGJjYzA5OGRmYzI-
+                                                                                                                       4YmVkZjk1MGQzYjRmZmI5YWViNTE0NWI
+
+                                                                                                                       https://corona.co/medias/pegacor-supercubriente-hoja-seguridad.pdf?context=bWFzdGVyfGRvY3VtZW50c3w-
+                                                                                                                       zMzMyOTN8YXBwbGljYXRpb24vcGRmfGg0Yy9oZDAvODc5Njc0ODY0NDM4Mi9wZWdhY29yLXN1cGVyY3Vic-
+                                                                                                                       mllbnRlLWhvamEtc2VndXJpZGFkLnBkZnw0OWNhNTUyY2JjMzQxODA5MGIxODc0Y2I4NGNlMTU5ZjNjNjZjOD-
+                                                                                                                       VmZGJhYWE1ZGQ3MWViNjI2NTIyNmUyODk2
+
+          Pegacor® Pasta Lista es un adhesivo en dispersión normal (D) (base acrílica), con tiempo abierto exten-      https://corona.co/medias/pegacor-pasta-lista-ficha-tecnica.pdf?context=bWFzdGVyfGRvY3VtZW50c3w1MzYx-
+          dido (E) y alta resistencia al calor (H2) que cumple la norma NTC 6050, y se clasifica como D1 EH2. Este     NzR8YXBwbGljYXRpb24vcGRmfGhhZS9oYmYvODc5Njc0ODE4NTYzMC9wZWdhY29yLXBhc3RhLWxpc3RhLW-
+          producto es especializado para la instalación en capa delgada.                                               ZpY2hhLXRlY25pY2EucGRmfDgyZGVlYmRiOGE4YTUwNjRiYWRjMGYwNjNmY2U5Y2FkM2Y2MmMxNzQ1M-
+                                                                                                                       DY4NmYzZjg5YzRhMWEzMGJjMzQ3Yjc
+
+          Pegacor® porcelánico es un adhesivo en polvo, premezclado en fábrica con aditivos tipo látex y de base       https://corona.co/medias/pegacor-porcelanico-ficha-tecnica.pdf?context=bWFzdGVyfGRvY3VtZW50c3w0OD-
+          cementosa, de color blanco o gris, que sólo requiere ser mezclado con agua. Este producto es especial-       QwODh8YXBwbGljYXRpb24vcGRmfGhiZC9oYzUvODc5Njc0ODMxNjcwMi9wZWdhY29yLXBvcmNlbGFuaWNvL-
+          izado para la instalación en interiores en capa delgada                                                      WZpY2hhLXRlY25pY2EucGRmfDQwZjFmZjEzMDY4MTQ1ZGMwMzMwNGNhZGFlZWE2Y2NlMGFkNzlhZjliMz-
+                                                                                                                       JiZTM3Mzc4ZDZhMTJkMWM4ZGZjM2E
+
+                                                                                                                       https://corona.co/medias/pegacor-porcelanico-hoja-seguridad.pdf?context=bWFzdGVyfGRvY3VtZW50c3wyN-
+                                                                                                                       zQxODN8YXBwbGljYXRpb24vcGRmfGg3ZS9oYzYvODc5Njc0ODM4MjIzOC9wZWdhY29yLXBvcmNlbGFuaWN-
+                                                                                                                       vLWhvamEtc2VndXJpZGFkLnBkZnwyODI2NmQwNTgyZjgzYWFjNjgxYTc5YTFkYjMwMDIxN2M4ZjU4OTgxN-
+                                                                                                                       jZiMjA3ZmU2YTllZjlmMzc5YzEwYWE2
+
+          Adhesivo epóxico de dos componentes, libre de solventes. Garantiza una pega perfecta entre concreto https://col.sika.com/content/dam/dms/co01/m/sikadur_-32_primer.pdf
+          fresco y endurecido.
+
+          Portafolio de productos toxement con algúna atributo de sostenibilidad                                       http://www.toxement.com.co/media/4086/brochure_sustentabilidad_2020-comprimido.pdf
+
+          El ATAC es un aislante de lana de vidrio que viene en placas diseñadas para controlar el ruido y la tem-     https://www.environdec.com/Detail/?Epd=12192
+          peratura. Se utiliza principalmente para construcciones metálicas, especialmente para techos metálicos
+          con el sistema de costura de pie (techo sándwich). El ATAC reduce el ruido del aire y el ruido de impacto
+          causado por la lluvia sobre el granizo. Los principales beneficios son el confort térmico y acústico y la
+          eficiencia energética.
+
+          Black Theater es un aislante de lana de vidrio negro que viene en un diseño de losas para controlar el       https://www.environdec.com/Detail/?Epd=12193
+          ruido por absorción. Se utiliza principalmente en proyectos que necesitan mejorar la inteligibilidad y
+          quieren reducir la reverberación. Puede ser instalado en combinación con techos y paneles de madera y
+          metal perforados. Tiene un revestimiento de fibra de vidrio en una de sus caras.
+
+          El Climaver Neto es un aislante de lana de vidrio que viene en losas diseñadas para construir conductos      https://www.environdec.com/Detail/?Epd=12194
+          de HVAC. Tiene en una cara un FRK (foil reinforced craft) con un diseño específico para cortes de produc-
+          tividad y en la otra cara un tejido de fibra de vidrio que le da al Climaver Neto una alta resistencia a la
+          abrasión y altas propiedades acústicas para absorber el sonido. Los principales beneficios son el confort
+          térmico y acústico y la eficiencia energética.
+
+27 Cartilla de Materiales I Febrero 2021
+      ID                       Descripción del producto                                                                                                             Link
+AS-4
+AS-5      El ECOVENT es un aislamiento de lana de vidrio hidrorepelente que viene en un diseño de placas              https://www.environdec.com/Detail/?Epd=12195
+AS-6      para controlar el ruido y la temperatura. Se utiliza principalmente en fachadas ventiladas para obtener
+AS-7      confort térmico y acústico y eficiencia energética.
+AS-8
+AS-9      La Frescasa ECO es un aislamiento de lana de vidrio que viene en rollos diseñados para controlar el         https://www.environdec.com/Detail/?Epd=12199
+AS-10     ruido y la temperatura. Se utiliza principalmente en combinación con el sistema de paneles de yeso:
+          entre las paredes divisorias y sobre los techos de yeso para obtener confort térmico y acústico y eficien-
+AS-11     cia energética.
+
+BM-1      La lámina ECO de Frescasa es un aislamiento de lana de vidrio que viene en rollos diseñados para            https://www.environdec.com/Detail/?Epd=12196
+BM-2      controlar el ruido y la temperatura con un FRK (lámina reforzada de artesanía) en una de sus caras. Se
+          utiliza principalmente en combinación con el sistema de paneles de yeso: entre las paredes divisorias y
+          sobre los techos de yeso para obtener confort térmico y acústico y eficiencia energética. La lámina ofrece
+          beneficios como barrera de vapor para evitar la condensación.
+
+          El ECO MBI de Frescasa es un aislamiento de lana de vidrio que viene en un diseño de rollos para            https://www.environdec.com/Detail/?Epd=12197
+          controlar el ruido y la temperatura con un PSK (Polypropylene Scrim Kraft Reinforcement) en una de
+          sus caras. Se utiliza principalmente en construcciones industriales bajo el techo instalado, para obtener
+          confort térmico y acústico y eficiencia energética. El acabado da una solución estética como techo para
+          las construcciones industriales.
+
+          El papel Frescasa ECO es un aislante de lana de vidrio que viene en rollos diseñados para controlar el      https://www.environdec.com/Detail/?Epd=12198
+          ruido y la temperatura con un papel artesanal en una de sus caras. Se utiliza principalmente en combi-
+          nación con el sistema de paneles de yeso: entre tabiques y sobre techos de yeso para obtener confort
+          térmico y acústico y eficiencia energética. El papel ofrece algunos beneficios como barrera de vapor para
+          evitar la condensación y para no dejar las fibras expuestas durante la instalación.
+
+          El Isover Arena es un aislamiento de lana mineral hidrófuga que viene en rollos diseñados para contro-      https://www.environdec.com/Detail/?Epd=12200
+          lar el ruido y la temperatura. Se utiliza principalmente en combinación con el sistema de paneles de
+          yeso: entre las paredes divisorias y sobre los techos de yeso para obtener confort térmico y acústico y
+          eficiencia energética.
+
+          Los paneles sándwich de ACH están compuestos por dos láminas de acero que se unen con un adhe-              https://gryphon4.environdec.com/system/data/files/6/16830/S-P-01605%20EPD%20Ach%20Sandwich%20
+          sivo orgánico al núcleo de lana mineral.                                                                    Panels%20With%20Mineral%20Wool%20Core%20(Spanish%20version).pdf
+
+          Este tipo de paneles se fabrican por conformación en frío, y se caracterizan por su alta resistencia y
+          estabilidad frente a los riesgos de incendio. Por consiguiente, los productos son aptos para su uso en
+          cualquier tipo de edificio en el que la resistencia al fuego sea un área prioritaria, como instalaciones
+          industriales, recintos públicos y construcciones residenciales. Además, su núcleo de lana mineral
+          proporciona un alto aislamiento acústico en los lugares donde se instalan los productos, en particular
+          en el sector industrial, mejorando la calidad ambiental y el confort de estas zonas.
+
+          Los paneles sándwich ACH pueden utilizarse para la instalación de revestimientos, fachadas y tabiques       https://gryphon4.environdec.com/system/data/files/6/16832/S-P-01606%20EPD%20Ach%20Sandwich%20
+          en numerosos tipos de edificios, como lugares con calefacción, plantas de producción, almacenes de          Panels%20With%20Pur%20and%20Pir%20Core%20(Spanish%20version).pdf
+          sustancias peligrosas o construcciones en las que se requiere aislamiento acústico, entre otros lugares.
+
+          Los paneles sándwich de ACH están estructurados por dos láminas de acero y un núcleo de espuma
+          rígida de poliisocianurato o poliuretano, según el material de aislamiento seleccionado.
+
+          Los paneles compuestos por aislante PIR (poliisocianurato) representan una elección óptima para gran
+          parte de las soluciones de construcción y aislamiento, además de proporcionar el cumplimiento de
+          una amplia gama de requisitos contra los riesgos de incendio, de acuerdo con la normativa nacional y
+          europea.
+
+          Por otro lado, los paneles compuestos por aislante PUR (poliuretano) son adecuados para fachadas y
+          soluciones de recubrimiento. Se trata de una estructura autoportante que proporciona una excelente
+          capacidad de aislamiento térmico, así como múltiples acabados decorativos y un amplio surtido de
+          sistemas de conexión. Asimismo, su fácil montaje le da un aspecto rígido y robusto, además de conver-
+          tirse en una opción asequible con respecto a otras alternativas.
+
+          Los paneles sándwich ACH pueden ser utilizados para la instalación de revestimientos, fachadas y            https://www.hunterdouglas.com.co/ap/uploads/co/productos/productos_archivo_descarga_3376.pdf
+          tabiques en numerosos tipos de edificios, como lugares con calefacción, plantas de producción, alma-
+          cenes de sustancias peligrosas o cámaras frigoríficas, entre otros lugares.
+
+          MOSO® bamboosupreme
+
+          MOSO® bamboosupreme                                                                                         https://www.moso-bamboo.com/wp-content/uploads/20170315_EPD_INT_Moso_X-treme_EN.pdf
+                                                                                                                      https://www.hunterdouglas.com.co/ap/uploads/co/productos/productos_archivo_descarga_3376.pdf
+
+                                                                                                                                                                          Cartilla de Materiales I Febrero 2021      28
+      ID                                   Descripción del producto                                                                                                             Link
+C-1
+          Paneles metálicos aislados tipo sándwich, compuestos de acero y poliuretano: Se utilizan en el sector de         https://www.environdec.com/Detail/?Epd=13785
+C-2       la construcción como elementos de revestimiento exterior, por su resistencia mecánica, su aislamiento
+          térmico, el levantamiento de muros de carga y la cobertura de superficies de una amplia gama de
+E-1       edificios.
+
+E-2       Proteja® - Teja Perfil 5 - Teja Perfil 7 - Teja Perfil 10- Teja Granada - Teja Colonial - Tejas onduladas - cu-  https://etex.com.co/media/ficha-tecnica/hoja-de-seguridad-tejas-onduladas-proteja.pdf#_
+E-3       biertas de cemento - tejas de cemento - placas para techos - moldeados para cubiertas - placa o teja             ga=2.229519516.1852688267.1593465409-1930733356.1593180631
+E-4       gris colonial/granada/chilena de cemento -planchas onduladas, accesorios de cemento para cubiertas
+E-5       grises
+E-6
+E-7       Cemento de Uso General con arcillas producido en la planta de Rioclaro                                           https://mnisaccp01.blob.core.windows.net/colombia/ARGOS_Self_Declaration_Cemento_UG_Arcillas.
+E-8                                                                                                                        pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=JH0kt6vsigugcOv5F2vePpqarQirc7UupTpvpTY-
+E-9                                                                                                                        s56o%3D
+E-10
+E-11      Cemento de Uso General                                                                                           https://www.grupoargos.com/Portals/0/documentos/reporte%20integrado/Reporte_Integrado_Argos_2019.pdf
+H-1
+H-2       Cemento de Uso General                                                                                           https://www.cemexcolombia.com/documents/45752949/45757628/2019-reporte-integrado.pdf/13514b02-
+H-3                                                                                                                        34aa-1005-ad36-fc07f2e819e0
+H-4
+H-5       Cemento de Uso General                                                                                           https://issuu.com/comunicacionescorporativasholcimcol/docs/ids_lafargeholcim_2016-2017
+H-6
+H-7       Concreto                                                                                                         https://www.grupoargos.com/Portals/0/documentos/reporte%20integrado/Reporte_Integrado_Argos_2019.pdf
+H-8
+          Agregados                                                                                                        https://www.grupoargos.com/Portals/0/documentos/reporte%20integrado/Reporte_Integrado_Argos_2019.pdf
+H-9
+          Agregados gruesos                                                                                                http://www.si3ea.gov.co/LinkClick.aspx?fileticket=6G1VGDdWfHc%3d&tabid=111&mid=449&lan-
+                                                                                                                           guage=en-US
+
+          Agregados finos                                                                                                  http://www.si3ea.gov.co/LinkClick.aspx?fileticket=6G1VGDdWfHc%3d&tabid=111&mid=449&lan-
+                                                                                                                           guage=en-US
+
+          Agregados finos ­ arena de río                                                                                   http://www.si3ea.gov.co/LinkClick.aspx?fileticket=6G1VGDdWfHc%3d&tabid=111&mid=449&lan-
+                                                                                                                           guage=en-US
+
+          Acero corrugado
+
+          Acero - Genérico                                                                                                 http://www.si3ea.gov.co/LinkClick.aspx?fileticket=6G1VGDdWfHc%3d&tabid=111&mid=449&lan-
+                                                                                                                           guage=en-US
+
+          Aislamiento acústico y térmico de lana mineral de vidrio biosoluble, diseñado para el aislamiento de la https://www.isover.com.co/productos/aerocor-r
+          superficie interna de ductos metálicos de aire acondicionado y ventilación
+
+          Aislamiento acústico y térmico de lana mineral de vidrio biosoluble, diseñado para fabricación de                https://www.isover.com.co/productos/climaver-deco
+          ductos de aire acondicionado; de textura uniforme, presentado en láminas rígidas
+
+          Aislamiento acústico y térmico de lana mineral de vidrio biosoluble, diseñado para fabricación de                https://www.isover.com.co/productos/climaver-neto
+          ductos de aire acondicionado; de textura uniforme, presentado en láminas rígidas
+
+          Aislamiento acústico y térmico de lana mineral de vidrio biosoluble, diseñado para fabricación de                https://www.isover.com.co/productos/climaver-neto; https://www.environdec.com/Detail/?Epd=12194
+          ductos de aire acondicionado; de textura uniforme, presentado en láminas rígidas
+
+          Aislamiento acústico y térmico de lana mineral de vidrio biosoluble, diseñado para fabricación de                https://www.isover.com.co/productos/climaver-plus-r
+          ductos de aire acondicionado; de textura uniforme, presentado en láminas rígidas.
+
+          Aislamiento acústico y térmico de lana mineral de vidrio diseñado para fabricación de ductos de aire             https://www.isover.com.co/productos/ductoglass-gold-r
+          acondicionado; de textura uniforme, presentado en láminas rígidas.
+
+          Aislamiento térmico y acústico de lana mineral de vidrio biosoluble, diseñado como aislamiento externo https://www.isover.com.co/productos/zero-ductwrap-r
+          de ductos metálicos para aire acondicionado; de textura uniforme, presentado en rollos flexibles.
+
+          Aislamiento térmico y acústico de lana mineral de vidrio biosoluble, diseñado como aislamiento interno https://www.isover.com.co/productos/ductliner
+          de ductos metálicos para ventilación, calefacción y aire acondicionado a nivel residencial y comercial; de
+          textura uniforme, presentado en rollos flexibles.
+
+          Ducto flexible aislado con fibra mineral de vidrio biosoluble para transporte de aire acondicionado y            https://www.isover.com.co/productos/flexiver-la-evolucion-de-ductoglass-flex
+          ventilación en aplicaciones comerciales y residenciales de mediana presión
+
+H-10      La lámina de acero galvanizada por inmersión en caliente en calidad comercial, estructural y full hard https://www.acesco.com.co/descargas/autodeclaraciones/DeclacionAmb%20AceroLam%20CalienteGalv%20
+
+          es un producto que combina las características de resistencia mecánica del acero y la resistencia a la compressed.pdf
+
+          corrosión generada por el zinc.
+
+I-1       Reporte Corporativo                                                                                              https://lumina.com.co/porque_lumina/quienes_somos
+
+I-2       Reporte Corporativo                                                                                              https://lumina.com.co/porque_lumina/quienes_somos
+
+29 Cartilla de Materiales I Febrero 2021
+      ID                                      Descripción del producto                                                                                           Link
+I-3
+IM-1      Reporte Corporativo                                                                                        https://lumina.com.co/porque_lumina/quienes_somos
+
+INS-1     MORTERO FLEXIBLE PARAGUAS® es un producto impermeable de alta flexibilidad para el recubrimien-            https://corona.co/medias/mortero-flexible-paraguas-ficha-tecnica.pdf?context=bWFzdGVyfGRvY3VtZW50c3wx-
+INS-2     to de superficies que requieren estanqueidad                                                               NjAyNTZ8YXBwbGljYXRpb24vcGRmfGgyNC9oNjYvODc5Njc0NTg1OTEwMi9tb3J0ZXJvLWZsZXhpYmxlLXBh-
+                                                                                                                     cmFndWFzLWZpY2hhLXRlY25pY2EucGRmfGVjMzJlZDI1ZDk4MmUwNDlmYzBlNjY3NThmMmQ2MmIzZ-
+MPC-1                                                                                                                WE0YzQ0NzJmZjY2ZDI4ZmYwYWEwNGUwMWNiNjZmZTc
+
+MPC-2     Reporte corporativo                                                                                        https://corona.co/medias/mortero-flexible-paraguas-hoja-seguridad.pdf?context=bWFzdGVyfGRvY3VtZW50c3w-
+MPC-3     Reporte corporativo                                                                                        zMDQ0NjB8YXBwbGljYXRpb24vcGRmfGgxMy9oNjMvODc5Njc0NTkyNDYzOC9tb3J0ZXJvLWZsZXhpYmxlLXBh-
+MPC-4                                                                                                                cmFndWFzLWhvamEtc2VndXJpZGFkLnBkZnxmMGRhM2JkNTQ4ZWIxNmFlZTczNTBiNTcyNDJlMGY5NmIzYTYzYT-
+MPC-5                                                                                                                JhM2Y5MmMwZTc4ZTAyZjIxNTUxOTBkM2Nk
+MPC-6
+MPC-7                                                                                                                https://pavcowavin.com.co/sustentabilidad-pavco
+
+MPC-8                                                                                                                Reporte de sostenibilidad: https://empresa.corona.co/storage/app/media/Actualizaciones/corona_informe_
+MPC-9                                                                                                                sostenibilidad_2018.pdf
+MPC-10
+M-1                                                                                                                  Pacto Global-comunicados: https://www.unglobalcompact.org/what-is-gc/participants/7165-Organizacion-Coro-
+M-2                                                                                                                  na-S-A-#cop
+PE-1
+          La línea DOMUS ofrece una alternativa completa de modelos estándar de techos y paredes de madera,          https://www.c2ccertified.org/products/scorecard/linea-domus-triplex-acemar-s.a.s
+          diseñados para integrar la versatilidad natural de la madera con la tecnología Acemar®. Las chapas de
+          madera utilizadas son seleccionadas bajo los estándares de calidad colombianos.                            https://cdn.c2ccertified.org/Certifications/TRIPLEX_ACEMAR_SAS/LINEA_DOMUS/TRIPL_LINEA_Bronz_
+                                                                                                                     MHC3934_2020-05-11.pdf
+
+          Chapillas de Madera Natural y Tableros Ultragreen Línea Ecológica, madera sobre MDF crudo desarrolla- https://www.acemar.co/chapillas-de-madera-2/
+          da. Con certificación FSC a solicitud.
+
+          Reporte corporativo                                                                                        https://colombia.masisa.com/wp-content/uploads/2019/04/Masisa2018_PDF-1.pdf
+
+          Tablero delgado de partículas finas de madera unidas entre sí mediante un adhesivo ureico, fabricado https://colombia.masisa.com/producto/ecoplac/
+
+          en un proceso de prensa continua, con lo cual se obtiene un tablero con una amplia gama de formatos,
+
+          y una superficie lisa y homogénea.                                                                         https://colombia.masisa.com/wp-content/files_mf/155423387615090408182017_Ficha_Ecoplac.pdf
+
+          Tablero de fibras de madera de pino radiata unidas por adhesivos urea-formaldehído. Las fibras de          https://colombia.masisa.com/producto/mdf/
+          madera son obtenidas mediante un proceso termo-mecánico y unidas con adhesivo que polimeriza               https://colombia.masisa.com/wp-content/files_mf/155423409215093780982017_Ficha_MDF.pdf
+          mediante altas presiones y temperaturas.
+
+          Laminado decorativo de alta presión (HPL) con acabado supper-matte, producido con tecnología de            https://hpdrepository.hpd-collaborative.org/repository/HPDThumbnails/D3E996912DCD352B3E24E4961AE-
+          punta para las aplicaciones horizontales más exigentes, que requieren la más alta resistencia a los        B831E.jpg
+          arañazos.
+
+          Laminado decorativo de alta presión (HPL) hecho de kraft y papeles decorativos. Recomendado para           https://hpdrepository.hpd-collaborative.org/repository/HPDThumbnails/A313B34E81E2623FDFB24A-
+          aplicaciones horizontales y verticales estándar en interiores, donde los códigos de incendios especifica-  5FA31A3A11.jpg
+          dos por el medio ambiente sugieren superficies decorativas que deben resistir la combustión e inhibir
+          la producción de humo.
+
+          Laminado decorativo de alta presión (HPL) de composición homogénea, asegurando la resistencia del          https://hpdrepository.hpd-collaborative.org/repository/HPDThumbnails/84AE-
+          color y eliminando el "oscurecimiento" en el borde, que se ve en los muebles tradicionales recubiertos     7111082A752781E6ACE271A952A3.jpg
+          de laminado.
+
+          El laminado decorativo de alta presión (HPL) está hecho de papeles kraft y decorativos impregnados con https://hpdrepository.hpd-collaborative.org/repository/HPDThumbnails/3E53C79E86C-
+          resinas termoendurecibles, consolidados en un laminado sometiéndolo a alta presión y alta tempera- 353B702442AA3AB7BED0F.jpg
+          tura.
+
+          El laminado decorativo de alta presión (HPL) está hecho de papeles kraft y decorativos impregnados con https://hpdrepository.hpd-collaborative.org/repository/HPDThumbnails/92BF84155A1CCFFB4D9F7849B5CA-
+          resinas termoendurecibles, consolidados en un laminado sometiéndolo a alta presión y alta tempera- DA90.jpg
+          tura.
+
+          Ladrillo de arcilla - Genérico                                                                             http://www.si3ea.gov.co/LinkClick.aspx?fileticket=6G1VGDdWfHc%3d&tabid=111&mid=449&lan-
+                                                                                                                     guage=en-US
+
+          Reporte corporativo                                                                                        https://www.santafe.com.co/sostenibilidad/
+
+          Perfilería en Aluminio                                                                                     https://cdn.alumina.com.co/alumina-website/wp-content/uploads/2019/07/CATALOGO-SISTEMAS-ALUMIN-
+                                                                                                                     ADIGITAL-5-FNL-1.pdf
+
+P-1       Materiales de azulejos duraderos en el mercado. Una vez sellado correctamente es impermeable al            https://spot.ul.com/main-app/products/detail/5c1a6b2c55b0e80b14881ecd?page_type=Products%20Cat-
+
+          agua y a las manchas, no se astilla como otros materiales de azulejos pueden, y puede ser usado para aloghttps://spot.ul.com/main-app/products/detail/5c1a6b2c55b0e80b14881ecd?page_type=Products%20
+
+          cualquier aplicación en interiores. Estas baldosas de terrazo están libres de VOC.                         Catalog
+
+                                                                                                                                                                        Cartilla de Materiales I Febrero 2021                   30
+      ID                                        Descripción del producto                                                                     Link
+P-2
+P-3       La matriz de epoxi ha sido formulada para curar con menos agujeros de alfiler que los productos de        https://spot.ul.com/main-app/products/detail/5b9bccfc55b0e80dd8a7cc8d?page_type=Products%20Catalog
+P-4       terrazo de otros fabricantes de epoxi, lo que reduce la cantidad de mano de obra requerida en la fase
+P-5       de lechada de cualquier proyecto de terrazo. Este factor conduce a menores costos de mano de obra y
+          reduce el tiempo necesario para terminar la instalación de un piso de terrazo.
+P-6
+P-7       Sistema de resina epoxi. Diseñado para curar con menos agujeros, este sistema epoxídico también           https://spot.ul.com/main-app/products/detail/5d16562e55b0e81478f098c0?page_type=Products%20Catalog
+          ayuda a eliminar el proceso de lechada durante la instalación. Cuando se combina con los agregados,
+P-8       Groutless produce un sistema de terrazo epoxi decorativo.
+
+P-9       Novalis Novalay presenta una capa de desgaste transparente muy resistente y es un revestimiento de
+          suelo para áreas de tráfico pesado en zonas domésticas y comerciales y áreas de tráfico general en apli-
+P-10      caciones industriales. Revestimiento de alto rendimiento para uso comercial y profesional, por ejemplo,
+P-11      en tiendas y almacenes, escuelas, centros de salud, oficinas y áreas administrativas.
+VP-1
+VP-2      N/A                                                                                                       Reporte de sostenibilidad: https://empresa.corona.co/storage/app/media/Actualizaciones/corona_informe_
+VP-3
+VP-4                                                                                                                sostenibilidad_2018.pdf
+VP-5
+VP-6                                                                                                                Pacto Global-comunicados: https://www.unglobalcompact.org/what-is-gc/participants/7165-Organizacion-Coro-
+VP-7                                                                                                                na-S-A-#cop
+
+          Piso Porcelanato ultraresistente a golpes, manchas, rayado y humedad.                                     https://corona.co/productos/revestimientos/pisos/porcelanato/porcelanato-urban/p/566452061https://corona.
+                                                                                                                    co/productos/revestimientos/piso-narra-terracota-cara-unica/p/453342751
+
+          Tiene un diseño inspirado en la madera, tiene una única cara y tecnología Perdura, que le confiere al     https://corona.co/productos/revestimientos/pisos/piso-pared-madeira-mix-multicolor-caras-diferencia-
+          producto mayor resistencia al rayado y al desgaste. Esta serie moderna está compuesta por 5 caras         das/p/205513791
+          diferenciadas para lograr una composición balanceada, exclusiva y única que permite versatilidad en la
+          decoración de cualquier espacio. ¡Puedes instalarla en paredes o pisos!, incluso con continuidad desde
+          el piso hasta la pared. Inspirado en la Tendencia Raíces Ancestrales.
+
+          Superficie brillante que embellece los espacios generando una mayor sensación de claridad e higiene.      https://corona.co/productos/revestimientos/piso-citrino-beige-caras-diferenciadas/p/456664031
+          La tecnología de Impresión Digital (HIGH DEFINITION HD) le confieren al producto mayor nitidez y
+          realismo en su acabado logrando un alto grado de naturalidad. Tecnología
+
+          Perdura que le confiere al producto mayor resistencia al rayado y al desgaste aumentandole la vida útil.
+
+          Proteger las paredes de los golpes generados por los elementos de aseo, dar un acabado estético entre     https://corona.co/productos/revestimientos/pisos/guardaescobas/guardaescobas-madera/p/603011031
+          el piso y la pared, y dar armonía por medio de su diseño a los diferentes espacios del hogar son las
+          principales funciones de los guarda escobas o zócalos, y que gracias a su borde biselado, evita que las
+          impurezas se acumulen en borde, permitiendo tener espacios más limpios. Está elaborado en cerámica,
+          lo cual le brinda mayor resistencia, durabilidad y es de fácil limpieza
+
+          Pieza de escalón en tamaño 30x30, acabado de alta fricción que minimiza el riesgo al deslizamiento.       https://corona.co/productos/revestimientos/pisos/escalones/huella-cemento-gris-caras-diferencia-
+          Tiene un bisel redondeado en el borde frontal que le da mayor apariencia estética a la escalera y se      das/p/307111501
+          integra al espacio de forma armónica. Su diseño está inspirado en el cemento rústico en tonalidad gris
+          con pequeñas partículas de piedra que le dan una apariencia muy natural y contemporánea.
+
+          Reporte corporativo                                                                                       Comunicados: https://www.unglobalcompact.org/what-is-gc/participants/63871-Grupo-ALFA#cop
+
+                                                                                                                    Carta de compromiso: https://s3-us-west-2.amazonaws.com/ungc-production/commitment_letters/63871/origi-
+                                                                                                                    nal/Carta_Adhesi%C3%B3n_Pacto_Global__Grupo_ALFA__COlombia.pdf?1439395245
+
+          El vidrio totalmente templado es un vidrio de seguridad tratado térmicamente que es alrededor de          https://spot.ul.com/main-app/products/detail/5e7b642555b0e81df0c47e91?page_type=Products%20Catalog
+          cuatro veces más fuerte que el vidrio normal recocido de especificaciones similares y se rompe en
+          pequeñas partículas menos afiladas.
+
+          Las ventanas de una sola pieza consisten en paneles móviles que se abren verticalmente, tienen un         https://spot.ul.com/main-app/products/detail/5e6fdb3855b0e82744b10bc1?page_type=Products%20Catalog
+          accesorio llamado equilibrio que las mantiene abiertas.
+
+          El proceso de anodización proporciona una protección artificial al aluminio con su propia corrosión.      https://spot.ul.com/main-app/products/detail/5e7b643055b0e81df0c47ec0?page_type=Products%20Catalog
+          El anodizado es un proceso electroquímico que crea una capa protectora de óxido de aluminio en la
+          superficie base.
+
+          Las ventanas fijas son elementos arquitectónicos que permiten la conexión entre el interior y el exterior https://spot.ul.com/main-app/products/detail/5e6fdae255b0e82744b10a1c?page_type=Products%20Catalog
+          de un edificio; son elementos que proporcionan iluminación y visuales desde o hacia el exterior.
+
+          Las ventanas abatibles consisten en láminas móviles que se abren en un eje, ya sea horizontal o vertical- https://spot.ul.com/main-app/products/detail/5e713a6255b0e80f58432665?page_type=Products%20Catalog
+          mente, tienen elementos que permiten mantenerlas abiertas.
+
+          Desarrollado en un proceso de ensamblaje de vidrio y aluminio, generando diferentes configuraciones https://spot.ul.com/main-app/products/detail/5e6fdb3455b0e82744b10bb4?page_type=Products%20Catalog
+          que nos han permitido tener variados sistemas.
+
+          Fachada o la entrada de un edificio.                                                                      https://spot.ul.com/main-app/products/detail/5e6fe92a55b0e835b81d42ae?page_type=Products%20Catalog
+
+31 Cartilla de Materiales I Febrero 2021
+      ID  Descripción del producto                                                                                    Link
+VP-8
+VP-9      Un vidrio laminado es un vidrio de seguridad tratado térmicamente, compuesto de dos o más litros            https://spot.ul.com/main-app/products/detail/5e7b641d55b0e81df0c47e63?page_type=Products%20Catalog
+VP-10     fijados entre sí por una capa intermedia que, en caso de rotura, evitará que las piezas se caigan y
+VP-11     causen daño.
+VP-12
+VP-13     Los vidrios de baja emisividad o de baja emisión minimizan la cantidad de luz ultravioleta e infrarroja https://spot.ul.com/main-app/products/detail/5e7b642855b0e81df0c47e9f?page_type=Products%20Catalog
+          que pasa a través del vidrio, controlando la transferencia de calor.
+
+          Un vidrio aislante consiste en una unidad doblemente sellada y tratada térmicamente, compuesta por          https://spot.ul.com/main-app/products/detail/5e7b642155b0e81df0c47e77?page_type=Products%20Catalog
+          dos o más litros de vidrio separados por un espaciador. Se utiliza para optimizar y controlar la energía
+          dentro de un edificio.
+
+          Comúnmente conocida como FACHADA FLOTANTE o muro cortina, es una disposición de elementos                   https://spot.ul.com/main-app/products/detail/5e6fe92355b0e835b81d4293?page_type=Products%20Catalog
+          verticales y horizontales, con vidrio en sus intersecciones (en su mayoría), que se anclan a la estructura
+          de hormigón o acero de un edificio.
+
+          Una pared de ventana se logra colocando vidrios entre las losas de hormigón de un edificio, utilizando      https://spot.ul.com/main-app/products/detail/5e6fe92655b0e835b81d42a1?page_type=Products%20Catalog
+          las losas como soporte estructural. Los muros de ventana tienen una ruptura entre los vidrios, con
+          cubiertas de losas utilizadas para ocultar el hormigón.
+
+          Este proceso consiste en aplicar una capa líquida de pintura electrostática sobre los perfiles previamente https://spot.ul.com/main-app/products/detail/5e7b642d55b0e81df0c47eb3?page_type=Products%20Catalog
+          tratados. Las piezas se pintan con discos electrostáticos que crean una capa uniforme y continua.
+          Posteriormente reciben un tratamiento térmico que define las propiedades finales.
+
+                                                                                                                            Cartilla de Materiales I Febrero 2021                                                     32
+DiDciecmiembrber2e0220020
+
+      33 Cartilla de Materiales I Febrero 2021
+

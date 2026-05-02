@@ -1,0 +1,464 @@
+RESOLUCIÓN NÚMERO  40150 DE 03 MAY 2024  Hoja 1 de 9 ­ Anexos
+
+"Por la cual se modifica el Reglamento Técnico de Iluminación y Alumbrado Público - RETILAP"
+
+MINISTERIO DE MINAS Y ENERGÍA
+
+                   ANEXOS
+
+REGLAMENTO TÉCNICO DE ILUMINACIÓN Y
+               ALUMBRADO PÚBLICO
+                         RETILAP
+RESOLUCIÓN NÚMERO  40150 DE 03 MAY 2024  Hoja 2 de 9 ­ Anexos
+
+"Por la cual se modifica el Reglamento Técnico de Iluminación y Alumbrado Público - RETILAP"
+
+                                             ANEXOS
+                                     Tabla de contenido
+
+Anexo 1. Formato para el dictamen de inspección para iluminación interior ............................... 3
+Anexo 2. Formato para el dictamen de inspección de iluminación exterior o alumbrado público.4
+Anexo 3. Formato para el registro de las mediciones en alumbrado público ............................... 7
+                                                                                              REPÚBLICA DE COLOMBIA
+                                                                                        MINISTERIO DE MINAS Y ENERGÍA
+
+                                                                                                           ANEXO 1
+                                                                   Formato para el dictamen de inspección para iluminación interior
+
+               Ciudad y fecha (dd-mm-aaaa)
+
+           Fecha de inicio etapa constructiva (dd-mm-aaa)                                                                           Dictamen de inspección No.
+
+               Versión RETILAP (No. Resolución)
+
+A. IDENTIFICACIÓN DEL ORGANISMO DE INSPECCIÓN
+
+        Organismo de inspección                                                                                                     Número de acreditación
+
+               NIT                                                                                                                  Teléfono
+
+                          Dirección                                                                                                 Ciudad
+B. IDENTIFICACIÓN DE LA INSTALACIÓN
+
+             Propietario de la instalación
+
+   No. de documento de identificación
+
+      Localización de la instalación        Departamento                                                                                 Dirección
+                                            Municipio                                                                                    Barrio
+
+C. IDENTIFICACIÓN DE LA INSTALACIÓN DEL SISTEMA DE ILUMINACIÓN INTERIOR OBJETO DEL DICTAMEN                              Expansión
+
+           Tipo de construcción                             Nueva                                                                                                                     Remodelación
+
+           Tipo de iluminación                   Residencial        Industrial         Comercial                                                    Servicio    Servicio público      Servicio privado
+
+        Ubicación de la instalación                         Rural              Urbana  Aislada del SIN                                              Área (m²)
+        Capacidad instalada (kW)
+                                                                                                               Tensiones (V)
+
+  Sistema(s) de iluminación inspeccionado(s)                                                                             Profesión                                                    Matricula Prof.
+D. IDENTIFICACIÓN DE PROFESIONALES COMPETENTES RESPONSABLES                                                              Profesión                                                    Matricula Prof.
+                                                                                                                         Profesión                                                    Matricula Prof.
+                          Diseñador
+                        Constructor
+                  Interventor (Si aplica)
+E. EVALUACIÓN DE LA INSTALACIÓN DE ILUMINACIÓN INTERIOR
+
+                                                                                                                                    APLICA                                                    CUMPLE
+                                                                                                                                                                                      (Ver numeral 4.3.9.4.)
+ÍTEM                                             ASPECTO A EVALUAR
+
+                                                                                                                         SÍ                         NO                            SÍ                          NO
+
+1 Memorias de cálculo
+
+2       Selección de las fuentes luminosas y/o luminarias (CRI, vida útil, eficacia, temperatura de color) y
+        compatibilidad con luminarias
+
+3       Información fotométrica de las luminarias utilizadas certificada (Matriz de intensidades, Curvas o Coeficientes
+        de Utilización).
+
+4 Validación de software de diseño                                 Demostración de la conformidad para software de
+                                                                   iluminación usado en diseño (según artículo 4.2.2)
+
+                                                                   Validación de los resultados fotométricos (según
+                                                                   artículo 4.3.2.)
+
+5 Cumplimiento de los parámetros de diseño establecidos en el RETILAP
+
+6 Iluminancia horizontal promedio (luxes) resultado de diseño
+
+7 Coeficiente de uniformidad de iluminancias resultado de diseño
+
+8 Índice de deslumbramiento unificado (UGR) resultado de diseño
+
+9 Factor de mantenimiento de la instalación de iluminación
+
+10 Esquemas de control y mantenimiento disponible al operador o propietario
+
+11 Accesibilidad a todos los dispositivos de control de luminarias
+
+12      Mediciones fotométricas del sistema de iluminación         Coeficiente de uniformidad de iluminancias
+        general                                                    Iluminancia horizontal promedio (luxes)
+
+        Mediciones fotométricas en los puestos de trabajo y/o      Coeficiente de uniformidad de iluminancias
+        áreas de tarea visual                                      Iluminancia promedio (luxes)
+13                                                                 Iluminancia promedio de las áreas circundantes
+                                                                   inmediatas (luxes)
+        (En anexos especificar si hay más de un área de tarea
+        visual y sus respectivas mediciones)                       Iluminancia promedio de las áreas de fondo (luxes)
+
+    14 Cumplimiento de los valores ofrecidos en el diseño
+    15 Cumplimiento de Valores de eficiencia energética de la instalación (VEEI)
+    16 Sistema de iluminación de emergencia
+    17 Puesta a tierra de carcasas de luminarias
+    18 Revisión de certificados de conformidad de productos de iluminación
+    19 Certificación de instalaciones eléctricas con RETIE
+F. OBSERVACIONES, MODIFICACIONES Y ADVERTENCIAS ESPECIALES
+
+G. ANEXOS
+
+H. RESULTADO DE LA INSPECCIÓN
+
+                                                                    RESULTADO                                                                                   Aprobada                               No aprobada
+                                                                                                                                                                Inspector
+                                 Director Técnico del organismo de inspección
+
+Nombre                                                                                                         Nombre
+                                                                                                               No. de documento de identificación
+No. de documento de identificación                                                                             Profesión
+                                                                                                               Certificado de competencias
+Profesión                                                                                                      Matricula profesional
+
+Certificado de competencias                                                                                    Firma
+Matricula profesional
+
+Firma y sello
+                                                                                                                    REPÚBLICA DE COLOMBIA
+                                                                                                               MINISTERIO DE MINAS Y ENERGÍA
+
+                                                                                                                                 ANEXO 2
+                                                                           Formato para el dictamen de inspección de iluminación exterior o alumbrado público
+
+                                                                                            (HOJA 1 DE 3)
+
+Ciudad y fecha (dd-mm-aaaa)
+
+Fecha de inicio etapa constructiva (dd-mm-aaa)                                                                                                         Dictamen de inspección No.
+
+Versión RETILAP (No. Resolución)
+
+A. IDENTIFICACIÓN DEL ORGANISMO DE INSPECCIÓN
+
+Organismo de inspección                                                                                                                                       Número de acreditación
+
+NIT                                                                                                                                                           Resolución de acreditación:
+
+Dirección                                                                                                                                                     Telefono
+
+B. IDENTIFICACIÓN DE LA INSTALACIÓN
+
+Propietario de la instalación
+
+No. de documento de identificación
+
+Localización de la instalación       Departamento                                                                                                             Dirección
+                                     Municipio                                                                                                                Barrio
+
+C. IDENTIFICACIÓN DE LA INSTALACIÓN DEL SISTEMA DE ILUMINACIÓN EXTERIOR O ALUMBRADO PÚBLICO OBJETO DEL DICTÁMEN
+
+    Tipo de construcción                                        Nueva                                                                              Expansión                                              Remodelación
+     Tipo de instalación                                      Pública
+                                                                                 Privada    Total de luminarias
+Ubicación de la instalación                                      Rural            Urbana
+    Red de alimentación                        Circuito Exclusivo          Uso General      Aislada del SIN
+
+                                                                                                                 Con sistema de medida de energía                        Sí                No             Forma parte de un sistema de telegestión  Sí  No
+
+                                                Vía vehicular              Clasificación M__ Indique la correspondiente: M1, M2, M3, M4, M5 o M6.                                     Longitud total (m)  Área total (m²)
+
+                                                                           Cruce vehicular  Tipo de recubrimiento de la vía R2                     R3                                 Número de carriles de la vía
+
+                                                Zona crítica                      Glorieta                                                                                                                                       Matricula Prof.
+                                                                           Sobrepuente                                                                                                                                           Matricula Prof.
+                                                                                                                                                                                                                                 Matricula Prof.
+                                                                             Bajopuente
+
+Objeto de la instalación                                         Parque
+                                                      Cancha urbana
+
+                                                                    Plaza
+                                                               Plazoleta
+                                                                Malecón
+                                                               Alameda
+                                                             Ciclorruta
+                                               Espacio peatonal no
+                                                      adyacente a vía
+                                                               vehicular
+
+                                          Parqueadero - isla de
+                                               parqueo o similar
+
+                                     adyacente a vía vehicular
+
+                                                         Fachada
+
+                                                    Monumento
+
+Capacidad instalada (kW)                                                                                                        Tensiones (V)
+
+D. IDENTIFICACIÓN DE PROFESIONALES COMPETENTES RESPONSABLES                                                                      Profesión
+                                                                                                                                 Profesión
+        Diseñador                                                                                                                Profesión
+      Constructor
+Interventor (Si aplica)
+                                                                                                                      REPÚBLICA DE COLOMBIA
+                                                                                                                 MINISTERIO DE MINAS Y ENERGÍA
+
+                                                                                                                                   ANEXO 2
+                                                                             Formato para el dictamen de inspección de iluminación exterior o alumbrado público
+
+                                                                                                                   (HOJA 2 DE 3)
+
+E. EVALUACIÓN DE LA INSTALACIÓN DE ILUMINACIÓN EXTERIOR O ALUMBRADO PÚBLICO
+
+                                                                                                                                               APLICA                        CUMPLE
+                                                                                                                                                                     (Ver numeral 4.3.9.4.)
+ÍTEM                                                    ASPECTO A EVALUAR
+  1 Memorias de cálculo
+                                                                                                                                           SÍ          NO        SÍ                          NO
+
+2 Disposición de luminarias ( unilateral, bilateral, bilateral alternada, central doble, etc)
+
+     Selección de las fuentes luminosas y/o luminarias (CRI, vida útil, eficacia, temperatura de color) y compatibilidad con luminarias y
+3 ambiente de instalación (IP, IK)
+
+4 Información fotométrica de las luminarias utilizadas certificada (Matriz de intensidades, Curvas o Coeficientes de Utilización).
+
+5 Validación de software de diseño                                  Demostración de la conformidad para software de iluminación usado
+                                                                    en diseño (según artículo 4.2.2)
+
+                                                                    Validación de los resultados fotométricos (según artículo 4.3.2.)
+
+6 Cumplimiento de los parámetros de diseño establecidos en el RETILAP
+
+                                                                    Factor de uniformidad longitudinal UL
+
+                                                                    Relación de entorno (EIR)
+
+                                                                    Iluminancia promedio mínima mantenida (luxes)
+
+                                                                    Coeficiente de uniformidad de iluminancias
+
+                                                                    Iluminancia horizontal promedio (luxes)
+
+7  Resultados del diseño:                                           Luminancia promedio (cd/m²)
+
+                                                                    Factor de uniformidad general Uo
+
+                                                                    Incremento de umbral TI (%)
+
+                                                                    Interdistancia
+
+                                                                    Ángulos de inclinación de luminarias
+
+                                                                    Altura de luminarias
+
+8 Determinación del factor de mantenimiento de la instalación de iluminación exterior o alumbrado público
+
+9 Esquemas de control y mantenimiento disponible al operador o propietario
+
+10 Planos del proyecto de iluminación exterior o alumbrado público aprobados por responsable de la prestación del servicio.
+
+11 Accesibilidad a todos los dispositivos de control de luminarias
+
+12 Mediciones fotométricas sistema de iluminación exterior o        Coeficiente de uniformidad de iluminancias
+      alumbrado público.                                            Iluminancia promedio (luxes)
+
+13 Cumplimiento de los valores ofrecidos en el diseño
+
+14 Cumplimiento de Valores de densidad de potencia instalada PDI (Dp)
+
+15 Cumplimiento de indicadores Anual de consumo de energía ECI (DE)
+
+16 Sistema de control automático (fotocontroles) de alumbrado Público (Ensayos funcionales)
+
+17 Puesta a tierra de carcasas de luminarias
+
+18 Revisión de certificados de conformidad de productos de iluminación
+
+19 Certificación de instalaciones eléctricas con RETIE
+
+Nota: Todos los proyectos de alumbrado público de Nivel C deben cumplir con todos los trámites y el procedimiento establecido en el subnumeral 3.3.2.1.1. Categorización de los proyectos de Alumbrado
+Público del libro 3 del RETILAP, sin perjuicio del alcance que se establezca por los municipios para otras categorías de proyectos de alumbrado público.
+                                                                                                     REPÚBLICA DE COLOMBIA
+                                                                                                MINISTERIO DE MINAS Y ENERGÍA
+
+                                                                                                                  ANEXO 2
+                                                            Formato para el dictamen de inspección de iluminación exterior o alumbrado público
+
+                                                                                                               (HOJA 3 DE 3)
+
+F. OBSERVACIONES, MODIFICACIONES Y ADVERTENCIAS ESPECIALES
+
+G. ANEXOS
+
+H. RESULTADO DE LA INSPECCIÓN
+
+                                                                                          RESULTADO                                             Aprobada        No aprobada
+                                    Director Técnico del organismo de inspección                                                                     Inspector
+
+Nombre                                                                                               Nombre
+                                                                                                     No. de documento de identificación
+No. de documento de identificación                                                                   Profesión
+                                                                                                     Certificado de competencias
+Profesión                                                                                            Matricula profesional
+
+Certificado de competencias                                                                          Firma
+
+Matricula profesional
+
+Firma y sello
+                                                           REPÚBLICA DE COLOMBIA
+                                                      MINISTERIO DE MINAS Y ENERGÍA
+
+                                                                        ANEXO 3
+                                Formato para el registro de las mediciones en alumbrado público
+
+                                                       Medida de niveles de luminancia
+
+                                                       INFORMACIÓN GENERAL (HOJA 1 DE 3)
+
+CONTRATO No.                                            ID_MEDICIÓN                              HORA INICIO
+BARRIO DEL SITIO DE LA MEDICIÓN:
+DIRECCIÓN DEL SITIO DE LA MEDICIÓN:                     FECHA
+LUMINARIA (TIPO- REFERENCIA- MARCA):
+DISPOSICIÓN DE LAS LUMINARIAS:                          TIPO DE APOYO
+INTERDISTANCIA ENTRE LUMINARIAS CONSECUTIVAS-           (POSTE- LONGITUD):
+S (m):
+ANCHO DE LA CALZADA - W (m):                            LUXÓMETRO (MARCA- REFERENCIA-
+AVANCE DE LA LUMINARIA SOBRE LA CALZADA - A2 (m):       Nº SERIE):
+LONGITUD DEL SOPORTE DE LA LUMINARIA (m):
+LUMINANCIA MÁXIMA (cd/m²max):                           FUENTE Y POTENCIA:
+LUMINANCIA PROMEDIO (cd/m²pro):
+                                                            ÁNGULO                                  ANGULO DE
+                                                        INCLINACIÓN                              INCLINACIÓN DE
+                                                         DEL BRAZO:                              LA LUMINARIA:
+
+                                                        ALTURA DE MONTAJE DE LA
+                                                        LUMINARIA - H (m):
+
+                                                        TRAMO DE VÍA QUE TIENE CONDICIONES
+                                                        UNIFORMES AL SITIO DE LA MEDIDA:
+
+                                                        DISTANCIA DEL POSTE AL BORDE
+                                                        DE LA CALZADA - A1 (m):
+
+                                                        LUMINANCIA MÍNIMA (cd/m²min)
+
+LONGITUD DEL BRAZO (m)                                  UNIFORMIDAD GENERAL Uo (%):
+                                                        UNIFORMIDAD LONGITUDINAL CARRIL Xn
+SEPARADOR (SI/NO)                                       (%):
+                                                        UNIFORMIDAD LONGITUDINAL CARRIL X2
+¿EL CONJUNTO ÓPTICO DE LAS LUMINARIAS                   (%):
+ESTÁ SUCIO POR CONTAMINACIÓN? (SÍ / NO)
+                                                        TENSIÓN MEDIA DE LA RED
+        NÚMERO DE CERTIFICADO DE CALIBRACIÓN
+          (SE DEBE ADJUNTAR EL CERTIFICADO DE           TENSIÓN NOMINAL DE ALIMENTACIÓN
+         CALIBRACIÓN DEL EQUIPO USADO EN LAS            DE LA LUMINARIA (V)
+                               MEDICIONES)
+                                                        RECUBRIMIENTO DE LA CALZADA
+FECHA DE LA ÚLTIMA CALIBRACIÓN                          (Concreto, asfalto u otro)
+
+PUNTOS*                 VALOR DE ILUMINACIA MEDIA (lx)                          OBSERVACIONES
+      1
+      2
+      3
+      4
+      5
+      6
+      7
+      8
+      9
+
+  Eprom
+  UO (%)
+                                    REPÚBLICA DE COLOMBIA
+                               MINISTERIO DE MINAS Y ENERGÍA
+
+                                                 ANEXO 3
+         Formato para el registro de las mediciones en alumbrado público
+
+                                Medida de niveles de luminancia
+
+                                 Formato para el registro de las mediciones en alumbrado público - Medida de niveles de iluminancia
+
+                                                                                         MÉTODO DE LA CIE 140
+
+(Diligencia en caso tal que los valores medidos en el Método de los 9 puntos no cumplan con los requisitos del reglamento, con el fin de realizar la
+                                                                                               corroboración)
+
+   *Se deben relacionar todos los puntos de acuerdo con las cantidades estipuladas en la CIE 140, de acuerdo con la interdistancia entre postes.
+                                                                                                (HOJA 2 DE 3)
+
+PUNTOS*  VALOR DE ILUMINANCIA MEDIA (lx)  OBSERVACIONES
+
+     1
+     2
+     3
+      .
+      .
+      .
+     n
+ Eprom
+ UO (%)
+                                                                           REPÚBLICA DE COLOMBIA
+                                                                      MINISTERIO DE MINAS Y ENERGÍA
+
+                                                                                        ANEXO 3
+                                                Formato para el registro de las mediciones en alumbrado público
+
+                                                                       Medida de niveles de luminancia
+
+                       Formato para el registro de las mediciones en alumbrado público - Medida de niveles de luminancia
+                                                                             MÉTODO DE LA CIE 140
+                                                                                     (HOJA 3 DE 3)
+
+                       Luminaria LED de _____ W
+
+                             LUMINANCIA CALZADA ______ SENTIDO _______, CARRIL _______
+
+PUNTOS FILA 1                1  2  3             4  5        6  7  8                    9  10  ...  n                 Luminaria LED de _____ W
+L(cd/m²)
+PUNTOS FILA 2                1  2  3             4  5        6  7  8                    9  10  ...  n             CARRIL X1
+L(cd/m²)                                                                                                                            OBSERVADOR
+PUNTOS FILA 3                1  2  3             4  5        6  7  8                    9  10  ...  n                               Posición X1
+L(cd/m²)
+                             1  2  3             4  5        6  7  8                    9  10  ...  n                 Luminaria LED de _____ W
+PUNTOS FILA 1
+L(cd/m²)                     1  2  3             4  5        6  7  8                    9  10  ...  n             CARRIL Xn
+PUNTOS FILA 2
+L(cd/m²)                     1  2  3             4  5        6  7  8                    9  10  ...  n                               OBSERVADOR
+PUNTOS FILA 3                                                                                                                       Posición Xn
+L(cd/m²)
+
+OBSERVACIONES
+
+               ____________________________________________________________________________________________________________________________________________________________________________________
+
+               Director Técnico del organismo de inspección                                            Inspector
+
+Nombre                                                             Nombre
+
+No. de documento de                                                No. de documento de identificación
+identificación
+
+Profesión                                                          Profesión
+
+Certificado de competencias                                        Certificado de competencias
+
+Matricula profesional                                              Matricula profesional
+
+Firma y sello                                                      Firma
+
