@@ -28,6 +28,9 @@ FUENTES = os.path.join(os.path.dirname(__file__), "..", "FUENTES")
 RUTA_M1 = os.path.join(DOCS, "F0-Matriz_estandares_sostenibilidad.csv")
 RUTA_M2 = os.path.join(DOCS, "F0-Matriz_casos_exito.csv")
 
+# READ_ONLY=true en VPS: oculta validación, botón PDF y campo "¿Quién valida hoy?"
+READ_ONLY = os.getenv("READ_ONLY", "false").lower() == "true"
+
 
 def abrir_pdf(filename: str) -> tuple[bool, str]:
     """Abre el PDF con la app por defecto del sistema. Solo funciona en local."""
@@ -252,13 +255,16 @@ with tab_m2:
 
     st.subheader(f"Matriz M2 — {len(df_m2)} casos compilados")
 
-    # Identificación del validador
-    st.session_state.validador = st.text_input(
-        "¿Quién valida hoy? (iniciales o nombre corto)",
-        value=st.session_state.validador,
-        max_chars=20,
-        help="Se guarda con cada decisión de validar/descartar para trazabilidad."
-    )
+    if READ_ONLY:
+        st.info("🔒 Modo solo lectura. La validación/descarte de casos se hace en el entorno local de la responsable del Producto 1.")
+    else:
+        # Identificación del validador
+        st.session_state.validador = st.text_input(
+            "¿Quién valida hoy? (iniciales o nombre corto)",
+            value=st.session_state.validador,
+            max_chars=20,
+            help="Se guarda con cada decisión de validar/descartar para trazabilidad."
+        )
 
     # Métricas de progreso
     n_pend = len(df_m2[df_m2["Estado_validacion"] == "pendiente_revision"])
@@ -325,6 +331,7 @@ with tab_m2:
             estado = row["Estado_validacion"]
             icono = {"pendiente_revision": "⏳", "aceptado": "✅", "descartado": "❌"}.get(estado, "❓")
             es_pendiente = estado == "pendiente_revision"
+            es_editable = es_pendiente and not READ_ONLY
             cid = row["ID"]
 
             with st.container(border=True):
@@ -364,7 +371,7 @@ with tab_m2:
 
                 # Subsistemas (editable si pendiente)
                 subs_actuales = [s.strip() for s in (row["Subsistemas"] or "").split(";") if s.strip()]
-                if es_pendiente:
+                if es_editable:
                     st.multiselect(
                         "🧱 Subsistemas que toca el caso",
                         SUBSISTEMAS,
@@ -392,7 +399,7 @@ with tab_m2:
                 # Estándares M1 (editable si pendiente)
                 st.markdown("---")
                 st.markdown("🔗 **Normativa / estándares M1 que materializa**")
-                if es_pendiente:
+                if es_editable:
                     st.text_input(
                         "IDs separados por ; (ej: MP-14; MA-22; SUDS-3)",
                         value=row["Estandares_ref"],
@@ -424,7 +431,7 @@ with tab_m2:
 
                 # Género e inclusión social (editable si pendiente)
                 st.markdown("♀ **Género / inclusión social** (Ley 2462/2025)")
-                if es_pendiente:
+                if es_editable:
                     st.text_area(
                         "Consideraciones de género/inclusión",
                         value=row["Genero_inclusion"],
@@ -440,7 +447,7 @@ with tab_m2:
                 st.markdown("---")
                 fcol1, fcol2 = st.columns([3, 1])
                 with fcol1:
-                    if es_pendiente:
+                    if es_editable:
                         st.text_input(
                             "📖 Fuente (incluir página si se conoce)",
                             value=row["Fuente_principal"],
@@ -452,7 +459,10 @@ with tab_m2:
                     st.caption(f"_{row['Tipo_fuente']}_ · verificable: {row['Verificable']}"
                                + (f" · archivo: `{row['Archivo_fuente']}`" if row['Archivo_fuente'] else ""))
                 with fcol2:
-                    if row["Archivo_fuente"]:
+                    if READ_ONLY:
+                        if row["Archivo_fuente"]:
+                            st.caption(f"📄 `{row['Archivo_fuente']}`")
+                    elif row["Archivo_fuente"]:
                         if st.button("📄 Abrir PDF", key=f"pdf_{cid}",
                                      help=f"Abre {row['Archivo_fuente']} con la app por defecto"):
                             ok, msg = abrir_pdf(row["Archivo_fuente"])
@@ -466,8 +476,10 @@ with tab_m2:
                 if row["Observaciones"]:
                     st.caption(f"Obs.: {row['Observaciones']}")
 
-                # Botones
-                if not st.session_state.validador.strip():
+                # Botones (ocultos en modo solo lectura del VPS)
+                if READ_ONLY:
+                    pass
+                elif not st.session_state.validador.strip():
                     st.warning("⚠️ Define tu nombre arriba para poder validar/descartar.")
                 else:
                     bcol1, bcol2, bcol3, bcol4 = st.columns([1, 1, 2, 4])

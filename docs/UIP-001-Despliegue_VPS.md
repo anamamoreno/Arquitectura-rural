@@ -1,8 +1,22 @@
 # UIP — Despliegue de la app Matriz de Estándares en VPS
 
-**Estado:** borrador para acuerdo
-**Fecha:** 2026-04-30
+**Estado:** ✅ Decisiones tomadas 2026-05-02 — listo para ejecución
+**Fecha:** 2026-04-30 (creado), 2026-05-02 (decidido)
 **Autor:** Ana (con asistencia de Claude)
+
+## Decisiones finales
+
+| # | Decisión | Resolución |
+|---|---|---|
+| D1 | Arquitectura | **B** — ruta `/artefactos/viviendarural/` dentro de `app.uxtic.co` (estilo enjambres) |
+| D2 | Subdominio | n/a (usa app.uxtic.co) |
+| D3 | Puerto interno | a asignar en VPS según puertos libres en red `uxtic-git_uxtic-network` |
+| D4/D9 | Acceso | **Basic auth en nginx** (audiencia: arquitectos del proyecto) |
+| D5 | Repo Git | ✅ `github.com/anamamoreno/Arquitectura-rural` |
+| D6 | Datos del CSV | versionados en repo |
+| D7 | Logo / branding | default Streamlit por ahora |
+| D8 | Validación en VPS | **A — solo lectura.** La validación se hace siempre en local; después `git push` (Ana) + `git pull` (VPS) + rebuild |
+| D10 | Sincronización del CSV en producción | **git pull + docker compose up -d --build** (manual o vía script) |
 
 ---
 

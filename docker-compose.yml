@@ -1,0 +1,18 @@
+services:
+  arq-rural-app:
+    build: .
+    container_name: arq-rural-app
+    restart: unless-stopped
+    environment:
+      - READ_ONLY=true
+    networks:
+      - uxtic-net
+    # No exponer puerto al host: el tráfico llega desde uxtic-nginx por la red Docker
+    # expose es informativo (no publica al host)
+    expose:
+      - "8501"
+
+networks:
+  uxtic-net:
+    name: uxtic-git_uxtic-network
+    external: true

@@ -1,0 +1,36 @@
+.git
+.gitignore
+.dockerignore
+Dockerfile
+docker-compose.yml
+README.md
+
+# Pesados que no necesita el contenedor
+FUENTES/
+Referencias-proyecto/
+Referencias-otros/
+Referencias-estandares/
+Referencia-vivienda-rural/
+resultados/
+CO-resultados/
+docs/extracciones/
+
+# Excel y backups
+*.xlsx
+*.xls
+~$*
+
+# Python build artifacts
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
