@@ -396,7 +396,7 @@ with tab_m2:
                     st.markdown("**E4 Materiales**")
                     st.markdown(row["E4_materiales"] or "_no aplica_")
 
-                # Estándares M1 (editable si pendiente)
+                # Estándares M1 (editable si pendiente y no read-only)
                 st.markdown("---")
                 st.markdown("🔗 **Normativa / estándares M1 que materializa**")
                 if es_editable:
@@ -413,6 +413,8 @@ with tab_m2:
                         key=f"edit_{cid}_Cumplimiento_observado",
                         placeholder="ej: MP-14: muro 35cm vs 40cm requeridos",
                     )
+                else:
+                    st.markdown(f"`{row['Estandares_ref']}`" if row["Estandares_ref"] else "_sin asignar_")
                 # Mostrar cruce con M1 si hay IDs
                 refs_actuales = [r.strip() for r in (row["Estandares_ref"] or "").split(";") if r.strip()]
                 if refs_actuales:
@@ -426,7 +428,7 @@ with tab_m2:
                                 st.warning(f"IDs no encontrados en M1: {sorted(faltantes)}")
                     else:
                         st.warning(f"Ningún ID de M1 reconocido: {refs_actuales}")
-                if not es_pendiente and row["Cumplimiento_observado"]:
+                if not es_editable and row["Cumplimiento_observado"]:
                     st.markdown(f"_Cumplimiento observado:_ {row['Cumplimiento_observado']}")
 
                 # Género e inclusión social (editable si pendiente)
