@@ -1,6 +1,6 @@
 # DEPLOY — Comandos exactos para VPS
 
-App: `arq-rural-app` · URL: `https://app.uxtic.co/artefactos/viviendarural/`
+App: `uxtic-artefacto-viviendarural` · URL: `https://app.uxtic.co/artefactos/viviendarural/`
 Patrón: estilo `uxtic-enjambres` (ruta dentro de `app.uxtic.co` vía `uxtic-nginx` Docker)
 
 ---
@@ -36,12 +36,12 @@ docker compose up -d --build
 Verificar:
 
 ```bash
-docker ps | grep arq-rural-app
-docker logs arq-rural-app --tail 20
+docker ps | grep uxtic-artefacto-viviendarural
+docker logs uxtic-artefacto-viviendarural --tail 20
 # Debe mostrar: "You can now view your Streamlit app... URL: http://0.0.0.0:8501"
 
 # Desde otro contenedor de la misma red, probar:
-docker exec uxtic-nginx wget -qO- http://arq-rural-app:8501/artefactos/viviendarural/_stcore/health
+docker exec uxtic-nginx wget -qO- http://uxtic-artefacto-viviendarural:8501/artefactos/viviendarural/_stcore/health
 # Debe responder: ok
 ```
 
@@ -60,7 +60,7 @@ location /artefactos/viviendarural/ {
     auth_basic_user_file /etc/nginx/.htpasswd_arqrural;
 
     # Proxy a Streamlit con WebSocket support
-    proxy_pass http://arq-rural-app:8501;
+    proxy_pass http://uxtic-artefacto-viviendarural:8501;
     proxy_http_version 1.1;
     proxy_set_header Host $host;
     proxy_set_header X-Real-IP $remote_addr;
@@ -135,9 +135,9 @@ Tiempo total: ~30 segundos para rebuild (la imagen es liviana).
 ## 6. Logs y debugging
 
 ```bash
-docker logs arq-rural-app -f                # logs en tiempo real
-docker exec arq-rural-app ls /app/docs/     # verificar que el CSV está dentro
-docker exec arq-rural-app env | grep READ   # debe mostrar READ_ONLY=true
+docker logs uxtic-artefacto-viviendarural -f                # logs en tiempo real
+docker exec uxtic-artefacto-viviendarural ls /app/docs/     # verificar que el CSV está dentro
+docker exec uxtic-artefacto-viviendarural env | grep READ   # debe mostrar READ_ONLY=true
 docker compose restart                       # reiniciar sin rebuild
 docker compose down && docker compose up -d --build  # rebuild completo
 ```
@@ -150,7 +150,7 @@ docker compose down && docker compose up -d --build  # rebuild completo
 cd /docker/arq-rural
 docker compose down
 # Para borrar también la imagen:
-docker rmi arq-rural-arq-rural-app
+docker rmi arq-rural-uxtic-artefacto-viviendarural
 # Para borrar todo el repo local:
 sudo rm -rf /docker/arq-rural
 # Borrar el location en uxtic-nginx y reload

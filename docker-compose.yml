@@ -1,7 +1,7 @@
 services:
-  arq-rural-app:
+  artefacto-viviendarural:
     build: .
-    container_name: arq-rural-app
+    container_name: uxtic-artefacto-viviendarural
     restart: unless-stopped
     environment:
       - READ_ONLY=true
