@@ -1,0 +1,1976 @@
+# Fuente: TdeG-UGC-rural-EtnoTuristica.pdf
+# Total páginas: 83
+
+=== Página 1 ===
+PROTOTIPO DE VIVIENDA RURAL ETNOTURÍSTICA CAIKE 
+ 
+ 
+ 
+ 
+ 
+ 
+María Fernanda Roballo Diaz, Laura Daniela Mesa Macias                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Arquitectura, Facultad de Arquitectura 
+Universidad La Gran Colombia 
+Bogotá D.C 
+ 2023 
+ 
+
+=== Página 2 ===
+Prototipo de vivienda rural etnoturística Caike 
+ 
+ 
+María Fernanda Roballo Diaz, Laura Daniela Mesa Macias 
+ 
+ 
+ 
+ 
+Trabajo de Grado presentado como requisito para optar al título de Arquitecto 
+ 
+ 
+Arq. Yuly Cáterin Diaz Jiménez 
+Directora de Proyecto 
+ 
+ 
+ 
+ 
+Arquitectura, Facultad de Arquitectura 
+Universidad La Gran Colombia 
+Bogotá D.C 
+2023
+
+=== Página 3 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+3 
+Agradecimientos 
+Agradecemos primeramente a Dios y a nuestras familias por apoyarnos en cada paso de 
+esta carrera, es indispensable agradecer a la Arquitecta Yuly Cáterin Diaz Reyes por ser un 
+apoyo profesional en todo este proceso y finalmente agradecer a toda la comunidad Amoyá y su 
+líder Raúl Quijano quien con mucho esfuerzo nos abrió las puertas de su hogar y de su cultura 
+para poder inspirar este proyecto bajo una causa social. 
+ 
+ 
+
+=== Página 4 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+4 
+Tabla de contenido 
+RESUMEN ................................................................................................................................................................. 10 
+ABSTRACT ............................................................................................................................................................... 11 
+INTRODUCCIÓN ..................................................................................................................................................... 12 
+PREGUNTA PROBLEMA ....................................................................................................................................... 14 
+FORMULACIÓN DE PROBLEMA ........................................................................................................................ 15 
+JUSTIFICACIÓN ...................................................................................................................................................... 18 
+HIPÓTESIS ................................................................................................................................................................ 21 
+OBJETIVOS .............................................................................................................................................................. 22 
+OBJETIVO GENERAL .......................................................................................................................................... 22 
+OBJETIVOS ESPECÍFICOS ................................................................................................................................... 22 
+ESTADO DEL ARTE ............................................................................................................................................... 23 
+MARCO CONCEPTUAL ......................................................................................................................................... 25 
+MARCO NORMATIVO ........................................................................................................................................... 28 
+LEY 1753 DE 2015 ............................................................................................................................................. 28 
+LEY 21 DE 1991 ................................................................................................................................................. 29 
+NORMA NSR-10 TITULO G: ESTRUCTURAS DE MADERA Y ESTRUCTURA DE GUADUA. ..................................... 29 
+MARCO TEÓRICO .................................................................................................................................................. 31 
+DISEÑO PARTICIPATIVO PARA UNA ESTRATEGIA DE COMUNICACIÓN - PAOLO MEFALOPULOS AND CHRIS 
+KAMLONGERA ......................................................................................................................................................... 31 
+LA ESENCIA DE LA PERMACULTURA - DAVID HOLMGREN................................................................................. 33 
+MARCO HISTÓRICO .............................................................................................................................................. 36 
+MARCO REFERENCIAL ........................................................................................................................................ 41 
+DISEÑO METODOLÓGICO .................................................................................................................................. 43 
+OBJETIVOS METODOLÓGICOS ........................................................................................................................... 43 
+FASES METODOLÓGICAS ................................................................................................................................... 44 
+
+=== Página 5 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+5 
+Observar ............................................................................................................................................... 44 
+Pensar ................................................................................................................................................... 44 
+Actuar ................................................................................................................................................... 45 
+ENTREGA DE ANÁLISIS Y RESULTADOS ....................................................................................................... 46 
+ANÁLISIS MACRO.............................................................................................................................................. 46 
+ANÁLISIS MESO ................................................................................................................................................ 47 
+Cultura y tradiciones ............................................................................................................................ 48 
+Clima .................................................................................................................................................... 49 
+Infraestructura Vial .............................................................................................................................. 50 
+Salud ..................................................................................................................................................... 50 
+Topografía ............................................................................................................................................ 51 
+FASE 1. OBSERVAR ........................................................................................................................................... 52 
+Entrevistas de datos anecdóticos .......................................................................................................... 53 
+Observar ............................................................................................................................................... 54 
+Usuario ................................................................................................................................................. 55 
+Arquitectura – Vivienda ........................................................................................................................ 57 
+FASE 2. PENSAR ................................................................................................................................................ 59 
+Análisis de vivienda rural ..................................................................................................................... 62 
+PROYECTO DE VIVIENDA ARQUITECTÓNICO ............................................................................................ 64 
+FASE 3. ACTUAR ............................................................................................................................................... 64 
+MEMORIA CONCEPTUAL .................................................................................................................................... 64 
+VIVIENDA .......................................................................................................................................................... 66 
+FACHADA .......................................................................................................................................................... 67 
+ESTRUCTURA .................................................................................................................................................... 67 
+BAÑOS SECOS .................................................................................................................................................... 70 
+SISTEMA DE DRENAJE SOSTENIBLE SUDS ......................................................................................................... 71 
+
+=== Página 6 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+6 
+INSTALACIONES ................................................................................................................................................ 72 
+Instalación Eléctrica ............................................................................................................................. 72 
+Instalaciones Hidrosanitarias .............................................................................................................. 73 
+BOHÍO ............................................................................................................................................................... 74 
+BENEFICIADERO ................................................................................................................................................ 75 
+ANÁLISIS BIOCLIMÁTICOS ................................................................................................................................ 76 
+IMPLANTACIÓN ................................................................................................................................................. 77 
+CONCLUSIONES ..................................................................................................................................................... 79 
+LISTA DE REFERENCIAS ..................................................................................................................................... 80 
+ANEXOS .................................................................................................................................................................... 83 
+ 
+ 
+ 
+
+=== Página 7 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+7 
+Lista de Figuras 
+Figura 1 Actividad de integración realizada para la comunidad Amoyá ......................... 32 
+Figura 2 Recolección de datos de la comunidad.............................................................. 33 
+Figura 3 Flor de la Permacultura ..................................................................................... 35 
+Figura 4  Proceso de Paz .................................................................................................. 40 
+Figura 5  Referente .......................................................................................................... 42 
+Figura 6  Localización ..................................................................................................... 46 
+Figura 7  Análisis Meso ................................................................................................... 47 
+Figura 8  Central Hidroeléctrica Amoyá.......................................................................... 48 
+Figura 9  Tradiciones culturales ....................................................................................... 49 
+Figura 10  Accidente bus escalera ................................................................................... 50 
+Figura 11  Remoción de masas ........................................................................................ 51 
+Figura 12  Deslizamientos en vía del Cañón de las Hermosas ........................................ 52 
+Figura 13  Recolección de información ........................................................................... 53 
+Figura 14  Puente el espumoso bajo el cauce del Rio Amoyá ......................................... 54 
+Figura 15 Ilustración de indígena Pijao .......................................................................... 55 
+Figura 16 Salón comunal de la comunidad ..................................................................... 58 
+Figura 17 Casa tradicional campesina San José de las Hermosas ................................... 58 
+Figura 18  Análisis de tipologías de vivienda rural ......................................................... 63 
+Figura 19 Memoria conceptual ........................................................................................ 65 
+Figura 20 Planta arquitectónica ....................................................................................... 66 
+Figura 21 Fachada principal ............................................................................................ 67 
+Figura 22 Estructura en Guadua ..................................................................................... 68 
+
+=== Página 8 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+8 
+Figura 23 Detalle de cimentación .................................................................................... 69 
+ Figura 24 Detalles de unión ............................................................................................ 69 
+Figura 25 Baños secos ..................................................................................................... 70 
+Figura 26 SUDS ............................................................................................................... 71 
+Figura 27 Acometida Eléctrica ........................................................................................ 72 
+Figura 28 Acometida Hidrosanitaria ............................................................................... 73 
+Figura 29 Planta, fachada y estructura de Bohío ............................................................ 74 
+Figura 30 Planta primer y segundo piso beneficiadero .................................................... 75 
+Figura 31 Asoleación ....................................................................................................... 76 
+Figura 32 Análisis de Vientos .......................................................................................... 77 
+Figura 33 Implantación .................................................................................................... 78 
+ 
+ 
+ 
+
+=== Página 9 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+9 
+Lista de Tablas 
+Tabla 1.  Pregunta 1, recolección de datos ....................................................................... 59 
+Tabla 2.  Pregunta 2, recolección de datos ....................................................................... 60 
+Tabla 3.  Pregunta 3, recolección de datos ....................................................................... 61 
+Tabla 4.  Pregunta 4, recolección de datos ....................................................................... 62 
+ 
+ 
+
+=== Página 10 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+10 
+Resumen 
+Dentro de la comunidad indígena pijao encontramos el cabildo indígena Amoyá, el cual se 
+encuentra situado en el cañón de las hermosas A 59 km del municipio de chaparral Tolima, donde 
+ha sido declarado desde hace muchos años atrás como zona roja debido a la presencia de 
+paramilitares y guerrilleros, siendo esta su mayor problemática por casi 60 años, no sin dejar atrás 
+la baja calidad de vida de sus habitantes. Desde el difícil acceso por falta de una buena 
+estructuración vial, donde diariamente las personas ponen en riesgo su vida, así como también el 
+hecho de que sus viviendas no cuentan con parámetros sismo resistentes, que ante un hecho natural 
+podrían quedar totalmente en ruinas. Como lo fue el lamentable accidente ocurrido en diciembre 
+del 2019 cuando la quebrada el mono se desbordó arrasando con gran parte de la vereda La 
+Virginia. A raíz de lo mencionado anteriormente, el enfoque que se quiere proponer en el modelo 
+de vivienda rural es mejorar tanto las condiciones de habitabilidad como la economía de la 
+comunidad por medio de un diseño arquitectónico que contemple las necesidades actuales y así 
+mismo pueda reflejar y resaltar su cultura y tradiciones en cada detalle, preservando sus 
+materialidades y teniendo en cuenta los 5 pilares que rigen a esta comunidad, para así de esta 
+manera poder rescatar lo que se ha perdido a causa de la violencia por la que ha pasado esta 
+comunidad. 
+Palabras Clave: Vivienda rural, arquitectura vernácula, productividad, sostenibilidad, 
+permacultura, diseño participativo, cultura indígena.  
+ 
+ 
+ 
+
+=== Página 11 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+11 
+Abstract 
+Within the Pijao indigenous community we find the Amoyá indigenous council, which is located 
+in the canyon of the beautiful 59 km from the municipality of Chaparral Tolima, where it has been 
+declared for many years as a red zone due to the presence of paramilitaries and guerrillas, this 
+being its biggest problem for almost 60 years, not without leaving behind the low quality of life of 
+its inhabitants. From the difficult access due to lack of a good road structure, where daily people 
+put their lives at risk, as well as the fact that their homes do not have earthquake-resistant 
+parameters, which before a natural fact could be totally in ruins. As was the unfortunate accident 
+that occurred in December 2019 when the monkey broke overflowed, devastating much of the 
+village of La Virginia. As a result of the above, the approach to be proposed in the productive 
+housing model is to improve both the living conditions and the economy of the community through 
+an architectural design that meets current needs and can reflect and highlight their culture and 
+traditions in every detail, preserving their materials and taking into account the 5 pillars that govern 
+this community, in order to rescue what has been lost because of the violence that this community 
+has gone through. 
+Keywords: 
+rural 
+housing, 
+vernacular 
+architecture, 
+productivity, 
+sustainability, 
+permaculture, participatory design, indigenous culture. 
+ 
+ 
+
+=== Página 12 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+12 
+Introducción 
+El presente trabajo de grado tiene como finalidad desarrollar un prototipo de vivienda 
+etnoturistica rural bajo la línea de investigación de énfasis y proyecto arquitectónico, buscando el 
+desarrollo habitacional y económico de la comunidad Indígena Amoyá ubicada en el 
+corregimiento de las Hermosas en el departamento del Tolima. Partiendo desde un análisis, en 
+donde se identifiquen distintas pautas de lo que es su contexto histórico y cultural, como también 
+identificando problemáticas, entorno y la biodiversidad de fauna y flora en la zona. 
+Inicialmente el diseño participativo como elemento fundamental articulador para generar 
+un vínculo con el Cabildo Indígena Amoyá con el fin de trabajar en pro de las necesidades de la 
+comunidad y brindar una solución adecuada por medio de estrategias comunicativas, que 
+permitan rescatar la identidad cultural e histórica y a su vez utilizar metodologías que permitan 
+priorizar las necesidades evidenciadas por medio de un análisis cualitativo de la comunidad.  
+Por otro lado, la productividad agrícola de la zona jugará un papel importante en el 
+desarrollo del diseño ya que se pretende establecer una conexión económica con el complejo 
+habitacional por medio de la producción cafetera como eje principal económico y de esta manera 
+dar a conocer a nivel turístico el corregimiento de las hermosas afectado hace más de 60 años por 
+el conflicto armado en el país.  
+Desde la conquista española hasta el día de hoy, la comunidad indígena se vio afectada en 
+distintos aspectos significativos para ellos como lo es la pérdida de identidad cultural y 
+espiritual, a nivel económico se disminuyeron las prácticas tradicionales como lo eran la pesca y 
+la horticultura. También la alta migración de integrantes de la comunidad hacia las grandes 
+ciudades del país generó una pérdida social y a su vez el olvido de sus lenguas nativas.  
+
+=== Página 13 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+13 
+Por lo anterior es importante dentro del proyecto priorizar el concepto de permacultura el 
+cual busca adaptar estrategias culturales, agrícolas, sociales y políticas dentro de un mismo 
+contexto y de esta manera conseguir que la comunidad Indígena Amoýa se pueda potencializar a 
+nivel paisajístico, turístico y cultural.  
+ 
+ 
+
+=== Página 14 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+14 
+Pregunta problema 
+¿Como es posible resaltar una identidad socio cultural que se ha venido perdiendo 
+progresivamente a raíz de múltiples problemáticas por medio de un prototipo de vivienda 
+etnoturistica, en la que se implementen principios de permacultura y arquitectura participativa 
+generando ingresos económicos desde el sector turístico y agrícola para cumplir de forma 
+adecuada a las expectativas y exigencias de la comunidad?  
+ 
+ 
+
+=== Página 15 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+15 
+Formulación de Problema 
+En la vereda La Virginia a lo largo de los años se han ido presentando bastantes 
+problemáticas que por mucho tiempo arraigaron heridas sobre las comunidades de esta zona 
+como lo es el conflicto armado. Este procede desde los años 1960 con la conformación de las 
+Fuerzas Armadas Revolucionarias de Colombia (FARC) y el Movimiento 19 abril (M-19), donde 
+se enfrentaba una alta crisis de inseguridad, economía y bienestar social en todo el territorio 
+colombiano. dejando también miles de víctimas desaparecidas, desplazamiento forzado entre 
+otros hechos lamentables debido a esta guerra.  
+Las comunidades indígenas asentadas en el cañón de las hermosas también se vieron 
+afectadas en esto a causa de que este era un corredor estratégico para los grupos armados de las 
+FARC y el M-19 ya que fácilmente se podía llegar a Cauca, Valle del cauca, Tolima, Quindío, 
+Cundinamarca. Por lo que la estadía de grupos guerrilleros en la zona era permanente, 
+expropiando las tierras de inocentes campesinos que debían migrar a cascos urbanos buscando 
+ayudas por parte del estado sin respuesta alguna. Todo esto influyó para que las comunidades 
+indígenas fueran perdiendo su identidad, su lengua y muchas prácticas ancestrales que hoy en día 
+ya no existen, ya que tuvieron que dedicarse a buscar ayudas económicas para sus familias en 
+actividades diferentes a las típicas de la comunidad, y empezar a adoptar culturas convencionales 
+en las capitales del país.  
+Por otro lado, el olvido del estado sobre la vereda es evidente en temas de educación, 
+economía, ambiente, transporte e infraestructura. Las personas que hacen parte de la comunidad 
+Amoyá no tienen suficientes recursos para brindar a sus niños una educación adecuada y digna, 
+mucho menos apoyo para el fortalecimiento cultural de sus ancestros. La infraestructura vial de 
+la zona es paupérrima ya que la vía que lleva a La Virginia, Cañón de las Hermosas o San José 
+
+=== Página 16 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+16 
+son vías improvisadas por sus mismos habitantes que a lo largo del tiempo se fueron formando 
+por la necesidad misma de poder vender sus cultivos a las ciudades, pero no tienen ningún tipo 
+de estudio sismorresistente, por lo que día a día ponen en riesgo sus vidas por tratar de llevar o 
+traer recursos para la comunidad, siendo la Chiva y el caballo sus únicos medios de transporte.  
+A nivel ambiental es imprescindible nombrar una problemática que según la comunidad 
+Amoyá afecta sus recursos y sus creencias sagradas sobre la naturaleza, y es la hidroeléctrica 
+sobre el Río Amoyá la cual su construcción generó la pérdida de vegetación, fauna y recursos 
+hídricos, teniendo en cuenta que una de las actividades económicas pilares de la zona como lo es 
+la pesca, ya que el proceso de desove que es la reproducción de los peces se vio frenada por esta 
+infraestructura, afectando no solo económicamente a los habitantes si no sus creencias culturales 
+sobre la madre tierra. Además, afectó 7 veredas del alineamiento del túnel debido a que en la 
+construcción de la hidroeléctrica se implantaron explosivos los cuales dejaron sin nacimientos de 
+agua a las veredas La Virginia, Los sauces, Recreo, San pablo, Holanda, Moral y Vega teniendo 
+en cuenta que cada finca utiliza este recurso a diario.  
+También en la zona se evidencian problemáticas de riesgo no mitigable como amenaza de 
+remoción de masas, lo que indica que es una zona que sufre por alto riesgo de deslizamiento de 
+tierras tanto en la vía que conecta La Virginia y Chaparral, como en la vereda misma. En 
+diciembre de 2019 se presentó una tragedia en la vereda a causa del crecimiento de la quebrada 
+El Mono, dejando desaparecidos, infraestructuras de casas destruidas y varios fallecidos.  
+Para concluir, en los párrafos anteriores se ve reflejado como la comunidad ubicada en el 
+corregimiento de las hermosas ha sido afectada por distintos factores, en este caso el más 
+primordial siendo la presencia de grupos armados, que tuvo como consecuencia miles de 
+víctimas inocentes y desplazamiento forzado. Así mismo la identificación de construcciones sin 
+
+=== Página 17 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+17 
+la más mínima normativa sismo resistente, todo esto nos lleva a plantear en el presente trabajo 
+una vivienda rural que pueda suplir de manera adecuada las necesidades y problemáticas 
+identificadas anteriormente. 
+ 
+ 
+
+=== Página 18 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+18 
+Justificación 
+La arquitectura se considera una disciplina con la cual se puede generar soluciones a 
+distintas problemáticas, abordadas desde diferentes campos. La importancia del presente 
+proyecto radica en brindarle solución a las problemáticas de la comunidad Indígena Amoyá por 
+medio de un proyecto de vivienda etnoturistica rural, como se ha venido mencionando 
+anteriormente el principal problema radicó en el asentamiento de grupos armados en el 
+corregimiento de las Hermosas.  
+[El conflicto armado] en Tolima se ha concentrado en el sur del departamento, 
+especialmente en el área del cañón de Las Hermosas, zona Suroccidental, usada desde 
+finales de 2010 como zona de repliegue y refugio para el otrora jefe del Secretariado de 
+las FARC, alias Alfonso Cano, quién fue dado de baja en Suárez (Cauca) en noviembre 
+de 2011 por miembros de la Fuerza de Tarea del Sur del Tolima (Fundación ideas para la 
+paz, 2013, párr. 1). 
+Con lo anterior, cabe resaltar que la organización social del cabildo indígena Amoya, se 
+dio de una manera informal tras el destierro de los indígenas nativos del territorio, pues el 
+conflicto armado solo dejo huellas de los indígenas pijao y la poca población que se quedó en el 
+Cañón eran campesinos, de esta manera se desarrolló la conformación del cabildo bajo el marco 
+normativo de la Ley 89 de 1890, para que de esta manera la población campesina de la zona 
+pudiera ser escuchada por el estado. 
+Esto trayendo como consecuencia la pérdida de cultura que no sólo radicó por esta razón, 
+si no también desde sus inicios con la conquista de los españoles. Debido a esto el estilo de vida 
+de esta comunidad ha venido en decadencia, solo hasta hace 6 años más exactamente el día 26 de 
+septiembre del 2016, se firmó el acuerdo de paz en el mandato del presidente Juan Manuel 
+
+=== Página 19 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+19 
+Santos, gracias a este acuerdo hoy en día existe la posibilidad de tener acceso a esta zona lo que 
+trajo como resultado la reactivación económica para la comunidad debido a su gran potencial 
+paisajístico y natural, permitiendo que tanto turistas como estudiantes puedan visitar y conocer 
+un poco más a fondo esta comunidad olvidada. 
+Por otro lado, es importante hablar de la producción económica de la zona, pues la 
+comunidad tiene como objetivo el desarrollo empresarial de una marca de Café Premium 
+llamada Caike gracias a la producción agrícola y la riqueza natural del corregimiento. Esto es 
+fundamental para la comunidad ya que tienen como objetivo darse a conocer a nivel nacional e 
+internacional con el fin de reactivar la economía del sector agrícola como en el turismo.  
+Caike es el café tostado y molido que nace del talento y conocimiento de la comunidad 
+indígena Amoyá a partir del acuerdo de paz en Colombia. Se trata de un proyecto 
+encabezado y producido por indígenas colombianos que creyeron en la paz. Un café con 
+herencia ancestral 100% artesanal (Cabildo Indígena Amoyá, 2022, párr. 1)  
+Adicionalmente, el olvido por parte de los entes gubernamentales ha dejado que las 
+comunidades no tengan ningún tipo de estructura normativa en cuanto a la planificación 
+territorial del corregimiento, lo que ha hecho que tanto la vía de acceso a la zona como las 
+condiciones constructivas de las viviendas estén fuera de la normatividad sismo resistente (NSR-
+10, 2010). En el año 2019 se presentó una emergencia que dejó la vereda de la Virginia 
+devastada según la Radio Nacional de Colombia (2019), “El desbordamiento de la quebrada El 
+Mono por el deslizamiento de la parte alta de la vereda Virginia Alta, ha dejado a siete personas 
+desaparecidas, la escuela inundada, dos viviendas arrasadas y el puesto de salud destruido.” 
+(párr. 1).  Con lo anterior se evidencia que la comunidad necesita estrategias de construcción y 
+
+=== Página 20 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+20 
+nueva planificación de viviendas que no estén dentro de un margen de riesgo y que puedan 
+brindar la seguridad de sus núcleos familiares salvaguardando la integridad y dignidad indígena. 
+Como resultado de lo mencionado anteriormente, se quiere realizar un proyecto 
+arquitectónico de vivienda rural con énfasis en arquitectura vernácula, donde en cada detalle se 
+vea su historia y cultura, preservando cada uno de sus materiales ancestrales y costumbres 
+habitacionales como identidad teniendo como pauta de diseño los 5 pilares que rigen a esta 
+comunidad. 
+ 
+ 
+
+=== Página 21 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+21 
+Hipótesis 
+El conflicto armado por años fue el detonante de la pérdida de identidad socio cultural 
+progresiva y la inestabilidad económica de la comunidad indígena Amoyá. Si se diseña un 
+prototipo de vivienda etnoturistica, por medio de técnicas constructivas vernáculas y bajo el 
+concepto de la permacultura, se podría brindar una mejor calidad de vida a la comunidad 
+indígena Amoyá, generando a su vez una mejor economía al cabildo.  
+ 
+ 
+
+=== Página 22 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+22 
+Objetivos 
+Objetivo General 
+Diseñar un prototipo de vivienda etnoturistica rural, que responda a su entorno social y 
+cultural brindando mejor calidad de vida a la comunidad indígena Amoyá, por medio de la 
+arquitectura vernácula y principios de la permacultura, que permita resaltar los 5 pilares 
+fundamentales para el cabildo. 
+Objetivos Específicos 
+1. Recopilar información del corregimiento de las hermosas, para de esta manera 
+comprender más a fondo su cultura y cotidianidad, por medio de análisis etnográficos.  
+2. Desarrollar una metodología constructiva vernácula, que responda a sus creencias como 
+lo es la cosmovisión y cosmogonía, por medio de interacción participativa con la 
+comunidad. 
+3. Adaptar al territorio un prototipo de vivienda etnoturistica, que se rija a los principios de 
+la permacultura y de igual manera a las necesidades y exigencias de la comunidad, por 
+medio de resultados obtenidos en los análisis planteados. 
+ 
+ 
+
+=== Página 23 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+23 
+Estado del arte  
+Las comunidades indígenas en Colombia durante más de 100 años han venido 
+presentando diferentes problemáticas a causa del olvido por parte de los entes estatales del país, 
+una de las comunidades indígenas más afectadas ha sido la comunidad indígena Pijao en el 
+departamento del Tolima, por la violencia bipartidista que durante años se evidencio en esa parte 
+de la cordillera central aun teniendo en cuenta la importancia ancestral y cultural que esta 
+comunidad ha tenido desde sus primeros asentamientos.  
+Por lo anterior, el convenio de asociaciones realizado en el año 2013 por el Ministerio del 
+Interior, como diagnóstico de la comunidad Pijao para el plan de salvaguarda étnica, especifica 
+las problemáticas que ha tenido la comunidad a lo largo de los años, pero también se relata el 
+contexto de la comunidad desde su historia y cultura a partir de sus primeros asentamientos en el 
+departamento del Tolima. Se logra evidenciar su situación socio económica, su estado frente al 
+conflicto armado desde la aparición de grupos guerrilleros y paramilitares como también la 
+evidencia de problemáticas ambientales que se dan a causa de la explotación de hidrocarburos, 
+teniendo en cuenta los daños que esto a generado sobre las viviendas actualmente. También es 
+importante mencionar el despojo cultural que todas estas situaciones fueron causando de manera 
+progresiva sobre la comunidad y que hoy en día se evidencia en su lenguaje, en sus tradiciones, 
+en su arquitectura y tipologías de vivienda.  
+Según la Ley 2079 de 2021, la cual dicta las políticas de estado de vivienda y hábitat para 
+las comunidades en donde se especifica que los entes gubernamentales pretenden una reducción 
+en el déficit de vivienda tanto cualitativo como cuantitativo, teniendo en cuenta las 
+características territoriales, sociales y culturales para las comunidades que requieran un 
+
+=== Página 24 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+24 
+reconocimiento especial. Todo esto en pro a la dignificación de la vivienda para las comunidades 
+étnicas bajo la importancia de la organización territorial y cultural de país.  
+Después de las situaciones evidenciadas en el contexto histórico de la comunidad Pijao se 
+realizan propuestas de transformación habitacional para la comunidad indígena como se 
+evidencia en el artículo de Rodríguez, (2010), en donde se guarda una perspectiva de la vivienda 
+indígena bajo preceptos culturales y ancestrales precisamente para la preservación de la identidad 
+indígena de cada comunidad desde un ámbito arquitectónico. Pues es importante que a la hora de 
+realizar un desarrollo de vivienda rural se tengan presentes los espacios más relevantes para el 
+usuario como privacidad, accesibilidad, seguridad, durabilidad e iluminación para el diseño de 
+una unidad de vivienda. También es importante la inclusión de conceptos como la permacultura 
+dentro del diseño habitacional ya que de esta manera se pueden generar viviendas sostenibles 
+como se indica en el libro de La esencia de la Permacultura de Richard Telfort (2013) en donde 
+especifica los principios de la permacultura los cuales se aplican a las creencias cosmogónicas 
+que tiene la comunidad Pijao, como la salud, la espiritualidad y la administración de la tierra y la 
+naturaleza. 
+Finalmente, la materialidad y el concepto juegan un papel fundamental para un desarrollo 
+habitacional como para la recuperación de la identidad indígena de las comunidades, la 
+implementación en el diseño de la arquitectura vernácula y la utilización de materiales típicos de 
+la región como se especifica en la investigación realizada para el Cañón de las Hermosas de 
+Martínez, (2018), en la que se proponen el bahareque y la madera como materiales tradicionales 
+típicos para las viviendas nativas bajo un concepto de sostenibilidad con la utilización de la 
+madera coffea la cual sale de la extracción de cultivos de café originarios de la zona.  
+
+=== Página 25 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+25 
+Marco Conceptual 
+Comunidad 
+Elena Socarrás (2004) define la comunidad como “algo que va más allá de una 
+localización geográfica, es un conglomerado humano con un cierto sentido de pertenencia. Es, 
+pues, historia común, intereses compartidos, realidad espiritual y física, costumbres, hábitos, 
+normas, símbolos, códigos” (p. 3). Lo mencionado anteriormente define en gran magnitud a La 
+comunidad Indígena Amoyá ya que esta población siempre se ha mantenido unida y comparten 
+intereses en común para el beneficio propio de ellos. 
+Identidad 
+Está definido como un conjunto de características y rasgos propios de cada individuo que 
+hace que se diferencie de los demás. Según Giménez (1997, 2004) “El concepto de identidad no 
+puede verse separado de la noción de cultura, ya que las identidades sólo pueden formarse a 
+partir de las diferentes culturas y subculturas a las que se pertenece o en las que se participa” 
+(como se cita en Vera & Valenzuela, 2012, p. 2). 
+Arquitectura participativa 
+Se entiende por un diseño de arquitectura en el que se tiene en cuenta las necesidades y 
+opiniones de una comunidad, para lograr así el objetivo a desarrollar. “Arquitectura participativa, 
+se trata más bien de un método con aires sistémicos (no sistemáticos) de entender necesidades a 
+partir de vivencias, y espacios a partir de culturas, cuyos resultados en términos de obra 
+arquitectónica no han sido estudiados suficientemente” (García, 2012, p. 5). 
+Permacultura 
+
+=== Página 26 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+26 
+Según Holmgren (2019), la permacultura es “El diseño consciente de paisajes que imitan 
+los patrones y las relaciones de la naturaleza, mientras suministran alimentos, fibras y energías 
+abundantes para satisfacer las necesidades locales” (p. 3). 
+Arquitectura vernácula 
+Es considerada una construcción tradicional, que surgió por las necesidades de un sitio, 
+que conlleva de esta manera a que la misma población creará su propia arquitectura. Según 
+explica Pérez (2016):  
+Entiendo por arquitectura vernácula una parcela del patrimonio cultural constituida por el 
+conjunto de obras construidas o arquitectónicas en las cuales una comunidad reconoce los 
+valores –materiales e inmateriales– específicos y genuinos que caracterizan su identidad 
+antropológica cultural a lo largo del tiempo (como se cita en Pérez, J, 2018, pp.3-4).  
+Vivienda Rural 
+Se considera todo aquel asentamiento que se encuentra localizado en una zona lejana a la 
+urbanización, dentro de espacios campestres y rodeados por naturaleza. “La vivienda rural (VR) 
+es un espacio construido, con una parte interna y otra externa. Por las actividades agropecuarias 
+que realiza la familia, la vivienda se encuentra inmersa en ecosistemas naturales que cultiva, 
+conserva, transforma o deteriora” (Sánchez & Jiménez, 2009, p.3). 
+Vivienda Productiva 
+La vivienda productiva se entiende como un espacio habitable que permite desarrollar 
+actividades económicas dentro del mismo, permitiendo la facilidad a los usuarios de no 
+desplazarse y encontrarse en su propio ámbito social, familiar y desde luego económico. “La 
+vivienda productiva es también una máquina energética. Su futuro depende de cambios 
+
+=== Página 27 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+27 
+posiblemente vinculados a la escasez de recursos fósiles y a dinámicas actuales como las del 
+aumento de la energía en los desplazamientos” (Barajas, 2016, p.28) 
+ 
+ 
+
+=== Página 28 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+28 
+Marco Normativo 
+Bajo la normativa legal del Municipio de Chaparral y el departamento del Tolima, se 
+ejecuta la normativa urbana y rural como Plan Básico de Ordenamiento Territorial, el cual 
+dispone el mejoramiento del municipio a nivel urbano, económico, cultural y habitacional 
+definido en la Ley 388 de 1997. Este contiene programas, estrategias y objetivos para la 
+transformación física del territorio municipal. El corregimiento de San José de las Hermosas, El 
+Cairo, La Virginia Alta y la Virginia hacen parte del corregimiento de Las Hermosas, y es 
+importante definir los territorios para ejecutar la normativa y las disposiciones exigidas en el 
+PBOT. En el Capítulo 3. Uso del suelo y Cesiones Art. 21 para el uso residencial, es importante 
+tener en cuenta que el territorio debe estar dentro de los centros poblados del uso rural, dentro de 
+los cuales se identifique un crecimiento económico y sean aptos para el desarrollo urbanístico.  
+Teniendo en cuenta que la población a la que va dirigido el proyecto es una comunidad 
+indígena tiene ciertas normativas que resguardan y protegen los derechos de los mismos, las 
+cuales serán base para formular y plantear de manera estratégica el proyecto de grado.  
+El Plan Nacional de Desarrollo 2014-2018 
+Ley 1753 de 2015 
+Artículo 113. Derechos constitucionales de los indígenas. En lo concerniente a los 
+pueblos indígenas, el Plan Nacional de Desarrollo 2014-2018 y las acciones que de este 
+se deriven, se orientan a garantizar los derechos constitucionales, la pervivencia y 
+permanencia física y cultural de los Pueblos Indígenas de Colombia, su bienestar, el 
+reconocimiento de la vocación de protección ambiental de sus territorios y el goce 
+efectivo de sus derechos colectivos y fundamentales. 
+
+=== Página 29 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+29 
+Artículo 114. Identificación de asignaciones presupuestales a Pueblos Indígenas.  
+Las entidades estatales del orden nacional, conforme a sus competencias, podrán 
+identificar las asignaciones presupuestales específicas para los Pueblos Indígenas y 
+presentarán al Departamento Nacional de Planeación la información desagregada.  
+Ley 21 de 1991 
+Esta ley señala en el Artículo 4° 1. “Deberán adoptarse las medidas especiales que se precisen 
+para salvaguardar las personas, las instituciones, los bienes, el trabajo, las culturas y el medio 
+ambiente de los pueblos interesados”. Adicionalmente en el Artículo 5 se señalan las siguientes 
+disposiciones:  
+a). Deberán reconocerse y protegerse los valores y prácticas sociales, culturales, 
+religiosas y espirituales propios de dichos pueblos y deberá tomarse debidamente en 
+consideración la índole de los problemas que se les plantean tanto colectiva como 
+individualmente;  
+b). Deberá respetarse la integridad de los valores, prácticas e instituciones de esos 
+pueblos;  
+c). Deberán adoptarse, con la participación y cooperación de los pueblos 
+interesados, medidas encaminadas a allanar las dificultades que experimenten dichos 
+pueblos al afrontar nuevas condiciones de vida y de trabajo. 
+Norma NSR-10 Titulo G: Estructuras de madera y estructura de guadua. 
+En el presente título del reglamento colombiano de construcción sismo resistente NSR-10 
+en la sección G.12.6 BASES PARA EL DISEÑO ESTRUCTURAL podemos encontrar los 
+
+=== Página 30 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+30 
+requisitos de diseño y requisitos de calidad para las estructuras de guadua, que se deben de tener 
+en cuenta al momento de realizar la construcción de la vivienda.   
+ 
+ 
+
+=== Página 31 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+31 
+Marco Teórico 
+Para el desarrollo correcto del presente proyecto de grado enfocado hacia la comunidad 
+indígena amoyá se parte inicialmente de un Diseño Participativo con la comunidad teniendo en 
+cuenta sus requerimientos y necesidades, de igual manera teniendo en cuenta cada uno de los 
+aspectos dichos por los mismos. La vivienda etnoturistica planteada se va regir bajo los 
+principios de la permacultura ya que el territorio en el que se acentúa la comunidad es rica en 
+naturaleza además que es uno de los pilares más importantes para la comunidad. 
+Diseño participativo para una estrategia de comunicación - Paolo Mefalopulos and Chris 
+Kamlongera  
+Este método se basa en la implementación de distintos recursos para tener una 
+comunicación asertiva con la población a quien irá dirigido el diseño y así poder llegar al 
+objetivo principal el cual es lograr entender las necesidades y las posibles soluciones que se 
+pueden lograr.  
+El fin de diseñar una estrategia de comunicación es tratar y resolver los problemas a nivel 
+de la comunidad, utilizando las conclusiones del Diagnóstico Participativo de 
+Comunicación Rural, así como métodos, técnicas y medios de comunicación. Debe 
+hacerse con la gente, no solo para la gente (FAO, 2008, p.8). 
+Es sumamente importante como se menciona anteriormente trabajar en un diseño 
+enfocado por y para la comunidad donde se tenga en cuenta cada detalle mencionado por ellos, 
+para esto es necesario la observación, así se puede llegar a entender su entorno, su vivienda, su 
+forma de pensar, sus dinámicas sociales y culturales. Pensar en cada uno de estos aspectos tiene 
+
+=== Página 32 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+32 
+un papel importante en el proyecto para generar integración y consolidación de la comunidad 
+indígena Amoyá, como se menciona en el Manual de diseño participativo: 
+Es necesario anotar que tan pronto comienza el diseño de la estrategia, el proceso cambia 
+de un análisis de problema a la solución del problema. La estrategia de comunicación es 
+diseñada para lograr los objetivos de comunicación. Para determinar la relevancia de 
+estos objetivos es necesario considerar un número de factores, tales como la información 
+de fuentes secundarias, los objetivos del proyecto, las necesidades de la comunidad, las 
+oportunidades, los problemas y las posibles soluciones –NOPS, la cultura de la población 
+y su percepción de estos asuntos (FAO, 2008, p.15).  
+Figura 1 
+Actividad de integración realizada para la comunidad Amoyá  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nota. Método de diseño participativo con la comunidad indígena Amoyá para la obtención de datos. Tomado de 
+“Comunidad Indígena Amoya [Fotografía]”, Hincapié, C. 2022. (https://drive.google.com/drive/folders/1ZWb-
+vfP9AXmEd68Gw4-C99yFrbtccTxH) 
+ 
+ 
+
+=== Página 33 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+33 
+Figura 2 
+Recolección de datos de la comunidad 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nota. Recolección de datos sobre la tipología de vivienda preferida por la comunidad Amoyá por medio de una 
+actividad recreativa. Fotografía tomada por Tatiana Arias en 2022, Comunicación personal. 
+ 
+La esencia de la Permacultura - David Holmgren 
+La permacultura se basa en diseñar espacios donde se tenga presente el cuidado de la 
+tierra y de la riqueza natural, siempre pensando en la sostenibilidad. Para generar un diseño de 
+permacultura, (Holmgren, 2002), plantea 12 principios de los cuales mencionaremos los que se 
+implementaran en el proyecto de vivienda; El principio 1 se basa como mencionaba 
+anteriormente en el diseño participativo, Observa e interactúa.  
+Los buenos diseños dependen de una relación libre y armoniosa entre la naturaleza y las 
+personas, en las que una observación cuidadosa y una interacción inteligente 
+proporcionan la inspiración, el repertorio y los patrones del diseño. No es algo que se 
+genere aisladamente, sino a través de interacciones continuas y recíprocas con el sujeto. 
+La permacultura usa esas condiciones, continúa y conscientemente, para desarrollar 
+
+=== Página 34 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+34 
+sistemas de vida y manejo de la tierra que puedan sustentar a la gente en la era del 
+descenso energético (p. 10). 
+El principio 2, Capturar y almacenar energía. Este principio es fundamental ya que para 
+la comunidad indígena el sol, la naturaleza y la madre tierra hacen parte de los 5 pilares más 
+importantes para ellos y estos son fuentes principales de energías.  
+Conceptos inapropiados de riqueza nos han conducido a ignorar oportunidades de captar 
+los Flujos locales de formas de energía renovables y no renovables. Identificando y 
+actuando en esas oportunidades podemos proporcionar la energía con la que podremos 
+reconstruir capital, así como proveernos de un "ingreso" para nuestras necesidades 
+inmediatas (p. 11). 
+El principio 3, Obtén un rendimiento: 
+El principio nos recuerda que debemos diseñar cualquier sistema para proporcionar 
+autosuficiencia a todos los niveles [incluidos nosotros mismos), para usar de modo 
+efectivo la energía captada o almacenada con el fin de mantener el sistema y captar más 
+energía (p. 13).  
+Este es esencial para el desarrollo de la vivienda etnoturistica ya que se implementará una 
+conexión entre el beneficiadero de café y la vivienda. La permacultura va más allá de un diseño, 
+es una aplicación progresiva que ofrece una solución adecuada por medio de recursos naturales, 
+así como también contribuye con la unificación de la cultura y la naturaleza, que es el enfoque 
+principal que se plantea para la Comunidad Indígena Amoyá. 
+ 
+
+=== Página 35 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+35 
+Figura 3 
+Flor de la Permacultura 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nota. Principios étnicos y de diseño de la permacultura desarrollados por el fundador David Holmgren en donde se 
+indica la metodología para la administración de la naturaleza tras una emergencia energética en el año 2022.Tomado 
+de “La esencia de la Permacultura” por Holmgren, D, 2002. 
+(https://library.uniteddiversity.coop/Permaculture/Esencia_PC_Espanol_eBook.pdf.pdf) 
+ 
+ 
+
+=== Página 36 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+36 
+Marco Histórico 
+Para contextualizar las problemáticas encontradas dentro del territorio de las hermosas es 
+imprescindible citar algunos de estos acontecimientos que tuvieron un lugar importante en la 
+historia de la comunidad, según el documento de diagnóstico participativo del estado de los 
+derechos fundamentales del pueblo pijao, desarrollado por el Ministerio del interior, (2022), con 
+el fin de marcar un antes y un después tanto en la pérdida de identidad para los indígenas pijao, 
+hasta el acontecimiento que llevó a la comunidad a entrar en la resolución de conflictos con los 
+acuerdos de paz. Todos estos acontecimientos muestran como los asentamientos de los indígenas 
+Pijao fueron cambiando a raíz del tiempo, como ellos perdieron sus costumbres y tradiciones, 
+hasta la actualidad, en donde sus labores indígenas cambiaron a ser costumbres campesinas. 
+1550: Tras la llegada de los españoles al territorio, se vieron despojados los indígenas 
+pijao de su identidad cultural y social, por la imposición de creencias y costumbres europeas. Se 
+vio la pérdida inicialmente en cuanto a la organización territorial de sus viviendas, la 
+organización política, pues para los indígenas pijao las órdenes eran dadas por el Mohan o 
+Mohana, los cuales son sus ancestros y las voces que ellos escuchan como una guía divina. 
+Tuvieron que soportar la imposición de creencias católicas y sacerdotales, y la violencia dentro 
+de sus pueblos para ser despojados.  
+Siglo XVII: Con la llegada de los españoles, los pueblos indígenas fueron utilizados para 
+la mano de obra de los europeos, muchos indígenas pijaos fueron sometidos a trabajar en minas. 
+También tuvieron que sufrir maltratos y persecuciones por parte de la Corona española, pues 
+muchos de los guerreros indígenas hicieron frente a sus pueblos y comunidades, pero los 
+indígenas que eran apresados tenían que pasar por castigos aberrantes. Según Triana Antoverza, 
+(1996) “Se llegó a la conclusión de que sólo un ejército profesional, dirigido personalmente por 
+
+=== Página 37 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+37 
+la administración colonial y con el concurso de todo el Nuevo Reino, era capaz de liquidar, en 
+una guerra total, la resistencia de estos indios. (p.235)” (como se cita en Ministerio del Interior, 
+2022, p. 30).  
+Siglo XIX y XX: Después de la independencia de los españoles en el territorio nacional 
+existían objetivos para el fortalecimiento social y económico de la nueva nación. Por lo que 
+durante los años de 1835 y 1837 los cabildos pijao de Ortega y Chaparral fueron vendidos a 
+compradores externos ya que el gobierno dijo que los terrenos de estas comunidades eran 
+demasiado extensos y era necesaria su explotación. De esta manera se ve reflejado un segundo 
+periodo de despojo para los indígenas, afectados por el mismo estado y exponiendo su 
+patrimonio habitacional. En estos siglos fue evidente la legitimación de leyes de expropiación de 
+tierras y con esto la afectación social y económica de los indígenas pijao como lo mencionan 
+Villa y Houghton (2005),  
+La expedición de la Ley 11 de 1821 consideró a los indígenas libres e iguales a los demás 
+colombianos y ordenó la repartición de los Resguardos, empujando a varios de los 
+indígenas a las áreas montañosas y boscosas, y expulsándolos de las tierras productivas o 
+convirtiéndolos en jornaleros, aparceros y otras variantes de la economía campesina 
+(p.27). (como se cita en Ministerio del Interior, 2022, p. 35). 
+1930: Para la fecha siguió la pelea por la liberación de tierras y esto se dio gracias a una 
+ley que ampara los resguardos indígenas y la organización de los cabildos gracias al líder Manuel 
+Quintín Lame quien logró el reconocimiento de los cabildos de Ortega y Chaparral bajo la Ley 
+89 de 1890. Durante 10 años se empezó a lograr la restitución de los cabildos en el sur del 
+Tolima lo que permitió que 562 familias fueran reconocidas bajo la posesión de sus terrenos.  
+
+=== Página 38 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+38 
+1948: A esta época se le denominó la época de la violencia, pues es la llegada de los 
+grupos armados al margen de la ley en donde más de 20 mil indígenas tuvieron que abandonar 
+sus tierras y migrar a otros territorios, época que marcó significativamente la historia de la 
+comunidad indígena en Chaparral. Todo esto desatado como la guerra del 48 también tras la 
+muerte de Gaitán, fueron sucesos políticos y sociales que dejaron cicatrices en la población. 
+Muchos jóvenes fueron recluidos por la creación de nuevos grupos delictivos. Uno de los 
+testimonios es el de Edwin Humberto Medina, líder del cabildo Indígena Amoyá “…el 
+conservador perseguía al liberal y lo mataban y lo echaban al río, entonces esto quedó desolado. 
+El ganado lo mataban y lo envenenaban para que la gente no pudiera comer y la gente tenía que 
+huir a la montaña” (2022). De lo anterior se cuenta que las personas que migraban hacia la 
+montaña, crearon una guerrilla con el objetivo de defender la vida sin ningún tipo de ideología 
+política, más nombrada la Guerrilla de Arboleda la cual se formó por parte de los campesinos 
+que trataban de sacar la Chulavita la cual eran grupos armados que asesinaron a la comunidad 
+indígena en la zona.  
+1989: Este año fue uno de los años más cruciales para el conflicto armado en Colombia, 
+el narcotráfico estaba en el auge más alto en el país, en donde el estado colombiano ya no parecía 
+tener control sobre los grupos delictivos. El cartel de Medellín y Cali estaban manejando todo a 
+su paso, entre la política y la economía del país tras la crisis del 84, la gente no tenía más 
+remedio que aceptar la economía de la coca. En el sector del cañón de las Hermosas nada se 
+quedaba atrás, pues por muchos años los cultivos ilícitos de amapola hicieron frente en su 
+economía, y por mucho tiempo el sector agrícola se fortaleció gracias a la compra ilegal de la 
+amapola. Pero de la misma manera el paramilitarismo tuvo cabida en gran parte de estos 
+territorios, al ser un lugar escondido, se volvió estratégicamente atractivo para no ser blanco del 
+
+=== Página 39 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+39 
+Ejército Nacional. Desde entonces los corregimientos de todo el Cañón, tuvieron que presenciar 
+cientos de muertes, terrenos minados, y decenas de desplazamientos forzados, más cicatrices que 
+marcaban a nuevas generaciones.  
+2016: Finalmente para el 26 de septiembre de 2016 se firman por fin los acuerdos de paz 
+entre las FARC y el gobierno nacional. Esto en el Cañón de las Hermosas fue un hecho que 
+cambió drásticamente en varios aspectos económicos, sociales y culturales. Para muchos de los 
+habitantes de San José de las Hermosas o en el corregimiento de la Virginia, era prácticamente 
+normal que día a día se escucharan disparos a causa del conflicto armado entre el ejército y las 
+FARC. Tras la salida de este grupo armado, es posible que personas extranjeras o que provengan 
+de otros lugares del país, puedan visitar el paisaje natural que esta parte del país ofrece.  
+En conclusión, es importante conocer el contexto histórico que tiene este corregimiento 
+para entender y comprender la situación social y cultural que tiene la comunidad Amoyá, que 
+tanto sus ancestros como las personas que hacen parte del cabildo hoy en día tienen huellas que 
+dejaron marcadas por todas las problemáticas antes mencionadas, pero que sin lugar a duda es 
+una zona que necesita de la mirada del estado, ayudas económicas y sociales que permitan la 
+reactivación turística para dejar atrás un pasado oscuro que no los representa.   
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 40 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+40 
+Figura 4  
+Proceso de Paz 
+ 
+ 
+ 
+ 
+ 
+ 
+Nota. Tras el conflicto armado en el Cañón de las hermosas, llego el proceso de paz y con esto la desmovilización de 
+todos los frentes armados en la zona. [Fotografía] Elaboración propia (2022). 
+ 
+ 
+
+=== Página 41 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+41 
+ 
+Marco Referencial 
+Dentro de este proyecto se realizaron investigaciones como referencia para el diseño de la 
+vivienda etnoturistica rural, bajo el concepto principal de permacultura. Se analizó un referente 
+internacional, con el objetivo de comprender los espacios y actividades adecuadas para una 
+comunidad indígena dentro de su contexto de hábitat. Inicialmente es importante mencionar el 
+concepto de eco aldea el cual Gilman, R. (1991) menciona que “Una eco aldea es un 
+asentamiento sostenible en un medio urbano o rural, que respeta y restaura el sistema circulatorio 
+de los cuatro elementos, tierra, agua, fuego y aire, en la naturaleza y en las gentes” (como se cita 
+en Ulises, 2008, párr. 1) 
+De lo anterior se puede mencionar que, así como se relaciona en el concepto de eco aldea 
+con los elementos de la naturaleza, para las comunidades indígenas son indispensables los 5 
+elementos que tienen un significado primordial en el día a día y el desarrollo de las actividades 
+sociales y económicas. Adicionalmente se deben tener en cuenta los objetivos y propósitos que 
+puede llegar a tener un espacio rural que se desarrolla bajo un ecosistema natural, y es lograr 
+como comunidad la sustentabilidad en todos los aspectos dentro del centro habitacional.  
+
+=== Página 42 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+42 
+Figura 5  
+Referente 
+ 
+ 
+ 
+ 
+ 
+ 
+Nota. Eco aldea Gaia, condominios amanecer y atardecer. Tomado de “Ecovilla Gaia - Recorriendo sus lugares – 
+Permacultura” Asociacion Gaia, 2013. (https://www.youtube.com/watch?v=18O2lxqPLFA) 
+ 
+ 
+ 
+Esta eco aldea construida en la ciudad de Navarro en Argentina por la Asociación Gaia 
+quienes sus fundadores son Silvia Balado y Gustavo Ramírez se desarrolla a partir de una 
+proyección ecológica y sostenible sobre un terreno el cual era una ex fábrica de leche con un área 
+de 20 hectáreas aproximadamente. Este proyecto fue realizado bajo el concepto profundo de la 
+permacultura en un intento por la sustentabilidad de la comunidad, en donde pudieran encontrar 
+cultivos, energías renovables, construcciones realizadas bajo técnicas ancestrales, ahorro de agua 
+y zonas de libre esparcimiento en donde la naturaleza es el principal actor, siendo este el primer 
+diseño de permacultura en Iberoamérica.  
+En este complejo habitacional, es importante mencionar que se realizan actividades tanto 
+académicas como culturales, ya que la asociación Gaia son los pioneros en crear una Universidad 
+Internacional de Permacultura, en donde se ofrecen allí seminarios y cursos. La productividad es 
+un aspecto fundamental a tener en cuenta en el desarrollo habitacional de estos condominios, 
+pues a nivel turístico y agrícola tiene un gran impacto para la sostenibilidad de los habitantes.  
+
+=== Página 43 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+43 
+Diseño Metodológico 
+El presente proyecto de grado está enfocado en generar un prototipo de vivienda 
+etnoturistica para la comunidad indígena amoyá, la cual pueda ofrecer y resaltar su cultura y 
+esencia, por medio de la arquitectura vernácula, rigiéndose bajo los principios de la permacultura 
+y el diseño participativo. La metodología de investigación en cual se basa este proyecto es 
+cualitativa, que tiene como fin; “recoger datos de campo en el lugar donde los participantes 
+experimentan el fenómeno o problema de estudio” (Batthyány & Cabrera, 2011, p. 78). 
+Para este caso implementaremos la metodología investigación-acción que parte de 3 fases 
+las cuales según Stringer (1999) son: “observar (construir un bosquejo del problema y recolectar 
+datos), pensar (analizar e interpretar) y actuar (resolver problemáticas e implementar mejoras)” 
+(como se cita en Salgado, 2007, p.73). Esta metodología busca dar solución a una problemática 
+puntual que afecta a una comunidad y a su vez se enfoca en dar una solución adecuada por medio 
+de la cual se pueda brindar una mejor calidad de vida a quien habite la vivienda.  
+Objetivos Metodológicos  
+- Poder identificar por medio de un trabajo junto con la comunidad, la memoria colectiva 
+que se perdió a través de los años y así poder entender sus vínculos con la cosmogonía y 
+cosmovisión. 
+- Consolidar diferentes alternativas arquitectónicas teniendo en cuenta las características 
+cualitativas de la zona y de la comunidad, para poder generar un diseño concreto y eficiente que 
+se adapte a las cualidades del emplazamiento y responda a las necesidades del territorio. 
+
+=== Página 44 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+44 
+- Diseñar un proyecto arquitectónico etnoturístico rural que responda cualitativamente a 
+los requerimientos de la comunidad Amoyá, para rescatar su identidad cultural indígena por 
+medio de técnicas de construcción vernácula. 
+Fases Metodológicas  
+Observar  
+Esta fase es en la cual se identifica la problemática que acoge a la comunidad, donde se 
+dará una breve contextualización de cómo se encuentra actualmente en el corregimiento de las 
+hermosas. Esta información se obtendrá a partir de documentos y análisis sobre el territorio, 
+diálogos anecdóticos con la comunidad, entrevistas y sobre todo lo más importante lo cual es 
+OBSERVAR. Ya que también a simple vista se determinan problemáticas que afectan a dicha 
+población de manera directa. Toda la información obtenida da paso para dar una solución 
+adecuada hacia el diseño de la vivienda rural y así mismo a la comunidad. 
+Pensar 
+En esta fase se lleva a cabo la recolección de datos los cuales brindan información que 
+nos lleva a generar un plan de acción que pueda mitigar o dar solución a la problemática, 
+consolidando la hipótesis. Estos datos son obtenidos por salidas a campo, el acercamiento directo 
+que se tuvo al convivir y compartir con ellos sus culturas y tradiciones, también por la 
+metodología de diseño participativo donde se realizaron distintas actividades informativas con la 
+comunidad Amoyá.  Así mismo esta fase nos ayuda a poder plantear una posible solución en la 
+vivienda rural que dé respuesta a lo dicho en el párrafo anterior. 
+
+=== Página 45 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+45 
+ Actuar 
+Por último en esta fase se busca dar una solución eficiente a las problemáticas actuales 
+que tiene la comunidad Amoyá, por medio de un proyecto de vivienda rural etnoturística que se 
+adapte a los requerimientos de diseño participativo recolectados en las anteriores fases de 
+investigación, teniendo presente los vínculos cosmogónicos que tienen dentro de la misma 
+cultura pijao, brindando por medio de un diseño arquitectónico alternativas de sostenibilidad que 
+respeten el entorno natural del emplazamiento, recuperando nuevamente la identidad cultural que 
+se perdió en el trascurso del tiempo tras las circunstancias vividas por el conflicto armado, bajo 
+los lineamientos de los conceptos de permacultura y arquitectura vernácula.  
+ 
+ 
+
+=== Página 46 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+46 
+Entrega de análisis y resultados 
+Análisis Macro 
+Figura 6  
+Localización 
+ 
+Nota. Localización del proyecto. Adaptado de “Diagnostico participativo del estado de los derechos fundamentales 
+del pueblo pijao y líneas de acción para la construcción de su plan de salvaguarda étnica” por Ministerio del 
+interior. 2022. (https://www.mininterior.gov.co/wp- 
+content/uploads/2022/08/pueblo_pijao_diagnostico_comunitario.pdf). 
+ 
+Las comunidades indígenas acentuadas a lo largo del país han tenido que vivir bajo 
+diferentes circunstancias como lo es la colonización y el conflicto armado, teniendo 
+consecuencias como lo es la pérdida de identidad cultural. La comunidad indígena Amoyá a 
+quien va dirigido el proyecto de grado se encuentra ubicada en Chaparral, Tolima. Chaparral 
+cuenta con una extensión de 212.400 hectáreas y una población de 43.725 habitantes según el 
+
+=== Página 47 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+47 
+Censo Nacional de Población y Vivienda - CNPV 2018. Dentro de este departamento 
+encontramos 10 cabildos indígenas entre ellos el mencionado anteriormente, según el Min 
+Interior (2013), “La totalidad de población indígena municipal es de 2.206, correspondiente al 
+4,68% de la población total del municipio” (p. 154). 
+Análisis Meso 
+Figura 7  
+Análisis Meso 
+ 
+ 
+Nota. Análisis del sector. Adaptado de “Plan básico de ordenamiento territorial”, por Alcaldía de Chaparral-
+Tolima. 2001. (https://www.chaparral-tolima.gov.co/Transparencia/Paginas/Plan-de-Ordenamiento-
+Territorial.aspx). 
+ 
+A nivel meso encontramos el corregimiento de las hermosas ubicado a 59 km del casco 
+urbano, en este se encuentran situadas 28 veredas que limitan con la zona de intervención como 
+lo son; La Virginia, El salado, San José de las hermosas, El Escobal, El recreo entre otras zonas 
+habitables. Todas estas colindan con el Río Amoyá siendo la principal fuente hídrica del 
+corregimiento, este Rio es uno entre el 2006 y el 2013 se generó la construcción de La Central 
+
+=== Página 48 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+48 
+Hidroeléctrica Amoyá la cual generó varias afectaciones a nivel hídrico y económico en las 
+veredas cercanas.  
+Figura 8  
+Central Hidroeléctrica Amoyá 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nota. Proyecto Hidroeléctrico del Rio Amoyá. Tomado de: “Conciviles”, s,f 
+(https://www.conciviles.com/proyectos/infraestructura-electrica/proyecto-hidroelectrico-del-rio-amoya/) 
+ 
+Cultura y tradiciones 
+La cultura pijao es una comunidad étnica que ha permanecido en el territorio durante 
+cientos de años, en donde todo está directamente relacionado con la espiritualidad y la conexión 
+que tienen con la naturaleza gracias a la cosmovisión de sus creencias. Un tema a resaltar es su 
+creencia en el Mohán, el cual es una guía espiritual que cumple funciones específicas dentro de 
+la comunidad como el conocimiento en la naturaleza y en los astros, y la creencia de hacer llover 
+o parar las lluvias dependiendo las necesidades de la comunidad.  
+La comunidad también realiza rituales espirituales y limpiezas porque de esta manera 
+pueden liberar las malas energías y poder realizar sus actividades cotidianas con más 
+
+=== Página 49 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+49 
+conocimiento, lo que para ellos hace parte de la sabiduría ancestral, haciendo esto el último 
+domingo de cada mes en el lugar más sagrado para ellos que es el Canei. Como tradiciones 
+también está el consumo de la coca, lo que tradicionalmente se le llama mambeo, el consumo de 
+la chicha y el tabaco.  
+Figura 9  
+Tradiciones culturales 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nota. Cantos de la comunidad Amoyá en el lugar sagrado, el Canei. Fotografía tomada por Miguel Hernandez en 
+el 2022. Comunicación personal 
+ 
+Clima 
+El corregimiento de las hermosas es una tierra semihúmeda donde se presentan 
+temperaturas entre 16° y 24°C y precipitaciones entre 2.500 y 3.000 mm, según datos tomados 
+en el documento “MONOGRAFIA MUNICIPIO DE CHAPARRAL, TOLIMA” (s.f.), las 
+precipitaciones presentadas en la cuenca del Río Amoyá son de régimen bimodal en donde se 
+evidencia que los periodos de marzo a mayo y de octubre a diciembre son los que presentan 
+fuertes lluvias. Y los periodos donde las lluvias son escasas son entre enero y febrero e 
+igualmente entre junio y septiembre.  
+
+=== Página 50 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+50 
+Infraestructura Vial 
+La infraestructura que conecta la zona rural con el casco urbano de chaparral se encuentra 
+en deterioro debido al olvido por parte de las entidades gubernamentales, contando con poca 
+accesibilidad a las viviendas ubicadas en el cañón de las hermosas, así como también aquellos 
+que se dirigen al municipio de chaparral a trabajar. En temporadas de lluvias se generan 
+deslizamientos en la vía causando que la población dure hasta 15 días sin poder tener paso al 
+casco urbano y viceversa. Es importante resaltar que la distancia entre La virginia y chaparral 
+son aproximadamente 59km lo que según dicho por la comunidad vendría siento un recorrido de 
+aproximadamente 2 horas, pero en la actualidad por las condiciones en la que se encuentra la vía 
+son aproximadamente 7 horas, exponiendo de esta manera su vida como ha ocurrido en distintas 
+ocasiones por volcamiento de bus escalera. 
+Figura 10  
+Accidente bus escalera 
+ 
+ 
+ 
+ 
+ 
+Nota. Grave accidente en Chaparral, Tolima: al menos cinco muertos y 20 heridos . Tomado de: “Redacción digital 
+CM&”, 2021. ( https://noticias.canal1.com.co/nacional/grave-accidente-en-chaparral-tolima-al-menos-cinco-
+muertos-y-20-heridos/) 
+Salud 
+Principalmente para la comunidad Amoyá es imprescindible la medicina natural, pues es 
+una tradición ancestral que les permite tener una conexión más allá con la naturaleza, esto es un 
+
+=== Página 51 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+51 
+valor muy importante de la comunidad ya que por medio de su conocimiento naturista pueden 
+generar sus propios medicamentos. También, cabe resaltar que existe un hospital que presta el 
+servicio para toda la zona el cual es el Hospital San Juan de Dios en Chaparral de nivel II, según 
+lo mencionado por Raúl Quijano, gobernador de la comunidad, pero generalmente llegar hasta la 
+zona para atender una emergencia es casi imposible por la mala infraestructura vial y trayectos 
+tan extensos.  
+Topografía 
+Figura 11  
+Remoción de masas 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Elaboración propia 
+ 
+En el corregimiento de las hermosas se puede analizar un relieve entre 30% a 70% de 
+pendiente, generando 3 amenazas a la población las cuales son deslizamiento, flujo y 
+desprendimiento según la información tomada del documento “MONOGRAFIA MUNICIPIO 
+DE CHAPARRAL, TOLIMA” (s.f.). En la zona de estudio se analizó que en los últimos años se 
+
+=== Página 52 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+52 
+han presentado flujos y deslizamientos, estos solo se evidencian donde su topografía es superior 
+a los 30% y su suelo es completamente roca a comparación de los flujos donde se dan en 
+pendientes superiores al 70%. Por eso como se mencionaba anteriormente cuando se presentan 
+fuertes precipitaciones se presentan daños en la vía y también en la comunidad. 
+Figura 12  
+Deslizamientos en vía del Cañón de las Hermosas 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nota. Avalancha dejó incomunicado el corregimiento de las Hermosas en Chaparral (2022). Tomado de: “Enfoque 
+TV”, Manjarres, J, 2022. (https://enfoqueteve.com/avalancha-dejo-incomunicado-el-corregimiento-de-las-
+hermosas-en-chaparral/) 
+Fase 1. Observar  
+En el trabajo de campo realizado en el cañón de las hermosas se pudo obtener distinta 
+información propia de la comunidad donde nos evidencian las distintas problemáticas que han 
+tenido que vivir durante años. En esta fase se busca identificar la problemática que acoge al 
+sector de análisis, por ello se realizaron distintas actividades que nos llevaron a concluir que 
+además de que toda la problemática se dio a raíz del conflicto armado, otra de las principales es 
+el olvido por parte de los entes gubernamentales hacia la comunidad. 
+
+=== Página 53 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+53 
+Entrevistas de datos anecdóticos  
+La comunidad indígena en relatos contaba como sufrieron el asentamiento de las fuerzas 
+paramilitares en la zona, confirma Raúl Quijano en medio de una entrevista que para ellos el 
+escuchar una bala o una bomba ya era algo normal en sus actividades cotidianas. También 
+madres quienes nos relataban como reclutaban a sus hijos para que hicieran parte de frente 21 de 
+las FARC y este es el día que aún no saben si están vivos o murieron en combate. 
+Figura 13  
+Recolección de información 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nota. Recolección de audios y datos por medio de entrevistas con lideres de la comunidad. Tomado de: Hernández, 
+Miguel. A. en 2022. Comunicación personal. 
+ 
+Durante los años que vivieron esto, el acceso a la zona era restringido ya que quien 
+ingresara sin ser autorizado, era colgado en el espumoso, puente que une ambos relieves del 
+cañón de las hermosas por donde baja el mayor caudal de agua del Río Amoyá, En un relato 
+anecdótico con Roberto, contó que cuando llegaba una persona de la región simplemente lo 
+ajusticiaban en el puente, lo colgaban y lo tiraban al Río. Confirma Roberto que la frase “Lo van 
+a tirar al espumoso” ya era reconocida en la zona, y que desobedecer a los paramilitares era 
+
+=== Página 54 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+54 
+sentenciarse a muerte o simplemente lo desplazaban de la región, “Era mejor agachar la cabeza y 
+mirar para otro lado”. 
+Figura 14  
+Puente el espumoso bajo el cauce del Rio Amoyá 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nota. Puente El Espumoso, famoso por la época del conflicto armado. Fotografía tomada por Diego Baron en 
+2022. Comunicación personal 
+ 
+Observar 
+Visualmente la realidad de la comunidad indígena se ve afectada en gran parte por el 
+olvido de los entes gubernamentales, a simple vista el acceso a la zona está en muy mal estado 
+tanto es así, que al ingresar al cañón de las hermosas se pone en riesgo la vida ya que la 
+topografía del cañón hace que sus abismos sean pendientes demasiado altas. Cabe resaltar que la 
+vía es muy angosta para el acceso de un bus escalera, razón por la cual varios de estos han caído 
+al vacío. Esto mismo afecta a la comunidad económicamente ya que no pueden comercializar sus 
+productos en el casco urbano debido a taponamientos en vías.  
+También se evidencia como en La Virginia luego de un desbordamiento de la quebrada 
+del mono, está en abandono total. Hoy en día es un sitio donde aún permanecen viviendas e 
+
+=== Página 55 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+55 
+iglesias que lograron quedar en pie luego de la tragedia, pero que nadie las habita debido a que 
+por falta de dinero y ayudas por parte del estado no han podido volver a reconstruir. En este sitio 
+la comunidad indígena realiza sus actividades culturales puesto que en ese sitio se encuentra el 
+Caney, que es un espacio muy representativo en la comunidad y que arquitectónicamente está 
+construido en guadua y palmicha. 
+Usuario 
+El prototipo de vivienda planteado va dirigido a la comunidad indígena Amoyá la cual la 
+conforman habitantes que viven y se establecieron como campesinos pero que sus orígenes 
+vienen de los indígenas Pijao. El contexto histórico que abarca esta comunidad parte de la 
+llegada de los españoles a esta zona en donde fueron forzados a pelear por sus tierras y a negarse 
+a ser dominados, siendo esta la última tribu indígena que permaneció en el territorio según lo 
+relatado en el documental “La voz Pijao” (2022).  
+Figura 15 
+Ilustración de indígena Pijao 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nota. Pintura de indígenas Pijao en época de la colonia. Tomado de: “Xguide”. 2023 
+(https://www.xperiencing.travel/tolima/cultura/la-cultura-pijao-y-su-historia-ancestral/) 
+ 
+
+=== Página 56 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+56 
+Por otro lado, las problemáticas de violencia que existieron entre grupos armados de la 
+ley, causaron el desplazamiento forzado de gran parte de la comunidad indígena Pijao a otras 
+regiones del país, haciendo que se perdieran sus costumbres culturales, religiosas y sociales. Pero 
+los habitantes que se encuentran hoy en día en el Cañón de la Hermosas, son el arraigo cultural 
+de esta comunidad indígena Pijao realizando la conformación del cabildo bajo la ley 89 de 1890 
+la cual establece que “las comunidades indígenas tienen pleno derecho a organizar Cabildos de 
+acuerdo a sus formas de organización tradicional”.  (Comisión mixta de Cooperación 
+Amazónica, 1989) 
+Una de las razones por las que se conformó el cabildo indígena Amoyá es por no perder 
+la tradición indígena de sus ancestros, pero, por otro lado, existen razones gubernamentales que 
+los amparan como lo dice la ley 691 de 2001 la cual da acceso a salud y seguridad social, la ley 
+21 de 1991 también dice que gozaran de derechos humanos y libertades, ley 1986 de 2019 que 
+otorga becas a comunidades indígenas.  
+Por otro lado, la comunidad indígena Amoyá está conformada por personas campesinas 
+de la zona que quieran aportar en pro de los beneficios del cabildo como sociedad, de esta 
+manera permiten el acceso de personas que no tienen el arraigo netamente indígena, como lo fue 
+la reincorporación de excombatientes como lo relata Roberto Quijano líder de la comunidad 
+“recibimos 6 compañeros para que hicieran parte de la comunidad, que eran firmantes del 
+acuerdo de paz”. Según el señor Roberto afirma que: “fue muy difícil al principio recibirlos, pero 
+son ciudadanos, solo que estaban alzados en armas”. (Parcialidad indígena Amoya Virginia, 
+2022) 
+Para concluir, el usuario al que va dirigido el proyecto es un cabildo conformado por 
+habitantes campesinos que fue lo que se observó en la visita a campo de su configuración social, 
+
+=== Página 57 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+57 
+que inicio de manera informal pero que al paso de los años está en proceso de legalización ante 
+el estado. 
+Arquitectura – Vivienda 
+La arquitectura en las viviendas del Cañón de las Hermosas es arquitectura tradicional 
+campesina, no como se supondría que sería una vivienda típica indígena de la región. La 
+arquitectura indígena se rige por su forma circular y su materialidad en madera y paja hasta el 
+piso, con una única entrada, sin ventilación e iluminación, sin acceso a servicios públicos e 
+internet. A diferencia de lo observado en el Cañón de las Hermosas donde sus viviendas están 
+conformadas por cubiertas a dos aguas en zinc, muros en mampostería o concreto, baldosas 
+además de contar con antena para el acceso a internet y servicios públicos. 
+Con base en esto, el concepto de vivienda que se plantea en el proyecto parte de una 
+mutación de arquitectura indígena a arquitectura contemporánea campesina cumpliendo con los 
+requerimientos establecidos por la comunidad y de igual manera con los análisis realizados 
+previamente. La materialidad de la vivienda estará conformada por materiales típicos de la 
+región utilizados ancestralmente por la comunidad indígena Pijao y de esta manera resaltar en el 
+diseño aspectos tradicionales de su cultura.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 58 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+58 
+Figura 16 
+Salón comunal de la comunidad 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nota. Salón comunal realizado por la comunidad indígena Amoyá. Fotografía Tomada por Fernando Hincapie, 
+Comunicación personal. 
+ 
+ 
+ 
+Figura 17 
+Casa tradicional campesina San José de las Hermosas  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nota. Vivienda tradicional campesina en San José de las Hermosas. Fotografía tomada por Fernando Hincapié en 
+2022. Comunicación personal 
+ 
+ 
+
+=== Página 59 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+59 
+Fase 2. Pensar  
+Mediante el diseño participativo y la recolección de datos por medio de actividades y 
+entrevistas, se puede generar una aproximación a la propuesta arquitectónica habitacional la cual 
+se compone por medio de espacios y requerimientos que necesita suplir el cabildo en pro a la 
+recuperación de su identidad étnica. Se tomaron datos indispensables por medio de una secuencia 
+de preguntas trabajando de esta manera por medio de un análisis cuantitativo con la comunidad y 
+de la obtención de datos que permitan saber y entender el resultado que se espera.  
+Inicialmente se realizó la pregunta de ¿Cuáles son los materiales más representativos para 
+su vivienda?, de lo que se pudo concluir que para los indígenas Amoyá es indispensable que su 
+vivienda tenga materiales autóctonos de la región y que a nivel arquitectónico le brinden esa 
+identidad étnica que muchas de sus viviendas hoy en día no tienen, como lo es el bahareque, la 
+madera y la palmicha. Estos materiales se pueden implementar con un diseño que se vincule con 
+el contexto territorial por medio de arquitectura vernácula, teniendo en cuenta técnicas de 
+construcción ancestrales de la cultura Pijao.  
+Tabla 1.  
+Pregunta 1, recolección de datos 
+ 
+ 
+ 
+ 
+ 
+ 
+Elaboración propia 
+
+=== Página 60 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+60 
+ 
+La segunda pregunta realizada fue ¿Cuál es el lugar más importante en su vivienda?, de 
+lo que se pudo concluir que para la comunidad existen espacios en donde es importante 
+compartir en familia como lo es el comedor. La cocina para las mujeres es muy importante 
+porque ellas consideran que es un eje principal en la vivienda y cuando la cocina esta 
+desarreglada todo en la casa pierde el equilibrio. También, mencionaron espacios como el patio 
+el cual es el espacio abierto que le genera ventilación e iluminación a toda la casa, en donde se 
+puede llegar a visualizar toda la naturaleza que hay en el contexto, finalmente las alcobas ya que 
+para ellos es importante tener ese momento de descanso después de todo un día de trabajo.  
+Tabla 2.  
+Pregunta 2, recolección de datos 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Elaboración propia 
+ 
+La tercera pregunta se formuló con la intensión de saber un poco más de lo que la 
+comunidad quería para su vivienda con el fin de entender las necesidades y los espacios que 
+hacen faltan por suplir, a lo que ellos contestaron que la naturaleza juega un papel fundamental 
+en su día a día y por esto les gustaría tener más árboles y una mejor ventilación en las viviendas. 
+
+=== Página 61 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+61 
+También contestaron que uno de los requerimientos que tendrían seria tener más habitaciones, ya 
+que muchas de estas viviendas cuentan con pocas habitaciones para familias bastantes extensas. 
+Y finalmente que todos los espacios jueguen con la armonía del contexto, en donde la naturaleza 
+sea el principal actor.  
+Tabla 3.  
+Pregunta 3, recolección de datos 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Elaboración propia 
+ 
+Por último, se realizó la pregunta de ¿Cuál sería su vivienda ideal?, a lo que la comunidad 
+respondió que para ellos era indispensable que dentro de su vivienda se preservara la naturaleza 
+y que como tal la vivienda supliera las necesidades básicas como suministro de agua, energía y 
+gas. Adicionalmente, se requiere que la vivienda sea diseñada bajo conceptos de permacultura 
+para la sostenibilidad por medio de cultivos de todo tipo que finalmente ayudaran a la economía 
+del cabildo, finalmente la seguridad y confort, pues es importante que el diseño se adapte a las 
+condiciones de mejoramiento brindándole a los usuarios viviendas sismorresistentes. 
+
+=== Página 62 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+62 
+Tabla 4.  
+Pregunta 4, recolección de datos 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Elaboración propia 
+ 
+Análisis de vivienda rural 
+Tras la recolección de datos directamente con la comunidad, se prosiguió a hacer un 
+análisis de la vivienda rural identificando los espacios que la componen y su materialidad. Cabe 
+resaltar que actualmente el cabildo indígena no cuenta con viviendas que representan su 
+identidad pijao si no que a causa del despojo cultural que les dejo el conflicto armado, a medida 
+de los años muchas costumbres y tradiciones se fueron perdiendo y con ellas su arquitectura 
+ancestral. Es por esto que se genera una primera intensión y acercamiento a la recuperación de la 
+vivienda indígena por medio de un análisis de vivienda, en este caso rural campesina, para de 
+esta manera comprender su forma de vivir tras el paso de los años, y lo que para ellos es 
+importante rescatar de su identidad cultural.  
+También, se concluyó que la materialidad de sus viviendas debe ser en bahareque como 
+sistema constructivo, la palmicha para las cubiertas y la madera para detalles y pisos. Por otro 
+lado, están los amarres de las cubiertas con estructura en guadua para los cuales se identificaron 
+
+=== Página 63 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+63 
+varias uniones que se deben realizar a nivel constructivo. De esta manera se finaliza esta fase 
+realizando una comparación entre los datos obtenidos junto con las propuestas que se van 
+realizar hasta el resultado al que se quiere llegar.  
+Figura 18  
+Análisis de tipologías de vivienda rural 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nota. Análisis de tipología de vivienda rural. Adaptado de “Estudios uniones”, por Lois Sullivan, Henry 
+Richardson. 2012. 
+(https://wiki.ead.pucv.cl/index.php/Estudios_uniones_/_puente_las_cucharas_/_Lois_Sullivan,_Henry_Richardson) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 64 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+64 
+Proyecto de vivienda arquitectónico  
+Fase 3. Actuar 
+En esta fase encontramos el prototipo de vivienda que se planteó teniendo en cuenta las 
+dos fases anteriores. Este proyecto se plantea basándose en las necesidades y en los distintos 
+factores que se presentan en la cuenca del Rio Amoyá, la vivienda se plantea en Arquitectura 
+vernácula para que así responda a la pérdida de identidad cultural, cuenta con espacios como son; 
+Cocina, comedor, 3 habitaciones, una habitación de uso múltiple, baño seco, una habitación 
+adicional ya que la vivienda ofrece servicios etnoturísticos y un patio donde tienen una vista de 
+la naturaleza que ofrece el cañón de las hermosas. Para la productividad se plantea un vivero, ya 
+que la comunidad en una entrevista nos dijo que en cuanto a uso medicinal siempre han querido 
+tener un espacio para sembrar distintas plantas que ayuden en la salud, también se tiene planteado un 
+beneficiadero de café que a nivel agrícola es lo que más se siembra en la zona con un 30%. 
+ 
+ 
+Memoria conceptual 
+Para la memoria conceptual se planteó una rejilla de 3x3m la cual se generó gracias al 
+análisis de vivienda que se hizo por medio de la identificación de espacios que ellos necesitan. 
+Se generaron unas volumetrías que especifican cada espacio, separando las áreas húmedas de las 
+áreas privadas, generando un corredor interno que articula toda la vivienda y por medio el cual 
+también se genera un pasaje de ventilación e iluminación. Las sustracciones que se realizan en la 
+volumetría se realizan en sentido del Rio Amoyá y a la pendiente del terreno, generando de esta 
+manera una volumetría escalonada que se adapta al contexto y brinda la mejor iluminación a los 
+usuarios.  
+ 
+
+=== Página 65 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+65 
+Figura 19 
+Memoria conceptual 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Elaboración propia 
+ 
+1
+2
+3
+4
+5
+6
+
+=== Página 66 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+66 
+Figura 20 
+Planta arquitectónica 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Elaboración propia 
+Vivienda 
+En cuanto a la vivienda, cada espacio se planteó y se ubicó de manera estratégica. 
+Inicialmente la cocina se plantea distanciada de las zonas privadas en este caso las habitaciones 
+ya que como se menciona en la Fase 2. Análisis de vivienda rural. Esta es una característica 
+propia de estas comunidades. Igualmente se planteó un corredor que conduce a cada espacio, los 
+baños también se mantuvieron distantes de zonas privadas de la casa, además de eso se planteó 
+un baño en seco ya que no requiere el uso de agua por lo cual se estaría ahorrando este recurso y 
+de igual forma evitando contaminación. Finalmente, como centralidad se plantea un patio interno 
+el cual se marca como acceso a la vivienda, este cuenta con una zona verde que funciona como 
+SUDS (Sistema Urbano de Drenaje Sostenible) con una leve inclinación de la placa del patio con 
+el fin de evitar inundaciones y escorrentías dentro de la casa tras la caída de la cubierta. 
+
+=== Página 67 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+67 
+Fachada 
+Como se puede observar planteamos una cubierta con una caída interna la cual se destaca 
+por tener un diseño que se adapta a una vivienda rural pero con una inclinación que se diferencia 
+a las todas las casas convencionales, el fin de captar la mayor cantidad de radiación solar en el 
+día y de esta manera se mantenga al caer la noche para que la vivienda conserve un confort 
+adecuado durante las 24hrs del día, además la inclinación de las cubiertas tiene como fin la 
+recolección de aguas lluvias para ser usadas en el riego del vivero y el aseo de la vivienda. Su 
+estructura será en guadua y palmicha ya que tienen mayor durabilidad, aísla el sonido y es un 
+material que no es inflamable. 
+Figura 21 
+Fachada principal  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Elaboración propia 
+Estructura 
+Para el planteamiento de la estructura de la vivienda se utilizo como materialidad el 
+concreto, la guadua y la palmicha. Inicialmente, en la cimentación se hace el planteamiento de 
+
+=== Página 68 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+68 
+zapatas aisladas de 0.70 x 0.70 cm conectadas por medio de vigas de cimentación de 0.30 x 0.30 
+cm con el fin de cumplir con la norma sismorresistente y permitirle a la vivienda estabilidad y 
+resistencia en un terreno con condiciones topográficas complicadas. Adicionalmente, se hace una 
+conexión entre zapatas y columnas por medio de pedestales en concreto de 0.30 x 0.30 cm los 
+cuales llevan una conexión con las columnas en guadua por medio de ganchos que van 
+introducidos entre el sobrecimiento del pedestal y anclados a los pernos en la guadua. Cabe 
+resaltar que la guadua en la parte inferior donde se encuentra la conexión debe tener dos 
+perforaciones para poder rellenar de mortero 1:3 los primeros 40 cm de la guadua.  
+Figura 22 
+Estructura en Guadua  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Elaboración propia 
+
+=== Página 69 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+69 
+Figura 23 
+Detalle de cimentación  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Elaboración propia 
+ 
+ 
+ 
+ Figura 24 
+Detalles de unión 
+ 
+Elaboración propia 
+ 
+
+=== Página 70 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+70 
+Baños secos  
+Con el fin de generar alternativas sostenibles que permitan el ahorro de recursos hídricos 
+dentro de la vivienda, se plantea una propuesta de baños secos los cuales su funcionamiento es 
+por medio de compostaje (mezcla de residuos orgánicos), que permite degradar la materia fecal 
+volviéndola en abono para los cultivos. De esta manera los baños secos cuentan con dos 
+compartimientos, uno que cuenta en la parte superior con la tapa del inodoro y en la parte 
+inferior en donde se depositan los residuos fecales y líquidos. El otro compartimiento es donde se 
+encuentra el compostaje, el cual después de realizar la actividad se tapan los residuos. Cabe 
+resaltar que, en la parte exterior de la vivienda, se realizo un ducto de ventilación que se dirige 
+hacia la cubierta con el fin de ventilar los compartimientos con los desechos y evitar que dentro 
+de la vivienda se generen malos olores.  
+Figura 25 
+Baños secos  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Elaboración propia 
+
+=== Página 71 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+71 
+Sistema de drenaje sostenible SUDS  
+Para brindar una solución a posibles problemáticas de escorrentía y adicionalmente 
+brindar estrategias de sostenibilidad a la vivienda se plantea en el patio central que articula toda 
+la vivienda, un jardín el cual permite la recolección de aguas lluvias sirviendo de drenaje para 
+evitar posibles inundaciones al interior de la casa. Se le realiza a la placa de ingreso una 
+inclinación que va dirigida a hacia los SUDS, y de esta manera poder dirigir el agua hacia el 
+filtro y hacia el exterior de la vivienda.  
+Figura 26 
+SUDS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Elaboración propia 
+ 
+
+=== Página 72 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+72 
+Instalaciones 
+Instalación Eléctrica 
+En cuanto a la instalación eléctrica se plantea un circuito eléctrico que cumpla la 
+normatividad RETILAP el cual este compuesto por un sistema eléctrico con fase, neutro y polo a 
+tierra. Se plantea un diseño lumínico que permite que en los espacios privados se tenga un poco 
+más de iluminación con Paneles LED Colgantes de 24w, que en las zonas transitables los cuales 
+se proponen con Paneles LED Colgantes de 18w. En los corredores exteriores de la vivienda se 
+plantean 5 luminarias ubicadas estratégicamente los cuales son tipo Wallpack de 20w para 
+permitir una iluminación adecuada en la noche. Para toma corrientes se plantearon 3 tipos de 
+tomacorrientes, los tomacorrientes convencionales que se plantearon en habitaciones y zonas 
+sociales, los tomacorrientes GFCI que son aquellos que tienen una protección para las zonas 
+húmedas que se instalarían en los baños y cocina, y finalmente el tomacorriente para la nevera el 
+cual debe ir en un circuito independiente.  
+Figura 27 
+Acometida Eléctrica  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Elaboración propia 
+
+=== Página 73 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+73 
+Instalaciones Hidrosanitarias  
+Para las redes hidrosanitarias se realizaron tres tipos de acometidas, inicialmente la 
+acometida de agua potable la cual parte de la red del acueducto de las Hermosas y se distribuye 
+hacia la casa a los puntos de lavamanos, ducha, y lavaplatos en tubería de 1/2” y 3/4”. La red de 
+aguas residuales la conforma una tubería de PVC de 2” y 3” con una inclinación del 1% para 
+evitar que se taponen las tuberías, adicionalmente las conexiones deben ir con codos de 45° y 
+con tuberías de ventilación y tapones para en caso de emergencia poder bombear la tubería hasta 
+destaparla, teniendo en cuenta que los residuos pasan por una caja de inspección fuera de la 
+vivienda y se dirigen a la red de aguas residuales del corregimiento. Finalmente, la acometida de 
+aguas lluvias la cual parte de una canaleta con base de 20cm en las 3 partes de la caída de la 
+cubierta esta con el fin de dirigir el agua hacia los tragantes que dirigen el agua hacia el tanque 
+donde se almacenan las aguas lluvias. 
+Figura 28 
+Acometida Hidrosanitaria 
+ 
+Elaboración propia 
+
+=== Página 74 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+74 
+Bohío  
+Este espacio se contempla dentro de la implantación de la vivienda ya que es un espacio 
+representativo para la comunidad a nivel cultural, religioso y ancestral, pues este lugar es donde 
+las familias se reúnen a realizar todos sus ritos y actividades sociales. También se localiza antes 
+del ingreso a la vivienda ya que se establece como espacio recibidor. Su estructura también esta 
+compuesta por pedestales en concreto, pilares en guadua y cubierta en palmicha.  
+Figura 29 
+Planta, fachada y estructura de Bohío  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Elaboración propia 
+
+=== Página 75 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+75 
+Beneficiadero 
+El beneficiadero es un espacio indispensable para la conformación de la vivienda, ya que 
+con este se pretende apoyar a la economía de la comunidad Amoya para la marca de café 
+premium que ellos se encuentran desarrollando, por lo tanto, se plantea dentro del diseño un 
+beneficiadero con estructura en guadua y cimentación en concreto, la cual permitirá la 
+producción de café y el desarrollo económico de la comunidad.  
+Figura 30 
+Planta primer y segundo piso beneficiadero   
+ 
+ 
+Elaboración propia 
+
+=== Página 76 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+76 
+Análisis Bioclimáticos  
+En los análisis solares que se realizaron a distintas horas específicas del día, se 
+identificaron varias incidencias de iluminación y calor en la vivienda, recibiendo en horas de la 
+mañana en la fachada posterior de la casa la mayor incidencia de iluminación y calor hasta en 
+horas del mediodía, en la tarde es cuando comienza a caer el sol y el calor que se filtró en horas 
+de la mañana permite un confort climático dentro de la vivienda en horas de la noche. 
+Por otro lado, encontramos el análisis de vientos los cuales se generan de sur-este hacia la 
+vivienda permitiendo que esté fresca durante el día gracias a las aperturas que tiene la casa las 
+cuales permiten una excelente ventilación sin generar concentraciones dentro de ella.  
+Figura 31 
+Asoleación 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Elaboración propia 
+
+=== Página 77 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+77 
+Figura 32 
+Análisis de Vientos  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Elaboración propia 
+ 
+Implantación  
+Finalmente, para la implantación del proyecto como se indica anteriormente, se hace una 
+propuesta de implantación del prototipo de vivienda en condiciones de terreno inclinado con una 
+pendiente del 45%, dentro de las cuales se tiene en cuenta su cumplimiento con la norma 
+sismorresistente a nivel estructural. Adicionalmente, se tienen en cuenta espacios que 
+complementen adecuadamente la vivienda etnoturistica como el Bohío y el Beneficiadero, los 
+cuales son dos estructuras que permiten el desarrollo de actividades culturales, religiosas, 
+sociales y económicas, creando un confort para la comunidad Amoya que se establezca en ella.  
+Para el ingreso a la vivienda se tiene inicialmente el Bohío, el cual es un espacio de 
+recibimiento para los visitantes de la casa el cual está ubicado a 20 m de la vivienda para la 
+
+=== Página 78 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+78 
+realización de reuniones de la comunidad o familiares. Por otro lado, se encuentra también el 
+Beneficiadero el cual esta ubicado a 50m de la vivienda al costado izquierdo de la implantación, 
+ya que los vientos que vienen del sur-este se dispersan llevándose los malos olores que se pueden 
+llegar a producir por el procesamiento del café.  
+Para concluir, cabe mencionar que se utilizaron para la implantación especies arbóreas 
+típicas de la región contemplando las peticiones de la comunidad Amoya de poder tener espacios 
+verdes y naturales en su vivienda, como lo son el Arrayan, Acasias, Carbonero y Cedro. Todo 
+esto con el propósito de cumplir con los 5 pilares importantes para la comunidad que se ven 
+reflejados en 5 colores importantes para ellos como el verde que indica la vegetación, el amarillo 
+que indica la luna, el café que es la madre tierra, el rojo que indica el sol y finalmente el azul el 
+cual representa el agua, permitiendo en el diseño contemplar y respetar cada uno de estos 
+principios importantes para el cabildo.  
+Figura 33 
+Implantación  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Elaboración propia 
+ 
+
+=== Página 79 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+79 
+Conclusiones 
+Para concluir es importante resaltar la importancia que tiene dentro de un proyecto 
+arquitectónico el diseño participativo, tener un acercamiento para comprender su historia, su 
+estilo de vida, sus creencias y culturas, y la conformación de los espacios en donde habitan es 
+fundamental para el desarrollo de un proyecto que trate de mejorar las condiciones de 
+habitabilidad de un grupo en específico. Con lo anterior, también cabe mencionar la importancia 
+de una metodología de investigación que se adapte a los requerimientos de la comunidad 
+indígena permitiendo la recolección de datos, el desarrollo de ideas bajo la información 
+recolectada con el fin de obtener un resultado que brinde al usuario estrategias de diseño que 
+solucionen las problemáticas manifestadas por ellos mismos.  
+Por otro lado, la utilización de materiales típicos de la región en conjunto de alternativas 
+de construcción vernácula permite que el proyecto arquitectónico se vincule a las tradiciones 
+culturales que tienen la comunidad, resaltando en un diseño su historia ancestral. 
+Adicionalmente, la implementación de estos materiales ayuda a la reducción de gastos 
+económicos y tiene ventajas importantes como la reducción de residuos contaminantes y el 
+desarrollo de estrategias de sostenibilidad.  
+Finalmente, con este diseño se quería resaltar los 5 pilares fundamentales para la 
+comunidad que básicamente consistían en el respeto a la naturaleza y a la madre tierra 
+implementando conceptos de permacultura y de esta manera respetando su identidad y 
+tradiciones por medio de un diseño de vivienda rural que se adaptara a las condiciones 
+geográficas y sociales e implementara alternativas de desarrollo económico por medio del 
+etnoturismo.                                                                                                                                                                
+
+=== Página 80 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+80 
+Lista de Referencias 
+Barajas, D. (2016). Universidad Politécnica de Madrid. Upm.es. 
+https://oa.upm.es/40601/1/DIEGO_LUIS_BARAJAS_CASTILLO.pdf  
+Batthyány. K & Cabrera. M. (2011). Metodología de la investigación en Ciencias Sociales. 
+Unidad de Comunicación de la Universidad de la República. 
+https://www.cse.udelar.edu.uy/wp-content/uploads/2019/05/FCS_Batthianny_2011-07-
+27-lowres.pdf 
+Cabildo Indígena Amoyá [@cabildoindigenaamoyav]. 21 de abril de 2022. [Fotografía]. 
+Instagram. https://www.instagram.com/p/CcoXtxLloQF/?hl=es-la 
+Comisión Mixta de Cooperación Amazónica. (1989). Plan Modelo para el Desarrollo Integrado 
+del Eje Tabatinga-Apaporis. Secretaria ejecutiva para asuntos económicos y sociales. 
+https://www.oas.org/dsd/publications/unit/oea48s/begin.htm#Contents 
+FAO. (2008). Diseño participativo para una estrategia de comunicación. (2ª ed.). 
+https://www.fao.org/3/y5794s/y5794s.pdf 
+Fundación ideas para la paz. (2013, 23 de julio). Conflicto armado en Tolima y su impacto 
+humanitario. https://bit.ly/3T8uyih 
+García, W. (2012). Arquitectura participativa: Las formas de lo esencial. Redalyc.org. 
+https://www.redalyc.org/pdf/1251/125125877002.pdf 
+Giménez, G. (2004). EL CONCEPTO DE IDENTIDAD COMO RECURSO PARA EL ESTUDIO 
+DE TRANSICIONES. Scielo.br. 
+https://www.scielo.br/j/psoc/a/JBjj3SLFKR7MXYRSFC4m3Pv/?format=pdf&lang=es  
+
+=== Página 81 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+81 
+Holmgren, D. (2019). La Esencia de la Permacultura. Permacultura-es.org. https://permacultura-
+es.org/index.php?option=com_jdownloads&task=download.send&id=10&catid=4&m=0
+&Itemid=170 
+Ley 21, marzo 4, 1991. Diario Oficial. [D.O.]: 39.720. (Colombia).15/04/2023. 
+https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=37032#:~:text=Lo
+s%20pueblos%20ind%C3%ADgenas%20y%20tribales%20deber%C3%A1n%20gozar%
+20plenamente%20de%20los,y%20mujeres%20de%20esos%20pueblos. 
+Ley 1753, junio 9, 2015. Diario Oficial. [D.O.]:49538. (Colombia). 15/04/2023.  
+https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=61933 
+Medina, E. (Laura Daniela Mesa). (14-08-2022). Relato de la comunidad indígena Amoyá 
+[Audio]. Comunicación personal.  
+Ministerio del interior. (2022). Diagnostico participativo del estado de los derechos 
+fundamentales del pueblo Pijao y líneas de acción para la construcción de su plan de 
+salvaguarda étnica. (1ª ed.).  https://www.mininterior.gov.co/wp-
+content/uploads/2022/08/pueblo_pijao_diagnostico_comunitario.pdf 
+Parcialidad indígena Amoya Virginia. (2022, 13, 03). La Voz Pijao - Capítulo 2 "El conflicto 
+armado desde la mirada indígena" [Video]. Youtube. 
+https://www.youtube.com/watch?v=zPB4t__Pugk 
+Pérez, J. (2018). Un marco teórico y metodológico para la arquitectura vernácula. Revista del 
+Instituto Universitario de Urbanística de la Universidad de Valladolid.  
+https://doi.org/10.24197/ciudades.21.2018.01-28 
+
+=== Página 82 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+82 
+Radio Nacional de Colombia. (2019, 26 de diciembre). Emergencia por desbordamiento de una 
+quebraba en zona rural de Chaparral. Radio Nacional de Colombia. 
+https://bit.ly/3D0qGcH 
+Salgado, A. (2007). Investigación cualitativa: diseños, evaluación del rigor metodológico y 
+retos. Liberabit, 13(13), 71-78. 
+http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1729-
+48272007000100009&lng=es&tlng=es. 
+Sánchez, C., & Jiménez, E. O.  (2010). La vivienda rural. Su complejidad y estudio desde 
+diversas disciplinas. Revista Luna Azul, (30), 174-196. 
+https://www.redalyc.org/pdf/3217/321727232011.pdf  
+Socarrás, E. (2004). El concepto de comunidad desde el punto de vista socio -histórico-cultural y 
+lingüístico. Ciencia en su PC, (3), 12-21. 
+https://www.redalyc.org/pdf/1813/181321553002.pdf  
+Ulises. (2008, 26 de noviembre). ¿Qué es una ecoaldea? Global Ecovillage Network. 
+https://ecovillage.org/que-es-una-ecoaldea-2/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 83 ===
+VIVIENDA PRODUCTIVA RURAL CAIKE                                
+83 
+Anexos  
+Anexo 1.  Presupuesto  
+Anexo 2. Panel 1 
+Anexo 3. Panel 2  
+Anexo 4. Panel 3  
+Anexo 5. Panel 4  
+ 
+

@@ -1,0 +1,2249 @@
+# Fuente: TdeG-UGC-ruralColombia_2020.pdf
+# Total páginas: 75
+
+=== Página 1 ===
+ 
+EVALUACIÓN DEL CONFORT TÉRMICO EN LA VIVIENDA RURAL EXISTENTE 
+EN COLOMBIA  
+ 
+JOSEPH ANDREY CARVAJAL CAÑAS  
+TATIANA VALENCIA ANTONIO 
+ 
+UNIVERSIDAD LA GRAN COLOMBIA 
+FACULTAD ARQUITECTURA 
+ARQUITECTURA 
+BOGOTÁ 
+2020 
+
+=== Página 2 ===
+ 
+Evaluación del confort térmico en la vivienda rural existente en Colombia  
+ 
+ 
+ 
+Joseph Andrey Carvajal Cañas  
+Tatiana Valencia Antonio 
+ 
+ 
+ 
+Trabajo de Grado presentado como requisito para optar al título de Arquitecto(a) 
+ 
+Yuber Alberto Nope 
+ 
+Universidad La Gran Colombia 
+Facultad Arquitectura 
+Arquitectura 
+ 
+Bogotá 
+
+=== Página 3 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          10 
+Agradecimientos  
+A mis padres por creer he invertir en mi potencial, por cada día darme el aliento para 
+continuar, la confianza a ser mejor día a día y a hacer que este sueño sea realidad, agradezco a 
+mis hermanos por estar junto a mi durante este proceso de crecimiento personal, a mi compañero 
+por el trabajo constante y a cada persona que me ha brindado aprendizaje a lo largo de la carrera. 
+Tatiana Valencia Antonio 
+ 
+Antes que nada, doy gracias a Dios por darme la oportunidad de conocer a personas tan 
+importantes en el proceso de aprendizaje y en mi desarrollo como persona en todo este proceso, 
+así mismo a estas personas, mis compañeros y maestros que de una u otra forma me enseñaron la 
+manera de vivir la universidad no solo de la manera académica sino también de una manera 
+humana. A mi compañera le agradezco por su dedicación, esfuerzo y pasión para el desarrollo de 
+este trabajo y a mis padres por su amor y dedicación para ayudarme a alcanzar mis metas.  
+Joseph Andrey Carvajal Cañas 
+ 
+Finalmente agradecemos a quien lee esta sección de nuestra tesis y ser parte del arduo trabajo y 
+proceso de una investigación con conocimientos adquiridos de un trabajo en equipo. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 4 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          11 
+Tabla de contenido 
+Resumen ............................................................................................................................ 18 
+Palabras claves .............................................................................................................. 18 
+Abstract ............................................................................................................................. 19 
+Keywords: .................................................................................................................. 19 
+Capítulo 1. Formulación del problema ............................................................................. 20 
+Introducción ...................................................................................................................... 20 
+Formulación del problema ................................................................................................ 23 
+Preguntas problema ....................................................................................................... 23 
+Justificación....................................................................................................................... 24 
+Hipotesis ............................................................................................................................ 27 
+Objetivos ........................................................................................................................... 28 
+Objetivo General ........................................................................................................... 28 
+Objetivos Específicos .................................................................................................... 28 
+Capítulo 2. Marco teórico y estado del arte ...................................................................... 29 
+Introducción ................................................................................................................... 29 
+La vivienda rural en Colombia ...................................................................................... 29 
+Adaptabilidad ambiental ................................................................................................ 30 
+La Vivienda y el confort ............................................................................................ 32 
+Emplazamiento .......................................................................................................... 34 
+
+=== Página 5 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          12 
+Bioclimática y Sostenibilidad ........................................................................................ 35 
+Confort térmico y eficiencia energética ..................................................................... 37 
+Variables pasivas ....................................................................................................... 39 
+Implementación de la metodología BIM en la arquitectura .......................................... 40 
+Metodología BIM ...................................................................................................... 40 
+Conclusión ..................................................................................................................... 42 
+Capítulo 3. Caracterización arquitectónica, constructiva y bioclimática. ......................... 43 
+Introducción ................................................................................................................... 43 
+Metodología ................................................................................................................... 46 
+Escala de Impacto ...................................................................................................... 46 
+Clasificación población y muestra ................................................................................ 47 
+Clasificación de la vivienda rural en Colombia ............................................................ 48 
+Clasificación de la vivienda de acuerdo con su asignación climática ....................... 49 
+Vivienda zona cálido seco ......................................................................................... 50 
+Vivienda zona cálido húmedo ................................................................................... 53 
+Vivienda zona templado ............................................................................................ 55 
+Vivienda zona fría ...................................................................................................... 58 
+Conclusión ..................................................................................................................... 61 
+Capítulo 4. Evaluación del confort térmico ...................................................................... 62 
+Introducción ................................................................................................................... 62 
+
+=== Página 6 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          13 
+Criterios de simulación .................................................................................................. 63 
+Zonificación de la vivienda según región. ................................................................. 63 
+Materiales .................................................................................................................. 67 
+Transmitancia térmica ............................................................................................... 69 
+Confort Térmico ........................................................................................................ 69 
+Metodología BIM .......................................................................................................... 70 
+Plan de trabajo ........................................................................................................... 70 
+Matriz de evaluación .................................................................................................. 72 
+Conclusión ..................................................................................................................... 73 
+Capítulo 5. Resultados y conclusiones .............................................................................. 74 
+Resultados por dia ......................................................................................................... 74 
+Uribia - Guajira .......................................................................................................... 74 
+Paimado – Choco ....................................................................................................... 74 
+Montenegro - Quindío ............................................................................................... 75 
+Chita-Boyacá ............................................................................................................. 75 
+Resultados por hora ....................................................................................................... 76 
+Uribia-Guajira ............................................................................................................ 76 
+Paimado-Choco .......................................................................................................... 76 
+Montegro-Quindío ..................................................................................................... 76 
+Chita-Boyacá ............................................................................................................. 77 
+
+=== Página 7 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          14 
+Conclusión ..................................................................................................................... 78 
+Lista Bibliografía .............................................................................................................. 80 
+ 
+ 
+ 
+
+=== Página 8 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          15 
+Lista de Tablas 
+ 
+Tabla 1 Riesgos ambientales ......................................................................................................... 51 
+Tabla 2. Transmitancia térmica..................................................................................................... 69 
+Tabla 3. Rango de confort para cada región climática .................................................................. 70 
+Tabla 4. Resultados de simulaciones hechas por día. ................................................................... 74 
+Tabla 5. Resultados de simulaciones por hora .............................................................................. 76 
+Tabla 6. Cuadro de conclusiones frente a resultados de simulaciones ......................................... 78 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 9 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          16 
+Lista de Figuras 
+Figura 1. Emplazamiento favorable en diversas zonas. ................................................................ 35 
+Figura 2 Mapa climatológico ........................................................................................................ 43 
+Figura 3.Mapa físico de Colombia ................................................................................................ 44 
+Figura 4. 1.Vivienda en palenque, Departamento de Bolívar - Santa Marta ................................ 44 
+Figura 5. 2.Vivienda Tipica, Departamento de Bolívar - Isla Fuerte ........................................... 44 
+Figura 6. 3. Vivienda Tipoca, Departamento Guajira - Cabo de la Vela ...................................... 44 
+Figura 7. 4.Vivienda en palenque, Departamento de Tolima -  Icononzo .................................... 45 
+Figura 8. 5.Vivienda Tipica, Distrito Capital de Bogotá – Bogotá ............................................... 45 
+Figura 9. 6.Vivienda Tipica, Departamento de Risaralda - Santa Rosa de Cabal ........................ 45 
+Figura 10. 7.Vivienda MALOCA Departamento de Amazonas – Gaia ....................................... 45 
+Figura 11. 8.Vivienda Departamento de Boyacá .......................................................................... 45 
+Figura 12. 9 Vivienda Departamento del Choco, Rio Truando .................................................... 45 
+Figura 13. 10.Vivienda Tipica, Departamento de Quindio – Salento ........................................... 45 
+Figura 14. Escalas de impacto del proyecto.................................................................................. 47 
+Figura 15. Ineficiencia de servicios públicos ................................................................................ 48 
+Figura 16. Características físico-ambientales, región Uribia-Guajira. ......................................... 50 
+Figura 17. Diagrama Psicométrico Guajira - Uribia ..................................................................... 52 
+Figura 18 Características físico-ambientales, región Paimado-Choco. ........................................ 53 
+Figura 19. Diagrama Psicométrico Choco – Paimado. ................................................................. 55 
+Figura 20. Características físico-ambientales, región Montenegro-Quindio. ............................... 55 
+Figura 21. Diagrama Psicométrico Quindio – Montenegro .......................................................... 57 
+Figura 22. Características físico-ambientales, región Chita-Boyacá. ........................................... 58 
+
+=== Página 10 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          17 
+Figura 23. Esquema vivienda rural en Boyacá ............................................................................. 59 
+Figura 24. Diagrama Psicométrico Boyacá - Chita ...................................................................... 60 
+Figura 25. Vivienda existente Uribia- Guajira .............................................................................. 63 
+Figura 26 Vivienda modificada Uribia – Guajira ......................................................................... 63 
+Figura 27. Vivienda existente Paimado, Rio Quito – Choco ........................................................ 64 
+Figura 28. Vivienda Modificada Paimado, Rio Quito- Choco ..................................................... 64 
+Figura 29 Vivienda existente Montenegro – Quindío................................................................... 65 
+Figura 30. Vivienda modificada Montenegro – Quindio .............................................................. 65 
+Figura 31. Vivienda existente Chita – Boyacá.............................................................................. 66 
+Figura 32. Vivienda modificada Chita – Boyacá .......................................................................... 66 
+Figura 33. Caracterización de vivienda rural según región .......................................................... 68 
+Figura 34: Matriz de evaluación ................................................................................................... 72 
+ 
+ 
+ 
+
+=== Página 11 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          18 
+Resumen  
+ 
+El trabajo busco evaluar el confort térmico dentro de la vivienda rural existente y cómo 
+esta se comporta según el clima dentro del territorio colombiano, la investigación surge a raíz de 
+la actual pandemia promovida por la expansión del COVID- 19 que ha puesto en evidencia las 
+precarias condiciones de confort térmico y de habitabilidad en las viviendas. Se toma el área 
+rural al ser la que presenta un déficit bastante alto en el NBI (Necesidades Básicas Insatisfecha), 
+se realizó una caracterización arquitectónica, bioclimática, constructiva, social y económica de la 
+vivienda rural ubicada en distintos climas; posteriormente junto a la metodología BIM que 
+permitió evaluar por medio de simulaciones dinámicas el método constructivo de las vivienda 
+rural en Colombia, teniendo en cuenta el material existente y materiales vernáculos por la cultura 
+dentro del país (Adobe, BTC, Bahareque), la orientación (Sur, Norte, Este y Oeste), el clima 
+(Cálido seco, Cálido húmedo, Templado y Frio) y la tipología de la vivienda según región 
+climática (Guajira, Choco, Quindío y Boyacá). Dando un resultado de disconfort o confort, esto 
+analizando por cantidad de horas dentro del rango de confort para cada clima y el día más 
+caluroso de la región elegida, concluyendo en respuesta al confort el mejor material y 
+orientación. Lo anterior fue soportado por mapas de proceso e IDM/BIM (Información Develery 
+Manual / Building Information Modeling) para documentar el proceso de planeación y 
+simulación. 
+Palabras claves: Confort térmico, Bioclimática, Vivienda rural, BIM, Simulaciones 
+ 
+ 
+
+=== Página 12 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          19 
+Abstract 
+ 
+This document sought to evaluate the thermal comfort within the existing rural housing 
+and how it behaves according to the climate within the Colombian territory. Furthermore, it 
+arises in the circumstance of the current pandemic that has highlighted the precarious conditions 
+of thermal comfort and habitability in homes(rural). The rural area often has fairly high deficit in 
+the NBI (Unsatisfied Basic Needs); hence an architectural, bioclimatic, constructive, social and 
+economic characterization of rural housing (located in different climates) was carried out. Later 
+the BIM methodology was used to evaluate through dynamic simulations the construction 
+method of rural housing in Colombia.  Those simulations undertook factors such as:the existing 
+material and vernacular materials for the culture within the country (Adobe, BTC, Bahareque), 
+the orientation ( South, North, East and West), the climate (Warm dry, Warm humid, Temperate 
+and Cold), the typology of the house, climatic regions (Guajira, Choco, Quindío and Boyacá). 
+Each simulation was able to provide a result of discomfort or comfort: Usually a consequence of 
+number of hours within the comfort range for each climate and the hottest day in each given 
+region. Those results allowed us to conclude which was  the best material and orientation in 
+response to optimize comfort.  Everything was supported by process maps and IDM / BIM 
+(Information Delivery Manual / Building Information Modeling) to document the planning and 
+simulation processes. 
+Keywords: Thermal comfort, Bioclimatic, Rural housing, BIM, Simulations 
+ 
+ 
+ 
+
+=== Página 13 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          20 
+Capítulo 1. Formulación del problema 
+ 
+Introducción 
+ 
+Actualmente el gobierno nacional estructuró un plan de VISR (Vivienda de Interés Social 
+Rural) que se desarrolla con base a la tipología estructural de mampostería y muros no 
+estructurales, como también la implementación de infraestructura en redes domiciliarias 
+básicas  todo esto a partir de los procedimientos estipulados en la NSR – 10 (Norma Sismo 
+Resistente de 2010);  se analiza la habitabilidad de 8 personas por cada una de esas viviendas con 
+el fin de garantizar la comodidad y el confort esperado para cada habitante, sin examinar los 
+factores naturales y la disposición del material frente a las condiciones climáticas de la zona 
+donde se incluye la vivienda. Aunque se consideran las diversas técnicas para el sistema 
+escogido es importante la apropiación cultural frente a las técnicas de cada zona para facilitar el 
+diseño y la amigabilidad de las viviendas con el entorno. 
+La incorporación de parámetros sostenibles y la implementación de estos resulta 
+favorable en cuanto a la integración del medio ambiente y los desarrollos ambientales de la 
+arquitectura frente al consumo energético elevado de la ciudad promedio, aunque las decisiones 
+de implementación de estos parámetros denotan un aumento sustancial de costos en cuanto a 
+construcción es importante entender que con el tiempo el consumo será la compensación 
+económica de esa inversión, algunos de estos parámetros a la hora de construir o diseñar pueden 
+generar un cambio importante en las edificaciones sin contemplar el costo excesivo en su 
+construcción favoreciendo los entornos donde se empleen; considerando la importancia al 
+integrar factores sostenibles en la sociedad y los criterios indispensables en la inversión de estos 
+
+=== Página 14 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          21 
+para zonas específicas que contribuyan al mejoramiento de calidad de vida y en el alcance de 
+objetivos mundiales que favorezca el progreso sostenible de comunidades. 
+Considerando los derechos básicos para la una vida digna es importante observar la 
+vivienda como un tema de prioridad que contempla distintos aspectos para una vida digna,  
+Según las Bases del Plan Nacional de Desarrollo 2014 – 2018. 
+Es precisamente en las condiciones de habitabilidad donde se encuentran las 
+principales brechas entre lo rural y lo urbano, siendo el déficit habitacional de 
+68% en lo rural, contra 27% en lo urbano. (Citado por Rodríguez, 2016, p. 1) 
+Es pertinente de la investigación, exhibir las distintas condiciones a las que se enfrentan 
+las edificaciones y en especial la vivienda rural, para asimilar la empatía de algunos materiales o 
+condiciones con el medio ambiente y su retribución a la larga con el entorno y sus habitantes, 
+con el fin de entender en un aspecto multidisciplinario los enfoques a los cuales se puede 
+direccionar el diseño de la vivienda rural y comprender las labores que se desarrollan en su 
+sector para determinar las relaciones de las familias que viven en ellas.  
+Se establece que “el estado definirá las condiciones para garantizar el derecho a la 
+vivienda digna a todos los colombianos”(Const. P., art. 51, 1991), pero analizando las distintas 
+políticas y programas nacionales sobre vivienda de interés social resaltan el déficit de atención 
+en materia de vivienda de interés social rural, se evidencia una brecha entre lo urbano y lo rural 
+en la que se otorgaba la menor área mínima a las viviendas de los pobladores rurales sin 
+considerar las necesidades derivadas y sus actividad. 
+Para este estudio es importante entender la dimensión de los espacios y las condiciones 
+que se evidencian en el ambiente para determinar las variables ambientales sobre las cuales se 
+puede construir o no una vivienda rural; 
+
+=== Página 15 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          22 
+Un organismo eminentemente activo e interactivo con el medio natural, 
+construido y comunitario, que constituye una herencia, no sólo cultural, sino 
+también de sostén emocional y cohesivo de las familias, apoyado o con gran 
+influencia de sus actividades económicas y comunitarias; este comportamiento 
+contrasta con el que se produce en las viviendas de las ciudades, cuyas actividades 
+ya no fomentan tales características en la familia. (Sánchez, 2006, p.2). 
+Por lo anterior se consideró pertinente la adaptabilidad de la arquitectura de la vivienda 
+rural actual a las condiciones ambientales propicias para el aprovechamiento energético de las 
+unidades, con el fin de mejorar y garantizar un confort térmico en las viviendas de acuerdo con 
+las condiciones térmicas y geográficas de los climas seleccionados; para determinar las 
+características de las distintas tipologías de vivienda rural en Colombia.  
+Se considero la orientación de las viviendas para la concepción de la productividad que 
+garantice ganancias de calor, al recibir radiación solar directamente que en conjunto con la 
+materialidad de algunos recursos tradicionales de la zona aportan el impacto suficiente al interior 
+de la vivienda. 
+ 
+ 
+ 
+
+=== Página 16 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          23 
+Formulación del problema 
+ 
+El desarrollo actual de la vivienda rural no contempla variables de sostenibilidad en sus 
+diseños constructivos. 
+Preguntas problema 
+¿Cuáles son las características de la vivienda rural en Colombia?  
+¿Qué métodos se utilizar en el desarrollo de la vivienda rural? 
+¿Cómo identificar las falencias de la vivienda rural existentes diseñadas según su clima? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 17 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          24 
+Justificación 
+ 
+En la actualidad los métodos de construcción de la vivienda rural en Colombia cambiaron 
+de ser técnicas vernáculas de barro y tierra, por ladillo y concreto, esta evolución técnica trae 
+consigo problemas de disconfort interior, obligando a sus ocupantes a vivir con bajas 
+condiciones de habitabilidad, por la mala adaptación de la arquitectura a su entorno ambiental. 
+El déficit en la forma de construcción de la vivienda rural viene también ligado a que 
+algunas de estas no cuentan con necesidades básicas como lo son agua potable, el alcantarillado, 
+la energía y el gas, en donde épocas de crisis ante la actual pandemia generadas por el COVID-
+19 son muy importantes tenerlas, según la ECV (Encuesta Nacional de calidad de vida)  
+En el 2018 tan solo el 8,8% de los hogares rurales tenían acceso a gas 
+natural, mientras que el 80,3% de los hogares en cabecera no contaban con este 
+servicio. Algo similar pasa con el servicio de acueducto ya que la cobertura en 
+centros poblados y rurales dispersos fue del 51,1% de hogares, y en las cabeceras 
+de 97,2%. En acceso a alcantarillado la situación es igual de preocupante con una 
+cobertura de 12,6% en centros poblados y rurales dispersos y de 92,4% en 
+cabeceras. (Ortiz, 2019, parr.5)  
+Todos estos problemas que se generan en la vivienda rural pueden ser solucionados 
+aplicando principios de sostenibilidad estas son estrategias pasivas que garantizan un una 
+producción de agua potable para los lugares donde esta no alcanza a llegar, la reducción y/o 
+economización del uso de la energía eléctrica y evitando o mejorando el uso del gas para cocinar,  
+logrando mejoramiento en el confort dentro del hogar y el ahorro en servicios difíciles de pagar o 
+adquirir en tiempos de pandemia; esto es posible lograrlo por medio del uso de determinantes 
+
+=== Página 18 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          25 
+ambientales como lo son el sol y el viento, con tecnologías y un buen manejo de los recursos 
+naturales. 
+En la actualidad colombiana se piensa en un modelo único de vivienda que se pueda usar 
+en área urbanas y rurales, para un único clima sin pensar en la diversidad de ambientes 
+climáticos dentro de Colombia. Es necesario plantear nuevamente que se está haciendo por 
+dignificar las viviendas rurales, si existe un interés a la hora de construirlas, si estas suplen las 
+necesidades de habitabilidad, si pueden ser flexibles para crecer, si dentro de ellas se puede 
+practicar alguna actividad económica, si se diferencian los espacios domésticos a los de trabajo y 
+si se tiene en cuenta el uso de materia prima local, esta economizaría el transporte del material 
+hasta el lugar de empleo y permitirían hacer viviendas más adaptables a su entorno climático. 
+El uso de la metodología BIM en el desarrollo del modelos de viviendas rurales se vuelve 
+parte importante , determina diferentes puntos de vista y analiza eficiencias en los diseños y 
+procesos constructivos que resultan vitales no solo para la arquitectura del modelo sino también 
+para la estructuración en su entorno resaltando su aprovechamiento en Colombia, este campo en 
+la arquitectura del país no se tiene muy en cuenta para el desarrollo de zonas rurales, y aún 
+menos para un modelo de vivienda rural sostenible, permitiendo modelar desde su cimentación, 
+obra negra y acabados, también nos dejan comprobar por medio de simulaciones cómo se 
+comporta la vivienda rural actual en un área determinada o clima en específico; parte de las 
+funciones BIM es que permite un trabajo multidisciplinario donde simultáneamente las 
+diferentes disciplinas que hacen parte de un proyecto trabajen a la par, con el fin de disminuir 
+tiempos en el desarrollo de un proyecto. 
+
+=== Página 19 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          26 
+Teniendo en cuentas los diferentes aspectos que se quieren abarcar en esta investigación 
+su finalidad será lograr mejorar los modelos existentes de la vivienda rural haciéndola sostenible 
+por medio de estrategias pasivas usando los programas BIM como apoyo al desarrollo de esta. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 20 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          27 
+Hipotesis 
+ 
+Se busco estructurar un cuadro de estrategias para mejorar los modelos de vivienda rural 
+según su clima, a partir de dos parámetros sostenibles y bioclimáticos (material y orientación) 
+que resolverán necesidades básicas de confort térmico dentro de la vivienda rural según 
+necesidades de los pobladores y su cultura, con el fin de implementar metodología BIM que 
+permite mejorar el proceso de diseño identificando los diferentes problemas que pueden existir 
+en el desarrollo de los modelos,  evaluando los productos finales de la vivienda rural sostenible 
+en Colombia y así obtener estrategias necesarias frente a la construcción actual de vivienda rural 
+en diferentes climas. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 21 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          28 
+Objetivos 
+ 
+Objetivo General 
+Determinar el estado actual de la vivienda rural en Colombia partiendo de técnicas 
+constructivas existentes de nueva tecnología y vernáculas, haciendo énfasis en su envolvente y 
+simulando el confort térmico al interior de esta.   
+Objetivos Específicos 
+- 
+Identificar el estado actual de la vivienda rural en Colombia, las características 
+arquitectónicas, constructivas y bioclimáticas. 
+- 
+Evaluar mediante metodología BIM el confort térmico de la vivienda rural existente en 
+diversos climas dentro de Colombia.  
+- 
+Estructurar un cuadro de conclusiones frente a las condiciones actuales de la vivienda rural 
+dado a resultados y reflexiones de las simulaciones. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 22 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          29 
+Capítulo 2. Marco teórico y estado del arte 
+ 
+Introducción 
+Se busco resaltar la importancia de los conceptos bioclimática y sostenibilidad por medio 
+del confort termino y la eficiencia energética en viviendas, para así entender que cada lugar o 
+entorno tiene unas características ambientales diferentes que influyen en el actuar de las personas 
+y así mismo tomando como referencia la vivienda rural en el territorio colombiano, identificando 
+la importancia que esta tiene dentro del país. 
+Cabe resaltar que la adaptabilidad en el ambiente a intervenir debería ser un factor para 
+tener en cuenta a la hora de construir, este nos podrá dar unas variables pasivas que nos ayudaran 
+a disminuir costos a lo largo de ciclo de vida de la edificación, por esto mismo incluimos a la 
+Metodología BIM como un aliado, esta nos permitirá no solo comprobar la eficiencia de nuestras 
+construcciones desde cero, sino también en construcciones existentes gracias a un mecanismo de 
+7D (Dimensiones). 
+La vivienda rural en Colombia 
+En Colombia solo el 20% de la población es rural es decir 10 millones de personas según 
+un informe del DANE (Departamento Administrativo Nacional de Estadística, 2014) que vive en 
+la ruralidad y el 28% de esta corresponde a personas mayores de 50 años, con esto podemos ver 
+que existe una brecha entre lo urbano y lo rural. Esto se ve reflejado en que sus condiciones que 
+tienden a ser precarias por falta de infraestructura en telecomunicaciones, vias o en la educación 
+misma, esto en temas urbanísticos pero si vamos más a fondo vemos que sus viviendas no 
+cuentan con parámetros de habitabilidad muchas de estas tienen condiciones de hacinamiento 
+son propicias para la trasmisión de enfermedades y la trasmisión de enfermedades frente la 
+
+=== Página 23 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          30 
+situación de pandemia encontramos que “No se pueden lavar las manos porque no tienen agua 
+potable, no logran hacer la gestión adecuada porque no disponen de saneamiento” (Vera, F. et al, 
+2019, p.6). 
+Todo esto genera que sean una de las poblaciones más vulnerables, por la falta de espacio 
+y políticas poco saludables enfrente a la vivienda rural, pues al ser una minoría se deja a un lado 
+que estas también tienen necesidades y déficit diferentes a las áreas urbanas. La fata de espacio 
+interior y lo pequeña de sus viviendas provoca un disconfort y se hace muy difícil vivir en 
+aislamiento social, en muchos de estos casos los materiales de la vivienda fuerzan a sus 
+ocupantes a salir a ciertas horas del día por que se recalientan o se enfrían por completo. 
+Adaptabilidad ambiental 
+El medio ambiente incide en la salud del hombre y en la energía de manera directa, es 
+común encontrar que ciertos días las condiciones atmosféricas hacen que nos sintamos de mejor 
+ánimo y estimulan desarrollar nuestras actividades de forma más activa mientras que otros días el 
+esfuerzo físico y mental es menos productivo, en zonas con altas temperaturas de calor y muy 
+bajas temperaturas de frio los esfuerzos y la energía disminuyen. 
+Una vez se identifican las zonas a trabajar es importante incluir a la naturaleza como una 
+potencialidad para la condición de vida adecuada siendo un trabajo colaborativo con ella,  esto 
+ayuda a lograr una climatización equilibrada, es importante lograr la estabilidad de las 
+condiciones ambientales con el proyecto a construir Olgyay en su libro arquitectura y clima no 
+expone que si “Actuáramos correctamente si, una vez estudiadas las circunstancias climáticas, 
+aplicamos nuestras conclusiones a una estructura especifica localizada en un determinado 
+entorno. Manteniéndonos, eso sí, alternas a las variaciones regionales.” (Olgyay,1998, p.10). 
+Con esto vemos la importancia de identificar cual es el entorno en el vamos a implantar nuestro 
+
+=== Página 24 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          31 
+proyecto arquitectónico en nuestro caso la vivienda rural pues de estos factores naturales se 
+podrán acoger estrategias pasivas o activas que mejoren o que internamente se dé un confort 
+térmico adecuado. 
+En su libro también nos dice la importancia de mezclar la arquitectura y la climatización 
+estas dos disciplinas unidas logran que obtengamos diseños eficientes y con bajo consumo 
+energético, debemos hacer provecho de las nuevas tecnologías y de las herramientas dadas por la 
+investigación científica. Los métodos universales aplicables el control climático desde la 
+Arquitectura se dividen en cuatro etapas las climáticas, biológicas y tecnológicas y de ultimas el 
+diseño arquitectónico. 
+ 
+Las fases de este método consisten, de forma más detallada, en lo siguiente:  
+1. Los datos climáticos de una región deben analizarse según las características 
+anuales de sus elementos constituyentes, es decir, temperatura, humedad relativa, 
+radiación solar y efectos del viento. Asimismo, deben tenerse en cuenta los 
+efectos modificados de las condiciones micro climáticas. 
+2. La evaluación biológica debe estar basada en las sensaciones humanas. 
+Trasladando los datos del ambiente a una gráfica bioclimática, en intervalos 
+regulares, obtendremos un “diagnostico” de la región, con la importancia relativa 
+de los diversos elementos climáticos. El resultado del proceso descrito puede 
+tabularse en un calendario anual, a partir del cual podremos obtener información 
+acerca de las medidas más convenientes a tomar para recuperar el grado de 
+confort adecuado en cualquier fecha del año. 
+
+=== Página 25 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          32 
+3. Las soluciones Tecnológicas adecuadas pueden entrarse una vez los requisitos 
+quedan establecidos. Dichas soluciones deben interceptar las adversidades y 
+utilizar las ventajas existentes en la cantidad y el momento apropiados. (Olgyay, 
+1998, p.11)  
+Es muy importante definir la elección del lugar y definir sus características pues aspectos 
+como la orientación que sirven para el asoleo de forma positiva en clima frio y en forma negativa 
+en climas cálidos, otro factor es el cálculo para esto es importante tomar en climas fríos la 
+temperatura más baja así se sabrá cuanta radiación se necesita en la vivienda y en climas cálidos 
+tomar la temperatura más alta para saber cuánta radiación debe evitarse.  
+A estos cálculos se le suman la cantidad de sombra que se necesita en épocas calurosas y 
+en épocas frías y la forma de la vivienda juega un papel importante porque su geometría definirá 
+la sobra según el recorrido solar y estas deben resistir los diferentes impactos ambientales de la 
+zona. 
+La Vivienda y el confort 
+El entorno natural esta de forma directa en el organismo, estos están ligados a factores 
+que día a día los tenemos presentes y son ineludibles al sentir, como objetivo es encontrar el 
+equilibrio biológico entre las relaciones físicas y psicológicas, nos esforzamos por buscar el 
+punto de adaptación en el que se requiera un mínimo de energía para llegar al confort. 
+El confort parte de la forma del emplazamiento de la vivienda, está siendo el refugio del 
+hombre debe diseñarse de forma sustentable y sostenible en donde sea autosuficiente y las 
+relaciones físicas junto a los elementos naturales se encuentren equilibradas. 
+Es importante identificar los factores ambientale que afectan al confort de una persona, 
+estos pueden variar solo por su ubicación geográfica, se ha podido identificar que las personas 
+
+=== Página 26 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          33 
+que viven en climas cálidos durante toda su vida tienen unas costumbres y vestimentas que hacen 
+que el cuerpo se adapte al entorno y lo mismo sucede en clima frio y templado. Muchas veces las 
+personas que viven de climas más secos se sienten con menos grados así estén a la misma 
+temperatura que su lugar de origen esto sucede por la relación de la humedad relativa en el 
+entorno y la temperatura. 
+Los elementos que afectan el confort son el aire, la radiación solar, movimiento del aire y 
+la humedad, estos son medios que tienen la característica de lograr la conducción, conversión, 
+evaporación y radiación siendo los influyentes en el comportamiento metabólico del cuerpo 
+humano pues tendemos a perder 2.5 partes por conversión y 1.5 partes por evaporación todo esto 
+influido a las condiciones térmicas. 
+El reto de llegar al confort es evitar tensiones negativas dentro de la vivienda estos van 
+ligados al exceso de calor o de frio, es importante que como arquitectos encontremos el punto 
+medio donde la transformación de calor o perdida favorezca el habitar dentro de la vivienda, 
+pues son procesos vitales para el cuerpo.  
+En la actualidad existen programas que simulan el comportamiento interno de una 
+vivienda dando como resultado un diagrama psicométrico, este nos permitirá identificar las 
+estrategias que se deben aplicar a cada zona climática, es importante que todos seamos 
+conscientes el daño físico y psicológico que puede generar una vivienda sin parámetros 
+bioclimáticos y incluso se piensa que este tema se crea en el siglo XX dado a sus problemáticas 
+de cambio climático, cuando en la realidad desde Vitruvio en su libro de Los 10  libros de la 
+Arquitectura nos habla de la importancia de adaptarnos a la naturaleza, al clima y latitud de cada 
+nación pues estas representan cambios significativos en la adaptación y que incluso estos lugares 
+eran el principal factor de los rasgos de las personas. 
+
+=== Página 27 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          34 
+Emplazamiento 
+Para la selección del emplazamiento de una vivienda o edificio es necesario tener en 
+cuenta las necesidades específicas de cada región, su bioclimática, identificando la topografía, 
+las actividades que se desarrollan en el entorno y las características arquitectónicas del lugar. 
+Para esta investigación se es importante dividir en cuatro los lugares del emplazamiento teniendo 
+como principal factor su clima, siendo la zona fría, la zona templada, la zona árida y calidad y 
+por último la zona húmeda y calidad. 
+Para la zona fría, debe estar ubicada en una ladera media donde el viendo no es visible, su 
+orientación ideal se posiciona al sureste con un ángulo de 45°, aprovechando el sol, 
+distribuyendo de esta posta el calor de forma equilibrada al interior de la vivienda, teniendo en 
+cuenta que en las mañanas el sol llegue a las áreas sociales y en las tardes en las habitaciones. 
+Para la zona templada se debe tener en cuenta que debe satisfacer periodos calientes 
+como fríos, la exposición al sol debería estar orientada al sur, en donde el flujo de aire sea menos 
+importante situando la vivienda en las partes más bajas de la ladera, la ventaja de esta es la 
+ventilación constante siempre y cuando exista protección al viento, la brisa en temporadas 
+calurosas crece, pero no se presenta de esta forma en temporadas frías pues generalmente no 
+coinciden. 
+Para la zona calidad árida se debe tener presente las altas temperaturas pues estas pueden 
+superar los 30ºC hasta pequeños puntos de 40ºC, la orientación ideal es la sureste o este y se 
+debe ubicar en la parte más baja de una montaña pues el aire fresco es constante y impide el 
+embalsamiento de este en épocas frías, la vivienda debería ser una solución tipo Patio, esta 
+favorece que el aire entre a todas las habitaciones y permanezca en confort para las horas de la 
+
+=== Página 28 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          35 
+noche. El viento permite que la exposición al sol diario mantenga un equilibrio a la temperatura 
+interior de un recinto junto a una sombra que debe ser necesaria durante todo el año. 
+Para la zona calidad húmeda, en esta se debe jugar con la orientación de los árboles y su 
+sombra, permitiendo direccionar el viento este es necesario para llegar al confort, se considera 
+que la orientación sur y norte son las mas adecuadas para esta zona pues van en contra del 
+viendo, aunque en su topografía las viviendas deberían estar ubicadas en partes altas ya sea en 
+colinas o montañas. 
+Figura 1. Emplazamiento favorable en diversas zonas. 
+Tomado de Arquitectura y clima, Olgyay, 1998. 
+ 
+Bioclimática y Sostenibilidad 
+Es importante identificar que el concepto de estas dos se fundamenta en lo ecológico en 
+donde los recursos naturales deben conservables o en su defecto ser reutilizables y donde se tiene 
+presente el ciclo de vida de las materias primas utilizadas, previniendo las emisiones de efecto 
+invernadero y los residuos no reciclables o en su defecto la disminución es estos, ya que la gran 
+cantidad de material que se utiliza en la construcción no es sostenible y no por falta de existencia 
+
+=== Página 29 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          36 
+de esto, sino por el desconocimiento de estos en la proyección de un edificio dentro de un 
+ambiente natural. Existen objetivos para llegar a una construcción 100% sostenible, esto son: 
+- 
+El terreno y la biodiversidad, esta requiere de una integración de políticas ambientas y 
+una estricta planificación del territorio, pues la construcción impacta de forma directa a la 
+biodiversidad al fragmentar áreas naturales o ecosistema. 
+- 
+La energía que debe controlar el crecimiento de la movilidad por medio de la eficiencia 
+energética. 
+- 
+Los recursos minerales como último objetivo quieren llegar al correcto uso de la materia 
+prima combinado con el reciclaje y el agua. 
+Según Laming (1996) 
+La definición de Construcción Sostenible lleva ecológicos y de los recursos 
+disponibles nos proporcionan una serie de consideraciones a tener en cuenta. La 
+reducción en la utilización de los recursos disponibles se llevará a cabo a través de 
+la reutilización, el reciclaje, la utilización de recursos renovables y un uso 
+eficiente de los recursos. Se tratará de incrementar la vida de los productos 
+utilizados, un incremento en la eficiencia energética y del agua, así como un uso 
+multinacional del terreno (Citado por Alavedra, Domínguez, Gonzalo, Serra, 
+1997, pp.43-44).  
+Las áreas naturales y la biodiversidad deben conservarse para esto es importante la 
+restricción del terreno a utilizar y la prevención de emisiones de CO2.  
+Según Laming (1996) 
+El mantenimiento de un ambiente interior saludable y de la calidad de los 
+ambientes urbanizados se llevará a cabo a través de la utilización de materiales 
+
+=== Página 30 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          37 
+con bajas emisiones tóxicas, una ventilación efectiva, una compatibilidad con las 
+necesidades de los ocupantes, previsiones de transporte, seguridad y disminución 
+de ruidos, contaminación y olores. (Citado por Alavedra et al., 1997, pp.43-44)  
+De lo anterior podemos deducir los rasgos que debería tener un edificio sostenible: 
+- Generar unas mínimas cantidades de residuos y contaminación. 
+- Uso eficiente de las materias primas 
+ - Consumo de energía mínima. 
+- Mínimo consumo del recurso hídrico  
+- Utilizar un mínimo de terreno 
+- Flexibilidad, adaptabilidad y calidad del emplazamiento según necesidades de la zona. 
+- Confort al interior de la edificación. 
+Confort térmico y eficiencia energética 
+Confort térmico: La Organización Mundial de la Salud (OMS) determinó que el confort 
+térmico para que el humano se encuentre en equilibrio térmico ronde en los 20° C, recomendó 
+que la temperatura de los muros sea inferior a los 16°C, pues estos contribuyen a disminuir la 
+sensación térmica al interior de las viviendas en donde se debe calcular la temperatura del 
+ambiente, la temperatura de los muro y humedad relativa del ambiente.  
+Eficiencia energética en las viviendas:  Según el Word Energy Council (WEC) se refiere 
+a la eficiencia energética como los cambios a la disminución de energía utilizada en una 
+actividad económica o para satisfacer las necesidades de un edificio en donde se mantiene un 
+determinado confort térmico, por eso esta ese encuentra asociada a los cambios tecnológicos, 
+económicos y del comportamiento humano. 
+
+=== Página 31 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          38 
+Cabe destacar que eficiencia energética no es lo mismo que confort térmico. Esto debido 
+a que con sistemas de calefacción y refrigeración es posible obtener confort térmico, pero la idea 
+es conseguirlo mediante un mínimo gasto de energía.  
+Según Comunian (2011) es posible lograr un grado de eficiencia energética siguiendo 
+alguno de los siguientes pasos:  
+- 
+Disminuir la demanda de energía  
+- 
+Optimizar sistemas existentes  
+- 
+Incorporar sistemas y tecnologías eficientes que satisfagan la demanda con la mayor 
+eficiencia energética  
+- 
+Sustituir fuentes convencionales de suministro de energía por fuentes renovables  
+En el caso chileno, el gobierno ha puesto en marcha algunas iniciativas que tienen como 
+objetivo impactar en el mercado de la vivienda en cada uno de los puntos anteriores, como, por 
+ejemplo:  
+- 
+Programa de reglamentación sobre acondicionamiento térmico de viviendas  
+- 
+Subsidio para el acondicionamiento térmico de la vivienda 
+- 
+Subsidios para la reparación y mejoramiento de la vivienda 
+- 
+Franquicia tributaria a sistemas solares térmicos  
+La importancia de los programas de gobierno radica en el impacto que tienen sobre el 
+consumo de energía a nivel residencial, por ejemplo, respecto al programa de acondicionamiento 
+térmico de viviendas en Chile, se señala que su importancia se basa en el potencial de ahorro de 
+energía a nivel residencial que se puede lograr. 
+Cuando se habla de eficiencia energética generalmente se asocia a los ahorros energéticos 
+futuros y el confort ambiental. Es más, la mayoría de los programas energéticos solamente son 
+
+=== Página 32 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          39 
+evaluados por los ahorros y el desempeño que tienen estos comparado con los costos de su 
+implementación. El análisis comparativo que habitualmente hacen los evaluadores de estas 
+medidas, que son incorporadas en viviendas. La International Energy Agency (IEA), clasifica el 
+impacto de las mejoras en eficiencia energética en cuatro niveles: individual, sectorial, nacional e 
+internacional. 
+Variables pasivas  
+- 
+Protección solar de las aberturas 
+- 
+Ganancia directa solar.  
+- 
+Ganancia solar por aberturas. 
+- 
+Aislamiento térmico de la envolvente edilicia. 
+- 
+Ventilación diurna y refrescamiento nocturno por chimenea solar. 
+- 
+Orientación. 
+- 
+Sistema fotovoltaico.  
+- 
+Iluminación natural.  
+- 
+Ventilación cruzada selectiva. 
+- 
+Provisión de agua caliente solar. 
+- 
+Inercia térmica.  
+- 
+Diseñó compacto. 
+- 
+Control de infiltraciones y diseño de carpinterías. 
+- 
+Ventilación controlada en ventanas. 
+- 
+Aislación térmica en toda su envolvente. 
+- 
+Aporte calórico adicional por estufa hogar en el centro de la vivienda. 
+- 
+Invernadero o patio. 
+
+=== Página 33 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          40 
+- 
+Iluminación natural. 
+Implementación de la metodología BIM en la arquitectura 
+Metodología BIM 
+BIM como método de trabajo ideal por su eficacia a la hora de diseñar y gestionar 
+proyectos arquitectónicos, de ingeniería o industriales. Este se divide en 7 dimensiones en las 
+que se dividen por:  
+- 
+1D la idea: Donde se definen las condiciones, la superficie, la volumetría, su localización, 
+el plan de ejecución y el coste de este. 
+- 
+2D el boceto: Se proyectan las primeras líneas en el software preferido para modelar. 
+- 
+3D modelo de información del edificio: Se genera un modelo 3D que sirve como base 
+para el ciclo de vida, además de aportar de forma gráfica y visual la idea del proyecto 
+incorpora toda la información necesaria para ejecutar las siguientes fases dentro de las 
+dimensiones BIM. 
+- 
+4D tiempo: Acá es donde se definen las fases del proyecto, se establece una planificación 
+temporal en donde se simulan parámetros temporales del ciclo de vida, el viento, la 
+energía y el sol. 
+- 
+5D coste: Se estima el gasto del proyecto y su coste, donde su objetivo principal es la 
+disminución de la renta del proyecto a comparación de un proyecto que no utiliza BIM. 
+- 
+6D simulación: Se pretende simular de forma alternativa y optima el proyecto para crear 
+una Green BIM, todo esto antes de colocar cualquier material dentro del proyecto. 
+- 
+7D manual de instrucciones. 
+A parte de las dimensiones existen estrategias que ayudan a entender mucho mejor los 
+alcances de BIM dentro de un proyecto.  
+
+=== Página 34 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          41 
+Se toman como referencia seis entre estas está el diseño inteligente, el análisis y gestión a 
+lo largo del ciclo de vida, una mejor operabilidad, documentación automática, un mejor resultado 
+y la gestión de las instalaciones.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 35 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          42 
+Conclusión 
+ 
+Al identificar las características físico-ambientales de cada región climática permitirá una 
+mayor eficiencia energética dentro del edificio, dándonos beneficios a largo plazo; por esto la 
+labor de implantar la sostenibilidad en nuestros proyectos arquitectónicos debería ser nuestra 
+principal meta. Pudimos encontrar que existen diferentes variables pasivas las cuales funcionan 
+dependiendo al clima y que serán pertinentes para llegar a un confort térmico adecuado. 
+El emplazamiento juega un papel muy importante pues la forma en como el sol se mueve 
+y su transmisión de calor da a algunas partes de la vivienda aumentarán o disminuirán la entra de 
+calor, así mismo ocurre con el viento al ser ambivalente por épocas del año será estratégico 
+elegir entre la planicie, el pico de una montaña o la ladera de esta; o simplemente utilizando la 
+vegetación como fuente de protección o frescura dependiendo de la región climática. 
+Estos conceptos serán claves para entender la forma en la que actúa la vivienda rural 
+según su clima dentro del territorio colombiano, si esta contempla algún parámetro de 
+sostenibilidad ya sea en su orientación o emplazamiento dado que la geografía del país es muy 
+diversa y sus condiciones atmosféricas puede variar a tan solo horas de distancia de un punto a 
+otro. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 36 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          43 
+Capítulo 3. Caracterización arquitectónica, constructiva y bioclimática. 
+ 
+Introducción 
+Con el objetivo de identificar las zonas con mayor variabilidad climática en Colombia se 
+tienen en cuenta la clasificación de koppen aplicada a la climatología del país, determinando así 
+cuatro climas que demuestran la variabilidad climática en el territorio colombiano; el clima 
+cálido Húmedo, el clima cálido seco, el clima templado y el frio. 
+Figura 2 Mapa climatológico 
+Adaptado del Atlas climatológico IDEAM, 2014 
+ 
+Con lo anterior también se clasificaron diferentes viviendas rurales tradicionales a lo 
+largo del territorio nacional con el fin de determinar las que se encuentran en zonas con mayor 
+índice de ruralidad en el país y a su vez con menor atención en déficit de infraestructura, en su 
+NBI, en su PIM (Producto Interno Bruto) y su cobertura en servicios públicos vitales para la 
+vivienda digna dentro Colombia. 
+
+=== Página 37 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          44 
+ 
+Figura 3.Mapa físico de Colombia 
+Adaptado de educaplay, Karla Flores, 2010, Recuperado de https://es.educaplay.com/recursos-educativos/1704639-
+mapa_fisico_de_colombia.html   
+Figura 4. 1.Vivienda en palenque, Departamento de Bolívar - Santa Marta 
+Tomado de  La vivienda tradicional en el caribe colombiano, Rodrigo Arteaga, 2019, Recuperado de 
+http://www.revistacredencial.com/credencial/historia/temas/la-vivienda-tradicional-en-el-caribe-colombiano  
+Figura 5. 2.Vivienda Tipica, Departamento de Bolívar - Isla Fuerte  
+Tomado de Galería de Imágenes Escuela del Habitat - CEHAP - Facultad de Arquitectura - Universidad Nacional de 
+Colombia - Sede Medellín, Senia Salazar, 2007, Recuperado de 
+https://arquitectura.medellin.unal.edu.co/escuelas/habitat/galeria/displayimage.php?album=43&pid=6421 
+Figura 6. 3. Vivienda Tipoca, Departamento Guajira - Cabo de la Vela 
+
+=== Página 38 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          45 
+Tomado de Colombia, La pesca tradicional cabaña en La Guajira,  banco de fotos, Istockphoto, 2013, Recuperado 
+de https://www.istockphoto.com/es/foto/colombia-la-pesca-tradicional-caba%C3%B1a-en-la-guajira-gm161827555-
+23097996  
+Figura 7. 4.Vivienda en palenque, Departamento de Tolima -  Icononzo 
+Tomado de Aspectos de la Vivienda rural de Tolima Colombia: Pretil, Revista Universo, 2012, Recuperado de 
+https://revistauniverso.wordpress.com/2012/05/21/aspectos-de-la-vivienda-rural-de-tolima-colombia-pretil/ 
+Figura 8. 5.Vivienda Tipica, Distrito Capital de Bogotá – Bogotá 
+Tomado de Galería de Imágenes Escuela del Habitat - CEHAP - Facultad de Arquitectura - Universidad Nacional de 
+Colombia - Sede Medellín, 2009, Recuperado de 
+https://arquitectura.medellin.unal.edu.co/escuelas/habitat/galeria/displayimage.php?album=43&pid=6274 
+Figura 9. 6.Vivienda Tipica, Departamento de Risaralda - Santa Rosa de Cabal 
+Tomado de Crisis cafetera e inicio de hotelería rural, hotel la Holanda, 2010, Recuperado de 
+http://www.fincalaholanda.com/main-contenido-id-5-titulo-historia  
+Figura 10. 7.Vivienda MALOCA Departamento de Amazonas – Gaia 
+Tomado de Maloca: the big house of the amazon, Martin Von Hildebrand, 2019, Recuperado de 
+https://www.gaiaamazonas.org/en/noticias/2019-05-31_maloca-the-big-house-of-the-amazon/ 
+Figura 11. 8.Vivienda Departamento de Boyacá 
+Tomado de Galería de Imágenes Escuela del Habitat - CEHAP - Facultad de Arquitectura - Universidad Nacional de 
+Colombia - Sede Medellín, Cehap, 2005, Recuperado de 
+https://arquitectura.medellin.unal.edu.co/escuelas/habitat/galeria/displayimage.php?album=42&pid=313 
+Figura 12. 9 Vivienda Departamento del Choco, Rio Truando 
+Tomado de Chocó, martirizado por expansión de ‘elenos’ y ‘gaitanistas, Verdad Abierta, 2018, Recuperado de 
+https://verdadabierta.com/choco-martirizado-expansion-elenos-gaitanistas/  
+Figura 13. 10.Vivienda Tipica, Departamento de Quindio – Salento 
+
+=== Página 39 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          46 
+Tomado de La vivienda popular tradicional en la región cafetera central, Revista Credencial, Alberto Saldariaga, 
+2019, Recuperado de http://www.revistacredencial.com/credencial/historia/temas/la-vivienda-popular-tradicional-
+en-la-region-cafetera-central 
+ 
+Todo esto a partir de la densidad de zonas rurales en Colombia, la clasificación 
+climatológica del país, los déficits en vivienda rural y su falta de recursos, se definen a escala 
+meso los departamentos de Chocó, Guajira, Quindio y Boyacá que cumplen con características 
+ambientales, sociales y culturales para su intervención. 
+Metodología 
+Los escenarios analizados se definieron a partir de caracterizaciones físico espaciales 
+como variables complementarias que determinaron el desarrollo y evolución de la población 
+asentada en la zona rural; los espacios fueron analizados a partir de la arquitectura, las cualidades 
+naturales del terreno, los asentamientos y en su cultura, se asumieron elementos que afectarían la 
+permanencia de la población, los usos y el desarrollo social entre la comunidad, en especial por 
+el clima, el suelo, la vegetación, los fuentes de agua y las condiciones que forman a la población, 
+así como también las afectaciones dadas por el COVID-19. 
+Escala de Impacto  
+A partir de los análisis desarrollados en la vivienda rural para la investigación es 
+importante definir los niveles a intervenir y cómo impacta en la población. 
+En este sentido también fue importante contemplar las condiciones de ruralidad en el país 
+a partir de los indicadores de necesidades básicas y las carencias a nivel nacional en el territorio 
+colombiano con el fin de definir las zonas con mayor impacto rural en los diferentes entornos 
+climáticos en el mapa climatológico de Colombia; es de vital importancia la caracterización de la 
+vivienda típica de las zonas y la estructuración tipológica de cada vivienda con el objetivo de 
+
+=== Página 40 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          47 
+identificar variables espaciales que contribuyan a las dinámicas de intervención de la 
+investigación.   
+En este enfoque estructural la metodología, la investigación y los instrumentos que la 
+componen siguen fielmente la estructura estipulada por el marco teórico, marco referencial, los 
+objetivos del proyecto esto haciendo énfasis en el análisis efectuado a las zonas de intervención, 
+la vivienda, la forma y la apropiación cultural preconcebida a las viviendas y su método de 
+construcción, como a su vez el emplazamiento de los materiales e impacto ambiental en la 
+concepción del mismo como material de construcción. 
+Figura 14. Escalas de impacto del proyecto. 
+Elaboración propia  
+ 
+Clasificación población y muestra 
+De acuerdo con la clasificación poblacional determinada en los diversos censos 
+realizados por el DANE en el territorio nacional se analizó a los residentes de área rural dispersa, 
+1 
+2 
+3 
+4 
+COLOMBIA  
+GUAJIRA, CHOCO, 
+QUINDIO Y BOYACA 
+AREA RURAL 
+URIBIA, PAIMADO, 
+MONTENEGRO Y CHITA 
+ESCALA MACRO 
+ESCALA MESO 
+ESCALA MICRO 
+
+=== Página 41 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          48 
+donde se contempla la diferencia etaria entre los pobladores y las diferencias generacionales, se 
+logró identificar una brecha entre los diversos departamentos de Colombia y los porcentajes 
+generacionales en su territorio; se toma estos indicadores como principal fuente de información 
+así como también a la población rural étnica con el fin de dar las principales afectaciones que 
+pueden impactar con la investigación y el objetivo general del proyecto. 
+Lo anterior con el fin de analizar los impactos de gran alcance de la investigación frente a 
+las viviendas rurales y las necesidades a intervenir desde los diferentes grados de edad, las 
+contemplaciones culturales y las dinámicas al interior de las viviendas que afecten gradual o 
+parcialmente a la población desde el confort. 
+Clasificación de la vivienda rural en Colombia 
+La Vivienda rural se da a partir de los asentamientos poblacionales y las expansiones 
+frete a las necesidades económicas en Colombia, ya que se dirige su crecimiento a las funciones 
+agrícolas en determinados ambientes, las relaciones sociales de las familias que la habitan 
+quienes construyeron redes de tejido como comunidad la ruralidad. 
+Figura 15. Ineficiencia de servicios públicos 
+Tomado de Censo Nacional Agropecuario, Dane, 2014 
+
+=== Página 42 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          49 
+Estas viviendas tienen gran impacto en aspectos Sociales, económicos y culturales, e 
+indirectamente sin contemplarlo en su concepción también impacta, afectan y benefician en 
+aspectos ambientales; según la revista luna azul en el año 2010 especifica que la situación de las 
+viviendas rurales varía también de acuerdo con la zona geográfica y demográfica, y la economía 
+regional y nacional. Además, que exalta parcialmente los casos de emigración al interior y 
+exterior del país y el aumento de la pobreza, y el desalojo de ellas mismas en especial por 
+situaciones sociales específicas de la nación y condiciones ecológicas precarias. 
+Para el estudio de los espacios y las relaciones que las personas establecen con 
+ellos, la Psicología Ambiental hace una diferenciación entre espacios no 
+construidos y construidos; estos últimos pueden ser externos e internos. La 
+vivienda rural (VR) es un espacio construido, con una parte interna y otra externa. 
+Por las actividades agropecuarias que realiza la familia, la vivienda se encuentra 
+inmersa en ecosistemas naturales que cultiva, conserva, transforma o deteriora. 
+(Sánchez, C., Jiménez, E.,2010, p.2) 
+A partir de lo anterior también es importante tener en cuenta las carencias en cuanto a 
+infraestructura con las que se construyen las viviendas rurales y en efecto de esto se presentan 
+brechas que demuestran las bajas condiciones de vida de la población en las zonas rurales; en 
+estas zonas, los niveles de educación, la infraestructura en servicios públicos, la conectividad y 
+diferentes condiciones básicas de habitabilidad en el territorio carecen de recursos y 
+implementación eficiente y efectiva. 
+Clasificación de la vivienda de acuerdo con su asignación climática 
+A partir de la distribución climática primaria del país y la distribución en el territorio 
+nacional en especial en zonas rurales fue pertinente determinar para cada uno de los climas en 
+
+=== Página 43 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          50 
+Colombia con el fin de lograr un análisis completo un lugar asignado para cada clima para 
+observar la intervención de la vivienda rural y su entorno. 
+Los lugares escogidos por su clima, por la precariedad en las viviendas rurales y la baja 
+implementación de técnicas o alternativas sostenibles en el emplazamiento de sus viviendas 
+rurales, así como también factores socio-culturales fueron:  
+• 
+Guajira 
+• 
+Choco 
+• 
+Quindio 
+• 
+Boyacá 
+Vivienda zona cálido seco 
+Guajira – Uribia 
+Figura 16. Características físico-ambientales, región Uribia-Guajira. 
+Adaptado del Atlas climatológico IDEAM, s.f. 
+ 
+La región ubicada en la Guajira se encuentra a 10 m s.n.m (Metros Sobre el Nivel del 
+Mar) con temperaturas promedio entre los 24°C a los 34°C, una humedad relativa entre el 67% al 
+80%, la velocidad de los vientos se encuentra entre los 0km a los 15 km y una precipitación 
+mensual promedio de 6.0mm. 
+
+=== Página 44 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          51 
+Arquitectura de la vivienda: el territorio está relacionado con la ancestralidad de la 
+región, sus individuos y el linaje. Los habitantes de estas zonas viven en rancherías denominadas 
+así por la presencia de varios edificios en un solo conjunto. 
+Los Wayúu no se organizan en poblados sino en conjuntos de ranchos cuyos 
+habitantes se encuentran unidos por lazos de parentesco y residencia común. Este 
+tipo de asentamientos dispersos puede estar relacionado con las características 
+semidesérticas del territorio Wayúu el cual requiere mayores extensiones de tierra 
+y mayor distancia entre las viviendas para permitir el sustento de los habitantes. 
+(Mercado, R. et al, 2016, p.132) 
+Percepción del Riesgo Natural Frente a la Vivienda 
+Tabla 1 Riesgos ambientales 
+Adaptado del Plan Departamental de Gestion del Riesgo LaGuajira, Gobernacion departamento de la Guajira, s.f. 
+ 
+A partir de las probabilidades de afectación natural en las que se conciben las viviendas 
+de la población Wayúu es importante exponer los porcentajes de aceptabilidad de la vivienda 
+frente a posibles catástrofes de origen natural que pueden afectar parcial o totalmente la 
+composición de la vivienda y exponer a sus habitantes.  
+ 
+ 
+
+=== Página 45 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          52 
+Caracterización bioclimática 
+Radiación solar: Por su posición cerca al Ecuador el sol tiene una inclinación al sur de 
+30°. 
+Rosa de vientos: Vientos con dirección hacia el este y noreste, con ocurrencias entre los 
+0km/h a los 25k/h. 
+Confort térmico:  
+1. Ventilación natural permanente: Aberturas que propician la renovación de aire y/o 
+utilización de equipos mecánicos que apoyan el movimiento mismo. 
+2. Aire acondicionado y deshumidificación: Reducción de temperatura y humedad por 
+medio de aparatos electrónicos y deshumidificadores eléctricos que toman la humedad del 
+interior y la condensan al exterior para inyectar luego aire seco. 
+Figura 17. Diagrama Psicométrico Guajira - Uribia 
+Tomado de Psychrometric Chart de Andrew Marsh, s.f. 
+                   
+                         
+ 
+           
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+                         
+ 
+ 
+  
+  
+  
+  
+  
+  
+    
+                        
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+   
+   
+   
+   
+   
+    
+          
+                  
+                    
+                          
+                         
+                         
+                        
+                  
+                  
+           
+       
+    
+        
+     
+             
+       
+      
+     
+       
+                   
+            
+              
+                 
+      
+                
+                  
+                
+              
+  
+  
+ 
+  
+   
+   
+ 
+
+=== Página 46 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          53 
+Vivienda zona cálido húmedo 
+Choco – Paimado, Rio Quito 
+Figura 18 Características físico-ambientales, región Paimado-Choco. 
+Adaptado del Atlas climatológico IDEAM, s.f. 
+ 
+La región ubicada en el Choco se encuentra a 35m s.n.m, con temperaturas promedio 
+entre los 22°C a los 28°C, una humedad relativa entre el 70% al 95%, la velocidad de los vientos 
+se encuentra entre los 0km a los 7.5km y una precipitación mensual promedio de 10.0mm. 
+Arquitectura de la vivienda: la vivienda está compuesta por columnas (guayacanes) 
+unidas por travesaños de madera rolliza o madera de arco, esto van unidos entre sí por vigas 
+siendo una estructura sencilla, techo de paja como diseño inicial, aunque con el tiempo se ha 
+implementado el zinc. 
+El crecimiento urbano de las viviendas es en sentido horizontal, por lo general se 
+desarrollan en una sola planta debido a la precariedad en los sistemas constructivos; son 
+trabajaderos de enramado tradicional, construido con palos de monte frecuentemente ubicado en 
+las zonas más selváticas del departamento. 
+El modelo se establece en la quebrada de los ríos, de esta forma se mantiene las 
+características autóctonas a parte del volumen, los espacios y la zonificación, con el tiempo se 
+fue transformando el sistema constructivo y se va disminuyendo el uso de palos redondos, 
+
+=== Página 47 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          54 
+esterillas, labrados por tablas y piezas aserradas en madera, aunque se mantiene el palafito, el 
+zinc se convierte en la mejor elección de cubierta. 
+La vivienda en algunos casos se inicia por la cubierta y con el tiempo y recursos se va 
+transformando los espacios hasta tener muros y divisiones internas. 
+El resultado es un modelo de transición. Una variación de este modelo consiste en 
+un volumen principal cuidadosamente construido y cubierto en láminas metálicas 
+y paredes en tablas aserradas, que aloja las alcobas y la sala, y otro secundario, la 
+cocina, adosada o separada, que en muchos casos está cerrada con esterillas y 
+cubierta con hojas de palmas. (Mosquera G.,2016, p75)  
+Caracterización bioclimática 
+Radiación solar: Por su posición cerca al Ecuador el sol tiene una inclinación al sur de 
+30°. 
+Rosa de vientos: Vientos con dirección hacia sur y sur oeste, con ocurrencias entre los 0 
+km/h a los 5 km/h. 
+Confort térmico: 
+1. Ventilación natural permanente: Aberturas que propician la renovación de aire y/o 
+utilización de equipos mecánicos que apoyan el movimiento mismo. 
+2. Confort: Zonas donde se presenta una sensación de bienestar para la mayoría de la 
+población. 
+3. Enfriamiento evaporativo: Control de temperatura donde por medio de superficies 
+secas y oscuras se disminuye la temperatura del aire. 
+
+=== Página 48 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          55 
+4. Enfriamiento masivo: Control de temperatura por medio de elementos gruesos como 
+muros que controlan el paso de energía.  
+Figura 19. Diagrama Psicométrico Choco – Paimado. 
+Tomado de Psychrometric Chart de Andrew Marsh, s.f. 
+ 
+Vivienda zona templado 
+Quindio – Montenegro 
+Figura 20. Características físico-ambientales, región Montenegro-Quindio. 
+Adaptado del Atlas climatológico IDEAM, s.f. 
+ 
+La región ubicada en el Quindio se encuentra a 1297m s.n.m, con temperaturas promedio 
+entre los 16°C a los 24,5°C, una humedad relativa entre el 67% al 95%, la velocidad de los 
+vientos se encuentra entre los 0km a los 7.5km y una precipitación mensual promedio de 3.0mm. 
+                   
+                         
+ 
+           
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+                         
+ 
+ 
+  
+  
+  
+  
+  
+  
+    
+                        
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+   
+   
+   
+   
+   
+    
+          
+                  
+                    
+                          
+                         
+                         
+                        
+                  
+                  
+           
+       
+    
+        
+     
+             
+       
+      
+     
+       
+                   
+            
+              
+                 
+      
+                
+                  
+                
+              
+  
+  
+ 
+  
+   
+   
+ 
+
+=== Página 49 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          56 
+Las construcciones en las zonas rurales más frecuente son tipologías básicas son muy 
+sencillos: unidades lineales o en ángulo, con corredores por uno o dos costados y habitaciones 
+alineadas sigue siendo espacios de carácter público, seguidos por un corredor semipúblico que es 
+lugar de reunión y estancia; distribuye al interior de la vivienda hacia los demás espacios en una 
+condición más privada de la vivienda conectadas una a la otra; se comunican por vanos abiertos 
+casi siempre en los centros de los muros, los cuales conforman la casa que casi siempre cuenta 
+con un corredor posterior. 
+ Los muros de estas viviendas son en bahareque de guadua generalmente, las cubiertas en 
+tejas de barro, apoyadas en estructuras de guadua. Aun cuando en todas las tipologías que se 
+encuentran en la región cafetera y de las cuales es importante resaltar su abundancia en el 
+municipio de Quindío, se emplea la guadua como elemento de construcción, en las viviendas 
+antioqueñas el apoyo de las cubiertas en tejas de barro se hace con maderas aserradas y la guadua 
+se emplea como refuerzo de los muros de bahareque. 
+Caracterización bioclimática 
+Radiación solar: Por su posición cerca al Ecuador el sol tiene una inclinación al sur de 
+30°. 
+Rosa de vientos: Vientos con dirección hacia sur-oeste con ocurrencias entre los 0 km/h a 
+los 15 km/h y en ciertos meses tiene dirección al nor-este con ocurrencias entre los 0 km/h a 10 
+km/h. 
+Confort térmico: 
+1. Ventilación natural permanente: Aberturas que propician la renovación de aire y/o 
+utilización de equipos mecánicos que apoyan el movimiento mismo. 
+
+=== Página 50 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          57 
+2. Confort: Zonas donde se presenta una sensación de bienestar para la mayoría de la 
+población. 
+3. Zona de masa térmica: Retraso de la transmisión de calor al interior del espacio durante 
+el día e ingreso de aire frio durante la noche. 
+4. Enfriamiento evaporativo: Control de temperatura donde por medio de superficies 
+secas y oscuras se disminuye la temperatura del aire. 
+ 5. Calefacción ganancias internas: Aumento de temperatura que se obtienen por la 
+ocupación de personas u objetos que irradian calor al interior de la vivienda. 
+ 
+Figura 21. Diagrama Psicométrico Quindio – Montenegro 
+Tomado de Psychrometric Chart de Andrew Marsh, s.f. 
+
+=== Página 51 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          58 
+Vivienda zona fría 
+Boyacá – Chita 
+Figura 22. Características físico-ambientales, región Chita-Boyacá. 
+Adaptado del Atlas climatológico IDEAM, s.f. 
+ 
+La región ubicada en Boyacá se encuentra a 2934m s.n.m, con temperaturas promedio 
+entre los 6°C a los 17°C, una humedad relativa entre el 60% al 90%, la velocidad de los vientos 
+se encuentra entre los 0km a los 12.5km y una precipitación mensual promedio de 1.25mm 
+Arquitectura de la vivienda: Construidas en bahareque y con techo de paja eran las 
+viviendas autóctonas de los indígenas que hacían parte de este territorio, conformadas por 
+espacios básicos como la sala y habitaciones en su interior y la cocina en la parte exterior de la 
+vivienda. Los emplazamientos de estas suelen ser bastante diferentes, pero en estas se puede 
+identificar la forma en como los campesinos se relacionan con su entorno siendo una 
+característica bastante importante en su cultura. 
+
+=== Página 52 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          59 
+La vivienda está estructurada por el uso de materiales autóctonos como la teja de barro, el 
+fique, la caña de castilla y materiales de nueva tecnología como lo son el ladrillo el zinc, a esto 
+se le suma una nueva cimentación y emplazamiento.  
+Figura 23. Esquema vivienda rural en Boyacá 
+Tomado Departamento Nacional de Planeación, 2017 
+ 
+Caracterización bioclimática 
+Radiación solar: Por su posición cerca al Ecuador el sol tiene una inclinación al sur de 
+30°. 
+Rosa de vientos: Vientos con dirección hacia sur-este con ocurrencias entre los 0 km/h a 
+los 20 km/h. 
+Confort térmico: 
+1. Calefacción ganancias internas:     Aumento de temperatura que se obtienen por la 
+ocupación de personas u objetos que irradian calor al interior de la vivienda. 
+2. Calefacción solar pasiva: Ganancia de temperatura por medio de rayos solares que 
+llegan directamente al interior del espacio. 
+
+=== Página 53 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          60 
+3. Calefacción solar activa: Utilización superficies que calienten fluidos (aire o agua) para 
+que irradien calor y aumento la temperatura. 
+ 
+Figura 24. Diagrama Psicométrico Boyacá - Chita 
+Tomado de Psychrometric Chart de Andrew Marsh, s.f. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                   
+                         
+ 
+           
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+                         
+ 
+ 
+  
+  
+  
+  
+  
+  
+    
+                        
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+   
+   
+   
+   
+   
+    
+          
+                  
+                    
+                          
+                         
+                         
+                        
+                  
+                  
+           
+       
+    
+        
+     
+             
+       
+      
+     
+       
+                   
+            
+              
+                 
+      
+                
+                  
+                
+              
+  
+  
+ 
+  
+   
+   
+ 
+
+=== Página 54 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          61 
+Conclusión  
+ 
+Para la investigación los lugares que se eligieron se dieron a partir de un desarrollo 
+selectivo en su nivel de ruralidad y sus características atmosféricas. La elección de los climas y 
+su selección por departamentos se convierte en un factor muy importante para entender el 
+comportamiento climático dentro del territorio colombiano y así mismo la elección de vivienda 
+por región.  
+La selección de los lugares elegidos por sus aspectos climáticos siendo el más frío, el más 
+cálido seco, el más cálido húmedo y el más templado dentro de Colombia, estos lugares fueron la 
+guajira teniendo características cálidas seca donde la lluvia es casi nula, la presencia de humedad 
+es mínima y todo su territorio no bajan de los 28°C. 
+Para el cálido húmedo se seleccionó el Chocó siendo una zona con bastante humedad y 
+temperaturas superiores a los 28°C, no cuenta con la presencia de brisas a comparación del 
+cálido seco; en esta zona sus características son temperaturas muy parecidas a las de la guajira 
+sin embargo cuenta con niveles de precipitación y humedad mucho más altos. 
+Para el clima templado se selecciona el Quindío su temperatura en algunas horas del año 
+puede superar los 26°C pero en general se mantiene por debajo de esta, es una zona bastante 
+húmeda lo cual puede existir sensación de frio en horas de la mañana y calor en horas de la tarde. 
+Para el clima frio se selecciona Boyacá siendo este uno de los departamentos más frío de 
+Colombia; cuenta con temperaturas que van desde los 8°C como mínimo en promedio ya que se 
+han determinado en algunas zonas que puede llegar a 0°; así como la temperatura máxima que se 
+encuentra es de 24°C una zona con características de humedad, pero donde la lluvia es muy poca. 
+ 
+
+=== Página 55 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          62 
+Capítulo 4. Evaluación del confort térmico 
+ 
+Introducción  
+La intención de hacer simulaciones en donde se varia la orientación y el material y donde 
+existen variables fijas como la tipología y el clima, terminan siendo factores que dan unas 
+dinámicas de temperatura interior diversas del confort, la vivienda rural tiene unas características 
+en su zonificación las cuales varían según el clima, la región, su cultura y costumbres. 
+No se puede comparar las viviendas ubicadas en la Guajira con las de Boyacá pues sus 
+culturas van arraigas en la forma de emplazarse dentro del territorio, factores como el clima dan 
+un punto de partida a la manera de construir, por un lado, se podrá ver una vivienda con 
+pequeñas construcciones que se unen entre si formando una vivienda conjunta que permitirá que 
+el viento la atraviese, permitiendo hacer la fresco el lugar, por el otro lado se encuentra una 
+construcción compacta que hace el efecto contrario evitar que el viento entre al 100% dentro de 
+la vivienda tratando de conservar el calor dentro de ella.  
+La vivienda de cada región que se toma a simular sele acondicionará solo su envolvente, 
+se caracteriza los materiales junto a sus valores físicos, dando como resultado una comparativa 
+entre la temperatura exterior y la temperatura operativa, la cual corresponde a la temperatura 
+interior de la vivienda, se plantea un plan de trabajo el cual servirá de apoyo para realizar dichas 
+simulaciones en softwares que hacen parte de la metodología BIM.  
+ 
+ 
+ 
+
+=== Página 56 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          63 
+Criterios de simulación  
+Zonificación de la vivienda según región. 
+Guajira - Uribia 
+Vivienda existente 
+Se caracteriza por ser rancherías con un solo baño, dos habitaciones, cocina y el 
+empaimado es una sección de la vivienda que es abierta más como una sala donde la ventilación 
+es permanente. 
+Figura 25. Vivienda existente Uribia- Guajira 
+Elaboración propia  
+ 
+Vivienda modificada 
+ 
+Se amplía con una habitación de más y un baño, la vivienda pasa de 48 Mts a 71 Mts. 
+Figura 26 Vivienda modificada Uribia – Guajira 
+Elaboración propia  
+
+=== Página 57 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          64 
+Choco - Paimado 
+Vivienda existente 
+Se caracteriza por ser viviendas en palafito, a la orilla del rio quito, la vivienda consta de 
+tres habitaciones y un baño, su area social es muy reducida. 
+Figura 27. Vivienda existente Paimado, Rio Quito – Choco 
+Elaboración propia  
+ 
+Vivienda modificada 
+Se amplía con una habitación de más y un baño, ampliación de sala y habitaciones 
+existentes, la vivienda pasa de 30,75Mts a 56,15 Mts. 
+Figura 28. Vivienda Modificada Paimado, Rio Quito- Choco 
+Elaboración propia  
+
+=== Página 58 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          65 
+Quindío - Montenegro 
+Vivienda existente 
+Se caracteriza por ser una vivienda con 4 habitaciones, un baño, cocina y sala comedor, el 
+espacio más grande es la cocina, es done la mayor parte del tiempo de convive.  
+Figura 29 Vivienda existente Montenegro – Quindío  
+Elaboración propia  
+ 
+Vivienda modificada 
+Se amplía la vivienda en sus habitaciones y áreas comunes, junto a la adición de un baño, 
+la vivienda pasa de 58 Mts a 90mts  
+Figura 30. Vivienda modificada Montenegro – Quindio 
+Elaboración propia  
+
+=== Página 59 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          66 
+Boyacá - Chita 
+Vivienda existente 
+Se caracteriza por ser una vivienda de tres habitaciones con un solo baño exterior, su área 
+social y de cocina no esta dividida.  
+Figura 31. Vivienda existente Chita – Boyacá 
+Elaboración propia   
+ 
+Vivienda modificada 
+Se amplía la vivienda haciendo una división de cocina y sala, se añade un baño para 
+suplir necesidades básicas. 
+Figura 32. Vivienda modificada Chita – Boyacá 
+Elaboración propia  
+
+=== Página 60 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          67 
+Materiales  
+Piedras 
+Aislante contra el calor, es considerado un excelente material en la construcción al no 
+requerir mucho mantenimiento, su utilidad es muy elevada a comparación de la madera o el 
+adobe, este puede disminuir la temperatura interior de una vivienda, se recomiendo siempre 
+utilizar piedras de la misma región en donde se piensa construir una vivienda para evitar altos 
+cargos económicos en su transporte. 
+Guadua  
+Se destaca por si resistencia a la compresión, considerándose un material flexible en la 
+utilización de este dentro de la estructura de una vivienda, permitiendo crear viviendas 
+sostenibles y sismo resistentes, se debe proteger contra factores ambientales pues su 
+conservación es parecida a la madera.  
+Teja de barro 
+ 
+Se cocinan de forma que sea necesaria para la construcción, utilizadas para las cubiertas, 
+so placas delgadas y curvas generalmente siendo una mezcla de arcilla con arena. Estas piezas 
+ayudan a dar forma y composición estética a una vivienda. 
+Mezcla de barro, arcilla 
+Se considera un material sostenible al ser de origen natural el cual su degradación se hace 
+de forma total, no tiene ningún proceso prefabricado, el material al mojarse en exceso se suaviza 
+permitiendo su maleabilidad, es importante protegerlo de materiales impermeables o el agua, no 
+se descarta el mezcal con otros materiales para hacerlo más resistente, se considera un material 
+tradicional en muchas regiones dentro del territorio colombiano. 
+ 
+
+=== Página 61 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          68 
+Madera 
+Se considera un elemento muy durable en la construcción si son puestos de la forma 
+correcta, esta favorece fuerzas con la tracción y la compresión, haciéndola resistente a grandes 
+cargas, aunque n cuenta con muy buena elasticidad, se le compara con materiales como el acero.  
+Mampostería (Ladrillo, Bloque) 
+Cocida a más de 1000°C, esa exposición tan alta al calor le proporciona resistencia. Esta 
+forma de construcción es la más común en la actualidad mezclando técnicas tradicionales en 
+donde se le añaden piezas en arcilla y cerámica. 
+Adobe 
+Es un material elaborado a partir de barro que resulta ser usado tradicionalmente en zonas 
+rurales desde épocas precolombinas para la construcción de viviendas. Se debe utilizar una tiene 
+entre el 15% y el 30% de arcilla para que este material pueda cohesionar bien y el resto de 
+material puede ser arena gruesa o arena normal. 
+Figura 33. Caracterización de vivienda rural según región 
+Elaboración propia  
+Uribia 
+Paimado 
+Montenegro 
+Chita 
+
+=== Página 62 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          69 
+Transmitancia térmica 
+Tabla 2. Transmitancia térmica 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Elaboracion propia 
+ 
+Confort Térmico 
+La temperatura entre los 18.3°C y 24°C se consideran los grados de confort adecuados 
+para Olgyay, pero para poder analizar cuál es el confort ideal de cada zona climática se utilizó la 
+fórmula de Auliciems. 
+Tn= 17.6 + 0.31 * Tm 
+Zc: Tn +/- 2,5° C 
+Tn: Temperatura neutra 
+Tm: Temperatura media anual 
+Zc: Zona de confort 
+ 
+ 
+ 
+MATERIAL 
+GROSOR VALOR U 
+Hoja de palma 
+10 mm 
+5,36 
+Teja de madera 60 mm 
+1,67 
+Madera 
+50 mm 
+2,07 
+Teja zinc 
+18 mm 
+5,87 
+Ladrillo arcilla 115 mm 
+3,49 
+BTC 
+120 mm 
+1,34 
+Adobe 
+  
+1,65 
+Bareque 
+140mm 
+1,01 
+Teja de eternit 
+103 mm 
+3,25 
+Vidrio 
+4 mm 
+5,7 
+Aire 
+0 
+0 
+Mortero 
+10 mm 
+5,36 
+Paneles de Caña 20 mm 
+1,98 
+
+=== Página 63 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          70 
+Tabla 3. Rango de confort para cada región climática 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Elaboración propia  
+ 
+Metodología BIM 
+Se realiza el modelo en Revit y se exporta a Desing Builder, estos dos programas nos 
+permiten en uno modelar con su orientación, grosores de muros y características arquitectónicas 
+en general y el otro a analizar su comportamiento frente al confort y disconfort de la vivienda. 
+Plan de trabajo 
+1. 
+Para el desarrollo de la investigación se estructuro un plan de trabajo donde era 
+importante la caracterización de la vivienda y las determinantes ambientales ah tener en cuenta en 
+la investigación según el alcance para configurar el modelo 3D y la implementación de dichos 
+factores a la simulación. 
+2. 
+De acuerdo con el numeral anterior fue necesario clasificar la materialidad de las 
+viviendas en existente y los materiales vernáculos como es Bahareque, BTC (bloques de tierra 
+comprimidos) y Adobe; para el caso de la cubierta se determinó el uso de cubierta en arcilla y 
+madera para los casos de Quindío y Boyacá, y así misma cubierta de madera para las viviendas de 
+clima cálido como es el caso de Chocó y Guajira.  
+Municipio 
+Temperatura Media 
+Anual o Mensual 
+°C 
+Temperatura 
+Neutra 
+°C 
+Zona de Confort 
+°C 
+Máxima 
+Mínima 
+Uribía 
+29.2 
+26.652 
+29.152 
+24.152 
+Paimado 
+26.6 
+25.846 
+28.346 
+23.346 
+Montenegro 21.8 
+24.358 
+26.858 
+21.858 
+Chita 
+11.2 
+21.072 
+23.572 
+18.572 
+
+=== Página 64 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          71 
+3. 
+Para dicha simulación se configuró en Design Builder las propiedades iniciales del 
+programa, la localización y todos los datos básicos de temperatura en cada una de las zonas donde 
+se encuentran las viviendas seleccionadas con los materiales constructivos utilizados en la 
+actualidad, todo esto con el fin de calcular los niveles de confort actuales y su precisión frente a 
+los rangos de confort designados para cada región; para esto y para los demás materiales fue 
+primordial clasificar los materiales por vivienda y analizar las cualidades del material y el valor de 
+transmitancia térmica de cada uno de ellos y en conjunto para su funcionamiento en el interior de 
+ella, así como también fue necesario el evidencia miento de las ventanas y las aperturas de  dichas 
+en la vivienda, explícitamente en el porcentaje de apertura y la infiltración de aire dentro de ella 
+para tener claro el volumen de aire y su renovación. 
+4. 
+Una vez hechas las simulaciones base se pasa a simular cada una de las viviendas 
+con materiales sostenibles y vernáculos como lo son el Adobe, Bahareque y el BTC y su 
+orientación (estas varían según el clima), para así llegar a una conclusión del material ideal bajo 
+las condiciones climáticas actuales de la vivienda y junto con su orientación. 
+5. 
+En Design Builder se configura la localización de intervención de los modelos y se 
+exportó el modelo de Revit desde el formato gbXML con la información configurada de las 
+propiedades de material y se verifican las actividades de cada espacio para configurar las 
+temperaturas internas promedio de cada espacio según su función, en la pestaña de configuración 
+se verifican las materialidades, las cargas térmicas según grosores y cualidades de la materialidad 
+como su valor U (Valor de Transmitancia Térmica), su reflectancia y su nivel de infiltración; así 
+como también en los elementos arquitectónicos como puertas marcos y ventanas, y el impacto de 
+los vanos en la edificación. 
+
+=== Página 65 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          72 
+6. 
+Para la generación de los resultados luego de las configuraciones es importante 
+designar a que nivel de detalle se plantea analizar la vivienda y sus temperaturas para corroborar 
+con más detenimiento el impacto de las temperaturas sobre la vivienda y sobre cada elemento de 
+ella; en esto debemos considerar la actividad de la vivienda y la importancia de las persona, en 
+especial la cantidad de personas, y el área en metros cuadrados designada para cada una con el fin 
+de analizar el metabolismo  y las emisiones de calor al interior de cada habitación para eso se 
+decide hacer dos análisis uno en un rango anual y otro diario para la verificación de los impactos 
+del día a día así como también determinar la temperatura media promedio que afecta al interior y 
+exterior, determinando las condiciones del confort. 
+Matriz de evaluación 
+ 
+Figura 34: Matriz de evaluación 
+Elaboración propia  
+ 
+ 
+
+=== Página 66 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          73 
+Conclusión  
+Las simulaciones dinámicas realizadas en Design Builder, facilitaran el entender como se 
+comporta cada vivienda dentro de su región climática y a si mismo si la orientación influye o no 
+en su temperatura interior, la metodología BIM se convierte en un aliado frente a la pandemia del 
+Covid-19 pues para la investigación nos brindó datos reales sin tener que estar en el lugar de 
+elección y con la que se podrá entender mucho mejor los resultados al botarnos datos en gráficas 
+y en tablas. 
+El resultado final de cada simulación dependerá de las características físicas de los 
+materiales de construcción, así mismo su nivel de renovación del aire de forma natural y su nivel 
+de ocupación por habitante dentro de ella. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 67 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          74 
+Capítulo 5. Resultados y conclusiones  
+ 
+Resultados por día 
+Tabla 4. Resultados de simulaciones hechas por día.  
+ 
+Elaboración propia  
+Uribia - Guajira 
+Análisis del confort térmico en el día más caliente del año, esta corresponde a la fecha del 
+4 de septiembre, orientaciones norte, sur, este y oeste. A pesar de que la vivienda no permanece 
+en el rango de confort en ninguna orientación, se podría decir que la orientación que presento 
+menores temperaturas a las otras fue la Oeste y del mismo modo la que presento altas 
+temperaturas fue la sur. El mejor material para el clima cálido seco es el Adobe y que por el 
+contrario el material que recibió temperaturas bastante altas fue el Bahareque. 
+Paimado – Choco 
+Análisis del confort térmico en el día más caliente del año, esta corresponde a la fecha de 
+21 de Julio, orientación norte, sur y este. Esta permanece gran parte del día en confort siendo la 
+Lugar 
+Día  Orientación 
+Temperatura 
+exterior 
+Min-Max 
+Material 
+Rango 
+de 
+Confort 
+Existente 
+Bahareque 
+Adobe 
+BTC 
+T.Min T.Max T.Min T.Max T.Min T.Max T.Min T.Max 
+Uribia   
+Guajira 
+04-sep 
+Norte 
+Min 27,7°C 
+- Max 
+36,6°C 
+30,8°C 34,1°C 30,8°C 34,0°C 30,8°C 34,0°C 30,8°C 34,1°C 
+24,15°C  
+29,15°C 
+Sur 
+30,9°C 34,8°C 30,9°C 34,7°C 30,8°C 34,2°C 30,9°C 34,7°C 
+Este 
+30,5°C 33,5°C 30,5°C 33,5°C 30,4°C 33,5°C 30,5°C 33,5°C 
+Oeste 
+30,5°C 33,4°C 30,5°C 33,5°C 30,0°C 33,0°C 30,4°C 33,4°C 
+Paimado 
+Choco 
+27-jul 
+Norte 
+Min 21,0°C 
+- Max 
+34,7°C 
+24,9°C 31,2°C 24,9°C 30,5°C 24,9°C 31,1°C 24,9°C 31,5°C 
+23,34°C  
+28,34°C 
+Sur 
+24,9°C 30,8°C 24,9°C 30,7°C 24,9°C 30,6°C 24,9°C 30,8°C 
+Este 
+24,9°C 31,0°C 24,8°C 30,2°C 24,9°C 30,8°C 24,9°C 31,4°C 
+Montenegro 
+Quindío 
+19-ago 
+Norte 
+Min 17,6°C 
+- Max 
+32,0°C 
+25,0°C 32,8°C 21,9°C 35,7°C 21,8°C 32,8°C 21,9°C 34,6°C 
+21,85°C  
+26,85°C 
+Sur 
+25,0°C 33,3°C 21,5°C 34,4°C 21,5°C 31,5°C 21,5°C 34,3°C 
+Este 
+25,1°C 33,5°C 21,6°C 37,5°C 21,6°C 33,4°C 21,6°C 36,3°C 
+Chita    
+Boyacá 
+03-nov 
+Noreste 
+Min 8,7°C - 
+Max 11,7°C 
+15,3°C 17,7°C 13,4°C 16,1°C 13,8°C 16,5°C 13,6°C 16,3°C 
+18,57°C  
+23,57°C 
+Sureste 
+15,8°C 18,3°C 13,6°C 16,4°C 14,1°C 16,9°C 13,8°C 16,6°C 
+
+=== Página 68 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          75 
+orientación este la que respondió mejor al confort y la que obtuvo mayores temperaturas fue el 
+norte. El mejor material para la vivienda del clima cálido húmedo es la Bahareque pues las 
+condiciones de disconfort varían en 2° por encima de lo ideal a diferencia de los demás materiales 
+en cuanto al día más caluroso; por otro lado, el peor material fue el BTC. 
+Montenegro - Quindío 
+Análisis del confort térmico en el día más caliente del año, esta corresponde a la fecha del 
+19 de agosto, orientaciones norte, sur y este. Esta permanece una parte significativa en el día 
+dentro del confort, la orientación que mejor respondió fue la sur y la que obtuvo altas 
+temperaturas fue la este. El mejor material para la vivienda del clima templado es el Adobe pues 
+las condiciones de disconfort varían en 4° por encima de lo ideal a diferencia de los demás 
+materiales en cuanto al día más caluroso; por otro lado, el peor material fue el existente. 
+Chita-Boyacá 
+Análisis del confort térmico en el día más frio del año, esta corresponde a la fecha del 3 de 
+noviembre, orientaciones noreste y sureste. Está a lo largo del día no logra alcanzar el rango 
+mínimo de confort, la orientación que mejor respondió fue la sureste. El mejor material para la 
+vivienda del clima frio es el Base pues las condiciones de disconfort varían, pero encontramos 
+sobre calentamiento dentro de la vivienda por encima de lo ideal; por otro lado, el peor material 
+fue el Bahareque al tener temperaturas muy bajas. 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 69 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          76 
+Resultados por hora 
+Tabla 5. Resultados de simulaciones por hora  
+Lugar 
+Orientación 
+Material 
+Existente 
+Bahareque 
+Adobe 
+BTC 
+Confort Dis 
+Confort 
+Confort Dis 
+Confort 
+Confort Dis 
+Confort 
+Confort Dis 
+Confort 
+Uribia   
+Guajira 
+Norte 
+27,84% 
+72,16% 
+26,99% 
+73,01% 
+26,96% 
+70,04% 
+26,95% 
+73,05% 
+Sur 
+26,95% 
+73,05% 
+27,80% 
+72,20% 
+27,85% 
+72,15% 
+27,84% 
+72,16% 
+Este 
+29,20% 
+70,80% 
+29,17% 
+70,83% 
+29,22% 
+70,78% 
+29,20% 
+70,80% 
+Oeste 
+37,77% 
+62,23% 
+37,77% 
+62,23% 
+37,77% 
+62,23% 
+37,77% 
+62,23% 
+Paimado 
+Choco 
+Norte 
+88,64% 
+11,36% 
+90,32% 
+9,68% 
+86,84% 
+13,16% 
+88,07% 
+11,93% 
+Sur 
+89,67% 
+10,33% 
+86,94% 
+13,06% 
+89,66% 
+10,34% 
+89,66% 
+10,34% 
+Este 
+87,98% 
+12,02% 
+88,26% 
+11,74% 
+87,18% 
+12,82% 
+86,52% 
+13,48% 
+Montenegro 
+Quindio 
+Norte 
+59,54% 
+40,46% 
+61,23% 
+38,77% 
+62,43% 
+37,57% 
+62,19% 
+37,81% 
+Sur 
+65,21% 
+34,79% 
+61,76% 
+38,24% 
+65,98% 
+34,02% 
+61,74% 
+38,26% 
+Este 
+63,39% 
+36,61% 
+58,89% 
+41,11% 
+62,83% 
+37,17% 
+59,29% 
+40,71% 
+Chita    
+Boyaca 
+Noreste 
+34,58% 
+65,42% 
+21,37% 
+78,63% 
+22,96% 
+77,04% 
+21,97% 
+78,03% 
+Sureste 
+32,96% 
+67,04% 
+19,97% 
+80,03% 
+21,54% 
+78,46% 
+20,48% 
+79,52% 
+Elaboración propia  
+Uribia-Guajira 
+El material que obtuvo un porcentaje elevado de horas dentro del confort fue el Adobe a 
+pesar de que solo obtiene en el año un 37,77% de horas y la mejor orientación fue la oeste. 
+Paimado-Choco 
+El material que obtuvo un porcentaje elevado de horas dentro del confort fue el 
+Bahareque, este gran parte del año permanece en confort con un 90,32% de horas y la mejor 
+orientación fue la norte. 
+Montenegro-Quindío 
+El material que obtuvo un porcentaje elevado de horas dentro del confort fue el Adobe, 
+este con un poco más de la mitad del año permanece en confort con un 65,98% de horas y la 
+mejor orientación fue la sur. 
+
+=== Página 70 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          77 
+Chita-Boyacá 
+El material que obtuvo un porcentaje elevado de horas dentro del confort fue el existente 
+a pesar de que solo obtiene en el año un 34,58% de horas y la mejor orientación fue la noreste. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 71 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          78 
+ Conclusión 
+Tabla 6. Cuadro de conclusiones frente a resultados de simulaciones  
+ 
+Elaboración propia  
+Se determinó que cada lugar de análisis responde de una forma diferente frente al confort, 
+pues las características atmosféricas afectan gravemente en cómo se vive y se habita dentro de un 
+territorio, para los cuatro casos solo una de las viviendas obtuvo un nivel de confort elevado que 
+correspondió al Paimado-Choco está a pesar de considerarse como un clima extremo y el lugar 
+que presentó las peores condiciones fue Chita-Boyacá el clima frío para este caso en específico a 
+pensar que no está dentro del rango de confort,  tiene temperaturas superiores a los 21% que para 
+un clima frío son adecuadas, pero se llegaba a un calentamiento excesivo dentro de la vivienda 
+con temperaturas entre los 27°C a los 32° las cuales no son adecuadas para un habitar, pudiendo 
+forzar a salir de la vivienda a las personas que la habitan. 
+Dentro del mismo análisis resaltamos que las viviendas simuladas con materiales 
+vernáculos respondieron mucho mejor al confort, siendo pertinente adherirnos a estas técnicas 
+
+=== Página 72 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          79 
+autóctonas y que además son sostenibles al utilizar materiales de la misma región, evitando 
+gastos en transporte y la economía en el costo del material, solo en un caso el material existente 
+respondió a un mejor confort, pero también obtenía temperaturas bastante bajas. 
+Se llegó a la conclusión que el estado no hace mucho hacia las personas que viven en el 
+área rural dentro del país a pesar de que gran parte del territorio es rural, la mayor concentración 
+de personas se encuentra en lo urbano elevando la importancia de intervención, pero los índices 
+más bajos en habitabilidad del país se encuentran en esa área rural al no tener recursos que 
+suministren por completo a una parte sus necesidades básicas. Queremos llegar a la reflexión de 
+la importancia que se debe tener a la hora de construir una vivienda en la ruralidad pues si 
+pensamos en la sostenibilidad está con sus estrategias pasivas y activas permiten una mejor 
+habitabilidad sin necesidad de hacer grandes cambios en su estilo de vida y aún más importante 
+en su cultura. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 73 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          80 
+Lista Bibliografía 
+Alavedra, P., Dominguez, J., Gonzalo, E., Serra, J., (1997). La construcción sostenible. El estado 
+de la cuestión. Artículo de Investigación.   
+Barranco Arévalo, O. (2015). La arquitectura bioclimática. Artículo de Investigación.   
+Bolivar, J., (2016). Redefinición de la vivienda rural cafetera en Colombia. El Paisaje Cultural 
+Cafetero como caso de estudio. 
+Chicote, M.A. (2015). Análisis energético y de confort térmico de estrategias sostenibles de 
+acondicionamiento térmico de edificios basadas en sistemas radiantes. (Tesis de 
+Doctorado) Universidad de Valladolid. Escuela de Ingenierías Industriales. Valladolid, 
+España. 
+Constitución política de Colombia [Const. P.]. (1991). Colombia: Leyer, 13va ed. 
+Cortés Cely, O.A (s.f.) Métodos de diseño ambiental en arquitectura. Artículo de investigación. 
+Czajkowski, J. (2012). Evaluación del confort higrotérmico invernal en viviendas unifamiliares 
+del gran la plata mediante auditorías. Articulo científico. 
+Departamento Administrativo Nacional de Estadística [DANE] y Censo Nacional Agropecuario 
+[CNA], (2014). Características de la vivienda y Sociodemográficas de la población 
+residente en el área rural dispersa censada. 
+Espinosa Cancino C.F., Cortés Fuentes, A. (2012). Confort higro-térmico en vivienda social y la 
+percepción del habitante. Artículo de Investigación. 
+Godoy Muñoz, A. (2012). El confort térmico adaptativo (Tesis de Maestria). Universidad 
+politécnica de Cataluña, España. 
+Hidalgo Lopez, O. (2016). Nuevas técnicas de construcción con bambú. Ed 1e. Colombia. 
+
+=== Página 74 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          81 
+Mercado, R., Iguarán, G., Wouliyuu, A., Ipuana, F., Pérez, E., Iguarán, F., Machado, R., Castillo, 
+E., Lopez, M., Saldarriaga, A., Otálora, L., Lopez, G., Sachica, C., (2016) Lo que saben 
+los Wayuu. Universidad de Bogotá Jorge Tadeo Lozano. Ed 1e. Colombia 
+Meléndez García, S. J. (2012). Arquitectura sustentable fachadas bioclimáticas, tecnología 
+fotovoltaica, funcionalidad y estética. Ed 1e. México: Trillas 
+Mosquera, G. (2016) Vivienda y Arquitectura Tradicional en el Pacifico colombiano. Patrimonio 
+Cultural Afrodescendiente. 
+Norma sismo resistente [NSR-10], (2010), Ministerio de ambiente, vivienda y desarrollo 
+territorial. Asociación Colombiana de Ingeniería sísmica. Recuperado de 
+https://www.idrd.gov.co/sitio/idrd/sites/default/files/imagenes/9titulo-i-nsr-100.pdf  
+Olgyay, V. (1998). Arquitectura y clima manual de diseño bioclimático para arquitectos y 
+urbanistas. Ed 1e. España: Gustavo Gili.  
+Ortiz, K. (31 Jul 2019). Por ley, buscan que campesinos en Colombia puedan tener una vivienda 
+digna en zonas rurales. Recuperado de https://www.rcnradio.com/politica/por-ley-buscan-
+que-campesinos-en-colombia-puedan-tener-una-vivienda-digna-en-zonas-rurales 
+Quesada Molina, J.P. (Febrero, 2015). Habitabilidad para una vivienda sustentable. 
+https://www.researchgate.net/publication/317318939_PONENCIA_HABITABILIDAD_
+PARA_UNA_VIVIENDA_SUSTENTABLE  
+Rodriguez, L., (2016). Vivienda de Interés Social Rural: un derecho sin una política eficiente y 
+eficaz. Boletín Macrofiscal. No. 14, Recuperado de 
+https://www.contraloria.gov.co/documents/463406/483337/Bolet%C3%ADn+Macro+Fis
+cal+14.pdf/ 
+
+=== Página 75 ===
+EVALUAR LA VIVIENDA RURAL EN COLOMBIA                                                                          82 
+Rodríguez Viqueira, M. (2004). Estudio de arquitectura de arquitectura bioclimática. Ed 1e. 
+México: Limusa Noriega. 
+Sánchez, G., Afanador C., Castillo W.,(2016) Caracterización y tipificación de la vivienda Rural 
+en la Cuenca media del río Guáitara, Nariño. Apuntes 29(1), 62-79. Recuperado de 
+http://dx.dio.org/10.11144/Javeriana.apu29-1.ctvr  
+Sanchez, C., Jimenez, E.,(2010). La Vivienda Rural, Su Complejidad y Estudios Desde la 
+Diversas Disciplinas. Recuperado de http://www.scielo.org.co/pdf/luaz/n30/n30a10.pdf 
+Tramoyeres González, A. (2019). Bioconstrucción y arquitectura bioclimática para la ejecución 
+de una vivienda ecológica unifamiliar. Valencia, España 
+Vera, F., Adler, V., Acevedo, P., Rojas, F., Uribe, M. C., Quintero, M. C., Huerta, C., Lew, S., 
+Soulier, M., Nacke, M., Simonez, V. ¿Qué podemos hacer para responder al COVID-19 
+en la ciudad informal?. Ed 1e. Argentina 
+ Yañez Parareda, G. (2008). Arquitectura solar e iluminación natural. Ed 1e. Barcelona, España: 
+Munilla-leira. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

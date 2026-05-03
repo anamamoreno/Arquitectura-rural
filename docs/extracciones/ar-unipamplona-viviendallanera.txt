@@ -1,0 +1,1779 @@
+# Fuente: AR-UniPamplona-ViviendaLlanera.pdf
+# Total páginas: 24
+
+=== Página 1 ===
+© The author; licensee Universidad de la Costa - CUC. 
+Módulo Arquitectura CUC no. 34, p. 9-32, Enero - Junio, 2025 
+Barranquilla. ISSN Impreso 0124-6542, ISSN Online 2389-7732
+Modul. Arquit. CUC 34, pp. 9-32, Enero - Junio, 2025
+Evolución de la Vivienda Llanera: Un Análisis Sociocultural desde 
+la Percepción y la Corporalidad del Hábitat Rural
+Evolution of the Llanero Dwelling: A Sociocultural Analysis from 
+the Perspective and Corporality of the Rural Habitat
+DOI: 10.17981/mod.arq.cuc.34.1.2025.01
+Artículo Recibido: 26/12/2024. Aceptado: 25/02/2025. Publicado: 15/03/2025
+Elkin Raúl Gómez-Carvajal 
+Universidad de Pamplona. Pamplona (Colombia)
+elkin.gomez@unipamplona.edu.co
+Francy Estefanny Tabares-Rodríguez 
+Universidad de Pamplona. Pamplona (Colombia)
+francy.tabares@unipamplona.edu.co
+Jemay Mosquera-Téllez 
+Universidad de Pamplona. Pamplona (Colombia)
+jemay.mosquera@unipamplona.edu.co 
+Para citar este artículo:
+Gómez-Carvajal, E. R., Tabares-Rodríguez, F. E., & Mosquera-Téllez, J. (2025). Evolución de la vivienda llanera: Un análisis sociocultural desde la percepción y la corporalidad del 
+hábitat rural. Modul. Arquit. CUC, 34(1), 9-32. https://doi.org/10.17981/mod.arq.cuc.34.1.2024.01
+Resumen
+La vivienda llanera, como parte del hábitat rural en la región del Llano co­
+lombiano, representa un complejo de prácticas culturales, condiciones climá­
+ticas e interacciones simbólicas con el medio ambiente que, en el contexto de 
+la globalización y el turismo, enfrenta transformaciones que socavan las tra­
+diciones y homogeneizan los paisajes culturales. El objetivo de la investigación 
+está orientado a visibilizar la autenticidad cultural del hábitat llanero para 
+promover el desarrollo sostenible y fortalecer las prácticas culturales. La me­
+todología incluye una aproximación teórica de la comercialización cultural, la 
+vivienda rural y la arquitectura vernácula; y un análisis de la vivienda llane­
+ra a través de la revisión documental y la observación participante. Desde la 
+perspectiva de la corporeidad y la percepción, entendidas como experiencias 
+multisensoriales del cuerpo en su entorno, se propone una visión integral de la 
+vivienda llanera, en la que más allá de refugio físico, también actúa como una 
+extensión del cuerpo y un símbolo de identidad cultural. Finalmente, se pre­
+senta un componente propositivo basado en el análisis previo y representado 
+en estrategias para preservar la autenticidad cultural de las viviendas llane­
+ras, combinando tradición e innovación, además de destacar la importancia de 
+utilizar materiales locales, técnicas constructivas sostenibles y enfoques par­
+ticipativos que fortalezcan el vínculo entre las comunidades, su patrimonio y 
+el entorno natural.
+Palabras clave: Arquitectura vernácula; corporeidad; comunidad rural; espa­
+cios habitables; identidad cultural; territorialidad. 
+Abstract
+The lowland dwelling, as part of the rural habitat in the Colombian Llano 
+region, represents a complex of cultural practices, climatic conditions and 
+symbolic interactions with the environment that, in the context of globali­
+zation and tourism, it faces changes that undermine traditions and homoge­
+nize cultural landscapes. The objective of the research is to make visible the 
+cultural authenticity of the lowland habitat in order to promote sustainable 
+development and strengthen cultural practices. The methodology includes a 
+theoretical approach to cultural marketing, rural housing and vernacular ar­
+chitecture; and an analysis of flat housing through documentary review and 
+participant observation. From the perspective of corporeality and perception, 
+understood as multisensory experiences of the body in its environment, a com­
+prehensive view of the flat dwelling is proposed, in which beyond physical re­
+fuge, also acts as an extension of the body and a symbol of cultural identity. 
+Finally, a proposal component based on the previous analysis and represen­
+ted in strategies to preserve the cultural authenticity of low-lying dwellings, 
+combining tradition and innovation, besides highlighting the importance of 
+using local materials, Sustainable constructive techniques and participatory 
+approaches that strengthen the link between communities, their heritage and 
+the natural environment.
+Keywords: vernacular architecture; corporeality; rural community; habitable 
+spaces; cultural identity; territoriality.
+
+=== Página 2 ===
+Evolución de la Vivienda Llanera: Un Análisis Sociocultural desde la Percepción y la Corporalidad del Hábitat Rural
+10
+Introducción
+En los Llanos Orientales de Colombia, la vivien­
+da tradicional se presenta como una manifes­
+tación arquitectónica y cultural que articula la 
+interacción entre el cuerpo humano y el entorno 
+rural, en la medida que su diseño refleja prácti­
+cas culturales, tradiciones y una identidad pro­
+fundamente enraizada en la dinámica natural 
+de la región. A la luz de la perspectiva en la que 
+cuerpo humano se asume como medida funda­
+mental del espacio arquitectónico y la experien­
+cia multisensorial en el hábitat se activa a través 
+de elementos adaptados a las proporciones hu­
+manas (Salazar González, G., & Jiménez-Fajar­
+do, I, 2022), las particularidades de la vivienda 
+llanera evidencian aspectos funcionales, sociales 
+y ambiental que cumplen necesidades prácticas 
+e inspiran enraizamiento cultural y ofrecen una 
+respuesta respetuosa con el entorno natural.
+Teniendo en cuenta que la mercantilización 
+cultural transforma elementos patrimoniales en 
+productos de consumo y debilita su significado 
+original (García Canclini, 2005), en la vivienda 
+llanera, esta dinámica según Martínez Espinal, 
+H. (2016)  se traduce en la incorporación de com­
+ponentes industriales, como el cemento y el zinc, 
+que han reemplazado los materiales tradiciona­
+les, alterando tanto la percepción sensorial del 
+espacio como la relación simbólica con el terri­
+torio (Mosquera Torres & Aprile-Gniset , 2018). 
+Estos cambios impactan no solo en la funciona­
+lidad de las viviendas, sino también la transmi­
+sión de conocimientos y prácticas culturales en­
+tre generaciones fundamentales para preservar 
+la identidad regional.
+Explorar la vivienda llanera desde la relación 
+con el cuerpo humano es fundamental, ya que 
+esta conexión permite comprender cómo los ha­
+bitantes perciben, experimentan y transforman 
+su espacio habitado (Saldarriaga Roa, A. 2016). 
+La corporeidad, entendida como la experiencia 
+multisensorial del cuerpo en su interacción con 
+el entorno, se convierte en una herramienta cla­
+ve para analizar elementos característicos de la 
+vivienda, como los techos altos, los corredores 
+abiertos y el uso del chinchorro, que responden 
+tanto a las condiciones climáticas como a las ne­
+cesidades culturales. En este caso, el cuerpo no 
+solo percibe el mundo, sino que lo crea, destacan­
+do la importancia de estudiar la vivienda como 
+una extensión del cuerpo que satisface dimen­
+siones prácticas, emocionales y simbólicas (Mer­
+leau–Ponty, M, 1945).
+Además, las representaciones visuales con­
+temporáneas, especialmente en contextos tu­
+rísticos, tienden a simplificar y estandarizar 
+elementos culturales de las viviendas llaneras, 
+despojándolas de su riqueza multisensorial 
+(Sarmiento Ocampo, 2024), de forma que la 
+tendencia hacia lo visual refuerza estereotipos 
+y reduce la percepción integral de estos espa­
+cios como partes de un ecosistema cultural.
+En este sentido, la experiencia arquitectó­
+nica trasciende lo visual para activar una in­
+teracción multisensorial que conecta a los 
+habitantes con su entorno, fortaleciendo el vín­
+culo entre cultura y espacio (Salazar González, 
+
+=== Página 3 ===
+11
+Modul. Arquit. CUC 34, pp. 11-32, Enero - Junio, 2025
+G., & Jiménez-Fajardo, I, 2022). Particular­
+mente, la vivienda llanera actúa como un me­
+ta-cuerpo que describe la forma en que los espa­
+cios arquitectónicos tradicionales trascienden 
+su funcionalidad básica para convertirse en 
+una extensión simbólica, cultural y emocional 
+del cuerpo humano, enfatizando en la relación 
+multisensorial y dinámica entre los habitan­
+tes y su entorno construido, que refleja no solo 
+necesidades prácticas, sino también aspiracio­
+nes culturales y valores compartidos (Llamosa 
+Escobar, 2020).
+Desde un enfoque arquitectónico, Vitruvio en­
+fatiza que las proporciones humanas son el fun­
+damento del diseño, garantizando funcionalidad 
+y armonía en los espacios construidos (Benevolo, 
+1995). Esta visión se alinea con el diseño de la vi­
+vienda llanera, donde la escala y la organización 
+espacial se adaptan a los ritmos y necesidades 
+del cuerpo humano, mientras que los materiales 
+responden a condiciones climáticas a la vez que 
+representan un conocimiento ancestral que vin­
+cula a las comunidades con su territorio. En ese 
+sentido, en el análisis detallado de la vivienda 
+llanera se priorizan categorías asociadas confort 
+térmico, función, bienestar, interacción social, 
+identidad cultural y sostenibilidad, cada una de 
+las cuales cuenta con sus respectivas variables. 
+Finalmente, el análisis documental y situado 
+permitió formular recomendaciones para forta­
+lecer los rasgos distintivos de la vivienda llanera 
+y su relación con la identidad cultural y la soste­
+nibilidad ambiental.
+El estudio está enmarcado en el trabajo de 
+grado desarrollado en modalidad de investiga­
+ción y asociado al semillero de investigación Te­
+rritorios Metafóricos, titulado Evolución de la 
+vivienda llanera: un análisis sociológico para 
+la preservación de la identidad cultural frente 
+a la mercantilización en Casanare, así como 
+en procesos previos del grupo de investigación 
+Gestión Integral del Territorio – GIT de la Uni­
+versidad de Pamplona, sobre hábitat sostenible, 
+solidario y culturalmente responsable.
+Metodología
+El estudio cuenta con un enfoque mixto, de tipo 
+deductivo e interpretativo (Hernández Sampieri 
+et al., 2014) que combina lo cualitativo, repre­
+sentado en el carácter documental de la funda­
+mentación teórica y el trabajo de campo sobre el 
+entorno construido, distribución espacial, téc­
+nicas y materiales utilizados en las viviendas, y 
+significados culturales asociados a la vivienda 
+llanera; con aspectos cuantitativos asociaos a 
+condiciones ambientales y económicas que influ­
+yen en las decisiones de diseño y construcción de 
+la vivienda llanera. De esta manera, se plantean 
+tres fases metodológicas que responde a los ob­
+jetivos específicos y comprenden la conceptuali­
+zación, contextualización y formulación. La pri­
+mera se orientó a examinar estudios, artículos y 
+libros relacionados con territorialidad, funcio­
+nalidad, habitabilidad, bienestar y significado de 
+la vivienda; mientras que la fase de diagnóstico 
+
+=== Página 4 ===
+Evolución de la Vivienda Llanera: Un Análisis Sociocultural desde la Percepción y la Corporalidad del Hábitat Rural
+12
+contextual  se orientó a partir de  Garzón-García 
+& Vega-Pozuelo (2022) priorizando la identifica­
+ción de fuentes académicas, informes técnicos, 
+documentos históricos y observación partici­
+pante estuvo dirigida a lograr una comprensión 
+profunda de la evolución de la vivienda llanera y 
+su adaptación a las condiciones ambientales del 
+entorno, a las necesidades, tradiciones y costum­
+bres locales, comunitarias y familiares, y a las 
+dinámicas económicas que modifican su esencia 
+(Puerta, Arce, et al., 2022). Finalmente, la fase 
+propositiva permite formular una serie de linea­
+mientos y estrategias que pueden contribuir a la 
+salvaguarda de la identidad y condiciones tradi­
+cionales de la vivienda llanera, como aspecto cla­
+ve para su conservación frente a las presiones y 
+transformaciones producto de la globalización 
+y mercantilización de las viviendas en el mundo.
+Resultados
+Fundamentos Teóricos
+• Globalización y mercantilización
+En la actualidad, la arquitectura vernácula se 
+enfrenta al reto de adaptarse sin perder su au­
+tenticidad, dado que la globalización y la mer­
+cantilización crean una tensión entre mantener 
+las tradiciones locales y ajustarse a las demandas 
+modernas, lo cual puede descontextualizar los 
+elementos tradicionales y convertirlos en produc­
+tos genéricos para el consumo masivo (Serrano-
+Barquín et al., 2021). Dichos procesos suelen 
+priorizar el mercado sobre los valores cultura­
+les, llevando a una mercantilización cultural que 
+transforma elementos patrimoniales en produc­
+tos de consumo e impone nuevas narrativas que 
+priorizan intereses externos sobre las necesida­
+des y significados locales y (Osorio González & 
+al., 2023); homogeniza las identidades y debilita 
+su significado original (García Canclini, 2005). 
+Como resultado, se obtiene la hibridación cultu­
+ral en la que diferentes elementos patrimoniales, 
+provenientes de contextos diversos, se combinan 
+y reconfiguran para dar lugar a nuevas expresio­
+nes culturales que, si bien puede enriquecer las 
+identidades locales, también generan tensiones 
+por la posible pérdida de autenticidad de las tra­
+diciones originales.
+Mientras que la mercantilización transforma 
+espacios culturales en productos turísticos, 
+despojándolos de su autenticidad simbólica 
+(Calleja Sordo & González Damián, 2016), la 
+demanda turística ha llevado a la transforma­
+ción de viviendas tradicionales en alojamientos 
+turísticos, sacrificando elementos identitarios 
+en favor de estéticas genéricas (Rozo, 2023). 
+Este fenómeno, conduce a la desespacialización 
+o proceso por el cual un espacio físico pierde su 
+conexión simbólica, cultural y emocional con 
+los individuos o comunidades que lo habitan, 
+debido a dinámicas como la globalización, la 
+mercantilización o la estandarización; además, 
+destaca la desconexión progresiva entre las per­
+sonas y su entorno, como aspecto que transfor­
+ma lugares significativos en espacios homogé­
+neos y carentes de identidad (Serrano-Barquín 
+et al., 2021), transforma la funcionalidad de 
+
+=== Página 5 ===
+13
+Modul. Arquit. CUC 34, pp. 13-32, Enero - Junio, 2025
+las viviendas y repercute en la transmisión de 
+conocimientos y prácticas culturales entre ge­
+neraciones, fundamentales para preservar la 
+identidad regional.
+Frente a lo expuesto, es importante considerar 
+la topofilia, representada en el Vínculo afecti­
+vo que las personas desarrollan con los lugares, 
+integrando dimensiones físicas, emocionales y 
+culturales que se traducen en el aprecio y amor 
+por el entorno habitado y permite enriquecer la 
+experiencia de habitar (Yory, 1999). Además, 
+la performatividad de la arquitectura, puede 
+ser de apoyo, teniendo en cuenta su capacidad 
+de reinterpretar las tradiciones para enfrentar 
+desafíos contemporáneos y fortalecer tanto la 
+funcionalidad como el sentido de pertenencia 
+(Fregosi, 2022). Ejemplos de ello son la concep­
+ción de Le Corbusier sobre cómo las técnicas tra­
+dicionales pueden fusionarse con enfoques con­
+temporáneos para crear espacios funcionales y 
+significativos a nivel social (Garrido, 2016), y 
+la sostenibilidad en la arquitectura tradicional 
+basada en su capacidad para utilizar recursos 
+locales sin alterar los ecosistemas, promovien­
+do un equilibrio ecológico (Diaz Vera, 2022).
+• Vivienda y desarrollo rural
+El hábitat rural es una configuración dinámi­
+ca, que combina manifestaciones condiciones de 
+vida, valores culturales y prácticas cotidianas 
+materiales e inmateriales del entorno, moldea­
+das por las acciones de los residentes, el Esta­
+do y el mercado (Garay, 2019). También refleja 
+la interacción entre tres elementos esenciales: 
+el cuerpo, el espacio y la cultura, los cuales for­
+man un triángulo relacional, intrínsecamente 
+vinculado en el diseño de la vivienda. El cuer­
+po humano es el punto central en el diseño de 
+la vivienda y debe responder a las proporciones 
+y necesidades humanas, asegurando confort y 
+funcionalidad (Benevolo, 1995), mientras que 
+el espacio construido organiza y da forma a las 
+prácticas culturales y sociales de sus habitantes 
+(Villa Ruiz, 2015). En ese sentido, la memoria 
+episódica, despertada por la experiencia senso­
+rial del espacio habitado, es fundamental para 
+la formación de la identidad cultural (Salazar 
+González, G., & Jiménez-Fajardo, I, 2022).
+Por su lado la sostenibilidad arquitectónica en 
+contextos rurales se fundamenta en la capacidad 
+de usar materiales locales de manera eficiente 
+sin comprometer los ecosistemas circundantes 
+(Diaz Vera, 2022). De esta manera, las formas 
+arquitectónicas tradicionales están moldeadas 
+por normas culturales y sociales, además de fac­
+tores climáticos y materiales (Rapoport, 1969) 
+para lograr un equilibrio entre las necesidades 
+humanas y la preservación del medio ambiente 
+(Rodríguez & Quintanilla, 2019).
+Si bien la arquitectura vernácula no solo res­
+ponde al entorno, sino que también lo transfor­
+ma, generando un intercambio simbiótico que 
+refuerza la identidad cultural de las comunida­
+des rurales (Llamosa Escobar, 2020), la comer­
+
+=== Página 6 ===
+Evolución de la Vivienda Llanera: Un Análisis Sociocultural desde la Percepción y la Corporalidad del Hábitat Rural
+14
+cialización de los espacios rurales pone énfasis 
+en la estetización del paisaje y las viviendas ver­
+náculas para satisfacer expectativas externas, 
+ignorando las necesidades reales de las comuni­
+dades locales (Garay, 2019). Por consiguiente, 
+recuperar y actualizar técnicas tradicionales, 
+como el uso del bahareque y otros materiales lo­
+cales, no solo mejora el hábitat rural, sino que 
+también permite integrar soluciones sostenibles 
+y culturalmente significativas en las comunida­
+des (Jiménez Romera & Forero Suárez, 2021). 
+Estos enfoques modernos fomentan un diálogo 
+entre los conocimientos locales y las nuevas tec­
+nologías, preservando el valor identitario de las 
+prácticas tradicionales mientras se adaptan a 
+las necesidades actuales del territorio.
+• Arquitectura, corporeidad y sensorialidad
+Habitar es una acción que implica domesticar y 
+dar orden al entorno, lo que significa transfor­
+mar el espacio para que satisfaga las necesida­
+des humanas tanto funcionales como simbólicas 
+(Llorente-Sanz, 2024). A su vez, la percepción 
+del espacio es una construcción dinámica donde 
+los sentidos y el entorno se entrelazan, creando 
+una relación simbólica que fortalece la identidad 
+colectiva (Serrano-Barquín et al., 2021). Al res­
+pecto, la ergonomía, como campo que examina 
+la interacción entre el ser humano y su entorno 
+(Vives et al. 2024), ofrece una perspectiva inte­
+gral para analizar la vivienda según los plantea­
+mientos de  (Saldarriaga Roa 2019); por ejemplo, 
+Le Corbusier propuso en su obra The Modulor 
+una métrica universal basada en las proporcio­
+nes del cuerpo humano, lo cual permitió reorga­
+nizar los hábitats al armonizar diseño, funciona­
+lidad y la experiencia corporal (Garrido, 2016).
+Al mismo tiempo, la interacción entre los 
+sentidos y el entorno permite a los habitantes 
+experimentar una corporeidad multidimensio­
+nal que fusiona lo tangible con los significados 
+simbólicos del espacio, consolidando la vivien­
+da como una extensión del cuerpo humano y del 
+paisaje (Cutruneo, J. P., 2011). De esta manera, 
+El hogar no solo proporciona protección física, 
+también ofrece una experiencia sensorial (Sala­
+zar & Jiménez, 2022) y cultural única que for­
+talece el sentido de pertenencia (Saldarriaga, 
+2023), dado que la experiencia del espacio no 
+se limita a lo visual (Sánchez Fúnez, 2013); se 
+integra en todos los sentidos, generando co­
+nexiones significativas con el entorno (Sabido 
+Ramos, 2016). Frente a ello, resalta la metáfora 
+perpendicular, como concepto que alude a la re­
+lación directa y vertical entre el cuerpo humano 
+y su entorno espacial inmediato, para resaltar 
+cómo la posición del cuerpo frente al entorno 
+es crucial antes de cualquier transformación 
+(Llorente-Sanz, 2024)
+De acuerdo con lo expuesto, la arquitectu­
+ra actúa como un lenguaje que comunica in­
+tenciones y valores, permitiendo que los espa­
+cios construidos sean no solo refugios físicos, 
+sino también mediadores culturales y sociales 
+
+=== Página 7 ===
+15
+Modul. Arquit. CUC 34, pp. 15-32, Enero - Junio, 2025
+(Fregosi, 2022). lo que va más allá de la predo­
+minancia de lo visual que limita la experien­
+cia del espacio habitado y permite abordar la 
+rica experiencia multisensorial de la vivienda 
+(Sarmiento Ocampo, 2024), entendida como la 
+capacidad de experimentar y percibir un espa­
+cio a través de la integración de múltiples sen­
+tidos, como la vista, el tacto, el olfato, el oído 
+y, en algunos casos, el gusto (Salazar González, 
+G., & Jiménez-Fajardo, I, 2022). En el contex­
+to arquitectónico, lo multisensorial enrique­
+ce la relación entre las personas y su entorno 
+(Crespo, J. L., & Pillacela, L. A, 2019), y pro­
+mueve una experiencia más completa y signi­
+ficativa que trasciende lo meramente visual 
+(Pallasmaa, 1996).
+Análisis de la vivienda llanera
+En el contexto geográfico y topográfico de Co­
+lombia destaca la extensión y distribución de las 
+diferentes llanuras como la Amazónica, del Pa­
+cífico, Caribe y Orinoquía. En particular, la lla­
+nura de la Orinoquía abarca aproximadamente 
+380,000 km2 y se extiende a través de munici­
+pios de Casanare, como Yopal, Aguazul, Paz de 
+Ariporo, Tauramena y Villanueva. También exis­
+ten llanuras adyacentes en Venezuela (la deltaica 
+del Orinoco, la el Lago de Maracaibo y la Coste­
+ra), lo que proporciona un contexto regional más 
+amplio que destaca su extensión y distribución 
+territorial. El paisaje de los Llanos Orientales, 
+con sus extensas llanuras y su interacción cons­
+tante con elementos naturales como el agua, la 
+vegetación y el clima, influye profundamente en 
+la configuración de las viviendas llaneras.
+Figura 1. Llanuras de Colombia y Venezuela
+Fuente: Tabares (2024) a partir de ESRI (2024)
+La vivienda llanera se caracteriza por la com­
+binación de aspectos generales de habitabilidad 
+con rasgos particulares asociadas a la identidad 
+cultural, el uso de materiales locales y las rela­
+ciones espaciales.
+
+=== Página 8 ===
+Evolución de la Vivienda Llanera: Un Análisis Sociocultural desde la Percepción y la Corporalidad del Hábitat Rural
+16
+Figura 2. Dimensiones de la Vivienda Llanera desde el Ser Humano
+Fuente: Tabares, Gómez (2024)
+En la vivienda llanera, los elementos tradi­
+cionales están representados en su articulación 
+con el entorno, su relación comunitaria y la 
+forma en que los espacios responden a las ma­
+nifestaciones culturales y labores cotidianas 
+de sus habitantes (Gil, 2024). Las festividades 
+llaneras, como el coleo, los bailes al ritmo del 
+arpa y las competencias de canto, resignifican 
+los espacios físicos, transformando patios, co­
+rredores y áreas comunales en escenarios de in­
+teracción y celebración (Sánchez Silva, 2024). 
+Estas festividades impactan directamente la 
+territorialidad, convirtiendo el hábitat en un 
+espacio colectivo que refuerza la identidad cul­
+tural y el sentido de pertenencia. Al respecto, la 
+resignificación del espacio habitado es un acto 
+performativo, donde la arquitectura y el terri­
+torio se transforman en extensiones simbólicas 
+del cuerpo colectivo, adaptándose a las dinámi­
+cas culturales y climáticas del Llano (Hernán­
+dez Bello, 2024)
+
+=== Página 9 ===
+17
+Modul. Arquit. CUC 34, pp. 17-32, Enero - Junio, 2025
+En este contexto, la resignificación del espa­
+cio habitado se convierte en un acto dinámico 
+que fortalece la identidad cultural, haciendo de 
+la vivienda llanera no solo un espacio funcional, 
+sino un medio para narrar historias, perpetuar 
+tradiciones y enfrentar los desafíos de la mo­
+dernidad sin perder su esencia (Calleja Sordo 
+Figura 5. Elementos tradicionales de la Vivienda Llanera
+Fuente: Tabares, Gómez (2024)
+& González Damián, 2016). Este proceso de re­
+significación y adaptación se traduce en una ar­
+quitectura que, lejos de homogenizarse, celebra 
+la diversidad y la riqueza del patrimonio cultu­
+ral del Llano, consolidando una territorialidad 
+que es a la vez física, emocional y simbólica 
+(Rapoport, 1969; Saldarriaga, 2023).
+
+=== Página 10 ===
+Evolución de la Vivienda Llanera: Un Análisis Sociocultural desde la Percepción y la Corporalidad del Hábitat Rural
+18
+Según Herrera Montero, L.A., y Herrera Mon­
+tero, L. (2020). La territorialidad, entendida 
+como la manera en que las personas y las comu­
+nidades se apropian y organizan el espacio, es un 
+concepto fundamental para analizar la vivienda 
+llanera. Desde su diseño hasta su uso diario, es­
+tas viviendas evidencian una estrecha relación 
+entre el habitante y su entorno. Este vínculo 
+no solo se manifiesta a través de los elementos 
+constructivos, sino también mediante prácticas 
+culturales profundamente enraizadas en la vida 
+del Llano. Así las cosas, los espacios del hábitat 
+llanero van más allá de la mera funcionalidad; 
+son espacios vivos donde se celebra la identidad 
+colectiva, donde se refuerzan el tejido social y 
+cultural de la región (Sánchez Silva, 2024)
+Estudios como el de viabilidad técnica de vi­
+vienda campesina con muros de gaviones en los 
+Llanos Orientales demuestran que las solucio­
+nes constructivas tradicionales pueden adap­
+tarse para mejorar la habitabilidad y la sosteni­
+bilidad sin perder su conexión cultural (Bolívar 
+& Solarte, 2022). Por su lado, el estudio Téc­
+nicas vernáculas y dinámicas de construcción 
+del hábitat en el marco de la vivienda de interés 
+cultural: caso de estudio, municipio de Orocué, 
+Casanare, evidencia el arraigo de los materiales 
+tradicionales en las percepciones sensoriales y 
+emocionales de los habitantes de forma que for­
+talecen sus vínculos simbólicos con el territorio 
+(Ponce de León Hernández, 2022) .
+Desde la perspectiva multifuncionalidad, la vi­
+vienda no solo responde a necesidades prácticas, 
+también genera una experiencia multisensorial 
+enriquecedora. Esta flexibilidad resalta cómo 
+las viviendas llaneras priorizan la adaptabilidad 
+y funcionalidad, en consonancia con el ritmo de 
+la vida rural (Díaz G., H. 1998). Además, la me­
+moria sensorial ligada a estos espacios tradicio­
+nales preserva las historia y costumbres propias 
+del llano. De esta forma, los elementos simbóli­
+cos de la vivienda llanera son el resultado de una 
+respuesta asertiva a las condicionantes del en­
+torno local en cuanto a clima, organización espa­
+cial, recursos, materiales y el proceso mismo de 
+diseño arquitectónico.
+Figura 2. Elementos Simbólicos de la Vivienda Llanera
+Fuente: Tabares (2024)
+Cabe destacar que la vivienda llanera no es solo 
+una construcción física, es una adaptación er­
+gonómica que incorpora la corporeidad humana 
+construida bajo valores culturales y simbólicos. 
+Esta conexión entre diseño y habitante resalta la 
+importancia de estudiar estos espacios conside­
+rando aspectos relacionados con confort térmico, 
+función, bienestar, interacción social, identidad 
+cultural y sostenibilidad, así como sus respecti­
+vas interrelaciones (Prieto Osorio 2022).
+
+=== Página 11 ===
+19
+Modul. Arquit. CUC 34, pp. 19-32, Enero - Junio, 2025
+Tabla 1. Correlación de categorías y variables
+Categorías y variables 
+Categorías y variables
+Confort térmico
+Función
+Bienestar 
+Interacción 
+social
+Identidad 
+cultural
+Sostenibilidad 
+T
+PS
+CH
+V
+A
+F
+C
+CT
+IN
+EC
+ZR
+AI
+TT
+O
+DV
+EE
+MN
+AE
+Confort Tér­
+mico
+Temperatura (T)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Protección solar (PS) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Control de humedad 
+(CH)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ventilación (V) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Función
+Adaptabilidad (A)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Flexibles (F)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Convivencia (C)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bienestar
+Colores y texturas (CT)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Iluminación natural (IN)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Interacción 
+Social 
+Espacios compartidos 
+(EC)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Zonas de reunión (ZR)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Áreas de interacción 
+(AI)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Identidad 
+Cultural
+Técnicas tradicionales 
+(TT)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ornamentación (O)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Diseño Vernáculo (DV) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sosteni-
+bilidad
+Eficiencia energética 
+(EE)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Materiales naturales 
+(MN)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Adaptación al entorno 
+(AE)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Correlación notable 
+ 
+Correlación mediana 
+Fuente: Mosquera (2024)
+
+=== Página 12 ===
+20
+Evolución de la Vivienda Llanera: Un Análisis Sociocultural desde la Percepción y la Corporalidad del Hábitat Rural
+La corporeidad en la vivienda llanera se re­
+fleja en los ritmos y movimientos que el espa­
+cio promueve. Los techos altos no solo facilitan 
+la ventilación natural, sino que también crean 
+un ambiente de frescura y amplitud. Los corre­
+dores abiertos permiten una conexión visual y 
+funcional con el exterior, adaptándose a activi­
+dades diarias como descansar en chinchorros o 
+socializar en grupo. Esta interacción entre el 
+cuerpo, el espacio y las actividades diarias crea 
+una relación viva y dinámica, donde la vivien­
+da no solo es testigo de las prácticas culturales, 
+sino que también juega un papel clave en mol­
+dearlas y fortalecerlas.
+Además de su definición por proporciones fí­
+sicas, la funcionalidad de la vivienda llanera se 
+alinea con las actividades culturales y cotidianas 
+de sus habitantes. Históricamente se han utili­
+zado medidas como las manos, codos y pies, jun­
+to con instrumentos como cintas de cuero, varas 
+y cañas, para dimensionar los espacios arqui­
+tectónicos. Estas herramientas, adaptadas a las 
+proporciones humanas, reflejan cómo los llane­
+ros vinculan su corporeidad con su entorno cons­
+truido, destacando la relación entre las dimen­
+siones humanas y la funcionalidad del espacio.
+Los espacios interiores, diseñados para ser multifuncionales, permiten que un mismo lugar sirva para cocinar, 
+trabajar o descansar, según las exigencias del momento. Esta flexibilidad refleja un diseño donde cada rincón de la 
+vivienda se adapta a las necesidades y dinámicas diarias de sus ocupantes, maximizando la practicidad y el confort. 
+Así, la vivienda llanera trasciende su papel como respuesta arquitectónica al clima y a las demandas de la vida diaria, 
+convirtiéndose en un reflejo tangible de la identidad cultural y del vínculo con el paisaje local.
+Figura 6. Espacialidad funcional de la vivienda llanera
+Fuente: Tabares, Gómez (2024)
+Los corredores amplios, son un claro ejemplo de 
+cómo las proporciones arquitectónicas responden a 
+las necesidades y movimientos del cuerpo humano, 
+pro también son planificados para optimizar el paso 
+del aire y la conexión visual con el paisaje, de forma 
+que no solo cumplen una función arquitectónica, sino 
+que se convierten en un eje vital de la sostenibilidad. 
+Esta perspectiva se refleja en el uso de materiales lo­
+cales, como la palma y el bahareque, por su capaci­
+dad para regular la temperatura interior y hacer que 
+los espacios sean más confortables tanto física como 
+sensorialmente, en la medida que añaden textural, 
+olores y sonidos que vinculan a los habitantes con el 
+paisaje, evocan memorias colectivas y sentido de per­
+tenencia con el territorio.
+Por su lado, los techos altos aportan a la ventila­
+ción natural y contribuyen al confort bioclimático, 
+mientras que la disposición abierta y flexible de los 
+espacios interiores fomenta la interacción social y 
+facilita el movimiento, promoviendo una continui­
+dad entre las actividades cotidianas y los entornos 
+comunitarios que caracterizan el hábitat rural lla­
+nero. Estas características mejoran el confort físico 
+e integran la vivienda con el entorno, promoviendo 
+una experiencia de habitar que conecta lo práctico 
+con lo simbólico.
+La elección de estos materiales responde a una 
+conexión íntima entre los habitantes y el entorno, 
+ya que ellos mismos participan activamente en la 
+construcción y mantenimiento de sus viviendas. 
+Las dimensiones de estas estructuras se ajustan a 
+las capacidades físicas de quienes las edifican, re­
+
+=== Página 13 ===
+21
+Modul. Arquit. CUC 34, pp. 21-32, Enero - Junio, 2025
+forzando así la relación entre el cuerpo huma­
+no y el espacio arquitectónico. De este modo, 
+la construcción se convierte en un acto que 
+combina habilidades manuales, conocimientos 
+transmitidos de generación en generación y ne­
+cesidades prácticas. Además, el chinchorro ela­
+borado con tejido artesanal tradicional a partir 
+de fibras naturales o sintéticas y ampliamente 
+gracias a su portabilidad, comodidad, frescu­
+ra y adaptabilidad al clima cálido del llano, se 
+ha convertido en un elemento que simboliza la 
+esencia de la vida cotidiana llanera y fortalece 
+el vínculo emocional con las tradiciones locales. 
+Este proceso no solo refuerza la autosuficiencia 
+y el conocimiento práctico de las comunidades, 
+sino que también enriquece la relación entre el 
+cuerpo humano y el espacio construido. De esta 
+manera, la arquitectura y los objetos vernácu­
+los dialogan continuamente con la cultura, la 
+memoria y el entorno, creando un hábitat en el 
+que lo práctico y lo simbólico convergen de ma­
+nera armoniosa y adaptable.
+Figura 3. Rancho Campechanas Mariela Z, techo
+Fuente: Tabares (2024)
+Figura 4. Rancho Campechanas Mariela Z, chinchorros 
+Fuente: Tabares (2024)
+
+=== Página 14 ===
+Evolución de la Vivienda Llanera: Un Análisis Sociocultural desde la Percepción y la Corporalidad del Hábitat Rural
+22
+Cabe resaltar que los materiales tradicionales 
+no solo son soluciones constructivas eficientes, 
+sino que también ofrecen oportunidades para 
+innovar sin perder la conexión con la identidad 
+cultural. La palma, con su capacidad de aisla­
+miento térmico, puede combinarse con nuevas 
+técnicas para reforzar su durabilidad frente al 
+cambio climático. De igual manera, el bahare­
+que, que une barro con fibras naturales, puede 
+adaptarse mediante tratamientos ecológicos 
+que prolonguen su vida útil sin comprometer 
+su esencia. Este enfoque no solo preserva la au­
+tenticidad del hábitat rural llanero, también 
+lo posiciona como un modelo de sostenibilidad 
+arquitectónica en tiempos de transición global. 
+Además, los procesos de construcción colabo­
+rativa reflejan un modelo comunitario donde el 
+conocimiento se transmite entre generaciones, 
+fortaleciendo el vínculo entre personas y su en­
+torno construido al integrar valores como la re­
+ciprocidad y la solidaridad que son esenciales 
+en el hábitat rural llanero.
+Las herramientas tradicionales como el ma­
+chete, el azadón, el cepillo manual y las hachas 
+juegan un papel vital en estas dinámicas, no 
+solo por su utilidad práctica, sino por su cone­
+xión simbólica con la vida llanera. Estos instru­
+mentos, junto con los oficios que las emplean, 
+actúan como un puente entre el pasado y el pre­
+sente, mostrando cómo las prácticas tradiciona­
+les pueden adaptarse a los desafíos contempo­
+ráneos sin perder su autenticidad (Hernández 
+Bello, 2024).
+A pesar de las potencialidades identifica­
+das, en los Llanos Orientales, los procesos de 
+colonización impulsaron la explotación de re­
+cursos naturales y la estandarización de los 
+espacios habitados, ignorando las dinámicas so­
+cioculturales de las comunidades locales (Reyes 
+Gavilán, 2024). Esta dinámica de intervención 
+ha evolucionado hacia lo que conocemos como la 
+mercantilización del paisaje con fines turísticos 
+y lucrativos, generando tensiones entre las de­
+mandas del mercado y la necesidad de preservar 
+la autenticidad cultural.
+Frente a la gran cantidad de elementos repre­
+sentativos de la vivienda llanera, la mercantili­
+zación cultural, impulsada por la globalización 
+y el turismo, ha traído consigo cambios profun­
+dos en el hábitat rural llanero, impactando su 
+funcionalidad e identidad cultural. Este pro­
+ceso se refleja en la introducción de materia­
+les modernos y en la estandarización de dise­
+ños arquitectónicos, que han ido sustituyendo 
+las prácticas constructivas tradicionales y los 
+elementos simbólicos que estas representan, 
+destacando elementos visuales que apelan a lo 
+exótico a expensas de su funcionalidad y auten­
+ticidad, pero desde una estetización descontex­
+tualizada que debilita los valores culturales y 
+refuerza la percepción de la vivienda como mero 
+objeto de consumo (Sarmiento Ocampo, 2024).
+Estas transformaciones no solo afectan los 
+materiales y diseños arquitectónicos, sino tam­
+bién la manera en que los habitantes perciben 
+
+=== Página 15 ===
+23
+Modul. Arquit. CUC 34, pp. 23-32, Enero - Junio, 2025
+y experimentan el espacio. La incorporación de 
+materiales industriales y diseños estandariza­
+dos afecta la corporeidad y disminuye la rique­
+za multisensorial de las viviendas llaneras. Los 
+corredores abiertos, que facilitaban el movi­
+miento y la interacción social, han sido reem­
+plazados por espacios interiores más reducidos 
+y menos adaptables. Esto no solo limita las ac­
+tividades cotidianas, también modifica los rit­
+mos corporales y sociales de los habitantes.
+La mercantilización de la vivienda llanera 
+representa una amenaza significativa para la 
+identidad cultural, las relaciones sociales y la 
+calidad de vida de los habitantes. de las comuni­
+dades locales. Además, estas transformaciones 
+afectan la funcionalidad de las viviendas. La 
+reducción de los corredores, esenciales para la 
+ventilación natural y las actividades comunita­
+rias, compromete el confort térmico y limita la 
+interacción social. Adicionalmente, dentro de 
+la percepción del espacio íntimamente ligada a 
+los sentidos, la textura del bahareque, el olor de 
+la palma y los sonidos del viento en los corredo­
+res son elementos que conectaban emocional y 
+sensorialmente a los habitantes con su entorno. 
+Su sustitución por cemento y zinc interrumpe 
+esta conexión, alterando la relación simbólica y 
+emocional con el espacio habitado.
+Aunque los nuevos materiales pueden ser más 
+duraderos, no logran evocar el entorno natural 
+ni ofrecer una interacción sensorial significati­
+va. Por ejemplo, los techos de zinc amplifican el 
+sonido de la lluvia y aumentan la temperatura 
+en el interior, afectando tanto el confort acústi­
+co como térmico de los habitantes. Además, los 
+ritmos corporales y sociales de los habitantes, 
+pierden la flexibilidad y adaptabilidad que ca­
+racterizaba la arquitectura vernácula.
+Las superficies lisas y frías del cemento care­
+cen de las propiedades táctiles y estéticas que 
+antes conectaban a los habitantes con su entor­
+no. Los materiales industriales imponen dise­
+ños más rígidos y menos adaptables, reducen 
+la multifuncionalidad espacial y dificultan el 
+desarrollo de actividades tradicionales como 
+socializar en los patios o llevar a cabo rituales 
+comunitarios. Estos cambios no solo desperso­
+nalizan el espacio, sino que también generan 
+una desconexión simbólica, debilitando la iden­
+tidad cultural y el sentido de pertenencia de las 
+comunidades llaneras.
+• Propuesta inicial para el fortalecimiento 
+de la vivienda llanera
+A partir de la fundamentación teórica y el análisis 
+situacional, se proponen los siguientes lineamien­
+tos y estrategias dirigidas a reivindicar el valor so­
+cial, cultural y ambiental de la vivienda llanera.
+
+=== Página 16 ===
+Evolución de la Vivienda Llanera: Un Análisis Sociocultural desde la Percepción y la Corporalidad del Hábitat Rural
+24
+Tabla 2. Lineamientos y estrategias para mejorar las condiciones de la vivienda llanera
+Sistemas 
+Categorías 
+Variables 
+Lineamientos 
+Estrategias 
+Social 
+Confort térmico
+Temperatura
+ Diseñar viviendas que 
+optimicen el confort 
+térmico utilizando 
+materiales naturales.
+ Optimización del aislamiento 
+térmico.
+Protección solar 
+Incorporación de aleros y 
+elementos de sombra.
+Control de humedad 
+Regulación de humedad 
+mediante materiales 
+permeables.
+Función 
+Ventilación 
+Crear espacios adaptables a 
+las condiciones ambientales 
+y necesidades sociales.
+Diseño de ventilación cruzada 
+eficiente.
+Adaptabilidad
+Modularidad en el diseño para 
+necesidades cambiantes.
+Flexibles 
+Flexibilidad estructural para 
+usos multifuncionales.	
+Bienestar 
+Convivencia 
+Diseñar espacios que 
+fomenten la convivencia 
+y reflejen la identidad 
+cultural.
+Creación de zonas de 
+convivencia comunitaria.
+Colores y texturas 
+Elección de colores y texturas 
+que favorezcan el bienestar.
+Interacción 
+Iluminación natural 
+Generar áreas de reunión 
+que promuevan la 
+interacción social y la 
+conexión con el entorno.
+Uso estratégico de 
+iluminación natural para 
+interacción social.
+Espacios compartidos 
+Diseño de áreas para 
+interacción comunitaria.
+Zonas de reunión 
+Creación de espacios para 
+actividades sociales.
+Cultural 
+Identidad 
+Áreas de interacción 
+Preservar las técnicas 
+constructivas tradicionales 
+integrándolas a 
+innovaciones modernas.
+Generación de espacios 
+que refuercen la identidad 
+cultural.
+Técnicas tradicionales 
+Integración de métodos 
+constructivos tradicionales.
+Ornamentación
+Uso de elementos decorativos 
+representativos de la cultura.
+Ambiental 
+Sostenibilidad 
+Diseño Vernáculo 
+Incorporar sistemas 
+de energía renovable y 
+materiales locales para 
+minimizar el impacto 
+ambiental.
+Adaptación al entorno 
+climático del Llano.
+Eficiencia energética 
+Implementación de 
+tecnologías de energía limpia.
+Materiales naturales 
+Uso de materiales autóctonos 
+como bahareque y palma.
+Fuente: Tabares (2024)
+
+=== Página 17 ===
+25
+Modul. Arquit. CUC 34, pp. 25-32, Enero - Junio, 2025
+La vivienda llanera trasciende su función 
+como refugio físico, consolidándose como un 
+sistema integral que armoniza las necesidades 
+humanas con las especificidades del entorno 
+natural y sociocultural de los Llanos colombia­
+nos. Este enfoque se enmarca en las discusiones 
+contemporáneas sobre la gestión del hábitat, al 
+reconocer las dimensiones sociales, culturales 
+y ambientales como pilares esenciales para la 
+sostenibilidad y preservación del hábitat rural 
+(García Canclini, 2005; Rapoport, 1969).
+Desde una perspectiva social, los corredores 
+amplios y las zonas de interacción se configuran 
+como espacios flexibles que favorecen tanto la 
+convivencia como la cohesión comunitaria. Es­
+tos entornos, además de facilitar la adaptación 
+a las dinámicas cotidianas, promueven una ex­
+periencia de habitar enriquecida por la memo­
+ria colectiva y el sentido de pertenencia, esen­
+ciales para fortalecer los vínculos comunitarios 
+(Serrano-Barquín et al., 2021; Yory, 1999; 
+Llamosa Escobar, 2020).
+En términos culturales, las técnicas construc­
+tivas tradicionales, como el uso del bahareque 
+y los tejidos artesanales de chinchorros, repre­
+sentan un vínculo entre el pasado y el presente. 
+Estas prácticas, transmitidas a través de gene­
+raciones, integran elementos que preservan la 
+identidad y refuerzan la conexión con el terri­
+torio. La incorporación de innovaciones con­
+temporáneas a estas técnicas permite articular 
+la tradición con las demandas actuales, garan­
+tizando la resiliencia cultural y arquitectónica 
+(Jiménez Romera & Forero Suárez, 2021; Her­
+nández Bello, 2024).
+Desde una óptica ambiental, el diseño verná­
+culo destaca por su capacidad para adaptarse al 
+clima del Llano, integrando sistemas de ventila­
+ción cruzada, eficiencia energética y materiales 
+locales que minimizan el impacto ambiental. La 
+implementación de tecnologías limpias y ener­
+gías renovables refuerza la sostenibilidad de 
+estas viviendas, asegurando un equilibrio entre 
+funcionalidad y respeto por los ecosistemas que 
+las rodean (Diaz Vera, 2022; Jiménez Romera & 
+Forero Suárez, 2021).
+La gestión del hábitat, en el contexto de la vi­
+vienda llanera, debe enfocarse en estrategias 
+que combinen tradición e innovación, configu­
+rando un modelo integral que responda a las 
+particularidades climáticas y culturales del 
+Llano. Este enfoque no solo garantiza la funcio­
+nalidad de las viviendas, sino que también las 
+convierte en escenarios vivos para la preserva­
+ción del patrimonio cultural y la sostenibilidad 
+del territorio. La articulación de estas dimen­
+siones posiciona a la vivienda llanera como un 
+referente clave en la gestión del hábitat, al inte­
+grar soluciones que trascienden lo constructivo 
+y enriquecen el vínculo entre las comunidades y 
+su entorno.
+
+=== Página 18 ===
+Evolución de la Vivienda Llanera: Un Análisis Sociocultural desde la Percepción y la Corporalidad del Hábitat Rural
+26
+Conclusiones
+La vivienda llanera es un testimonio vivo de la 
+estrecha relación entre la corporeidad, el espacio 
+y la identidad cultural, reflejando cómo las co­
+munidades del Llano han sabido adaptarse a su 
+entorno natural y social. Este articulo resalta 
+que las características arquitectónicas de estas 
+viviendas no solo responden a las necesidades 
+climáticas y materiales del Llano, sino que tam­
+bién reflejan valores simbólicos profundamente 
+arraigados en las dinámicas sociales y culturales 
+de sus habitantes.
+La arquitectura vernácula responde a necesi­
+dades funcionales y actúa como un reflejo tan­
+gible de las relaciones culturales, sociales y 
+ambientales de las comunidades que la habitan. 
+Al respecto, la vivienda llanera destaca por su 
+capacidad de integrar conocimientos ancestra­
+les y prácticas sostenibles, utilizando materia­
+les locales como la palma y el bahareque. Estos 
+elementos no solo tienen una función práctica, 
+también refuerza la identidad cultural y forta­
+lecen las relaciones comunitarias.
+La corporeidad del hábitat, entendida como la 
+experiencia sensorial del cuerpo en el espacio, 
+debe ser protegido frente a la mercantilización. 
+Este concepto resalta la importancia de diseñar 
+viviendas que conecten los sentidos con el entor­
+no, promoviendo una experiencia habitacional 
+que no solo satisfaga necesidades físicas, sino 
+también emocionales y culturales. Sin esta cone­
+xión, el hábitat corre el riesgo de convertirse en 
+un producto más del mercado, perdiendo su valor 
+como expresión de identidad y memoria colectiva.
+La mercantilización del hábitat rural llanero, 
+impulsada por el turismo y las demandas del 
+mercado, presenta desafíos y oportunidades. 
+La estetización y comercialización han permi­
+tido explorar nuevas formas de desarrollo eco­
+nómico que pueden beneficiar a las comunida­
+des rurales si se gestionan adecuadamente; sin 
+embargo, transforman los espacios y manifes­
+taciones culturales en productos estandariza­
+dos, privándolos de su valor simbólico y comu­
+nitario, de forma que afectan negativamente la 
+identidad y el significado simbólico de los espa­
+cios habitados, lo que compromete la autentici­
+dad de las viviendas.
+Frente a las dinámicas globalizantes, la vi­
+vienda llanera debe ser vista como una estruc­
+tura representativa que refleja y mantiene viva 
+la cultura del Llano. Su relevancia radica en su 
+capacidad de resistir el paso del tiempo, y su ha­
+bitabilidad para conectar a los habitantes con 
+su entorno y su legado cultural. En ese sentido, 
+la protección de la vivienda llanera requiere un 
+enfoque que combine prácticas tradicionales, 
+innovaciones sostenibles, participación comu­
+nitaria y educación.
+Mitigar estos efectos requiere una estrategia 
+integral que combine la revalorización de las 
+prácticas constructivas tradicionales con el uso 
+de tecnologías sostenibles, respetando las for­
+mas, proporciones y materiales característicos 
+
+=== Página 19 ===
+27
+Modul. Arquit. CUC 34, pp. 27-32, Enero - Junio, 2025
+de la vivienda llanera. Es fundamental optimi­
+zar el confort térmico mediante el uso de ma­
+teriales naturales, mantenido la regulación de 
+la humedad con técnicas tradicionales. Diseños 
+adaptables que incluyan la ventilación cruzada 
+y estructuras flexibles deben responder tanto a 
+las condiciones climáticas como a las necesida­
+des sociales de las comunidades.
+La educación desempeña un papel clave en este 
+proceso, incluyendo la arquitectura vernácula y 
+la sostenibilidad en los currículos escolares para 
+que las nuevas generaciones comprendan y va­
+loren su patrimonio. Talleres participativos y 
+programas educativos pueden fomentar la pre­
+servación de técnicas constructivas ancestrales, 
+mientras la incorporación de tecnologías con­
+temporáneas, como sistemas de energía renova­
+ble, asegura una modernización responsable.
+También es importante destacar el diseño de 
+espacios que fomenten la interacción social y 
+fortalezcan la cohesión comunitaria, combina­
+do con la adaptación del diseño vernáculo al en­
+torno natural del Llano, representa una estra­
+tegia clave para consolidar el vínculo entre las 
+comunidades y su territorio. Estos elementos 
+no solo refuerzan la identidad cultural y la me­
+moria colectiva, sino que también garantizan 
+la sostenibilidad de la vivienda llanera frente a 
+los desafíos impuestos por la globalización y las 
+transformaciones contemporáneas.
+Finalmente esta investigación subraya la im­
+portancia de la vivienda llanera como un mode­
+lo de habitabilidad que trasciende las limitacio­
+nes del tiempo y ofrece valiosas lecciones para 
+equilibrar la preservación del pasado con las 
+demandas del presente y del futuro. Conceptos 
+como habitabilidad, corporeidad y percepción 
+emergen como principios fundamentales al aso­
+ciarse con la diversidad cultural y el equilibrio 
+ambiental, constituyendo una base sólida para 
+proyectar un desarrollo sostenible y cultural­
+mente arraigado.
+Asimismo, este enfoque no solo destaca la ne­
+cesidad de proteger y revitalizar las expresiones 
+culturales vernáculas, sino que también abre 
+nuevas oportunidades para la investigación, 
+profundizando en la relación entre el espacio 
+habitado, la apropiación territorial y la resi­
+liencia. En contextos rurales como los Llanos, 
+esta perspectiva resulta esencial para diseñar 
+estrategias integrales que combinen tradición 
+e innovación, permitiendo a las comunidades 
+enfrentar los retos contemporáneos sin desvin­
+cularse de su patrimonio y entorno. De esta ma­
+nera, la vivienda llanera se consolida como un 
+referente de sostenibilidad cultural y ambien­
+tal en la gestión del hábitat.
+Referencias
+Benevolo, L. (1995). Historia de la arquitectura 
+moderna. España: Editorial Gustavo Gili, 
+S.L. Obtenido de file:///C:/Users/FRAN​
+/Downloads/BENEVOLO_LEONARDO​
+_Historia_de_la_Arquite.pdf
+
+=== Página 20 ===
+Evolución de la Vivienda Llanera: Un Análisis Sociocultural desde la Percepción y la Corporalidad del Hábitat Rural
+28
+Bolívar, J. S., & Solarte, A. (2022). Viabilidad 
+Técnica De Vivienda Campesina Con Mu­
+ros De Gaviones En Los Llanos Orientales 
+De Colombia. Ingenieria e innovación RI­
+INN. Obtenido de https://repository.usta​
+.edu.co/bitstream/handle/11634/31951​
+/2021julianbolivar..pdf?sequence=14&​
+isAllowed=y
+Calleja Sordo, C., & González Damián, A. 
+(2016). Mercantilización de la cultura en 
+aras de ofrecer una experiencia turística 
+estandarizada. Reflexiones desde el caso de 
+Cozumel, México. Revista Iberoamericana 
+de turirsmo, 82- 95. Obtenido de https://​
+www.seer.ufal.br/index.php/ritur/article​
+/view/2343/1788
+Crespo, J. L., & Pillacela, L. A. (2019). Per­
+cepción y emoción en la arquitectura. Un 
+comentario sobre Los ojos de la piel, de 
+Juhani Pallasmaa. Educación artística: 
+Revista De investigación, (10), 342–345. 
+doi:https://doi.org/10.7203/eari.10​
+.13066
+Cutruneo, J. P. (2011). El tema de la razón en 
+la teorización de la arquitectura moderna: 
+un recorrido por textos de Viollet-le-Duc, 
+Le Corbusier y Sartoris. Revista de Arqui­
+tectura, 13, 55-65. Obtenido de https://​
+revistadearquitectura.ucatolica.edu.co​
+/article/view/769
+Díaz G., H. (1998). LA CULTURA LLANERA: 
+Un análisis etno-semiótico. Fondo FEN 
+Colombia. Obtenido de https://repositorio​
+.unal.edu.co/handle/unal/10314
+Diaz Vera, M. (2022). Prácticas Críticas: Cuer­
+po, Arquitectura y Representación. Cien­
+cia, Técnica y Mainstreaming social, (6), 
+57‐66. Obtenido de http://hdl.handle.net​
+/10251/182679
+Fregosi, P. (2022). Performatividad en Ar­
+quitectura: La producción de discurso, 
+significado y acción desde la actividad ar­
+quitectónica contemporánea. Anales de 
+Investigación en Arquitectura., 12(2). 
+doi:https://doi.org/10.18861/ania.2022​
+.12.2.3210
+Garay, A. (2019). Configuración del hábitat ru­
+ral y condiciones de vida: Modelo concep­
+tual para un abordaje relacional. Estudios 
+Del hábitat, 17(1). doi:https://doi.org/10​
+.24215/24226483e064
+García Canclini, N. (2005). Diferentes, des­
+iguales y desconectados mapas de la in­
+terculturalidad. 
+Gedisa. 
+Obtenido 
+de 
+https://oibc.oei.es/uploads/attachments​
+/123/garcia-canclini-nestor-diferentes​
+-desiguales-y-desconectados-mapas-de-la​
+-interculturalidad.pdf
+
+=== Página 21 ===
+29
+Modul. Arquit. CUC 34, pp. 29-32, Enero - Junio, 2025
+Garrido, D. (2016). Le Corbusier y la Reorga­
+nización del hábitat rural. En LE COR­
+BUSIER. 50 AÑOS DESPUÉS. Editorial 
+Universitat Politècnica de València. Obte­
+nido de https://riunet.upv.es/bitstream​
+/handle/10251/87068/713-5581-3-PB​
+.pdf?sequence=1&isAllowed=y
+Garzón-García, R., & Vega-Pozuelo, R. (2022). 
+Agricultural uses management in midd­
+le Mediterranean protected mountainous 
+areas. Study in the Andalusian Sierra 
+Morena. Investigaciones Geograficas, 77, 
+279–301. 
+https://doi.org/10.14198/IN­
+GEO.18057
+Gil, J. P. (2024). Informal settlements and ver­
+nacular architecture: old and new deba­
+tes. Ciudades, 27, 229–246. https://doi.
+org/10.24197/ciudades.27.2024.229-246
+Hernández Bello, A. (2024). La investigación etno­
+lógica en los Llanos Orientales: una visión pano­
+rámica. Razón Crítica, 16, 1-33. doi:https://
+doi.org/10.21789/25007807​.1901
+Hernández Sampieri et al. (2014). Metodolo­
+gía de la Investigación. Mcgraw-Hill. In­
+teramericana Editores, S.A. 6ª Ed. Obte­
+nido de http://observatorio.epacartagena​
+.gov.co/wp-content/uploads/2017/08​
+/metodologia-de-la-investigacion-sexta​
+-edicion.compressed.pdf 
+Herrera Montero, L.A., y Herrera Montero, L. 
+(2020). Territorio y territorialidad: Teo­
+rías en confluencia y refutación. Univer­
+sitas, 32, pp. 99-120. doi:https://doi.org​
+/10.17163/uni.n32.2020.05
+Jiménez Romera, C., & Forero Suárez, F. 
+(2021). Recuperación y actualización de 
+técnicas tradicionales para el mejoramien­
+to del hábitat rural desde el diseño. Ho­
+jas de El Bosque. doi:https://doi.org/10​
+.18270/heb.v8i14.3538
+Llamosa Escobar, D. F. (2020). Cuerpo, exis­
+tencia, arquitectura. Labor & Engenho. 
+doi:https://doi.org/10.20396/labore​
+.v14i0.8658893
+Llorente-Sanz, J. (2024). La metáfora perpen­
+dicular como herramienta para comunicar 
+una posición arquitectónica. Revista de Ar­
+quitectura, 29(46), 174-192. doi:https://​
+doi.org/10.5354/0719-5427.2024.73578
+Martínez Espinal, H. (2016). Del hábito, al há­
+bitat y al habitar: El origen de la contra­
+dicción entre el comportamiento espacial 
+unitario y sistémico del mundo natural y 
+el comportamiento espacial fragmentado 
+y errático del mundo civilizado occidental. 
+Universidad del Valle. Digitalia, https://
+www-digitaliapublishing-com.unipamplo­
+na.basesdedatosezproxy.com/a/160212
+
+=== Página 22 ===
+Evolución de la Vivienda Llanera: Un Análisis Sociocultural desde la Percepción y la Corporalidad del Hábitat Rural
+30
+Merleau - Ponty, M. (1945). Phenomeno­
+logy of Perception. Routledge & Ke­
+gan Paul. Hause fron and Culture. 
+Prentice - Hall. Obtenido de https://
+dl1.cuni.cz​/pluginfile.php/633801/mod_resource​
+/content/1/Routledge%20Classics​
+%29%20Maurice%20Merleau-Ponty​
+-Phenomenology%20of%20Perception​
+%20-Routledge%20%282002%29.pdf
+Mosquera Torres , G., & Aprile-Gniset , J. 
+(2018). Habitats y Sociedades del Pacifico 
+Volumen I: La Bahia Sola. Cali: Programa 
+Editorial Universidad del Valle. doi:ht­
+tps://doi.org/10.25100/peu.316
+Osorio González & al. (2023). Apropiación del 
+espacio turístico público y privado en Méxi­
+co. Una cartografía feminista desde lo rural 
+y urbano. TURPADE. Turismo, Patrimonio 
+y Desarrollo., 2 ( 18 ), 1- 15 . doi:https://
+doi.org/10.21640/rt.v2i18​.74 
+Pallasmaa, J. (1996). The Eyes of the Skin: Ar­
+chitecture and the Senses. Wiley-Academy. 
+Obtenido de https://www.academia.edu​
+/23477610/THE_EYES_OFTHE_SKIN​
+_Architecture_and_the_Senses
+Ponce de León Hernández, M. (2022). Técnicas 
+vernáculas y dinámicas de construcción del 
+hábitat en el marco de la vivienda de inte­
+rés cultural. caso de estudio: Orocué, Casa­
+nare. Universidad de los Andes. Obtenido 
+de http://hdl.handle.net/1992/58834
+Prieto Osorio, Miguel Antonio. (2022). Identi­
+dad llanera, cultura y desarrollo : el caso 
+del Departamento del Meta (Colombia). 
+Tesis de Maestría. Buenos Aires: FLAC­
+SO. Sede Académica Argentina. Obtenido 
+de http://hdl.handle.net/10469/18995
+Puerta, C., Arce, A., Berno de Almeida, Alfre­
+do Wagner, Pérez Piñán, A., & Echava­
+rría Usher, C. (2022). Propuestas críticas 
+y comprometidas Metodologías para desa­
+rrollos situados. https://doi.org/https://
+doi.org/10.17533/978-628-7592-28-5
+Rapoport, A. (1969). House Form and Cultu­
+re. Prentice-Hall. Obtenido de https://​
+u n e s d o c . u n e s c o . o r g / a r k : / 4 8 2 2 3​
+/pf0000039488?posInSet=1&queryId=N​
+-EXPLORE-7bcf1d93-11a8-4190-944e​
+-fb2f70cae176
+Reyes Gavilán, A. L. (2024). La instrumentali­
+zación del saber antropológico en la década 
+de 1930 en el marco de la colonización de 
+los Llanos Orientales: los trabajos de Gus­
+taf Bolinder para el Ministerio de Educa­
+ción Nacional en Colombia. Razón Crítica, 
+(16), 1–34. doi: https://doi.org/10.21789​
+/25007807.1897
+Rodríguez, E., & Quintanilla, A. L. (2019). 
+Relación ser humano-naturaleza: Desarro­
+llo, adaptabilidad y posicionamiento hacia 
+la búsqueda de bienestar subjetivo. Avan­
+ces en Investigación Agropecuaria, 23(3), 
+7-22. Obtenido de https://www.redalyc​
+.org/articulo.oa?id=83762317002
+
+=== Página 23 ===
+31
+Modul. Arquit. CUC 34, pp. 31-32, Enero - Junio, 2025
+Rozo, E. (2023). Los retos del paisaje cultural 
+cafetero de Colombia frente al turismo y 
+las dinámicas territoriales. Obtenido de 
+https://chaire-unesco-culture-tourisme​
+.pantheonsorbonne.fr/sites/default/files​
+/inline-files/Seminario%20caf%C3%A9​
+%202023_0.pdf
+Sabido Ramos, O. (2016). Cuerpo y sentidos: el 
+análisis sociológico de la percepción. Deba­
+te Feminista, 51. doi:https://doi.org/10​
+.1016/j.df.2016.04.002
+Salazar González, G., & Jiménez-Fajardo, I. 
+(2022). La experiencia del espacio-tiempo 
+arquitectónico. Una perspectiva fenome­
+nológica del sensorium. Revista de arqui­
+tectura, 27(43), 162-179. doi:https://doi​
+.org/10.5354/0719-5427.2022.67419
+Saldarriaga Roa, A. (2016). Habitat y arquitec­
+tura en Colombia : modos de habitar desde 
+el prehispánico hasta el siglo XIX. Edito­
+rial Jorge Tadeo Lozano Digitalia, https://
+www-digitaliapublishing-com.unipamplo­
+na.basesdedatosezproxy.com/a/46666
+Saldarriaga Roa, A. (2019). ¿Cómo se habita 
+el hábitat? Los modos de habitar. Proce­
+sos Urbanos, 6, 22–33. https://doi.or­
+g/10.21892/2422085x.454
+Saldarriaga, J. (2023). El hogar como elemento 
+de la arquitectura: una historia de sus des­
+plazamientos. Revista de Arquitectura., 
+28(44), 194-207. doi: https://doi.org/10​
+.5354/0719-5427.2023.70030
+Sánchez Fúnez, A. (2013). Búsqueda de los 
+sentidos a través de la arquitectura: un 
+proceso de investigación. Arte Y Movi­
+miento, 8., 63-80. Obtenido de https://​
+revistaselectronicas.ujaen.es/index.php​
+/artymov/article/view/1010
+Sánchez Silva, L. F. (2024). El llano festivo. Ob­
+tenido de Revista Credencial: https://www​
+.revistacredencial.com/historia/temas/el​
+-llano-festivo
+Sarmiento Ocampo, J. (2024). Crítica a la co­
+municación contemporánea de la arqui­
+tectura. Revista de Arquitectura, 29(46), 
+57-74. doi:https://doi.org/10.5354/0719​
+-5427.2024.72959
+Serrano-Barquín et al. (2021). Paisajes eva­
+nescentes. Resignificación de la noción del 
+no-lugar. Revista de Arquitectura, 24(1), 
+16-23. 
+doi: 
+https://doi.org/10.14718​
+/RevArq.2022.24.1.3211
+Tabares Rodríguez, F. E. (2024). Evolución de 
+la vivienda llanera: un análisis sociológico 
+para la preservación de la identidad cultu­
+ral frente a la mercantilización en Casa­
+nare [Trabajo de grado]. Universidad de 
+Pamplona (Colombia).
+Villa Ruiz, C. R. (2015). MI CUERPO, MI ES­
+PACIO La relación del cuerpo en la arqui­
+tectura como apuesta formativa para ex­
+perimentar la sensibilidad espacial. Caso 
+primer semestre. San Buenaventura de 
+Cali: Universidad La Gran Colombia Arme­
+nia. Obtenido de file:///C:/Users/FRAN​
+/Downloads/Teroia/Cuerpo_espacio​
+_relacion_villa_2015.pdf
+
+=== Página 24 ===
+Evolución de la Vivienda Llanera: Un Análisis Sociocultural desde la Percepción y la Corporalidad del Hábitat Rural
+32
+Vives, F. A., Sguario, C. G., Sánchez, M. G., & 
+López, S. M. (2024). La ergonomía y an­
+tropometría como (Alfredo Otero-Ortega 
+Josep María Llop-Torne., 2020)Estudios 
+de Diseño y Comunicación. (212), 123-
+129. Obtenido de https://dspace.palermo​
+.edu/ojs/index.php/cdc/article/download​
+/10969/18781 
+Yory, C. M. (1999). Topofilia o la dimensión 
+poética del habitar. Pontificia Universi­
+dad Javeriana. Obtenido de https://books​
+.google.com.co/books/about/Topofilia​
+_o_la_dimensi%C3%B3n_po%C3%A9tica​
+_del_h.html?id=GWvuYN6wpI4C&redir​
+_esc=y
+

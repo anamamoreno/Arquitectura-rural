@@ -1,0 +1,2989 @@
+# Fuente: TdeG-UGC-SantaRosadeVitervo_2022.pdf
+# Total páginas: 125
+
+=== Página 1 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS EN COMUNIDADES RURALES 
+PROTOTIPO DE VIVIENDA CAMPESINA EN SANTA ROSA DE VITERBO 
+ 
+ 
+ 
+ 
+ 
+ 
+Ingrid Tatiana Orozco González 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Programa Arquitectura, Facultad de Arquitectura  
+Universidad La Gran Colombia 
+Bogotá 
+ 2022 
+ 
+
+=== Página 2 ===
+Transferencia tecnológica de técnicas vernáculas en comunidades rurales 
+Prototipo de vivienda campesina en Santa Rosa de Viterbo 
+ 
+ 
+ 
+Ingrid Tatiana Orozco González 
+ 
+ 
+Trabajo de Grado presentado como requisito para optar al título de (Arquitecto) 
+ 
+Director Arq. Alberto Nope Bernal 
+Co-Director Arq. Erwin Zambrano  
+ 
+ 
+ 
+Programa Arquitectura, Facultad de Arquitectura 
+Universidad La Gran Colombia 
+Bogotá 
+2022
+
+=== Página 3 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+3 
+Tabla de contenido 
+RESUMEN ............................................................................................................................................................ 12 
+ABSTRACT ............................................................................................................................................................ 13 
+INTRODUCCIÓN ................................................................................................................................................... 14 
+CAPITULO 1 – ANTECEDENTES.............................................................................................................................. 18 
+1.1. PLANTEAMIENTO DEL PROBLEMA ...................................................................................................................... 18 
+1.1.1. Aspecto habitacional ...................................................................................................................... 19 
+1.1.2. Aspecto socioeconómico ................................................................................................................ 21 
+1.1.3. Aspecto Ambiental ......................................................................................................................... 21 
+1.1.4. Aspecto demográfico ..................................................................................................................... 22 
+1.2. PREGUNTA PROBLEMA .................................................................................................................................... 23 
+1.3. JUSTIFICACIÓN ............................................................................................................................................... 23 
+1.4. POBLACIÓN OBJETIVO ..................................................................................................................................... 26 
+1.5. HIPÓTESIS .................................................................................................................................................... 30 
+1.6. OBJETIVOS .................................................................................................................................................... 31 
+1.6.1. Objetivo general ............................................................................................................................. 31 
+1.6.2. Objetivos específicos ...................................................................................................................... 31 
+1.7. DESARROLLO METODOLÓGICO EN LA INVESTIGACIÓN ............................................................................................ 32 
+1.7.1. Tipo de metodología ...................................................................................................................... 32 
+CAPITULO 2 – MARCOS DE ANÁLISIS .................................................................................................................... 34 
+2.1. INTRODUCCIÓN CAPÍTULO 2 ............................................................................................................................. 34 
+2.2. MARCO TEÓRICO ........................................................................................................................................... 34 
+2.3. MARCO CONCEPTUAL ..................................................................................................................................... 36 
+2.4. MARCO HISTÓRICO......................................................................................................................................... 41 
+2.5. MARCO NORMATIVO ...................................................................................................................................... 42 
+2.6. MARCO REFERENCIAL ..................................................................................................................................... 43 
+
+=== Página 4 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+4 
+CAPITULO 3 – CARACTERIZACIÓN ........................................................................................................................ 47 
+3.1. INTRODUCCIÓN CAPÍTULO 3 ............................................................................................................................. 47 
+3.2. RELACIONES ESTÁTICAS ................................................................................................................................... 47 
+3.2.1. Análisis macro ................................................................................................................................ 47 
+3.2.2. Análisis meso.................................................................................................................................. 48 
+3.2.3. Análisis micro ................................................................................................................................. 48 
+3.3. RELACIONES DINÁMICAS .................................................................................................................................. 49 
+3.3.1. Análisis macro ................................................................................................................................ 49 
+3.3.2. Análisis meso.................................................................................................................................. 50 
+3.3.3. Análisis micro ................................................................................................................................. 50 
+CAPITULO 4 – FORMULACIÓN .............................................................................................................................. 51 
+4.1. INTRODUCCIÓN CAPÍTULO 4 ............................................................................................................................. 51 
+4.2. INDICADORES RURALES, ARQUITECTÓNICOS Y AGRÍCOLAS ....................................................................................... 51 
+4.3. ESTRATEGIAS................................................................................................................................................. 52 
+4.3.1. Educación Transformativa ............................................................................................................. 52 
+4.3.2. Tratamiento consciente de los recursos naturales ......................................................................... 53 
+4.3.3. Prácticas agropecuarias ................................................................................................................. 53 
+4.3.4. Prototipos de vivienda campesina ................................................................................................. 53 
+4.3.5. Uso productivo del suelo ................................................................................................................ 53 
+CAPITULO 5 – DISEÑO .......................................................................................................................................... 54 
+5.1. INTRODUCCIÓN CAPÍTULO 5 ............................................................................................................................. 54 
+5.2. PROPUESTA GENERAL ..................................................................................................................................... 54 
+5.3. ZONIFICACIÓN ............................................................................................................................................... 55 
+5.3.1. Selección del lugar ......................................................................................................................... 55 
+5.3.2. Organigrama .................................................................................................................................. 55 
+
+=== Página 5 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+5 
+5.4. PROPUESTA TEMÁTICA .................................................................................................................................... 56 
+5.5. PROPUESTA ARQUITECTÓNICA .......................................................................................................................... 57 
+5.5.1. Prototipos de vivienda campesina. ................................................................................................ 59 
+5.5.1.1 Prototipo habitacional 1 .............................................................................................................. 76 
+5.5.1.2 Prototipo habitacional 2 .............................................................................................................. 79 
+5.5.1.3 Prototipo habitacional 3 .............................................................................................................. 80 
+5.5.1.4 Prototipo habitacional 4 .............................................................................................................. 82 
+5.5.1.5 Prototipo habitacional 5 .............................................................................................................. 83 
+6.1. INTRODUCCIÓN CAPÍTULO 6 ............................................................................................................................. 85 
+6.2. OBJETIVO ..................................................................................................................................................... 85 
+6.3. MATERIALES ................................................................................................................................................. 85 
+6.3.1. Caña de castilla .............................................................................................................................. 85 
+6.3.2. Tierra .............................................................................................................................................. 86 
+6.3.3. La Cal .............................................................................................................................................. 87 
+6.3.3.1. Mortero de Cal ............................................................................................................................ 89 
+6.4. MÉTODO ...................................................................................................................................................... 90 
+6.4.1 Recorrido – contextualización ......................................................................................................... 91 
+6.4.2. Caracterización del predio de implantación del proyecto .............................................................. 93 
+6.4.3 Explicación del proceso constructivo ............................................................................................... 93 
+6.4.4. Proceso constructivo ...................................................................................................................... 98 
+6.5. SONDEO DE OPINIÓN .................................................................................................................................... 113 
+6.5.1 Perfil de los participantes .............................................................................................................. 114 
+6.6. CONCLUSIONES ........................................................................................................................................... 115 
+6.7. TRANSFERENCIA DEL CONOCIMIENTO ............................................................................................................... 115 
+6.7.1. PERFIL DEL SELECCIONADO .......................................................................................................................... 116 
+6.7.2. ENTREVISTA REALIZADA .............................................................................................................................. 117 
+
+=== Página 6 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+6 
+CONCLUSIONES .................................................................................................................................................. 119 
+REFERENCIAS ..................................................................................................................................................... 120 
+ANEXOS ............................................................................................................................................................. 125 
+ 
+ 
+ 
+
+=== Página 7 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+7 
+Lista de Figuras 
+Figura 1  Mal estado de la vivienda y espacio desaprovechado ....................................................... 19 
+Figura 2  Vivienda deshabitada por deterioro .................................................................................. 20 
+Figura 3  Muros en deterioro ............................................................................................................ 20 
+Figura 4  Localización ........................................................................................................................ 26 
+Figura 5  Santa Rosa de Viterbo ........................................................................................................ 27 
+Figura 6  Escuela de policía Rafael Reyes.......................................................................................... 28 
+Figura 7  Mapa división política, Santa Rosa de Viterbo .................................................................. 29 
+Figura 8  Mapa conceptual, definición de vivienda productiva ........................................................ 40 
+Figura 9  Memoria urbana ................................................................................................................ 55 
+Figura 10   Zonificación programa funcional .................................................................................... 55 
+Figura 11  Distribución por temática ................................................................................................ 57 
+Figura 12  Planta general .................................................................................................................. 58 
+Figura 13  Vista Eco-hotel ................................................................................................................. 58 
+Figura 14  Vista general .................................................................................................................... 59 
+Figura 15  Diseño habitacional / modulación estructura ................................................................. 60 
+Figura 16  Análisis de forma.............................................................................................................. 61 
+Figura 17  Análisis de proporción ..................................................................................................... 61 
+Figura 18  Análisis modulación de estructura ................................................................................... 62 
+Figura 19  Memoria descriptiva, definición forma prototipos propuestos ...................................... 63 
+Figura 20  Planta y perspectiva casa tipo mínimo ............................................................................ 65 
+Figura 21  Sección AA y perspectiva casa tipo mínimo ..................................................................... 65 
+Figura 22  Fachadas casa tipo mínimo .............................................................................................. 66 
+Figura 23  Planta y perspectiva casa número 1 ................................................................................ 67 
+
+=== Página 8 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+8 
+Figura 24  Corte y detalles casa número 1........................................................................................ 67 
+Figura 25  Fachadas casa número 1 .................................................................................................. 68 
+Figura 26  Planta y fachada posterior y principal casa número 2 ..................................................... 68 
+Figura 27  Planta y fachada lateral derecha e izquierda casa número 2 .......................................... 69 
+Figura 28  Perspectiva y corte casa número 2 .................................................................................. 70 
+Figura 29  Perspectiva y planta casa número 3 ................................................................................ 71 
+Figura 30  Fachadas casa número 3 .................................................................................................. 72 
+Figura 31   Fachadas casa número 3 ................................................................................................. 72 
+Figura 32  Fachada principal y posterior casa número 7 .................................................................. 73 
+Figura 33  Fachada lateral izquierda y derecha casa número 7 ....................................................... 74 
+Figura 34  Casas en Soatá - Boyacá ................................................................................................... 74 
+Figura 35  Casa en Samacá – Boyacá ................................................................................................ 75 
+Figura 36  Casa en Pesca – Boyacá ................................................................................................... 75 
+Figura 37 Planta prototipo de vivienda 1 ......................................................................................... 76 
+Figura 38  Circulaciones y permanecías. ........................................................................................... 77 
+Figura 39  Vista general 1. ................................................................................................................ 77 
+Figura 40  Vista general 2 y 3. ........................................................................................................... 78 
+Figura 41  Planta prototipo 2. ........................................................................................................... 79 
+Figura 42  Vista general 1. ................................................................................................................ 80 
+Figura 43  Planta prototipo 3. ........................................................................................................... 81 
+Figura 44  Vista general. ................................................................................................................... 81 
+Figura 45  Planta prototipo 4. ........................................................................................................... 82 
+Figura 46  Vista general. ................................................................................................................... 83 
+Figura 47  Planta prototipo 5 ............................................................................................................ 84 
+
+=== Página 9 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+9 
+Figura 48  Vista general. ................................................................................................................... 84 
+Figura 49  Ciclo de la cal.................................................................................................................... 88 
+Figura 50  Poster correspondiente al taller ...................................................................................... 91 
+Figura 51   Plaza central Santa Rosa de Viterbo ............................................................................... 92 
+Figura 52  Vista hacia el proyecto ..................................................................................................... 92 
+Figura 53  Vías de acceso al proyecto ............................................................................................... 92 
+Figura 54 Caracterización del predio ................................................................................................ 93 
+Figura 55  Socialización proceso constructivo .................................................................................. 94 
+Figura 56  Cimentación en concreto ciclópeo .................................................................................. 94 
+Figura 57  Viga de amarre en concreto............................................................................................. 95 
+Figura 58  Dados de apoyo o pedestales y mampostería ................................................................. 95 
+Figura 59  Estructura ......................................................................................................................... 97 
+Figura 60  Posicionamiento columnas en madera ............................................................................ 97 
+Figura 61  Toma de medidas, verificación marco ............................................................................. 98 
+Figura 62  Corte para armado ........................................................................................................... 99 
+Figura 63  Proceso de armado .......................................................................................................... 99 
+Figura 64  Corte para armado ......................................................................................................... 100 
+Figura 65  Preparación del lugar para mezcla................................................................................. 100 
+Figura 66  Recolección de pasto seco ............................................................................................. 101 
+Figura 67  Recolección de tierra ..................................................................................................... 101 
+Figura 68  Mezcla de materiales para relleno ................................................................................ 102 
+Figura 69  Proceso de mezcla ......................................................................................................... 102 
+Figura 70  Proceso de mezcla realizado por diferentes personas .................................................. 103 
+Figura 71  Mezcla finalizada y lista para emplear ........................................................................... 103 
+
+=== Página 10 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+10 
+Figura 72  Montaje esterilla. ........................................................................................................... 104 
+Figura 73  Montaje esterilla. ........................................................................................................... 105 
+Figura 74  Amarre de esterilla. ....................................................................................................... 105 
+Figura 75  Montaje de marcos. ....................................................................................................... 106 
+Figura 76  Montaje de marcos. ....................................................................................................... 106 
+Figura 77  Montaje de marcos. ....................................................................................................... 107 
+Figura 78  Asegurada de marcos. .................................................................................................... 107 
+Figura 79  Asegurada de marcos. .................................................................................................... 109 
+Figura 80  Asegurada de marcos. .................................................................................................... 109 
+Figura 81  Relleno de esterilla. ....................................................................................................... 110 
+Figura 82  Relleno de esterilla. ....................................................................................................... 110 
+Figura 83 Relleno de esterilla. ........................................................................................................ 111 
+Figura 84  Amarre de esterilla. ....................................................................................................... 111 
+Figura 85  Maqueta de detalle. ....................................................................................................... 112 
+Figura 86  Maqueta de detalle ........................................................................................................ 113 
+Figura 87  sondeo de opinión. ........................................................................................................ 114 
+Figura 88  Persona entrevistada ..................................................................................................... 116 
+Figura 89  Persona entrevistada. .................................................................................................... 117 
+Figura 90  Entrevista realizada ........................................................................................................ 118 
+ 
+ 
+
+=== Página 11 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+11 
+Lista de Tablas 
+Tabla 1 Distribución de los municipios por extensión territorial y área de residencia, Municipio de 
+Santa Rosa de Viterbo, Boyacá, 2019 ............................................................................................................ 18 
+Tabla 2  Caracterización económica de la población ........................................................................ 21 
+Tabla 3  Objetivos de Desarrollo Sostenible aplicados al proyecto .................................................. 24 
+Tabla 4  Análisis Macro – Relaciones estáticas ................................................................................. 47 
+Tabla 5  Análisis meso – Relaciones estáticas................................................................................... 48 
+Tabla 6  Análisis micro - Relaciones estáticas ................................................................................... 48 
+Tabla 7  Análisis Macro - Relaciones dinámicas................................................................................ 49 
+Tabla 8  Análisis meso - Relaciones dinámicas ................................................................................. 50 
+Tabla 9  Análisis micro - Relaciones dinámicas ................................................................................. 50 
+Tabla 10  Indicadores Análisis Meso - Santa Rosa de Viterbo .......................................................... 51 
+Tabla 11  Indicadores análisis Micro - Vereda Cuche ....................................................................... 52 
+ 
+ 
+
+=== Página 12 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+12 
+Resumen 
+ 
+Boyacá se ha caracterizado por su importante tradición en la construcción de vivienda vernácula. 
+Específicamente, en la Vereda Cuche - Santa Rosa de Viterbo y mediante visitas de campo se evidenció que 
+las construcciones vernáculas están en ruinas o muy deterioradas, haciéndolas no habitables. Las 
+construcciones recientes utilizan sistemas industrializados que emplean materiales contaminantes (acero, 
+concreto, algunas pinturas y barnices); además, requieren combustibles fósiles y electricidad (principales 
+generadores de dióxido de carbono), que provocan un alto impacto en la huella ecológica; está claro que la 
+riqueza propia de la región está siendo desaprovechada, como la madera y materiales de construcción, 
+causando así el desplazamiento de la construcción artesanal, con tapia pisada, bahareque, adobe, madera, 
+piedra, entre otras. Ello ocasiona la carencia del sentido de pertenencia cultural del lugar y afecta la zona 
+física, sociocultural y económicamente. Por tanto, este trabajo propone, además de diseñar una comunidad 
+agropecuaria, desarrollar un prototipo de vivienda rural en bahareque, identificando las condiciones 
+arquitectónicas ancestrales del lugar, para generar una serie de actividades a nivel veredal; incentivando el 
+desarrollo de sistemas productivos sostenibles, asociados a técnicas constructivas y actividades como la 
+producción agropecuaria para la apropiación del lugar. Para alcanzar este objetivo se caracterizaron 
+aspectos ambientales, socio-económicos, culturales y habitacionales del lugar; se formularon estrategias de 
+implantación y tecnológicas que se adaptaran a las dinámicas de los residentes de la zona; se diseñaron 
+prototipos de vivienda campesina y se construyó uno de ellos en bahareque, como método evaluativo del 
+proceso de capacitación y transferencia de conocimientos. 
+ 
+Palabras clave: técnicas vernáculas, vivienda rural, Santa Rosa de Viterbo, construcción en bahareque, 
+transferencia del conocimiento, arquitectura vernácula, vivienda productiva. 
+ 
+
+=== Página 13 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+13 
+Abstract 
+Boyacá has been characterized by its important tradition in the construction of vernacular housing. In the 
+Vereda Cuche - Santa Rosa de Viterbo, it was evidenced through field visits that the vernacular constructions 
+are in ruins or deteriorated, therefore, they are not habitable. Recent constructions use industrialized 
+systems that implement polluting materials, such as steel, concrete, some paints and varnishes; it also 
+requires fossil fuels and electricity, the main generators of carbon dioxide, causing a high impact on the 
+ecological footprint; It was evidenced that the region's own wealth, such as wood and construction 
+materials, is wasted, thus causing the displacement of artisanal construction, such as rammed earth, 
+bahareque, adobe, wood, stone, among others and causing the lack of sense of cultural belonging of the 
+place, which affects the area physically as well as socioculturally and economically. Therefore, this proposal 
+sought, in addition to designing an agricultural community, to develop a prototype of rural housing in 
+bahareque, identifying the ancestral architectural conditions of the place, to generate a series of activities 
+at the village level, encouraging the development of sustainable production systems associated with 
+construction techniques and activities such as agricultural production, for the appropriation of the place. 
+To achieve this objective, environmental, socio-economic, cultural and housing aspects of the place are 
+characterized, implantation and technological strategies are formulated that adapt to the dynamics of the 
+residents of the area, peasant housing prototypes are designed and one of them is built. them in bahareque, 
+as an evaluative method of the training process and knowledge transfer. 
+ 
+Keywords: vernacular techniques, rural housing, Santa Rosa de Viterbo, bahareque construction, 
+knowledge transfer, vernacular architecture, productive housing. 
+ 
+
+=== Página 14 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+14 
+Introducción 
+Esta investigación se realiza en el departamento de Boyacá, área geográfica en la cual se 
+encuentra Santa Rosa de Viterbo, que es el territorio centro de implementación de desarrollo sostenible 
+basado en la construcción de vivienda vernácula. Se trata específicamente de la Vereda Cuche, en la 
+propuesta de su Plan de Desarrollo Territorial del periodo comprendido entre el 2020 y el 2023, que fue 
+elaborado por la Alcaldía municipal de Santa Rosa de Viterbo y procura: fortalecer y promover la 
+sostenibilidad del territorio trabajando en las variables de producción, industria, creatividad, turismo y 
+desarrollo económico (Alcaldía Municipal Santa Rosa de Viterbo, 2020). 
+Lo anterior, valiéndose de herramientas como la tecnología, la innovación, el conocimiento y la 
+investigación, que aportan a alcanzar el objetivo principal de este trabajo, teniendo en cuenta que lo que 
+se espera es generar una estrategia de transferencia del conocimiento sobre técnicas constructivas 
+vernáculas, rescatando la tradición constructiva del sistema de Bahareque y posibilitando la futura 
+transferencia a otras personas y a futuras generaciones. Todo esto, con el fin de fomentar el cuidado del 
+medio ambiente, dar a conocer parte importante de la cultura del territorio y promover las actividades 
+propias del sector, con la finalidad de que los habitantes de la zona encuentren actividades que les 
+permitan avanzar en diversos aspectos, para disminuir las intenciones de migrar a las grandes ciudades, 
+por medio del acceso a una Vivienda de Interés Cultural (VIC). 
+Es importante puntualizar ahora que, la vivienda vernácula, desde los orígenes de la arquitectura, 
+fue implementada por medio de técnicas constructivas que se valían de los materiales de la zona e 
+insumos tomados directamente de la naturaleza (ahora llamadas técnicas ancestrales), lo cual les dio una 
+característica ecológica y sustentable a las edificaciones construidas en esa época. A propósito de ello, el 
+gobierno nacional profirió la Ley 2079 del 14 de enero de 2021, a partir de la cual se dictan disposiciones 
+en materia de vivienda y hábitat, ello vincula estrechamente el desarrollo de vivienda de interés cultural 
+con las técnicas ancestrales. Por lo anterior, es importante tener en cuenta que las características 
+
+=== Página 15 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+15 
+principales de las viviendas de interés cultural definidas por el Ministerio de Cultura y el Ministerio de 
+Vivienda, Ciudad y Territorio, basan su creación en técnicas ancestrales de construcción como: 
+costumbres, territorio, tradiciones, diseño, clima, técnicas constructivas y productivas, estilos de vida, 
+materiales, entorno, entre otras. 
+Ahora bien, la experiencia muestra que estas técnicas han ido desapareciendo y tomando en 
+consideración el gran impacto que causa la huella ecológica en la actualidad, es importante retomar e 
+implementar su uso con el fin de minimizar los efectos nocivos. Para este caso se plantea específicamente 
+la técnica del bahareque, que es la más apropiada en tanto el proyecto se va a desarrollar a nivel rural y 
+con la colaboración de la comunidad, procurando impulsar la construcción artesanal que implica el uso de 
+esta técnica constructiva con el fin de recobrar los valores culturales arraigados al territorio (que en la 
+actualidad se han perdido). 
+Así mismo, es importante añadir que, en el transcurso del periodo formativo (500 a.C.) surgió una 
+de las culturas indígenas más importantes, la muisca, que ocupó gran parte de la actualmente conocida 
+región andina. No obstante, debido a que la mayoría de los elementos de su cultura fueron hechos con 
+materiales poco duraderos, no hay mayor mostrario arqueológico y solo se conservan algunos cimientos 
+hechos de piedra. Pero, de acuerdo con los cronistas, sus viviendas eran bohíos cubiertos con paja y 
+paredes en bahareque, tradición que aún se conserva y ha sido la base para que la cultura de la 
+arquitectura con tierra y madera se mantenga en el territorio colombiano.  
+Entre tanto, al llegar los españoles y después en la Colonia, estas técnicas empleadas por los 
+indígenas se modificaron para implementar la tecnología. Debido a la existencia de edificaciones 
+encontradas, se tiene que, durante el siglo XV, según A. Corradine (1989), se mantenía la construcción a 
+partir de bahareque, adobe y tapia pisada, conservando y consolidando el uso de estas técnicas y 
+materiales los siglos siguientes. Durante el siglo XVII y XVIII se populariza el uso de la tapia pisada en 
+
+=== Página 16 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+16 
+muros de templos, casas y fincas. Además, se encuentra el uso mixto de técnicas como el adobe y la tapia, 
+colocándolas alternadas por tramos.  
+En otro escenario, en la construcción de viviendas se implementa el uso de materiales menos 
+costosos y para los edificios religiosos la tierra, se les combina con el ladrillo y la piedra. Y es en el siglo XX, 
+en que en la zona del Valle del Cauca y Cauca, los muros se hacen pegando el ladrillo con barro; donde se 
+emplea la técnica de tapia y adobe se encuentran hiladas en ladrillo tanto horizontal como verticalmente, 
+y en los remates de los mismos se observan complementos con adobe o ladrillo (Sánchez, 1999). En 
+edificaciones importantes, se halla el uso de muros de un gran espesor, los cuales se rellenaban en su 
+interior con tierra compactada y su exterior era hecho con ladrillos o piedra.  
+Al finalizar el siglo XIX y a comienzos del XX, se retoma la técnica del bahareque, periodo en el cual 
+se vuelve de gran importancia al ser implementada para construir casas de dos pisos. Según Robledo y 
+Prieto (1999) se descubrió el bahareque cuando, al final del siglo XIX, se presentaban fuertes temblores 
+que acabaron con muchas casas elaboradas en tapia pisada, lo que llevó a que esta técnica se desarrollara 
+más a fondo y se mantuviera su uso en el siglo XX, observando edificaciones de gran valor, que se 
+preservan aún durante el siglo XXI como herencia de la cultura precolombina y de la arquitectura colonial 
+en tapia, bahareque y adobe. 
+Tanto en Colombia como en Venezuela (en la zona de la costa caribe), se mantienen 
+construcciones elaboradas con materiales naturales, agregando a estas, pilotes en madera, cubiertas a 
+dos aguas hechas con hojas de palma, paredes exteriores y muros divisorios elaborados con encofrado en 
+esterilla de guadua rellena al interior con tierra tomada de la región compactada con ayuda de agua y cal, 
+todo elaborado con materiales tomados directamente de la región. 
+ 
+Como consecuencia de la presente investigación se desarrolla una comunidad agropecuaria, 
+conformada por prototipos de vivienda rural de interés cultural, que integran a los habitantes de la 
+Vereda Cuche; dentro de esta comunidad se diseñan espacios donde se pueden llevar a cabo diferentes 
+
+=== Página 17 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+17 
+actividades productivas que son implementadas en la construcción de sus viviendas y al mismo tiempo 
+generan un ingreso económico a las familias que participan del proyecto.  
+De este modo, se logra que los habitantes de la vereda y municipio se apropien de estos 
+conocimientos y los mismos trasciendan dentro de su cultura a través del tiempo (evitando su 
+desaparición); todo esto teniendo como fundamento las técnicas ancestrales de construcción vernácula, 
+las cuales se implementarán inicialmente por medio de un prototipo de prueba funcional en bahareque, 
+que será elaborado por medio de un taller de aprendizaje dirigido a los habitantes de la Vereda Cuche, 
+que se encargarán de difundir o transmitir los conocimientos  a quienes estén interesados en implementar 
+las técnicas vernáculas en las construcciones futuras. 
+ 
+ 
+
+=== Página 18 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+18 
+CAPITULO 1 – ANTECEDENTES 
+1.1. Planteamiento del problema 
+Santa Rosa de Viterbo cuenta con una extensión total de 108.0655 km2, de los que 
+aproximadamente 1.4787 km2 corresponden al área urbana y 106.5868 km2 al área rural. Tal como se 
+observa en la tabla 1 (ESE Hospital Regional de Duitama sede Santa Rosa de Viterbo. 2019). 
+Tabla 1 
+Distribución de los municipios por extensión territorial y área de residencia, Municipio de Santa Rosa de Viterbo, Boyacá, 2019 
+ 
+Tomado de “Análisis De Situación De Salud Con El Modelo De Los Determinantes Sociales De Salud, Municipio De Santa Rosa De 
+Viterbo Boyacá 2019”.  ESE Hospital Regional de Duitama sede Santa Rosa de Viterbo. 2019. 
+(https://www.boyaca.gov.co/SecSalud/images/Documentos/asis2019/asis_santarosadeviterbo_2019.pdf) 
+ 
+Teniendo en cuenta los datos referenciados y luego de realizar visitas de campo en la zona rural 
+que es la de mayor extensión, citando específicamente la Vereda Cuche, existe un elevado déficit tanto 
+cualitativo como cuantitativo de vivienda y un alto nivel de pobreza, lo cual evidencia la falta de recursos, 
+además de las malas condiciones de la región a nivel arquitectónico y cultural que le restan importancia a 
+la vivienda productiva y a la conservación de la cultura. 
+Lo anterior sin tener en cuenta las actividades económicas en las que se desempeñan las familias 
+que habitan el lugar, desaprovechando la riqueza que ofrece la región y dejando de lado la construcción 
+artesanal, esto resulta precisamente una de las causas principales de que sus habitantes migren a las 
+grandes ciudades. 
+
+=== Página 19 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+19 
+1.1.1. Aspecto habitacional 
+En cuanto a condiciones de vivienda en el área rural, de acuerdo con Pineda Martínez (2019), el 
+Municipio de Santa Rosa de Viterbo tiene cobertura de servicios como acueductos veredales, alumbrado 
+público, algunas con gas natural. Sin embargo, no cuentan con recolección de basuras y tampoco con 
+alcantarillado, por lo que la mayoría de familias tienen pozo séptico y un 30% excretan al aire libre. A 
+propósito de esto, el Índice De Pobreza Multidimensional en los centros poblados y rural disperso del 
+departamento está por lo menos en el 27,4% y su equivalente en las cabeceras es de un 8.9%. Lo anterior, 
+es producto de que las necesidades básicas no satisfechas en el sector rural, signifiquen un 17,81% 
+(Departamento Administrativo Nacional de estadística DANE, 2018). 
+En visitas de campo realizadas específicamente a la Vereda Cuche, se evidenció el mal estado de 
+las viviendas existentes que cuentan con características propias de las técnicas vernáculas; viviendas que 
+no pueden ser habitadas ya que no suplen las necesidades básicas habitacionales de los hogares 
+campesinos. Lo anterior se torna como debilidad, ya que no solamente no permiten ser habitadas, sino 
+que ocupan un espacio que está siendo desaprovechado, como se puede apreciar a continuación: 
+Figura 1  
+Mal estado de la vivienda y espacio desaprovechado 
+ 
+Elaboración propia 
+ 
+ 
+
+=== Página 20 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+20 
+Figura 2  
+Vivienda deshabitada por deterioro 
+ 
+Elaboración propia 
+Figura 3  
+Muros en deterioro 
+ 
+Elaboración propia 
+ 
+Lo anterior deja en evidencia que las necesidades básicas insatisfechas en el área rural y el déficit 
+habitacional, son variables que deben abordarse con el fin de retomar la apropiación de la cultura que 
+caracteriza la zona rural de Santa Rosa de Viterbo, resaltando su importancia y belleza. 
+
+=== Página 21 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+21 
+ 
+1.1.2. Aspecto socioeconómico 
+Al analizar la caracterización económica de la población, como se observa en la tabla 2, la zona 
+rural tiene una mayor proporción de población con necesidades básicas no satisfechas como son vivienda, 
+servicios sanitarios, educación básica e ingreso mínimo. Seguido de la población que vive en hacinamiento 
+(viviendas con tres personas o más por habitación, sin tener en cuenta cocina, baño y garaje), y por último 
+quienes viven en miseria (viviendas con más de dos necesidades primarias no satisfechas). Por tanto, el 
+área rural se encuentra en mayor desventaja en estas variables frente a la zona urbana (DANE, 2018). 
+Tabla 2  
+Caracterización económica de la población 
+ 
+Tomado de “Análisis De Situación De Salud Con El Modelo De Los Determinantes Sociales De Salud, Municipio De Santa Rosa De 
+Viterbo Boyacá 2019”.  ESE Hospital Regional de Duitama sede Santa Rosa de Viterbo. 2019. 
+(https://www.boyaca.gov.co/SecSalud/images/Documentos/asis2019/asis_santarosadeviterbo_2019.pdf) 
+ 
+1.1.3. Aspecto Ambiental 
+La región se ha visto afectada por diferentes fenómenos naturales, aspecto evidenciado en visita 
+de campo realizada, por lo que es importante prevenir efectos de los cambios climáticos que inciden 
+directamente en la producción agropecuaria (la cual es en gran parte el sustento de los hogares 
+campesinos).  
+Por otra parte, el manejo inadecuado de residuos sólidos, aguas residuales y el sacrificio de 
+ganado en las curtiembres, genera contaminación y produce un desequilibrio del ecosistema; mientras 
+
+=== Página 22 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+22 
+que la deficiencia de los servicios públicos básicos lleva al tratamiento inadecuado del agua con destino al 
+consumo humano. Así pues, según la Alcaldía Municipal Santa Rosa de Viterbo (2020), el área rural carece 
+de red de alcantarillado y las veredas implementan el uso de pozo séptico para tratar las aguas residuales 
+domésticas. 
+Aunado a ello, debido a su ubicación geográfica la Vereda Cuche presenta mayor riesgo de 
+inundación, tema al que deberá dársele manejo, además de que la mayor parte del municipio se 
+encuentra categorizada en zona de riesgo para sismos. La zona también se encuentra expuesta a riesgos 
+tales como la falta de agua en la región o inundaciones y derrumbes ocasionados por las lluvias 
+torrenciales, lo que genera disminución en la producción agrícola y su calidad, además de propagación de 
+enfermedades propias del trópico contagiadas por insectos.  
+En visitas de campo realizadas se evidenció que las construcciones recientes existentes en la zona 
+rural, específicamente en la Vereda Cuche, utilizan sistemas industrializados que implementan materiales 
+contaminantes, como acero, concreto, algunas pinturas y barnices; además para esto se requiere de 
+combustibles fósiles y electricidad, los cuales son principales generadores de dióxido de carbono (CO2). 
+Estos, al contaminar el ambiente provocan un alto impacto a la huella ecológica, razón por la cual se 
+deben plantear estrategias que mitiguen los efectos mencionados, partiendo de la educación y 
+capacitación a la comunidad. 
+1.1.4. Aspecto demográfico 
+Según, la Corporación Autónoma Regional de Boyacá (2016), el proceso migratorio desde las 
+zonas rurales hacia los principales centros urbanos no solo del Departamento sino de otras latitudes, han 
+generado un declive en la población de municipios en la mayor parte de las provincias, específicamente de 
+población joven y adulta, producto por supuesto, de las necesidades de estudio y de la búsqueda de 
+mejores oportunidades laborales y/o profesionales. 
+
+=== Página 23 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+23 
+La migración de los habitantes de la zona rural a la urbana implica un descenso a nivel 
+sociocultural, ya que sus costumbres campesinas, al no ser empleadas, tienden a desaparecer. Esto afecta 
+no solamente el aspecto social, sino cultural y económico, teniendo en cuenta que las actividades 
+características de la zona rural son parte fundamental de su tradición ancestral.  
+ 
+1.2. Pregunta problema 
+¿Qué tipos de estrategias basadas en la sostenibilidad permitirán lograr la apropiación, 
+potencialización y conservación de la cultura propia del lugar, para incentivar la construcción basada en 
+técnicas vernáculas?  
+1.3. Justificación 
+La escasez de viviendas adecuadas en el entorno rural y la vulnerabilidad del hábitat son resultado 
+de la complicada situación económica y social que ha venido viviendo durante muchos años gran parte de 
+la población colombiana, esta ha resultado ser una razón de peso para que los habitantes de la zona 
+migren a las ciudades principales. Con el fin de solucionar esta escasez se recurre al déficit habitacional 
+como factor para determinar las variables que se deben cubrir para asegurar una vida digna a los 
+habitantes de la zona rural.  
+Para definir el déficit habitacional se utilizan dos componentes combinados: el cuantitativo y el 
+cualitativo. El déficit cuantitativo indica la falta de vivienda a partir de dos indicadores, primero el número 
+de familias conviviendo en el mismo hogar y participan de todo en su interior y segundo, las familias que 
+residen en viviendas que no pueden ser mejoradas, pues los materiales constructivos son de muy baja 
+calidad.  
+Respecto del déficit cualitativo se deben tener en cuenta dos condiciones: la primera, viviendas 
+con deficiencias como techos elaborados con materiales de mala calidad, paredes y estructura de 
+
+=== Página 24 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+24 
+materiales no duraderos, pisos de tierra, existencia de hacinamiento, y; la segunda, falta de 
+infraestructura o servicios como el agua potable, alcantarillado y electricidad. En ese sentido y acorde al 
+Plan de acción de los objetivos de desarrollo del milenio, Municipio Santa Rosa de Viterbo se tiene que, la 
+vivienda representa un elemento transcendental para lograr disfrutar una vida digna. En ese sentido, a 
+medida que como familia puede disponerse de vivienda y de un espacio adecuado para descansar, se 
+mitiga uno de los más preocupantes factores de pobreza (Alba Sánchez, 2006). 
+Teniendo en cuenta lo anterior y para el escenario actual del municipio, es importante revisar e 
+implementar alternativas que promuevan el desarrollo económico, con orientación a la transformación 
+productiva, para por medio de esta, generar empleo y reducir la pobreza y la inequidad social. De igual 
+manera, es pertinente dar un enfoque a la riqueza y diversidad cultural, a la experiencia y las habilidades 
+de la gente santarroseña, con el fin de satisfacer necesidades no solo desde el ámbito económico, en el 
+que la vivienda es trascendental, sino también en los ámbitos ambiental y sociocultural. 
+Para tal fin, se tendrán en cuenta los Objetivos de Desarrollo Sostenible expuestos por la 
+Organización de las Naciones Unidas (Chavarro, et al, 2017), específicamente los expuestos en la tabla 3:  
+Tabla 3  
+Objetivos de Desarrollo Sostenible aplicados al proyecto 
+ 
+ 
+Fin de la pobreza: Teniendo como propósito principal “poner fin a la 
+pobreza en todas sus formas y en todo el mundo para 2030”. 
+ 
+ 
+Trabajo decente y crecimiento económico: cuyo objeto principal es 
+“promover el crecimiento económico sostenido, inclusivo y sostenible, 
+el empleo pleno y productivo y el trabajo decente para todos”. 
+
+=== Página 25 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+25 
+ 
+ 
+Ciudades y comunidades sostenibles: teniendo como fin “lograr que 
+las ciudades y los asentamientos humanos sean inclusivos, seguros, 
+resilientes y sostenibles”. 
+ 
+ 
+Producción y consumo responsables: cuyo objeto es “garantizar 
+modalidades de consumo y producción sostenible”. 
+ 
+ 
+Acción por el clima: su objetivo principal es “adoptar medidas urgentes 
+para combatir el cambio climático y sus efectos”. 
+Adaptado de “Objetivos de Desarrollo Sostenible. Los ODS en acción”. Organización de las Naciones Unidas [ONU]. 2015 
+(https://www.undp.org/es/sustainable-development-goals) 
+ 
+ 
+Además de esto, la crisis del sector rural es un tema que no puede dejarse de lado, como lo 
+describe Corrales (2016) al señalar que el conflicto por el uso de la tierra, tiende a profundizarse dados los 
+modelos de ocupación productiva y de explotación tanto de los recursos como del espacio rural. Es así 
+que, no solo se trata de la ocupación de tierras con intención agrícola y forestal (por la ganadería 
+extensiva) sino que, actualmente hay mayor alarma por las consecuencias de la minería legal e ilegal, de la 
+explotación y exploración de hidrocarburos y el incremento de cultivos dedicados a producir 
+biocombustibles. 
+Respecto del tema se ha encontrado literatura que se refiere a la explotación minera para 
+fabricación de materiales de construcción en la zona, factor que ha contribuido al deterioro 
+medioambiental principalmente porque estos procesos requieren el uso de combustibles, electricidad y 
+otros insumos que afectan el municipio a nivel ecológico. 
+
+=== Página 26 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+26 
+A raíz de las políticas cambiantes, los territorios rurales están siendo alterados drásticamente, 
+dejando de lado la cultura que representa cada lugar y las verdaderas necesidades de las personas que allí 
+moran. Entonces, es posible vislumbrar un beneficio para la región tanto de manera cultural como 
+habitacional y económica, por medio de un proyecto que promueva y potencie las características que dan 
+identidad al territorio, las necesidades básicas de los pobladores de este, el nivel social de los mismos, la 
+cultura que los representa, la oportunidad que genera la intervención de la zona para mejorar tanto a 
+nivel económico como socio cultural, el trabajo con la comunidad y la posibilidad de hacerlos partícipes en 
+el proceso del desarrollo de un proyecto constructivo con características ecológicas, ancestrales y 
+turísticas. 
+1.4. Población objetivo 
+Sobre la cordillera oriental, al noreste de Tunja, a una distancia de 67 kilómetros, su área total es 
+de 107 kilómetros cuadrados, su extensión urbana es de 4 kilómetros cuadrados y su extensión rural es de 
+103 kilómetros cuadrados, su topografía tiene dos pisos térmicos, que son: Frío, el cual tiene una 
+extensión de 52 kilómetros cuadrados y páramo que consta de 55 kilómetros cuadrados. Su temperatura 
+media es de 13 grados centígrados, la altitud de la cabecera municipal es de 2753 M.S.N.M. (Metros Sobre 
+el Nivel del Mar), tiene como límites Nobsa, al norte el municipio de Belén y Encino (Departamento de 
+Santander); al occidente Tibasosa y Duitama y al oriente Belén, Cerinza y Floresta. 
+ 
+Figura 4  
+Localización 
+
+=== Página 27 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+27 
+ 
+Elaboración propia 
+ 
+ 
+Santa Rosa de Viterbo se ha venido convirtiendo en uno de los principales municipios de Boyacá, 
+dadas sus características demográficas y su ubicación estratégica, al estar rodeada por municipios como 
+Paipa, Duitama, Sogamoso y Nobsa, conformando estos el área metropolitana del alto Chicamocha, zona 
+que se ha destacado por tener el mayor índice de actividad comercial, económica e industrial de Boyacá. 
+Estas características abren una gran posibilidad a la explotación en el campo del ecoturismo en el 
+municipio de Santa Rosa de Viterbo y más aún a la vereda Cuche, que se encuentra ubicada entre el 
+centro del municipio y la mencionada área metropolitana. 
+Figura 5  
+Santa Rosa de Viterbo 
+
+=== Página 28 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+28 
+ 
+Tomada de “Google maps” Google, 2022. 
+(https://www.google.com/maps/place/Tundama,+Boyac%C3%A1/data=!4m2!3m1!1s0x8e6a3e0381d5c7f5:0x6c6874f3c6be813e
+?sa=X&ved=2ahUKEwjNxZOLwcD7AhWeSTABHS-FBc0Q8gF6BAhpEAE) 
+ 
+Además de su ubicación, el Municipio se destaca por tener dentro de su zona la Escuela de Policía 
+Rafael Reyes, institución educativa que atrae gran cantidad de visitantes. No se trata solo de quienes 
+cursan sus estudios allí, sino de los que van de paso ya sea como visitantes o como parte de la 
+organización. 
+Figura 6  
+Escuela de policía Rafael Reyes 
+ 
+Tomado de: Google, Google, 2022 (https://www.policia.gov.co/escuelas/rafael-reyes) 
+
+=== Página 29 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+29 
+Figura 7  
+Mapa división política, Santa Rosa de Viterbo 
+ 
+Adaptado de: “MUNICIPIO DE SANTA ROSA DE VITERBO – EVALUACIÓN Y SEGUIMIENTO EOT 2000-2012” Por Baez, W, 2020. 
+(https://ccduitama.org.co/wp-content/uploads/2020/12/7471_plan-de-desarrollo-santarosa-de-viterbo.pdf) 
+ 
+
+=== Página 30 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+30 
+La población que se relaciona directamente con el proyecto (que se pretende abordar) es aquella 
+residente en la Vereda Cuche, ubicada en la zona rural de Santa Rosa de Viterbo, que cuenta con un área 
+en metros de 2.927.240,75 que corresponde a 292,72 hectáreas. Esta se compone de habitantes de entre 
+0 y 80 años, siendo los hombres quienes predominan. 
+1.5. Hipótesis 
+Con el desarrollo de este proyecto “Transferencia tecnológica de técnicas vernáculas en 
+comunidades rurales, a partir de un prototipo de vivienda campesina en Santa Rosa de Viterbo”, vinculado 
+en el diseño de una comunidad agropecuaria, la Vereda Cuche recobrará sus valores sociales y culturales 
+utilizando para su integración como herramienta principal, la transferencia de conocimientos ancestrales 
+a partir de su construcción. Con la cooperación y contribución de los habitantes de la vereda, se 
+implementará la autoconstrucción asistida utilizando la técnica del bahareque; las actividades que se 
+adelantarán en esta comunidad agropecuaria aportarán al mejoramiento de la economía y a su 
+reconocimiento a nivel regional. 
+A nivel sociocultural, los habitantes de la vereda serán capacitados por medio de una práctica 
+constructiva realizada en el lugar a intervenir, para desarrollar técnicas de construcción que hagan de las 
+viviendas lugares sostenibles y sustentables, integrándolos para el desarrollo de cada una de las 
+actividades que esto implique, lo que formará en ellos un mayor empoderamiento de estos procesos, 
+logrando que se mantengan y formen parte importante de su cultura a través del tiempo. Además, se 
+incentivará el trabajo comunitario en las actividades de agricultura y ganadería, implementando la 
+participación activa de los habitantes de la vereda, lo cual es característico de su tradición laboral.   
+Económicamente, se verán favorecidos ya que al implementar las técnicas de construcción 
+vernácula los gastos, en cuanto a materiales y mano de obra, se reducirán significativamente en tanto los 
+primeros serán tomados en su mayoría de los que se dan en la zona y el proceso constructivo se 
+
+=== Página 31 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+31 
+desarrollará por el método de autoconstrucción asistida, lo que garantiza una menor inversión económica. 
+Por otra parte, la implementación de actividades con fin agropecuario permitirá aportar a la reactivación 
+de la zona, ya que serán desarrolladas por la población objetivo del proyecto. 
+De igual manera, en lo referente al medio ambiente, se trabajará procurando buscar la 
+sustentabilidad para evitar la extinción de los recursos naturales, forestales, agrícolas y ganaderos. Así 
+como vigilando que no se afecte el entorno ecológico del proyecto, empleando materiales tomados de la 
+zona y, por tanto, amigables con el medio ambiente, procurando disminuir la huella ecológica  
+1.6. Objetivos 
+1.6.1. Objetivo general 
+Generar una estrategia de transferencia del conocimiento sobre técnicas constructivas vernáculas, 
+orientada a capacitar por medio de prácticas dirigidas, a la comunidad de la vereda Cuche en Santa Rosa 
+de Viterbo, rescatando la tradición constructiva del sistema de Bahareque y posibilitando la transferencia 
+a otras personas y futuras generaciones. 
+1.6.2. Objetivos específicos 
+• 
+Caracterizar los aspectos ambientales, socio-económicos, culturales y habitacionales de la 
+Vereda Cuche, estableciendo resultados basados en análisis de visitas de campo, 
+información planimétrica y documentos oficiales de la Alcaldía de Santa Rosa De Viterbo, 
+con el propósito de reconocer atributos que puedan contribuir al desarrollo de un 
+prototipo de vivienda campesina. 
+• 
+Formular estrategias tecnológicas y de implantación que se adapten a las dinámicas de los 
+residentes de la zona y a las actividades propias del lugar.  
+
+=== Página 32 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+32 
+• 
+Diseñar prototipos de vivienda adaptables a las necesidades habitacionales de los hogares 
+campesinos, a partir del modelo de vivienda de interés cultural (VIC) del Arq. Erwin 
+Zambrano. 
+• 
+Construir un prototipo de vivienda campesina en Bahareque, con la participación de la 
+comunidad, como método evaluativo del proceso de capacitación y transferencia de 
+conocimientos. 
+1.7. Desarrollo metodológico en la investigación 
+1.7.1. Tipo de metodología 
+Teniendo en cuenta el tipo de investigación que se va a realizar y el objetivo a alcanzar, se 
+utilizarán metodologías cualitativas, por medio de las cuales se observarán y recopilarán datos no 
+numéricos que servirán como base para desarrollar los procesos que correspondan o surjan de las 
+necesidades del grupo objetivo encontradas en esta. Para esto se tendrán en cuenta diferentes técnicas 
+de investigación las cuales se enumeran a continuación: 
+Cartografía social 
+Al mantener una conversación con las personas que forman parte del grupo objetivo (por medio 
+de preguntas específicas) se recopilará información referente a los métodos constructivos conocidos y 
+aspectos ambientales sociales y económicos de la zona que los afectan directamente. 
+Etnografía 
+De esta manera se estudiará tanto su cultura como sus tradiciones, observando sus prácticas en el 
+ámbito rural. 
+Acciones participativas  
+Por medio de esta se busca la transferencia de conocimientos referentes a la construcción 
+vernácula, para así lograr la apropiación de la cultura que los identifica.  
+
+=== Página 33 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+33 
+Técnicas de tipo proyectivas  
+Con el fin de motivar al grupo objetivo que será el mayor contribuyente en el desarrollo de este 
+proyecto, para que exprese todo lo que esto le genere y así lograr un mayor aporte de su parte. 
+ 
+ 
+
+=== Página 34 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+34 
+CAPITULO 2 – MARCOS DE ANÁLISIS 
+2.1. Introducción capítulo 2 
+En este capítulo se encontrará el marco teórico, en el que se relacionarán los diferentes textos 
+base para el presente trabajo con un breve resumen; en el marco conceptual se abordarán definiciones de 
+palabras y temas que resultan clave en el estudio. En referencia al marco histórico, se hará un breve relato 
+de los antecedentes de la región donde se desarrollará la investigación; también se hablará acerca del 
+marco normativo, que dará las pautas legales necesarias para alcanzar el fin de esta propuesta y 
+finalmente, se presentará el marco referencial en el cual se utilizan diferentes proyectos como guía para 
+implementar el plan objetivo. 
+2.2. Marco teórico 
+Gatti (2012) analiza la tierra como material constructivo a través de la historia, sus ventajas, las 
+técnicas para utilizarla y casos históricos su uso en la arquitectura. Su trabajo aporta a la presente 
+investigación ya que brinda las herramientas necesarias para implementar el uso de la tierra como 
+material para construir y su importancia en las diferentes técnicas que se pueden emplear. 
+López et al, (2014) abordan temas y conceptos acerca de los materiales sustentables, cómo deben 
+abordarse, el impacto ambiental que generan, el consumo energético, características a tener en cuenta 
+para dominar los materiales a trabajar y los tipos de construcción, temas que serán de gran aporte en el 
+desarrollo del proyecto. 
+En otro estadio, Hernández (2007) señala que hoy en día el ecoturismo representa una herramienta 
+global de protección al medio ambiente y a los recursos naturales, dado que propicia el desarrollo 
+sostenible de las regiones. No obstante, en la literatura hay muchos escépticos que se cuestionan por qué 
+el crecimiento económico significativo siempre conlleva, así sea en menor medida, la destruir la 
+
+=== Página 35 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+35 
+naturaleza. En todo caso, en aquella oportunidad el aumento de la producción propició la investigación 
+que tuvo como eje fundamental al ecoturismo como herramienta de desarrollo regional y sostenible. 
+Este artículo analiza la relación existente entre el desarrollo económico regional y el ecoturismo, 
+su relevancia en cuanto a las estrategias de desarrollo sostenible, teniendo en cuenta aspectos 
+ambientales, económicos y sociales, lo que hace parte fundamental del presente trabajo de investigación, 
+ya que este pretende la reactivación económica de la zona, por medio del tratamiento consciente de los 
+recursos naturales que brinda el lugar de intervención. 
+Aparte de esto, Muñoz (2015) plantea el diseño de una vivienda unifamiliar aislada para el medio 
+rural utilizando la autoconstrucción y la explotación de los materiales encontrados en los recursos de la 
+zona. Este trabajo de grado sirve como aporte a esta investigación teniendo en cuenta los análisis 
+realizados para la implementación de elementos como la bioclimática, antropometría y uso de los 
+materiales de la zona, lo que permite entender un poco más acerca de la manera correcta de diseñar el 
+prototipo que se propone desarrollar. 
+En el mismo tema, el Instituto de Crédito Territorial hace un relato paso a paso de lo que se debe 
+tener en cuenta para construir una vivienda en zona rural, materiales (descripción, uso, empleo, 
+resistencia), cálculo de cimientos, cálculo de muros y cantidad de materiales a usar en la construcción de 
+los mismos, vigas y entresuelos, conocimiento de los suelos, localización, explanación, excavación y 
+replanteo, muros de contención, cimientos y pilotes, muros, tipos de muros, dinteles, zócalos, 
+enmaderado para cubiertas, morteros, pañetes, pisos, concretos andenes, sardineles y juntas de 
+dilatación, cielos rasos, carpintería y cerrajería. Además de la descripción de cada uno de ellos explica lo 
+que no se debe hacer y finalmente las tipologías de vivienda rural existentes, con gráficos (Romero 
+Sánchez, 2021) 
+
+=== Página 36 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+36 
+Esta cartilla resulta de gran utilidad, ya que explica el proceso de principio a fin de la construcción 
+de una vivienda rural, los tipos de modulación y la aplicación para cada clima en específico. Lo cual es de 
+gran apoyo para el proceso de análisis, diseño y construcción del prototipo a realizar. 
+Fonseca Martínez y Saldarriaga (1980), explican la composición del hábitat rural, los tipos de 
+hábitat regional, el hábitat rural como región, el hábitat rural como habitación y la situación cultural de la 
+vivienda rural en Colombia. Además de esto hacen análisis gráficos de la morfología de las viviendas, su 
+construcción, organización y decoración, lo cual se caracteriza según la zona en la que se encuentran 
+emplazados.  
+Es de gran importancia este libro ya que permite analizar la morfología de las viviendas a partir de 
+necesidades que surgen según la ubicación geográfica de la zona donde se encuentran las viviendas, por lo 
+que este trabajo se utilizará como referente de diseño y comparativo con la actualidad, con el fin de no 
+modificar aspectos característicos de la vivienda rural y lograr la apropiación de esta de modo correcto. 
+2.3. Marco conceptual 
+Técnicas vernáculas 
+Al respecto, refiere García-Reyes (2015), que el término vernáculo se enfoca en lo propio u 
+originario de determinada localidad o región del país. Por ello, las “técnicas vernáculas” son aquellas 
+creadas por personas que habitan en zonas específicas, con materiales propios y disponibles en la región. 
+En ese sentido, estas técnicas facilitan la producción de belleza y bienestar en forma original, aplicada 
+tanto interna como externamente en los diseños. Entre tanto, Loyo Martínez & Márquez Martín (2014) 
+señalan que estas técnicas a menudo responden de manera óptima a las necesidades de la construcción, 
+en tanto emplean materiales de fácil acceso y mano de obra artesanal (cuya comprensión de las 
+limitaciones puntuales promueve el mejor uso de los elementos al alcance). 
+
+=== Página 37 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+37 
+Vivienda rural 
+A juicio personal de la investigadora, las siguientes definiciones son la más acertadas dentro de una 
+variedad de definiciones de diferentes autores, ya que son con los que más se identifica este proyecto:  
+Conceptualmente, la vivienda rural es un espacio generado por la acción consciente de un 
+individuo, que a partir de la necesidad y oportunidad de interacción hombre-naturaleza, crea un espacio 
+idóneo para sus relaciones primarias o nucleares Vargas, (2000). Mientras que para Heidegger (1992) se 
+trata de un espacio central de la existencia humana, en el que la unión del trabajo-producción-vida 
+familiar, está directamente relacionada con el entorno. Por esto, no solo implica la unidad de habitación, 
+sino también el espacio de producción. Precisamente porque es diseñada, construida y modifican sus 
+moradores con técnicas tradicionales, autoproducción de materiales y elementos básicos. 
+La Secretaría Distrital del Hábitat (2020), por su parte, la define como la categoría de vivienda que 
+está constituida por una o varias edificaciones y/o áreas agrupadas al predio que reúne actividades 
+productivas, de interacción y hábitat (bien sea de manera concentrada o dispersa). De igual forma, en la 
+cultura predomina la forma de vida acorde con el entorno, el clima y la topografía, lo que genera 
+condiciones de adaptabilidad productivas, pero sobre toto, sostenibles. 
+ 
+Santa Rosa De Viterbo 
+Localizado en el departamento de Boyacá, Santa Rosa de Viterbo es un municipio cuyas 
+particularidades se exponen a continuación. Tratándose de procedimientos administrativos, las personas 
+pueden dirigirse al ayuntamiento de Santa Rosa de Viterbo en la dirección y horarios indicados en su página 
+web, o contactar a la recepción del ayuntamiento por llamada telefónica o por correo electrónico según la 
+preferencia y/o recursos disponibles. Cuenta con una población de 11.821 habitantes, la densidad de la 
+población del municipio es de 110,5 habitante/km2. 
+ 
+
+=== Página 38 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+38 
+Construcción en bahareque 
+Según el Servicio Nacional de Aprendizaje SENA (2012), el bahareque es un “americanismo” que 
+representa una pared de cañas y/o maderas y tierra; así, en el curso de la historia ha significado una solución 
+tecnológica al hábitat constructivo de diversas culturas. 
+- 
+Al principio se implementó un sistema constructivo que tenía como denominación el “estilo 
+temblorero”, que se constituía de un primer piso en tapia pisada o mampostería de ladrillo, 
+combinado con pisos superiores hechos en bahareque de tierra. 
+- 
+Una vez aparecieron nuevos materiales de construcción, se facilitó la revolución y optimización 
+de las técnicas constructivas en bahareque, abstrayendo cuatro tipologías de las mismas: 
+• 
+Bahareque embutido o en tierra 
+• 
+Bahareque encementado 
+• 
+Bahareque en madera o en tabla 
+• 
+Bahareque metálico 
+Alzate Soto & Osorio Ríos (2015) señalan que en la antigüedad resaltan construcciones 
+desarrolladas en Mesopotamia (10.000 años a.c.) e inclusive en Suramérica (5.000 años a.c.). La inmensa 
+disponibilidad de tierra y la divergencia en su uso ocasionó que de forma rápida se concibiera como un 
+denominador común en los diversos asentamientos humanos. Con el transcurrir del tiempo, las técnicas 
+se fueron perfeccionando, introduciendo en los sistemas constructivos a base de tierra cruda, otra 
+variedad de elementos naturales tales como fibras vegetales, ramas y maderas, creando construcciones 
+no solo más resistentes, sino también duraderas. 
+ 
+ 
+
+=== Página 39 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+39 
+Transferencia del conocimiento 
+Para este caso se encontraron definiciones que se consideran pertinentes, teniendo en cuenta el 
+contexto en el que se están empleando, las cuales son:  
+López (2019) aclara que la definición de transferencia de conocimiento difiere de la considerada 
+transmisión de conocimiento, en tanto la primera ambiciona que el conocimiento haga parte de una 
+cadena de valor a fin de generar un retorno económico; mientras que, al referirse a la transmisión solo se 
+hace énfasis en la publicación o divulgación del conocimiento, aunque por supuesto, aquí cabe el ejercicio 
+de la docencia. 
+Bozeman (2000) refiere que la transferencia de conocimiento a lo largo de la historia se ha 
+empleado especialmente para explicar el proceso a partir del cual, una idea de investigación de origen 
+departamental surte las diferentes fases hasta llegar al desarrollo de un bien o producto. En otras 
+palabras, la transferencia de conocimiento es un conjunto de saberes que rodean la concepción de 
+tecnologías específicas. 
+ 
+Arquitectura vernácula 
+Trayendo a colación la definición de la RAE, el término “vernáculo” (del latín vernacŭlus), significa 
+“…Doméstico, nativo, de la casa o país propios.” Entonces, como lo refieren Contreras, L. & Contreras 
+G. (2017), la “arquitectura vernácula”, puede entenderse como el proceso a partir del cual se originan 
+creaciones arquitectónicas en cabeza de un individuo no instruido profesionalmente en el tema. Es decir, 
+en estos escenarios no es necesario un arquitecto, pues se trata de un conjunto de procedimientos 
+instintivos, en que el objeto principal es resolver necesidades inmediatas de refugio y favorecer el 
+desarrollo de sus actividades diarias dentro de un entorno habitual.  
+Ahora bien, referirse a la “arquitectura vernácula” es, como señala Giraldo (2016), ahondar en una 
+manifestación cultural antiquísima. Bien sabido es que los individuos, desde que puede contarse la 
+
+=== Página 40 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+40 
+historia, han buscado satisfacer sus necesidades de alimento y refugio y; para hacerlo, se han valido de las 
+habilidades que van desarrollando y de los materiales que encuentran en su entorno, con ello construyen 
+su vivienda y consiguen protegerse del clima y especialmente de los depredadores. 
+Teniendo en cuenta estas definiciones y lo que conlleva el término “vernácula” es importante 
+identificar claramente cada territorio (incluyendo las actividades desarrolladas en su interior), para así 
+aplicar de modo adecuado la aplicación de las mismas en lo que refiere a vivienda. 
+ 
+Vivienda productiva 
+En la cartilla Recreemos los ecobarrios, la Alcaldía de Bogotá (s.f.a) reseña que, a partir de la 
+concepción de la productividad, se sostiene que una familia habitante de una vivienda rural, se dedica a 
+múltiples actividades que integran el tradicional desarrollo agropecuario. Entre estas, pueden 
+encontrarse: la prevención del daño y restauración ecológica y, otras como las actividades de turismo 
+ecológico. 
+Por otra parte, Arias Lamus & Restrepo Torres (2018) realizaron una gráfica descriptiva sobre 
+como conciben el concepto de vivienda productiva del siguiente modo: 
+Figura 8  
+Mapa conceptual, definición de vivienda productiva 
+ 
+Tomado de: cartilla Vivienda Productiva, estrategias para el desarrollo de un modelo de vivienda productivo en Medellín, Arias, M. 
+y Restrepo, K. 2018. (https://issuu.com/cartillasinvestigacion/docs/vivienda_productiva). 
+
+=== Página 41 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+41 
+2.4. Marco histórico.   
+Anteriormente, Santa Rosa de Viterbo, pertenecía a la Provincia de Tunja del Nuevo Reino de 
+Granada y estaba ubicada al norte de su capital. El designio de Santa Rosa de Viterbo tiene origen 
+ancestro itálico, en reverencia a la Niña Santa, que pertenece a la Tercera Orden de San Francisco de Asís, 
+nacido en la localidad de Viterbo en Italia. De modo que es netamente religioso, a diferencia de los 
+poblados boyacenses que le rodean cuyos nombres son de naturaleza aborigen. Se fundó el 19 de mayo 
+de 1960 por Alejandro de Villamil y Casadiego (español), inicialmente y durante sus primeros años estuvo 
+conformada por un poblado de chibchas, los cuales se consagraban a actividades como la caza, la pesca, el 
+cultivo de papa, maíz, cubios y nabos. Las primeras edificaciones existentes eran tipo bohío rodeadas por 
+arbustos y pastos. (Pineda, 2019). 
+Así mismo, en 1538 esta zona fue espacio de disputas entre los hombres del cacique Tundama y 
+Gonzalo Jiménez de Quesada, invasor que se adueñó de ellas, abusó de la mano de obra indígena y 
+despojó las fortunas naturales existentes. Con la llegada de Villamil y Casadiego, se dio comienzo al 
+mestizaje. La asignación de Villa que se le dio a esta ciudad fue algo único en la historia del país, pues le 
+daba la libertad al pueblo de elegir y nombrar al alcalde y los miembros del cabildo. 
+En 1690 cuando el catolicismo ya había sido aceptado y era practicado por los aborígenes propios 
+de la zona, se decidió crear la parroquia, a la cual le designaron cura y se le dio el nombre de Parroquia de 
+Santa Rosa de Viterbo. En la actualidad a este municipio se le conoce como la “La tierra de los Gochos”, 
+este seudónimo se asocia a un período en el cual la iglesia solo tenía una torre, por otra parte, se dice que 
+a finales de 1800 un campesino vio a un burro que solo tenía una oreja y gritó: “Mire ese gocho, este es el 
+pueblo de los Gochos” (Barrera, s.f.). 
+Finalmente, la población se encuentra ubicada en el Departamento de Boyacá, al noreste de Tunja 
+a una distancia de 67 kilómetros y cuya área es de 107 kilómetros cuadrados, su extensión urbana es de 4 
+kilómetros cuadrados y su extensión rural es de 103 kilómetros cuadrados, su topografía tiene dos pisos 
+
+=== Página 42 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+42 
+térmicos, que son: frío el cual tiene una extensión de 52 kilómetros cuadrados, y páramo que consta de 55 
+kilómetros cuadrados. Su temperatura media es de 13 grados centígrados, la altitud de la cabecera 
+municipal es de 2753 m.s.n.m (metros sobre el nivel del mar) y limita: al sur Nobsa, al norte el municipio 
+de Belén y Encino (Departamento de Santander); al Occidente Tibasosa y Duitama, y al oriente Belén, 
+Cerinza y Floresta. 
+2.5. Marco normativo 
+En este aparte se tomó como referencia normatividad que contempla los aspectos principales de 
+este proyecto en cuanto al medio ambiente, vivienda y sostenibilidad, que aplican de una u otra manera y 
+ayudan a fortalecer los conocimientos en este sentido.  
+La Ley 2079 de 2021 establece normas respecto a vivienda y hábitat. Específicamente y de interés 
+del proyecto, la denominada “Vivienda de interés cultural” (VIC), cuyo objetivo es abrir la puerta para el 
+acceso a la vivienda teniendo como base las características, valores y en general, todos los aspectos que 
+marcan su cultura, estableciéndola como una política a seguir por el estado que garantice el derecho a 
+una vivienda digna, su construcción, adquisición o mejoramiento, a través del Ministerio de Vivienda, 
+Ciudad y Territorio. 
+La Ley 388 de 1997 se creó con el fin de favorecer el orden urbano del territorio, el uso igualitario 
+y razonable del suelo, la conservación del patrimonio ecológico y cultural que se encuentra dentro del 
+mismo y prevenir desastres en lugares de alto riesgo, así como la puesta en marcha de planes que 
+colaboren con su prevención. Basados en esta Ley, en 1999 Corpoboyacá creó las Determinantes 
+Ambientales para formular los Planes de Ordenamiento Territorial (POT, PBOT y EOT) implementadas 
+mediante la Resolución 276 de 1999 y actualizadas por medio de la Resolución 2727 del año 2011. 
+
+=== Página 43 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+43 
+De igual manera, dentro de Corpoboyacá se adelantó la formulación y adopción del Plan General 
+de Ordenación y Manejo Forestal (PGOF), por medio de la Resolución 0680 del 02 de marzo de 2011, en la 
+que se determinó la zonificación de los usos de los árboles y demás recursos de tipo forestal. 
+El Ministerio de Ambiente, vivienda y desarrollo territorial (2010) NSR 10 - Título G. Este Título 
+dedicado a las Estructuras de madera y guadua se tuvo en cuenta por primera vez en el Reglamento NSR-
+98 pues hasta el de 1984 no existía. Aplica para este trabajo pues la idea es implementar el uso de estos 
+materiales en la construcción de las viviendas que se proponen como prototipos a desarrollar en la 
+vereda, por tanto, es muy importante conocer esta normatividad. 
+Los Objetivos de Desarrollo Sostenible (ODS), llamados también Objetivos Globales, acogidos en 
+2015 por las Naciones Unidas como una alerta universal para trabajar por acabar con la pobreza, 
+preservar el planeta y asegurar que en el año 2030 todos los habitantes del planeta se encuentren en paz 
+y gocen de prosperidad. Son importantes ya que es un factor que no se puede dejar de lado en cualquier 
+proyecto que se desarrolle teniendo como eje central la población y el cuidado del planeta. 
+2.6. Marco referencial 
+El Manzano Biobío  
+A 20 kilómetros de Cabrero, en la región del Bio Bío, es el primer pueblo de transición en Chile y 
+Latinoamérica. La idea la llevaron a cabo tres hermanos que bajo los conceptos de la permacultura buscan 
+crear el primer pueblo chileno 100% autosuficiente. Este proyecto tiene varios conceptos integrados 
+dentro del mismo, los cuales son:  
+Una aldea familiar: está conformada por cuatro familias que se organizan en una casa central 
+que es la más grande de todas y el hogar de los abuelos; rodeada de tres casas, los hogares de 
+las familias son hechos a mano y construidos con materiales locales.  
+
+=== Página 44 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+44 
+Centro regional: por medio de este proyecto se ha ido enseñando y educando a la gente, 
+demostrando que la sostenibilidad es un camino viable y replicable, también apoyan 
+emprendedores en sus procesos de cristalizar proyectos regenerativos. 
+Campo productivo: la finca tiene 80 hectáreas de bosque mixto, 30 de pastos y cultivos, 5 de 
+arándanos orgánicos y 5 de jardines intensivos y árboles frutales. Es un paisaje orgánico 
+certificado desde 2008 y durante cinco generaciones ha sido productivo.  
+Educación transformativa: es un centro de generación eco-social, en el que se realizan 
+actividades repartidas, las cuales se encuentran zonificadas y son realizadas por personas 
+específicas, basado en un concepto agrícola-forestal, donde es importante hacer énfasis en lo 
+que se come y lo que se aprende. 
+Comercio justo: aquí proponen por medio de la educación para la sostenibilidad, que el 
+sobreprecio de los productos sea dirigido a los ayudantes o trabajadores que hacen parte del 
+proceso de la producción, para la mejora de sus casas. 
+Recuperación de terrenos: en parte de la superficie de la aldea se encuentran siembras, lo 
+que ayuda a generar actividad económica, se realizan caminatas y recorridos relacionados con 
+la naturaleza, en los que se logra la vinculación con las raíces y la cultura ancestral del lugar, 
+se trasmiten conocimientos por medio de los diseños regenerativo y aplicado, se explica el 
+cuidado y manejo de las praderas de los animales y con la ayuda de todas estas herramientas 
+se generan microemprendimientos.   
+ 
+ 
+
+=== Página 45 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+45 
+Aldeafeliz  
+Se crea en el año 2006, convocando a quienes estuvieran interesados en pertenecer a una 
+comunidad de tipo ecológico a las afueras de Bogotá. Por medio de la participación activa de los 
+habitantes de la comunidad se escogieron: el nombre de la aldea, principios, acuerdos de autogobierno y 
+territorio. En el año 2009 se creó la asociación sin ánimo de lucro Aldeafeliz para destinar la Ecoaldea a 
+una razón que se mantenga a través del tiempo. Para el año 2013, esta toma el modelo de la sociocracia, 
+siendo así la primera comunidad con este tipo de gobierno en el país. 
+Consta de tres (3) hectáreas de terreno en las que sus habitantes construyeron sus propias 
+viviendas con la técnica de construcción ancestral, utilizando Bambú y tierra, los demás espacios son 
+comunitarios, tanto la cocina, como los lugares sociales, son compartidos por todos sus habitantes. Para 
+subsistir crearon una economía local colectiva por medio de la cual todos aportan en la misma medida 
+para la alimentación y los gastos que surjan. Cuenta con residentes permanentes y temporales que 
+aportan económicamente. Viven más en el espacio colectivo que en el privado. 
+En el año 2017 recibió el premio producción social del hábitat, que busca identificar proyectos 
+habitacionales inspiradores teniendo en cuenta la participación de sus habitantes, la inteligencia en la 
+gestión y la sustentabilidad del suelo, el impacto sobre el desarrollo local y sobre todo, en las políticas 
+públicas. 
+ 
+Kibutz 
+Son granjas colectivas o comunas agrícolas israelíes, de orientación marxista, que pertenecen a un 
+movimiento fundado a principios del siglo XX, se caracterizan por mantener algunos postulados básicos 
+como: énfasis en el trabajo agrícola, la propiedad colectiva, el trabajo propio, los salarios igualitarios, la 
+rotación de los cargos, la toma de decisiones democráticamente y el judaísmo secular cultural.  
+
+=== Página 46 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+46 
+Estos postulados corresponden a principios que debería tener cualquier comunidad agrícola, lo que 
+para este trabajo de investigación se busca implementar, manteniendo los principios propios del Kibutz y 
+ajustándolos al estilo de vida campesino de los habitantes de la Vereda Cuche. 
+ 
+Así construyo mi vivienda 
+Es una cartilla didáctica para estudiantes de arquitectura y construcciones civiles, propiedad y 
+creación de la Universidad La Gran Colombia en cooperación con el Instituto de Crédito Territorial. Lo que 
+pretende esta cartilla es ilustrar a las personas sobre el proceso de construcción de una vivienda, teniendo 
+en cuenta todos los capítulos que están incluidos en la planeación de una obra civil, como son: 
+preliminares, cimentación, mampostería, pañetes, entrepisos, cubiertas, instalaciones, carpintería 
+metálica y de madera, pisos y pintura. 
+Es un referente importante para este proyecto, ya que como resultado final se obtendrá una 
+cartilla ilustrada acerca de la construcción en bahareque, que funcionará como apoyo para la 
+autoconstrucción asistida. 
+ 
+ 
+
+=== Página 47 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+47 
+CAPITULO 3 – CARACTERIZACIÓN 
+3.1. Introducción capítulo 3 
+En este capítulo encontraremos el análisis actual de todas las variables en las distintas escalas de 
+estudio, a nivel macro nos enfocaremos en la Provincia de Tundama, a nivel meso en el Municipio de 
+Santa Rosa de Viterbo y a nivel micro en la Vereda Cuche. Además, la caracterización de diferentes 
+determinantes del lugar a intervenir, las cuales sirven de guía o referencia al momento de plantear una 
+propuesta, ya que basados en estas logramos identificar factores tanto positivos como negativos para la 
+Vereda Cuche, que tendrán incidencia al momento de diseñar y desarrollar el proyecto. 
+3.2. Relaciones estáticas 
+Definen las características y atributos propios del territorio.  
+3.2.1. Análisis macro 
+Tabla 4  
+Análisis Macro – Relaciones estáticas 
+VARIABLE ANALIZADA 
+PROBLEMAS 
+POTENCIALIDADES 
+Sistema ambiental 
+• 
+Zonas de amenaza y riesgo. 
+• 
+Zonas de fallas geológicas 
+• 
+Zonas de desprendimiento de tierra 
+• 
+Zonas con alto nivel de inundaciones e incendios 
+• 
+Localización estratégica 
+• 
+Variedad de pisos térmicos 
+• 
+Riquezas naturales 
+• 
+Altas zonas de actividad agropecuaria 
+Delimitación uso y actividad del 
+suelo territorial 
+• 
+Expansión de desarrollo residencial 
+• 
+Uso inadecuado de las tierras 
+• 
+Tierras fértiles para siembras, como también tierras 
+adecuadas para construcciones y ejecuciones de 
+proyectos a nivel de infraestructura 
+Infraestructura vial y de 
+transporte 
+• 
+Insuficiente red de infraestructura vial 
+• 
+Vías dispersas 
+• 
+Vías inconclusas 
+• 
+Fallas geológicas 
+• 
+Pocas vías alternas 
+• 
+Vías en mal estado 
+• 
+Fenómenos naturales 
+• 
+Conexiones de puntos clave (cabeceras municipales) 
+• 
+Trazado de vía principal que conecta con la mayoría 
+de municipios del Departamento. 
+• 
+Ejes viales estratégicos. 
+Infraestructura de servicios 
+públicos 
+• 
+Vías angostas en la plaza 
+• 
+Alto flujo vehicular 
+• 
+Mal manejo de basuras 
+• 
+Falta de servicios en veredas 
+• 
+Distribución adecuada de los centros urbanos 
+• 
+Cercanía y fácil acceso a los diferentes 
+equipamientos. 
+Dinámica demográfica 
+ 
+• 
+Pocas garantías para la población entre 0 y 20 años 
+• 
+Migración de la población a ciudades principales o al 
+extranjero 
+• 
+Población joven como recurso humano fundamental 
+Patrimonio 
+• 
+Olvido por parte de la ciudadanía 
+• 
+Vías que conducen a zonas patrimoniales en mal 
+estado 
+• 
+Reconocimiento a nivel nacional 
+• 
+Valor histórico 
+• 
+Herencia cultural 
+• 
+Valor estético 
+
+=== Página 48 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+48 
+• 
+Patologías en patrimonio arquitectónico 
+Elaboración propia 
+ 
+3.2.2. Análisis meso 
+Tabla 5 
+ Análisis meso – Relaciones estáticas 
+VARIABLE ANALIZADA 
+PROBLEMAS 
+POTENCIALIDADES 
+Sistema ambiental 
+• 
+Contaminación y mal manejo de tierras 
+• 
+Descuido de los páramos 
+• 
+Diversidad de tierras 
+• 
+Fuentes hídricas en todo el municipio 
+Delimitación uso y actividad 
+del suelo territorial 
+• 
+Políticas cambiantes en lo que tiene que ver con el 
+proceso de compra y venta de los productos 
+cosechados en estas tierras  
+• 
+Tierras fértiles para la siembra 
+• 
+Redes de agua natural 
+• 
+Mano de obra campesina 
+Infraestructura vial y de 
+transporte 
+• 
+Insuficiente red de infraestructura vial 
+• 
+Vías dispersas e inconclusas 
+• 
+Fallas geológicas 
+• 
+Pocas vías alternas 
+• 
+Vías en mal estado 
+• 
+Fenómenos naturales 
+• 
+Conexiones de puntos clave (cabeceras municipales) 
+• 
+Trazado de vía principal que conecta con la mayoría 
+de municipios del Departamento. 
+• 
+Ejes viales estratégicos. 
+Infraestructura de servicios 
+públicos 
+• 
+Vías angostas en la plaza 
+• 
+Alto flujo vehicular 
+• 
+Mal manejo de basuras 
+• 
+Distribución adecuada de los centros urbanos 
+• 
+Cercanía y fácil acceso a los diferentes 
+equipamientos. 
+Dinámica demográfica 
+• 
+Pocos proyectos con participación de la juventud 
+• 
+Opciones y capital para la ejecución de proyectos con 
+participación social, involucrando la actividad 
+agropecuaria 
+Patrimonio 
+• 
+Solo existen intervenciones de infraestructura en la 
+cabecera municipal 
+• 
+Reconocimiento a nivel nacional 
+• 
+Valor histórico 
+• 
+Herencia cultural 
+Elaboración propia 
+ 
+3.2.3. Análisis micro 
+Tabla 6  
+Análisis micro - Relaciones estáticas 
+VARIABLE ANALIZADA 
+PROBLEMAS 
+POTENCIALIDADES 
+Sistema ambiental 
+• 
+Mal manejo de recursos naturales 
+• 
+Afectación a la huella ecológica. 
+• 
+Actividad agrícola en la totalidad de la región 
+Delimitación uso y actividad 
+del suelo territorial 
+• 
+Olvido de las actividades económicas principales de 
+la región 
+• 
+Deterioro de las viviendas 
+• 
+Tierras fértiles para siembras 
+• 
+Mano de obra campesina 
+• 
+Redes hídricas naturales 
+Infraestructura vial y de 
+transporte 
+• 
+Vías dispersas 
+• 
+Vías inconclusas 
+• 
+Fallas geológicas 
+• 
+Pocas vías alternas 
+• 
+Vías en mal estado 
+• 
+Varios accesos que se comunican entre veredas 
+Infraestructura de servicios 
+públicos 
+• 
+Falta de servicios públicos complementarios 
+• 
+Se cuenta con servicio de agua y luz 
+• 
+Los servicios son económicos 
+Dinámica demográfica 
+• 
+Migración de los habitantes a la metrópoli por falta 
+de proyectos y gestión del estado con las actividades 
+económicas  
+• 
+Expansión territorial  
+• 
+Potencial de campo y tierras fértiles 
+ 
+Patrimonio 
+• 
+Solo existen intervenciones de infraestructura en la 
+cabecera municipal 
+• 
+Patologías a nivel arquitectónico 
+• 
+Reconocimiento a nivel nacional 
+• 
+Valor histórico 
+• 
+Herencia cultural 
+• 
+Valor estético  
+
+=== Página 49 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+49 
+Elaboración propia 
+ 
+3.3. Relaciones dinámicas 
+Son aquellas que son determinante en la manera en que funcionará el territorio, teniendo en 
+cuenta los atributos, las características propias y las condiciones de servicio del territorio. 
+3.3.1. Análisis macro 
+Tabla 7  
+Análisis Macro - Relaciones dinámicas 
+VARIABLE ANALIZADA 
+PROBLEMAS 
+POTENCIALIDADES 
+Condiciones económicas 
+ 
+• 
+Bajos pagos por la venta y exportación de productos 
+• 
+Producción agrícola en la totalidad de la provincia 
+ 
+Tránsito y movilidad 
+• 
+Insuficiente red de infraestructura vial 
+• 
+Vías inconclusas 
+• 
+Pocas vías alternas 
+• 
+Vías en mal estado 
+• 
+Conexiones de puntos clave (cabeceras municipales) 
+• 
+Trazado de vía principal 
+• 
+Ejes viales estratégicos 
+Dotacionales – equipamientos 
+• 
+Poca capacidad de servicio hospitalario y mal estado 
+a nivel de infraestructura 
+• 
+Distribución adecuada de los centros urbanos 
+• 
+Cercanía y fácil acceso a los diferentes 
+equipamientos. 
+Turismo 
+ 
+• 
+Olvido por parte de la ciudadanía 
+• 
+Deterioro de los inmuebles a nivel arquitectónico 
+ 
+• 
+En la provincia encontramos sitios turísticos tanto 
+ambientales como arquitectónicos y recreativos 
+representativos de la región. 
+Cultura – memoria – 
+manifestaciones 
+• 
+Deterioro de los centros culturales característicos de 
+la provincia en general, a nivel de infraestructura 
+• 
+Cada municipio se identifica puntualmente con un 
+centro de memoria característico de su historia 
+Dinámica poblacional – 
+relación entre demografía, 
+factores sociales, ambientales 
+y económicos 
+• 
+Olvido de las actividades campesinas, afectando la 
+economía basada en la producción agropecuaria 
+• 
+Recurso humano para las actividades principales en 
+los centros de desarrollo o cabeceras municipales 
+Elaboración propia 
+ 
+ 
+
+=== Página 50 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+50 
+ 
+3.3.2. Análisis meso 
+Tabla 8  
+Análisis meso - Relaciones dinámicas 
+VARIABLE ANALIZADA 
+PROBLEMAS 
+POTENCIALIDADES 
+Condiciones económicas 
+• 
+Afectación en cosechas por producción no 
+industrializada 
+• 
+Pérdidas por cosechas fuera de tiempo 
+• 
+Economía basada netamente en actividades 
+agrícolas y ganaderas. 
+• 
+Se abastece el municipio gracias a estas actividades 
+Tránsito y movilidad 
+• 
+Recursos malversados, no se cubren las necesidades 
+que en materia de infraestructura vial requiere el 
+municipio para desarrollar con mayor competitividad 
+sus principales actividades económicas 
+• 
+El municipio cuenta con 14.80km de vías terciarias 
+sin contabilizar los ramales 
+• 
+Conexiones fáciles a 5 municipios vecinos con sus 
+respectivos terminales de transporte 
+Dotacionales – equipamientos 
+• 
+No se ha contemplado la articulación de estos 
+equipamientos con centros técnicos o d educación 
+superior 
+• 
+Cuenta con 5 instituciones urbanas y rurales, 
+supliendo las necesidades educacionales. 
+Turismo 
+ 
+• 
+Incapacidad de acopio para las temporadas de ferias 
+y fiestas  
+• 
+Se realizan exposiciones equinas y ganaderas, 
+reinado del campo boyacense, verbenas, actos 
+culturales, musicales, alboradas y diversas 
+actividades tradicionales del municipio 
+Cultura – memoria – 
+manifestaciones 
+ 
+• 
+Olvido y pérdida cultural por parte de los habitantes 
+con relación a sus raíces ancestrales 
+• 
+Tienen como tradición comunicarse por medio de 
+gestos, señas y expresiones características de la 
+región. 
+• 
+Cuentan con 65 grupos indígenas 
+Dinámica poblacional – 
+relación entre demografía, 
+factores sociales, ambientales 
+y económicos  
+• 
+El 53.4% se encuentra en el área urbana y el 46.6% 
+en el área rural 
+ 
+• 
+La población está compuesta en su mayoría por 
+edades de entre los 15 y 24 años, especialmente en 
+hombres 
+Elaboración propia 
+3.3.3. Análisis micro 
+Tabla 9  
+Análisis micro - Relaciones dinámicas 
+VARIABLE ANALIZADA 
+PROBLEMAS 
+POTENCIALIDADES 
+Condiciones económicas 
+• 
+Desaprovechamiento de tierras fértiles para la 
+producción agrícola 
+• 
+Mano de obra campesina 
+Tránsito y movilidad 
+• 
+Vías en recebo, lo que complica el transporte de 
+productos cosechados en las fincas 
+• 
+Vías libres de alto índice de movilidad 
+• 
+Fincas con varios accesos 
+Dotacionales – equipamientos 
+• 
+En la vereda no se evidencia existencia de 
+equipamiento de ningún tipo 
+• 
+Existen equipamientos en la cabecera municipal o 
+pueblo 
+Turismo 
+ 
+• 
+No existe actividad turística. 
+ 
+• 
+En lugares cercanos se evidencian actividades de 
+turismo deportivas o extremas 
+Cultura – memoria – 
+manifestaciones 
+• 
+No se evidencia la idea de promover algún tipo de 
+manifestación cultural netamente de la vereda 
+• 
+Las actividades que se realizan en la vereda se han 
+mantenido y conservado en el tiempo 
+Dinámica poblacional – 
+relación entre demografía, 
+factores sociales, ambientales 
+y económicos  
+• 
+Migración constante de los habitantes de la vereda 
+hacia la zona urbana 
+• 
+Iniciativa constante de los habitantes por apoderarse 
+de un tema de bien común y replicarlo para beneficio 
+comunitario 
+Elaboración propia 
+ 
+ 
+
+=== Página 51 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+51 
+CAPITULO 4 – FORMULACIÓN 
+4.1. Introducción capítulo 4 
+En el presente capítulo, se formularán las estrategias establecidas con base en los indicadores 
+determinados para realizar los análisis meso de Santa Rosa de Viterbo y micro de la Vereda Cuche, con el 
+objeto de abordar idóneamente los objetivos planteados para mejorar la calidad de vida de sus habitantes 
+en los aspectos económico, ambiental y socio cultural. 
+4.2. Indicadores rurales, arquitectónicos y agrícolas 
+En la siguiente tabla, se abordarán los indicadores correspondientes al Análisis Meso, que son la 
+base para contextualizar la situación de Santa Rosa de Viterbo en cuanto a los aspectos relevantes que 
+determinan sus características, teniendo en cuenta los aspectos a analizar en el presente capítulo. 
+Tabla 10  
+Indicadores Análisis Meso - Santa Rosa de Viterbo 
+ 
+Elaboración propia 
+ 
+ 
+
+=== Página 52 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+52 
+Tabla 11  
+Indicadores análisis Micro - Vereda Cuche 
+ 
+Elaboración propia 
+ 
+A continuación, se relacionan los indicadores determinados de acuerdo con el análisis Micro, que 
+permitió establecer más claramente las estrategias a utilizar frente a la situación de la Vereda Cuche en 
+relación con la del municipio. 
+4.3. Estrategias 
+4.3.1. Educación Transformativa 
+Esta se fomentará por medio de la participación colaborativa, fortaleciendo las capacidades 
+naturales de los individuos, desde la corta edad. Se implementarán alternativas que promuevan el 
+desarrollo económico, con orientación a la transformación productiva para por medio de la misma, 
+generar empleo y contribuir a la reducción de la pobreza y la inequidad social. La información será 
+transmitida a través de talleres prácticos con temáticas culturales representativas del sector 
+
+=== Página 53 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+53 
+4.3.2. Tratamiento consciente de los recursos naturales 
+Por medio de implementación de baños secos, tratamiento y recolección de aguas, reciclaje de 
+basuras y ubicación de paneles solares en lugares estratégicos. 
+4.3.3. Prácticas agropecuarias 
+Activación de la economía a través de la retoma de tradiciones culturales, además se busca 
+fortalecer los recursos para cubrir sus necesidades básicas, promover la actividad agrícola y agropecuaria 
+para aumentarla y así generar una mayor productividad y velar por el cuidado del medio ambiente para 
+asegurar los recursos naturales. 
+4.3.4. Prototipos de vivienda campesina 
+Con la finalidad de implementar la vivienda productiva se llevará a cabo el diseño y construcción 
+de prototipos habitacionales, construidos con técnicas ancestrales, aprovechando los materiales de la 
+zona. Se desarrollarán talleres de construcción vernácula aplicados a toda la población, sin distinción de 
+género o edad. Se contará con un hotel campestre como resguardo ocasional de habitantes que no 
+residen en la zona. Y finalmente, se buscará vincular al proyecto las viviendas que por su estado 
+constructivo cuenten con las características necesarias para formar parte de este. 
+4.3.5. Uso productivo del suelo 
+Por medio del desarrollo de la implementación de la vivienda productiva, actividad agrícola, 
+actividad agropecuaria, cabañas de descanso, museo galería artesanal y educación transformativa. 
+
+=== Página 54 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+54 
+CAPITULO 5 – DISEÑO 
+5.1. Introducción capítulo 5 
+Para desarrollar este capítulo, se tendrá en cuenta la formulación de estrategias como 
+herramienta para determinar de qué manera se alcanzará el tercer objetivo del presente trabajo, el cual 
+es diseñar prototipos de vivienda que se puedan adaptar a las necesidades habitacionales de los hogares 
+campesinos, a partir del modelo de vivienda de interés cultural (VIC) del Arq. Erwin Zambrano. 
+Se pensó en estas, debido a que, por sus características, están vinculadas directamente con el 
+valor patrimonial del Municipio y de igual manera pueden utilizarse con la finalidad de generar lugares 
+adecuados para desempeñar las labores propias de la zona rural, implementando nuevos usos que 
+colaboren con su crecimiento en cada una de las áreas de estudio en este trabajo.  
+5.2. Propuesta general 
+La comunidad agrícola conformada por modelos habitacionales, surge con la finalidad de 
+implementar varios prototipos arquitectónicos, en los cuales se adelantarán las diferentes actividades 
+encaminadas a desarrollar las labores propias de la zona, que incluyen, además de la vivienda campesina, 
+lugares donde se podrán llevar a cabo actividades de tipo agrícola, agropecuaria, ecológica y de educación 
+transformativa. Enfocada directamente a la sostenibilidad del lugar, le dará un mayor énfasis a su 
+condición de comunidad agrícola, implementando además,  el turismo como una actividad paralela a las 
+anteriores, que aportará un ingreso económico por medio de un eco-hotel que hospedará a visitantes que 
+aparte de visitar el lugar estén interesados en conocer, aportar o hacer parte de las actividades que se 
+desarrollan en este lugar;  la particularidad de este es que permite a los turistas vivir la experiencia 
+cercana del modelo de vivienda campesina y del campesino tipo de la vereda.  
+
+=== Página 55 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+55 
+5.3. Zonificación 
+5.3.1. Selección del lugar 
+Figura 9 
+ Memoria urbana 
+ 
+Elaboración propia 
+ 
+5.3.2. Organigrama 
+Figura 10   
+Zonificación programa funcional 
+ 
+Elaboración propia 
+
+=== Página 56 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+56 
+5.4. Propuesta temática  
+Por medio de una sucesión de actividades que se adelantarán tanto en los prototipos como en el 
+hotel, se espera fortalecer la economía de la vereda y el municipio por medio del turismo, el cual será 
+vinculado con la producción agropecuaria por medio de la participación comunitaria, implementando el 
+sistema de educación transformativa cuya idea es involucrar a todos los agentes en el proceso de 
+producción tanto de la parte agropecuaria como de la parte constructiva. Lo anterior se hará llevando a 
+cabo talleres con la comunidad y los visitantes que se vean motivados a aprender un poco más acerca del 
+patrimonio arquitectónico y cultural de la comunidad, generando así empleo y contribuyendo a que 
+disminuyan los índices de migración de los habitantes de la zona, pues económicamente accederán a un 
+ingreso y, social y culturalmente estarán explotando sus conocimientos, generando que estos trasciendan 
+en el tiempo y no se pierdan. 
+ 
+ 
+
+=== Página 57 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+57 
+Figura 11  
+Distribución por temática 
+ 
+Elaboración propia 
+ 
+Teniendo en cuenta que la naturaleza y su aprovechamiento junto con su cultura tradicional serán 
+las principales actividades que se ofrecerán en esta comunidad agrícola, se velará por el cuidado estricto y 
+pedagógico de la misma, minimizando de esta manera el impacto que el turismo pueda producir en esta 
+zona. 
+5.5. Propuesta arquitectónica 
+El proyecto está conformado por cinco prototipos de vivienda, los cuales serán habitados por 
+campesinos de la zona, incluirán en sus espacios unas zonas de producción agrícola, agropecuaria o 
+artesanal, adicional a esto un eco-hotel, compuesto por seis cabañas con capacidad para alrededor de 
+cuarenta personas, el cual tiene como fin lograr que los turistas que allí se hospeden vivan la experiencia 
+del campesino tipo de la zona rural de Santa Rosa de Viterbo. 
+
+=== Página 58 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+58 
+Figura 12  
+Planta general 
+ 
+Elaboración propia 
+Figura 13  
+Vista Eco-hotel 
+ 
+Elaboración propia 
+ 
+Se elaborarán con técnicas constructivas vernáculas, específicamente el bahareque y madera, 
+implementando métodos característicos de estos sistemas, además de baños secos, sistemas de 
+recolección y purificación de aguas lluvias y otros que garanticen que la comunidad agrícola sea sostenible 
+
+=== Página 59 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+59 
+y se mantenga en el tiempo sin que se corra el riesgo de agotar los recursos naturales de la vereda o del 
+municipio. 
+Figura 14  
+Vista general 
+ 
+Elaboración propia 
+ 
+5.5.1. Prototipos de vivienda campesina. 
+A continuación, se explicará el diseño propuesto por el Arq. Erwin Zambrano Martínez, los 
+ejercicios de diseño realizados posterior al análisis de este. Se tendrán en cuenta algunos referentes de 
+vivienda rural (Instituto de Crédito Territorial, Ferro, A. W., & Maldonado, G., 1946), en los que se 
+relacionan diferentes tipologías aplicadas a tema frío y medio, las cuales se ajustan al territorio foco de 
+esta propuesta, el análisis de sus espacios, las características de cada una de ellas y finalmente los cinco 
+prototipos de vivienda planteados para esta comunidad, la temática asignada, su distribución interna, la 
+relación que tienen con su entorno, su capacidad habitacional y diseño. 
+Referente 1: Prototipo de Vivienda de Interés Cultural (VIC) Realizado por el Arq. Erwin 
+Zambrano Martínez 
+
+=== Página 60 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+60 
+Figura 15  
+Diseño habitacional / modulación estructura 
+ 
+Tomado de Arq. Erwin Zambrano (2022) 
+ 
+Este diseño cuenta con una modulación rectangular que está calculada con el fin de optimizar 
+tiempo y materiales, teniendo en cuenta que los materiales a utilizar tienen longitudes ya establecidas y al 
+ser cortadas generan desperdicios, por este motivo se busca minimizarlos modulando los puntos donde se 
+encontrará la estructura como los pilares y la distribución de los marcos estructurales de cada muro. Los 
+espacios cumplen con el estándar de metros cuadrados por cada zona de la vivienda, los gráficos 
+mostrados (figura 15) fueron objeto de análisis espacial, partiendo de la forma y proporción. 
+ 
+ 
+
+=== Página 61 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+61 
+Figura 16  
+Análisis de forma 
+ 
+Adaptado de Arq. Erwin Zambrano (2022) 
+Forma: Rectangular  
+Proporciones: 
+            1/3 de Modulo 
+ 
+ 
+1/2 Modulo  
+ 
+ 
+ 
+1 Modulo 
+Figura 17  
+Análisis de proporción 
+ 
+Adaptado de Arq. Erwin Zambrano (2022) 
+
+=== Página 62 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+62 
+La modulación de la estructura es realizada de forma reticular, esta es definida teniendo en 
+cuenta los espacios con los que cuenta la vivienda, los puntos en los que debe ir estructura fija y los 
+puntos en los que esta puede ser removida, es pertinente decir que esta modulación es óptima ya que fue 
+diseñada para ser construida con la técnica del bahareque. 
+Figura 18  
+Análisis modulación de estructura 
+ 
+         Estructura fija 
+ 
+     Estructura removida 
+Adaptado de Arq. Erwin Zambrano (2022) 
+ 
+Memoria descriptiva diseño de prototipos a implementar: 
+Luego de realizar el análisis y basado en este tipo de modulación se realizan cambios en cuanto a 
+forma, tamaño y distribución de cada uno de los prototipos objeto de esta propuesta, los cuales serán 
+explicados a continuación, por medio de una memoria descriptiva la cual permite mostrar las 
+modificaciones realizadas a partir de la volumetría inicial, que se asemeja a un cuadrado o la unión de dos 
+rectángulos.  
+ 
+ 
+
+=== Página 63 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+63 
+Figura 19  
+Memoria descriptiva, definición forma prototipos propuestos 
+ 
+Elaboración propia 
+ 
+ 
+El prototipo 1 es diseñado partiendo de la forma del cuadrado; para el prototipo 2 se realiza una 
+modificación que consiste en la sustracción de ¼ del cuadrado inicial; el prototipo 3 tiene como 
+modificación una adición equivalente a un tercio del cuadrado; para el prototipo 4 la modificación 
+realizada fue la unión de dos cuadrados generando intersección en un punto medio y; el prototipo 5 tiene 
+como modificación el desplazamiento de la mitad del cuadrado de forma trasversal.  
+Referente 2: Cartilla de construcciones rurales, Instituto de crédito territorial 
+1 
+2
+3 
+4 
+5 
+
+=== Página 64 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+64 
+A través de ilustraciones esta cartilla muestra como son los prototipos de vivienda rural óptimos 
+para clima cálido, medio. Para este trabajo se tomarán en cuenta algunos de los prototipos que se 
+adaptan al clima medio y frío, esto teniendo en cuenta que el lugar de intervención para la presente 
+investigación se mantiene entre un clima medio y frío, también se muestran algunas viviendas rurales 
+existentes en Boyacá. Todo lo anterior es utilizado como referente para el diseño y distribución de los 
+prototipos habitacionales, con el fin de retomar el valor cultural que existe en la zona. 
+CASA TIPO MINIMO:  Esta casa es lo más pequeño que se puede edificar dentro de las 
+condiciones higiénicas y por la sencillez de su construcción es muy económica. Como se puede ver en las 
+imágenes que se muestran a continuación consta de: dos dormitorios de 3.00 x 3.00 mts, cada uno 
+comunicados entre sí, una cocina de 2.00 x 2.15 mts, suficiente para dar cabida a una estufa, una alacena 
+que sirve de despensa. No tiene cielo raso horizontal, sino que este sigue dirección del tejado, la 
+ventilación e iluminación de los dormitorios, tiene dos ventanas pequeñas giratorias, de 1.00 x 060mts. 
+Para la cocina se ha provisto un sistema de huecos que le dan luz y ventilación. Este tipo de casa se adapta 
+a cualquier clase de materiales de construcción, como: ladrillo, piedra, bloques de cemento, tapia pisada, 
+bahareque, etc. El sistema del tejado es muy simple, sencillo y fácil de construir, los dormitorios van con 
+pisos de madera. 
+ 
+ 
+
+=== Página 65 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+65 
+Figura 20  
+Planta y perspectiva casa tipo mínimo 
+ 
+Tomado de “Cartillas de construcciones rurales”, Instituto de Crédito Territorial, 1946. 
+ 
+Figura 21  
+Sección AA y perspectiva casa tipo mínimo 
+ 
+Tomado de “Cartillas de construcciones rurales”, Instituto de Crédito Territorial, 1946. 
+ 
+ 
+
+=== Página 66 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+66 
+Figura 22  
+Fachadas casa tipo mínimo 
+ 
+Tomado de “Cartillas de construcciones rurales”, Instituto de Crédito Territorial, 1946. 
+ 
+ 
+CASA TIPO NUMERO 1: Este tipo de casa es aconsejable para un máximo de cinco personas, o sea, 
+un matrimonio y tres hijos. Como se puede ver en las imágenes que se muestran a continuación consta 
+de: dos dormitorios de 3.00 x 3.00 mts, cada uno comunicados entre sí por un vano, tiene capacidad para 
+colocar una cama doble y una sencilla, o dos sencillas y los muebles para guardar ropa. Una cocina de 3.00 
+x 2.00 mts, suficiente para dar cabida a una estufa, una para despensa, tiene un pórtico que ocupa el 
+ancho de uno de los dormitorios. Tiene cielo raso inclinado, formado por la parte posterior del tejado. Los 
+dormitorios reciben luz y ventilación con ventanas giratorias que permiten dirigir y graduar la entrada del 
+aire. La cocina se ventila por medio de huecos, que se forman dejando espacio entre los ladrillos de la 
+mampostería. Este tipo de casa se adapta al clima frío y medio e igualmente a cualquier clase de 
+materiales de construcción, como: ladrillo, piedra, bloques de cemento, tapia pisada, bahareque, etc. El 
+sistema del tejado es muy simple, sencillo y fácil de construir, los dormitorios van con pisos de madera.  
+
+=== Página 67 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+67 
+Figura 23  
+Planta y perspectiva casa número 1 
+ 
+Tomado de “Cartillas de construcciones rurales”, Instituto de Crédito Territorial, 1946. 
+ 
+Figura 24  
+Corte y detalles casa número 1 
+ 
+Tomado de “Cartillas de construcciones rurales”, Instituto de Crédito Territorial, 1946. 
+ 
+ 
+
+=== Página 68 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+68 
+Figura 25  
+Fachadas casa número 1 
+ 
+Tomado de “Cartillas de construcciones rurales”, Instituto de Crédito Territorial, 1946. 
+ 
+CASA TIPO NUMERO 2: Esta casa es la ampliación del tipo número 1. Consta de: dos dormitorios 
+de 3.00 x 3.00 mts, cada uno comunicados entre sí por un vano, tiene capacidad para colocar una cama 
+doble y una sencilla, o dos grandes; un salón de 3.00 x 5.15 mts, que puede servir como sala-comedor. En 
+el frente tiene la cocina de 2.00 x 3.00 mts, suficiente para dar cabida a una estufa y despensa, tiene un 
+pórtico de 2.00 x 3.00 mts. Las alcobas pequeñas reciben luz y ventilación con ventanas giratorias que 
+permiten dirigir y graduar la entrada del aire. El salón tiene cuatro ventanas; la cocina se ventila por medio 
+de huecos, que se forman dejando espacio entre los ladrillos de la mampostería. Este tipo de casa se 
+adapta al clima frío y medio e igualmente a cualquier clase de materiales de construcción, como: ladrillo, 
+piedra, bloques de cemento, tapia pisada, bahareque, etc. El sistema del tejado es muy simple, sencillo y 
+fácil de construir, los dormitorios van con pisos de madera.  
+Figura 26  
+Planta y fachada posterior y principal casa número 2 
+
+=== Página 69 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+69 
+ 
+Tomado de “Cartillas de construcciones rurales”, Instituto de Crédito Territorial, 1946. 
+ 
+Figura 27  
+Planta y fachada lateral derecha e izquierda casa número 2 
+ 
+Tomado de “Cartillas de construcciones rurales”, Instituto de Crédito Territorial, 1946. 
+ 
+ 
+
+=== Página 70 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+70 
+Figura 28  
+Perspectiva y corte casa número 2 
+ 
+Tomado de “Cartillas de construcciones rurales”, Instituto de Crédito Territorial, 1946. 
+ 
+CASA TIPO NUMERO 3: Consta de dos dormitorios de 3.00 x 3.50 mts, separados entre sí por una 
+alacena de madera que sirve para guardar ropa. En estos dormitorios caben una cama dible y una sencilla 
+o dos camas sencillas, sillas y mesas de noche. A un lado tiene la cocina de 2.4 x 3.00 mts.; un pórtico de 
+2.30 x 3.00mts., y un depósito de herramientas o productos agrícolas de 2.40 x 3.00 mts. La cocina tiene 
+cabida suficiente para la estufa, una mesa, sillas para comer y una despensa. Los dormitorios reciben luz y 
+ventilación por ventanas de 1.00 x 1.40 mts. La cocina tiene de un lado un bastidor con malla y por el otro, 
+huecos dejados en la mampostería, lo que asegura completa luz y ventilación. Esta casa tiene 
+posibilidades de ampliación. Este tipo de casa se adapta al clima frío y medio e igualmente a cualquier 
+clase de materiales de construcción, como: ladrillo, piedra, bloques de cemento, tapia pisada, bahareque, 
+etc. El sistema del tejado es muy simple a cuatro aguas. 
+ 
+ 
+
+=== Página 71 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+71 
+Figura 29  
+Perspectiva y planta casa número 3 
+ 
+Tomado de “Cartillas de construcciones rurales”, Instituto de Crédito Territorial, 1946. 
+ 
+ 
+
+=== Página 72 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+72 
+Figura 30  
+Fachadas casa número 3 
+ 
+Tomado de “Cartillas de construcciones rurales”, Instituto de Crédito Territorial, 1946. 
+ 
+Figura 31  
+ Fachadas casa número 3 
+ 
+Tomado de “Cartillas de construcciones rurales”, Instituto de Crédito Territorial, 1946. 
+
+=== Página 73 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+73 
+ 
+CASA TIPO NUMERO 7: Este tipo de casa es de dos pisos, tiene capacidad para alrededor de ocho 
+personas y tiene mucha acogida especialmente en climas fríos, por la ventaja que ofrece al tener los 
+dormitorios en la parte alta. En el primer piso tiene un depósito o cuarto de herramientas de 3.00 x 3.50 
+mts y la cocina de 3.00 x 2.40 mts.; en uno de los costados se desarrolla la escalera de acceso al segundo 
+piso, en el que se encuentran un salón de 3.65 x 3.15 mts, dos alcobas medianas de 3.15 x 2.55 mts, y una 
+alcoba grande de 3.15 x 3.65 mts.  un pórtico de 2.30 x 3.00 mts, todos los dormitorios reciben luz y 
+ventilación por ambos costados, los cielos rasos son inclinados. Este tipo de casa se adapta a cualquier 
+clase de materiales de construcción, como: ladrillo, piedra, bloques de cemento, tapia pisada, bahareque, 
+etc. El sistema del tejado es muy simple a cuatro aguas. 
+Figura 32  
+Fachada principal y posterior casa número 7 
+ 
+Tomado de “Cartillas de construcciones rurales”, Instituto de Crédito Territorial, 1946. 
+ 
+ 
+
+=== Página 74 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+74 
+ 
+Figura 33  
+Fachada lateral izquierda y derecha casa número 7 
+ 
+Tomado de “Cartillas de construcciones rurales”, Instituto de Crédito Territorial, 1946. 
+ 
+CASAS IDENTIFICADAS EN BOYACÁ, TERRITORIO DE IMPLEMENTACIÓN DEL PRESENTE TRABAJO: 
+Figura 34  
+Casas en Soatá - Boyacá 
+ 
+Tomado de “Cartillas de construcciones rurales”, Instituto de Crédito Territorial, 1946. 
+
+=== Página 75 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+75 
+Figura 35  
+Casa en Samacá – Boyacá 
+ 
+Tomado de “Cartillas de construcciones rurales”, Instituto de Crédito Territorial, 1946. 
+ 
+Figura 36  
+Casa en Pesca – Boyacá 
+ 
+Tomado de “Cartillas de construcciones rurales”, Instituto de Crédito Territorial, 1946. 
+
+=== Página 76 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+76 
+5.5.1.1 Prototipo habitacional 1 
+Su temática principal es un taller constructivo, utilizando la técnica del bahareque. Por medio de 
+este se realizarán practicas donde las personas que visiten el lugar puedan aprender el proceso 
+constructivo de una vivienda campesina, los aspectos importantes de la misma, los materiales que se 
+emplearán teniendo en cuenta la riqueza natural que ofrece el municipio, los cuidados de los mismos y el 
+manejo que deben tener. 
+La práctica constructiva que se realizará consiste en el armado de paneles en bahareque que 
+cumplirán con la función de muros estructurales y divisorios, la preparación de los materiales a utilizar, 
+sus ensambles y posterior a ello, los tipos de pañetes que se pueden aplicar al mismo utilizando la Cal, 
+luego de entender el proceso al que la piedra caliza es sometida para lograr su aplicación en la 
+arquitectura. 
+Figura 37 
+Planta prototipo de vivienda 1 
+ 
+ 
+Elaboración propia 
+ 
+ 
+
+=== Página 77 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+77 
+ 
+ 
+Figura 38  
+Circulaciones y permanecías. 
+ 
+Elaboración propia 
+ 
+ 
+Figura 39  
+Vista general 1. 
+ 
+ 
+Elaboración propia 
+
+=== Página 78 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+78 
+ 
+En cuanto a su diseño y distribución, se adapta a una familia compuesta por tres o cinco personas. 
+Cuenta en primer piso con dos habitaciones, un baño, cocina y sala comedor, también un almacén que, 
+por medio de una escalera vincula directamente un altillo con capacidad para una persona, la cual puede 
+ser un practicante viviendo la experiencia de los hogares de la vereda o una persona adicional de la familia 
+que lo habitará y una zona de labores, la cual se encuentra en la parte externa de la vivienda; cada espacio 
+interior es iluminado y ventilado naturalmente por medio de ventanas. 
+Para proceder a la construcción de este prototipo se tramitó licencia de construcción, para esta el 
+proceso fue de aproximadamente 5 meses, directamente en la Alcaldía de Santa Rosa de Viterbo, 
+Departamento de Planeación.  
+Figura 40  
+Vista general 2 y 3. 
+ 
+ 
+Elaboración propia 
+
+=== Página 79 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+79 
+5.5.1.2 Prototipo habitacional 2 
+Su temática es el cultivo de caña castilla. Por medio de este se realizarán practicas donde las 
+personas que visiten el lugar puedan aprender el proceso de cultivo y cuidado de la caña castilla, la cual 
+pretende ser preparada y alistada para la construcción. 
+En cuanto a su diseño y distribución, se adapta a una familia compuesta por tres o cuatro 
+personas. Consta de dos habitaciones, un baño, cocina y sala comedor, también un almacén con entrada 
+independiente y una zona de labores, que se encuentra en la parte externa de la vivienda. Cada espacio 
+interior es iluminado y ventilado naturalmente por medio de ventanas. 
+Figura 41  
+Planta prototipo 2. 
+ 
+Elaboración propia 
+ 
+ 
+
+=== Página 80 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+80 
+Figura 42  
+Vista general 1.  
+ 
+Elaboración propia 
+ 
+5.5.1.3 Prototipo habitacional 3 
+Su temática es la actividad agropecuaria, aquí se enseñará por medio de prácticas, el cuidado 
+correcto de los animales comunes de la zona, su alimentación y manutención.  Se pretende concientizar a 
+las personas que visiten el proyecto acerca del cuidado de los animales, ya que son en gran parte 
+productores de los alimentos consumidos en la zona. 
+En cuanto a su diseño y distribución, se adapta a una familia compuesta por seis o siete personas. 
+Consta de tres habitaciones, un baño, cocina y sala comedor, un almacén con entrada independiente y 
+una zona de labores, la cual se encuentra en la parte externa de la vivienda. Cada espacio interior es 
+iluminado y ventilado naturalmente por medio de ventanas. 
+ 
+ 
+
+=== Página 81 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+81 
+Figura 43  
+Planta prototipo 3. 
+ 
+Elaboración propia 
+ 
+Figura 44  
+Vista general. 
+ 
+Elaboración propia 
+
+=== Página 82 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+82 
+5.5.1.4 Prototipo habitacional 4 
+Su temática es la actividad agrícola, aquí se enseñará por medio de prácticas, la forma correcta de 
+cultivar y cosechar alimentos propios de esta zona, el tiempo de cada proceso, la productividad de cada 
+alimento y lo referente a los cultivos de alimentos.  
+En cuanto a su diseño y distribución, se adapta a una familia de seis o nueve personas. Consta de 
+tres habitaciones, un baño, cocina y sala comedor, un almacén con entrada independiente y una zona de 
+labores, la cual se encuentra en la parte externa de la vivienda. Cada espacio interior es iluminado y 
+ventilado naturalmente por medio de ventanas. 
+Figura 45  
+Planta prototipo 4. 
+ 
+Elaboración propia 
+ 
+ 
+
+=== Página 83 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+83 
+Figura 46  
+Vista general. 
+ 
+Elaboración propia 
+ 
+5.5.1.5 Prototipo habitacional 5 
+Su temática es el cultivo de pino, aquí se enseñará por medio de prácticas, la forma correcta de 
+cultivar arboles de pino, el tiempo de espera, los cuidados a tener, las utilidades de este, propiedades y 
+beneficios. 
+En cuanto a su diseño y distribución, se adapta a una familia cuatro a seis personas. Consta de dos 
+habitaciones, un baño, cocina y sala comedor, un almacén con entrada independiente y una zona de 
+labores, la cual se encuentra en la parte externa de la vivienda. Cada espacio interior es iluminado y 
+ventilado naturalmente por medio de ventanas. 
+ 
+ 
+
+=== Página 84 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+84 
+Figura 47  
+Planta prototipo 5 
+ 
+Elaboración propia 
+ 
+Figura 48  
+Vista general. 
+ 
+Elaboración propia 
+
+=== Página 85 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+85 
+CAPITULO 6 – CONSTRUCCIÓN 
+6.1. Introducción capítulo 6 
+Este capítulo consiste en construir un prototipo de vivienda campesina con la participación de la 
+comunidad, para esto se tiene en cuenta el prototipo número 1, explicado en el capítulo anterior, el cual 
+será la primera construcción que se realizará en esta comunidad agrícola. 
+6.2. Objetivo 
+Construir un prototipo de vivienda campesina en Bahareque, con la participación de la 
+comunidad, como método evaluativo del proceso de capacitación y transferencia de conocimientos. 
+6.3. Materiales 
+6.3.1. Caña de castilla 
+Esta es cosechada en gran parte del territorio nacional, se conoce por diferentes denominaciones 
+dependiendo de la zona del país donde sea cultivada: en Boyacá, Caldas y Cundinamarca se le conoce 
+como cañabrava de castilla; en Caldas y Huila como Caña de queco; en Antioquia, Caldas, Nariño, Norte de 
+Santander, Putumayo y Quindío como juco, cañote y carrizo; en Boyacá como Caña común y Chin; en 
+Antioquia y Norte de Santander lata. 
+Es una caña con características rizomatosas y perenne, de tallo hueco que alcanza hasta 6 metros 
+de altura, sus hojas en forma de cinta alcanzan los 60 centímetros de largo y 7 centímetros de ancho. 
+Se habla de diferentes lugares de origen, se cree que llegó a América en la época de la colonia, en 
+Colombia puede encontrarse en climas fríos y templados, puede darse por cultivo o por si sola ya que es 
+de carácter rizomatoso, por tanto, sus raíces se extienden por debajo de la tierra de manera horizontal en 
+forma de tallos y así se multiplica y reproduce. 
+
+=== Página 86 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+86 
+En la construcción se utilizan sobre todo en la elaboración de techos, cielos rasos y embovedados. 
+En estos la caña se pone longitudinal y transversalmente sobre los listones de madera que conforman el 
+entramado y se amarran con fibras naturales o cabuyas y finalmente las tejas sobre las cañas. También 
+para la fabricación del bahareque, cercas, cerramientos, puertas, entre otros.  
+Se usa además para la elaboración artesanías, instrumentos musicales y la planta como tal, puede 
+ser usada para delimitar predios y colabora con la protección conservación de la fauna ya que por ser 
+densa allí duermen o anidan diferentes tipos de aves. 
+Se han realizado estudios para la utilización de su bagazo en la elaboración de mampostería 
+aligerada y cemento con su ceniza ya que es un gran generador de energía y al ser tratada a altas 
+temperaturas, con adición de otros materiales químicos, podrían llegar a reemplazarlo disminuyendo la 
+gran contaminación que genera su producción. 
+6.3.2. Tierra 
+La principal ventaja de construir en este sistema es que no es un material costoso y es asequible, 
+ya que se toma de la naturaleza, directamente del lugar. No obstante, se debe vigilar el método 
+constructivo, coordinando muy bien el proceso ya que se debe utilizar una gran cantidad de tierra y la 
+técnica debe ser la apropiada para lograr buena resistencia y su preservación en el tiempo. Los elementos 
+constructivos más comunes realizados con tierra son los muros en bloques o mampuestos.  
+Las características para definir si la tierra es la apropiada son resistencia a la compresión, baja 
+expansión y retracción, gran resistencia abrasiva, poca absorción de humedad, buena disponibilidad y que 
+esté libre de raíces y elementos orgánicos. 
+Se pueden encontrar diferentes tipos de tierra, como son las graníticas, basálticas, calizas, 
+bentoníticas o expansivas; la más adecuada para las construcciones en tierra son las graníticas que están 
+conformadas en su mayor parte de arena, dependiendo de la cantidad, puede ser mezclada con un poco 
+
+=== Página 87 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+87 
+de cal para estabilizarla y si se quiere mayor resistencia agregar un poco de cemento en la cantidad 
+adecuada, la cual será determinada por la composición granulométrica de la tierra seleccionada. 
+La mezcla de suelo con cemento se hace mayormente necesaria cuando el suelo o la tierra es muy 
+arcillosa, en proporción de un 6 al 16% en cantidad de cemento en relación con la cantidad de tierra y su 
+porcentaje de humedad, se agrega agua y se mezcla, todo en la cantidad adecuada, se compacta con un 
+apisonador o compactador mecánico de acuerdo a la extensión de tierra y se cubre con plástico a manera 
+de curado para favorecer sus propiedades. Esta mezcla se usa principalmente para suelos, pavimentos de 
+caminos, bancos de los ríos y lugares donde predomine la arcilla en la composición del suelo. 
+En zonas lluviosas la técnica de tierra compactada es más aconsejable, su composición debe ser 
+principalmente arcilla, arena y un estabilizante, como lo es la cal o el cemento. Anteriormente la 
+compactación se hacía manual por medio de pisones o elementos elaborados artesanalmente y en la 
+actualidad se hace por medio de equipos mecanizados que logran una más rápida compactación. 
+6.3.3. La Cal 
+La cal es un producto derivado de la piedra caliza, material natural compuesto por carbonato de 
+calcio (CaCO3) muy abundante en la naturaleza, llamada en su forma mineral calcita, es quemada o 
+calcinada y se convierte en cal viva o cal apagada. Está constituida por óxido de calcio (CaO), de color 
+blanco, gris o beige y al tener contacto con el agua se hidrata o apaga, posteriormente y dependiendo del 
+uso que se le vaya a dar es mezclada con otros elementos químicos. 
+El carbonato de calcio se encuentra en muchas aplicaciones de la industria, para la elaboración de 
+la cal como tal, que es utilizada como componente de materiales de construcción como cemento y 
+diferentes tipos de morteros, en la fabricación de vidrio, papel, como fundente en la metalurgia, 
+decoración de interiores y exteriores, escultura, reactivo químico, agricultura, agua potable, tratamiento 
+
+=== Página 88 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+88 
+de aguas negras, tratamiento de desechos industriales, estabilización de suelos, neutralización de tierras 
+ácidas, desinfectante de verduras, desinfectante de granjas, entre otros. 
+Desde la antigüedad ha sido empleada en la construcción como conglomerante, además para 
+pintar muros y fachadas fabricados en la técnica de la tapia o el adobe.  
+Figura 49  
+Ciclo de la cal. 
+  
+Tomado de “Cal: Tipos, propiedades, usos e importancia”, Maldonado, Y.2021, (https://geologiaweb.com/materiales/cal/) 
+ 
+En la imagen se observa el ciclo de la cal, esta es extraída de la mina o cantera valiéndose de 
+explosivos, posteriormente se lleva a un horno y es calcinada a temperaturas entre los 900 y 1200 grados 
+centígrados, en este momento su estado es cal viva, se saca del horno y es llevada a la planta donde es 
+expuesta al agua, convirtiéndose así en cal hidratada o apagada. Dependiendo del uso que se le vaya a dar 
+se agregan diferentes compuestos químicos y se destina a diferentes productos.   
+
+=== Página 89 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+89 
+6.3.3.1. Mortero de Cal 
+Está compuesto a base de aditivos naturales, áridos y por supuesto a base de cal, es uno de los 
+más usados en las obras de restauración o rehabilitación, específicamente en edificios o inmuebles 
+patrimoniales. Se endurece al tener contacto con el aire, esto se sucede debido a la evaporación del agua 
+y al paso del tiempo, sus componentes se modifican químicamente y al ser de calidad se irá volviendo más 
+resistente.  
+Estos morteros han venido siendo más empleados día a día debido a que la conciencia ambiental 
+de la humanidad está más activa en la actualidad. Por tanto, sus características los hacen más solicitados, 
+entre estas encontramos que es biodegradable, funciona como fungicida y desinfectante natural, es muy 
+resistente a los movimientos sísmicos debido a su menor retracción y fisuración, es transpirable y muy 
+trabajable y los acabados que permite desarrollar son duraderos y estéticos.  
+En construcción se le da diferentes usos a estos morteros, como la mencionada restauración a 
+muros de mampostería antigua, en lo que se refiere a su recuperación, saneamiento, protección cuando 
+existe demasiada humedad en el ambiente; pavimentos, revoques, enlucidos, estucos, tadelakt, 
+revestimientos. 
+Los tipos de morteros de cal que existen son los de cal aérea, que endurecen en contacto con el 
+aire; de cal hidráulica que endurecen tanto con el aire como con el agua pero más rápidamente; morteros 
+de cal y arena, que se utilizan para enlucidos y revoques en diferentes dosificaciones que dependen de su 
+uso, y los morteros de cemento y cal, con los que se debe tener especial cuidado con la dosificación del 
+agua, en tanto el cemento tiende a hidratarse y si se excede o aplica muy poca, las características de 
+resistencia del mismo se verán afectadas. 
+
+=== Página 90 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+90 
+6.4. Método 
+La metodología aplicada, consistió en realizar un taller práctico constructivo dirigido, utilizando la 
+técnica constructiva del bahareque y vinculando 20 personas en el desarrollo del mismo, dentro de las 
+cuales se encontraban habitantes de la vereda y personas interesadas en aprender acerca de esta técnica. 
+Este taller fue organizado y dirigido por el Arq. Erwin Zambrano Martínez - Magister en conservación del 
+patrimonio cultural inmueble y Tatiana Orozco González - Estudiante de arquitectura. El taller tuvo 
+diferentes fases las cuales serán mencionadas y mostradas a continuación.  
+Al terminar el taller se presentó a los asistentes una encuesta para su respuesta, con el fin de 
+evaluar la percepción y el alcance que tuvo el taller en ellos y así tenerlo en cuenta para mejorar el 
+proceso de capacitación y determinar las falencias que, de acuerdo a su experiencia, se hayan presentado 
+en el desarrollo del taller. 
+Además, se llevará a cabo una reunión a manera de entrevista con quien se encargará de 
+transmitir los conocimientos adquiridos en el taller y dirigir el proceso constructivo del prototipo para 
+llevarlo a término, en este caso el maestro que se encarga de la obra, con la finalidad de socializar el 
+proceso y aclarar dudas al respecto del mismo. 
+ 
+ 
+
+=== Página 91 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+91 
+Figura 50  
+Poster correspondiente al taller 
+ 
+Tomad de Arq. Erwin Zambrano 2022. 
+ 
+6.4.1 Recorrido – contextualización 
+Se realizó un recorrido desde el centro de Santa Rosa de Viterbo (zona urbana), hacia la zona rural 
+ingresando a la Vereda Cuche por medio de las veredas aledañas, en donde se visualizó la arquitectura 
+existente a lo largo del camino y hasta llegar al predio donde se ubica el proyecto. 
+ 
+ 
+
+=== Página 92 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+92 
+Figura 51  
+ Plaza central Santa Rosa de Viterbo 
+ 
+Elaboración propia 
+Figura 52  
+Vista hacia el proyecto 
+ 
+Elaboración propia 
+ 
+Figura 53  
+Vías de acceso al proyecto 
+ 
+Elaboración propia 
+
+=== Página 93 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+93 
+6.4.2. Caracterización del predio de implantación del proyecto 
+Figura 54 
+Caracterización del predio 
+ 
+Elaboración propia 
+ 
+ 
+Dentro de la etapa de caracterización, se identificaron las zonas del predio en las que existe una 
+vivienda la cual está siendo reforzada, se evaluaron sus características, zona de cultivos, zona destinada a 
+la actividad agropecuaria y finalmente, el lugar de implantación del prototipo a construir. 
+ 
+6.4.3 Explicación del proceso constructivo  
+Para este momento se realizó una explicación del proceso constructivo del bahareque, los 
+materiales a utilizar (tomados directamente del lugar), las propiedades de estos materiales y se realizaron 
+grupos de trabajo. 
+ 
+ 
+
+=== Página 94 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+94 
+Figura 55  
+Socialización proceso constructivo 
+ 
+Elaboración propia 
+ 
+Para este momento ya se tienen las bases de la construcción: cimentación, estructura, modulación 
+de los espacios y mampostería, los cuales fueron realizados días antes del taller, ya que para su desarrollo 
+debía estar estructuralmente funcional al momento de la implementación del bahareque. 
+Figura 56  
+Cimentación en concreto ciclópeo 
+ 
+Elaboración propia 
+ 
+ 
+
+=== Página 95 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+95 
+Figura 57  
+Viga de amarre en concreto 
+ 
+Elaboración propia 
+Figura 58  
+Dados de apoyo o pedestales y mampostería 
+ 
+ 
+Elaboración propia 
+
+=== Página 96 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+96 
+ 
+ 
+
+=== Página 97 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+97 
+Figura 59  
+Estructura 
+ 
+Elaboración propia 
+Figura 60  
+Posicionamiento columnas en madera 
+ 
+Elaboración propia 
+
+=== Página 98 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+98 
+ 
+Las columnas en madera no tienen contacto directo con los pedestales o dados en concreto, 
+esto con el fin de aislar la humedad que pueda llegar a tener, de manera que no repose la madera 
+directamente en el dado, de este modo el agua puede correr y así se evita que la madera se pudra. 
+6.4.4. Proceso constructivo  
+Armado de marcos: correspondientes a paneles que cumplen la función de muros, que a su vez 
+son estructurales; muro macizo y muro ventana. Sus materiales fueron madera “durmiente” de 4cm, 
+puntillas de 2 y 3”, martillo, serrucho, metro y lápiz.   
+Figura 61  
+Toma de medidas, verificación marco 
+ 
+Elaboración propia 
+ 
+ 
+
+=== Página 99 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+99 
+Figura 62  
+Corte para armado 
+ 
+Elaboración propia 
+Figura 63  
+Proceso de armado 
+ 
+Elaboración propia 
+ 
+ 
+
+=== Página 100 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+100 
+Figura 64  
+Corte para armado 
+ 
+Elaboración propia 
+ 
+Figura 65  
+Preparación del lugar para mezcla 
+ 
+Elaboración propia 
+ 
+
+=== Página 101 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+101 
+Preparación de mezcla: esta corresponde al relleno de los muros la cual está conformada por tierra 
+extraída del lugar, paja o pasto seco, agua y agua-cal. 
+Figura 66  
+Recolección de pasto seco 
+ 
+Elaboración propia 
+Figura 67  
+Recolección de tierra 
+ 
+Elaboración propia 
+
+=== Página 102 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+102 
+Figura 68  
+Mezcla de materiales para relleno 
+ 
+Elaboración propia 
+Figura 69  
+Proceso de mezcla 
+ 
+Elaboración propia 
+
+=== Página 103 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+103 
+Figura 70  
+Proceso de mezcla realizado por diferentes personas 
+ 
+Elaboración propia 
+ 
+Figura 71  
+Mezcla finalizada y lista para emplear 
+ 
+Elaboración propia 
+
+=== Página 104 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+104 
+Montaje de esterilla en guadua: Consiste en Tomar la esterilla de guadua, cortarla a la medida del 
+marco para ser colocada por una cara de manera transversal y por la otra longitudinal, la que se instala de 
+manera longitudinal se instala gradualmente, de la mano con la aplicación del relleno. 
+Figura 72  
+Montaje esterilla. 
+ 
+Elaboración propia 
+ 
+Esta se coloca con puntillas distribuidas por la esterilla, de dos a tres dependiendo el ancho de la 
+misma, cuidando de no clavar las puntillas completamente, con el fin de amarrar la esterilla con alambre 
+de puntilla a puntilla y así lograr que se sostenga mejor la guadua al ser rellenada con la mezcla. Luego de 
+colocar el alambre, se martilla la puntilla doblando la punta para que sostenga mejor el alambre y que no 
+se suelte el amarre.  
+ 
+ 
+
+=== Página 105 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+105 
+Figura 73  
+Montaje esterilla. 
+ 
+Elaboración propia 
+Figura 74  
+Amarre de esterilla. 
+ 
+Elaboración propia 
+
+=== Página 106 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+106 
+Anclaje de marcos a estructura: Después de armado el marco se procede a colocarlo en la estructura 
+destinada para ubicar el muro, se asegura por medio de varillas roscadas que atraviesan tanto el marco 
+como la columna para lograr un mejor anclaje. 
+Figura 75  
+Montaje de marcos. 
+ 
+Elaboración propia 
+Figura 76  
+Montaje de marcos. 
+ 
+Elaboración propia 
+
+=== Página 107 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+107 
+Figura 77  
+Montaje de marcos. 
+ 
+Elaboración propia 
+Figura 78  
+Asegurada de marcos.  
+ 
+Elaboración propia 
+
+=== Página 108 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+108 
+ 
+ 
+
+=== Página 109 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+109 
+Figura 79  
+Asegurada de marcos. 
+ 
+Elaboración propia 
+ 
+Figura 80  
+Asegurada de marcos.  
+ 
+Elaboración propia 
+
+=== Página 110 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+110 
+Relleno de esterilla: El relleno del muro se elabora con tierra, que se va humedeciendo con cal 
+diluida en agua y al mismo tiempo mezclando con paja, amasando hasta lograr la completa integración de 
+los materiales. La mezcla resultante se va colocando al interior de la esterilla de guadua rellenando el muro. 
+ 
+Figura 81  
+Relleno de esterilla. 
+ 
+Elaboración propia 
+Figura 82  
+Relleno de esterilla. 
+ 
+ 
+Elaboración propia 
+
+=== Página 111 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+111 
+Figura 83 
+Relleno de esterilla. 
+ 
+ 
+Elaboración propia 
+Figura 84  
+Amarre de esterilla. 
+ 
+Elaboración propia 
+
+=== Página 112 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+112 
+Pañete: Se realiza el recubrimiento de la esterilla de guadua, luego de esto un pañete, el cual se 
+prepara con cal, puede tener la textura y el color que se quiera para su acabado. Este funciona tanto 
+interior como exteriormente, teniendo en cuenta que la cal tiene propiedades que favorecen y protegen 
+la estructura base de la humedad, el calor y factores externos que puedan afectar o crear patologías en los 
+materiales. 
+Figura 85  
+Maqueta de detalle. 
+ 
+ 
+Elaboración propia 
+ 
+Cubierta: Esta es una cubierta a dos aguas, soportada por madera durmiente, la cual está diseñada 
+con un ángulo de 35°. Lleva una base en madera de mayor ancho y espesor, sobre esta un manto de tela 
+asfáltica y encima de esta, tejas en barro. 
+ 
+ 
+
+=== Página 113 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+113 
+Figura 86  
+Maqueta de detalle 
+ 
+Elaboración propia 
+ 
+6.5. Sondeo de opinión 
+Al terminar la práctica constructiva, se presentó a los asistentes una serie de preguntas a manera 
+de sondeo, esta es realizada con el fin de evaluar la percepción y el alcance que tuvo el taller en los 
+asistentes y así tener en cuenta los resultados para mejorar el proceso de capacitación y determinar las 
+falencias que, de acuerdo a la experiencia de cada asistente, se hayan presentado en el desarrollo del 
+taller. 
+ 
+ 
+
+=== Página 114 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+114 
+Figura 87  
+sondeo de opinión.  
+ 
+Elaboración propia 
+6.5.1 Perfil de los participantes 
+Se realizó un sondeo de opiniones a veinte personas, entre ellos se encuentran tres habitantes de 
+la vereda, que son actualmente las personas encargadas de terminar la construcción del prototipo objeto 
+de investigación. Sus edades son 54, 59, y 23 años, de sexo masculino, quienes no conocían el proceso 
+constructivo del bahareque y, diecisiete invitados externos interesados en practicar esta técnica, en su 
+mayoría arquitectos con una edad promedio de entre treinta y sesenta años, entre ellos se encontraban 
+siete mujeres y diez hombres, algunos con conocimientos básicos acerca del bahareque. 
+ 
+
+=== Página 115 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+115 
+6.6. Conclusiones 
+El taller realizado tuvo aceptación en la zona y logró la apropiación de algunos conocimientos 
+característicos de la arquitectura vernácula, que con el paso del tiempo fueron dejados de lado. Se hizo 
+evidente que utilizando la técnica del bahareque se logra retomar esa cultura ancestral que representa el 
+altiplano cundiboyacense, así como también se apreció que los habitantes de la vereda se sintieron a 
+gusto e identificados, ya que la mayoría de los materiales empleados para la construcción de este 
+prototipo fueron tomados directamente del lugar en el que se trabajó. 
+El sondeo de opiniones realizado permitió identificar los factores positivos demostrando que 
+existió el interés necesario para realizar este proceso, que fue de gran impacto la transferencia de estos 
+conocimientos debido a la facilidad de empleo de los materiales y el proceso constructivo. Por otra parte, 
+se identificaron factores negativos, los cuales indicaron que la principal falencia fue el poco tiempo 
+invertido en el taller, ya que las personas se interesaron por seguir aprendiendo y dar por terminada la 
+construcción del prototipo. No obstante, la persona encargada de culminar el proceso constructivo de 
+esta vivienda hizo parte del taller y es el principal receptor de los conocimientos transferidos, ya que es 
+quien se encargará de trasmitirlos a la comunidad. 
+6.7. Transferencia del conocimiento 
+La finalidad del taller realizado en la Vereda Cuche, fue lograr la apropiación de las técnicas 
+ancestrales constructivas, para esto es fundamental la capacitación de las personas que deberán 
+encargarse de difundir los conocimientos transmitidos, en el caso del taller se capacitó principalmente a 
+uno de los integrantes de la comunidad que se ha venido desempeñando en el área de la construcción 
+durante toda su vida laboral, lo cual es una base importante para la asimilación de las técnicas de 
+construcción en tierra y madera. 
+ 
+ 
+
+=== Página 116 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+116 
+6.7.1. Perfil del seleccionado 
+Figura 88  
+Persona entrevistada 
+ 
+Elaboración propia 
+ 
+Nombre: Carlos Arturo Daza 
+Lugar de nacimiento: Sogamoso, Boyacá 
+Edad: 62 años  
+Ocupación:  Maestro de obra 
+Lugar de residencia: Vereda Cuche – Santa 
+Rosa de Viterbo, Boyacá. 
+Experiencia laboral: 40 años trabajando como 
+constructor 
+
+=== Página 117 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+117 
+6.7.2. Entrevista realizada 
+Se realizó una entrevista al señor Carlos Arturo Daza, teniendo en cuenta la importancia de su 
+percepción, ya que es la persona designada para difundir el conocimiento transferido durante el taller y a 
+lo largo del proceso constructivo de esta vivienda campesina; gracias a la entrevista se evidenció la 
+posición del constructor referente a la técnica del bahareque y los métodos que se utilizaron para 
+emplearla.  
+- 
+Entrevistador: Tatiana Orozco González  
+- 
+Entrevistado: Carlos Arturo Daza 
+Figura 89  
+Persona entrevistada. 
+ 
+Elaboración propia 
+ 
+ 
+
+=== Página 118 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+118 
+Figura 90  
+Entrevista realizada 
+ 
+Elaboración propia 
+ 
+Se concluyó de esta que, para el maestro de obra, quien será encargado inicialmente de transferir 
+los conocimientos adquiridos, la metodología para desarrollar la técnica del bahareque es funcional, más 
+económica ya que los materiales son tomados directamente de la zona, no necesita de mano de obra 
+especializada ya que es muy fácil de desarrollar y de acuerdo a su experiencia en el desarrollo del taller y 
+posterior a este con la continuación de la construcción del prototipo puede ser desarrollada con poco 
+personal en comparación con la solicitada para la construcción tradicional. 
+ 
+ 
+
+=== Página 119 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+119 
+CONCLUSIONES 
+En este trabajo de investigación, se puede notar que las técnicas de construcción vernáculas, se 
+encuentran vigentes y son necesarias en la zona de la vereda Cuche, pues es un área rural que no tiene 
+grandes potencialidades a nivel económico que sean representativas para la comunidad. Por tanto, 
+implementarlas allí serviría para que los habitantes de la zona mejoren su calidad de vida, a través de la 
+construcción de sus propias viviendas, valiéndose de los conocimientos puntuales que adquieran al 
+respecto.  
+El taller realizado tuvo aceptación en la zona y logró la apropiación de algunos conocimientos 
+característicos de la arquitectura vernácula, que con el paso del tiempo fueron dejados de lado.  
+Se hizo evidente que utilizando la técnica del bahareque se logra retomar esa cultura ancestral que 
+representaba al altiplano cundiboyacense de cuenta de nuestros antepasados de la cultura Indígena. 
+Por medio de los talleres desarrollados se está fomentando el uso y cuidado de los materiales 
+naturales, tomados directamente de la zona para poder seguir siendo utilizados en el futuro por las 
+generaciones posteriores. Así como las técnicas constructivas que con ellos se pueden desarrollar y lograr 
+que se mantengan en el tiempo como parte de su cultura. 
+Es necesario continuar capacitando a los habitantes de la zona en la implementación de las 
+técnicas de construcción Vernáculas, por medio de talleres que vinculen y acerquen a la comunidad al 
+tema de la sostenibilidad para lograr el buen manejo y conservación de los materiales y la vivienda como 
+tal después de construida, indicándoles no solo el proceso sino la manera correcta de hacer 
+mantenimiento a estas edificaciones resultado de su trabajo. 
+ 
+ 
+
+=== Página 120 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+120 
+Referencias 
+Alba Sánchez, D. (2006). Programa para la disminución de la pobreza y seguimiento al avance de las metas 
+del milenio en el departamento de Boyacá. Plan de acción de los objetivos de desarrollo del 
+milenio, Programa PNUD-Departamento de Boyacá, Colombia. 
+https://www.dapboyaca.gov.co/descargas/odm/marquez/rondon.pdf 
+Alcaldía Mayor de Bogotá D.C. (s.f.a). Recreemos los ecobarrios. 
+https://www.habitatbogota.gov.co/sites/default/files/documents/2020-
+12/100321_CARTILLA%20ECOBARRIOS_FINAL.pdf 
+Alcaldía Mayor de Bogotá D.C. (s.f.b). Re imaginemos la vivienda rural en Bogotá. 
+https://www.habitatbogota.gov.co/sites/default/files/documentos/30122020%20CARTILLA%20R
+URAL%20FINAL_0.pdf 
+Aldea Feliz (s.f). Somos una ecoaldea. https://aldeafeliz.org/ 
+Alcaldía Municipal Santa Rosa de Viterbo. (2020). Plan de Desarrollo Territorial 2020-2023. Editorial o 
+publicador. https://ccduitama.org.co/wp-content/uploads/2020/12/7471_plan-de-desarrollo-
+santarosa-de-viterbo.pdf 
+Alzate Soto, J. P., & Osorio Ríos, J. P. (2015). Bahareque como ejemplo de sostenibilidad, una herencia que 
+se transforma. Tesis. Universidad de Manizales 
+Arias Lamus, M. & Restrepo Torres, K. (2018). Vivienda Productiva, estrategias para el desarrollo de un 
+modelo de vivienda productivo en Medellín. 
+https://issuu.com/cartillasinvestigacion/docs/vivienda_productiva 
+Barrera, Y. A. A. (s.f.) Santa Rosa de Viterbo: La villa republicana y su historia en el proceso 
+independentista del nuevo reino de Granada. Gentes, Pueblos Y Batallas, 57. 
+https://revistas.uptc.edu.co/index.php/nuev_lec_historia/article/download/14920/12146/61783 
+
+=== Página 121 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+121 
+Bello, C (s.f.). Villa el manzano: El primer pueblo autosustentable de Biobío. Revista nos. 
+https://www.revistanos.cl/villa-el-manzano-el-primer-pueblo-autosustentable-de-biobio/  
+Bozeman, B. (2000). Technology transfer and public policy: a review of research and theory. Research 
+policy, 29(4-5), 627-655. 
+https://www.sciencedirect.com/science/article/abs/pii/S0048733399000931 
+Building and Social Housing Fundation. [urbaMonde]. (Agosto 3, 2017). Ecoaldea Aldeafeliz (Colombia) 
+Premio Producción Social del Hábitat 2017. [Archivo de Vídeo]. 
+https://www.youtube.com/watch?v=Q9Hg8BWbA7s 
+Centro de Agroecología y Permacultura Las Cañadas (s.f). Principios éticos de la permacultura. 
+https://bosquedeniebla.com.mx/que-hacemos/permacultura/principios-eticos-permacultura/ 
+Centro de Agroecología y Permacultura Las Cañadas (s.f). ¿Qué es la permacultura? 
+https://bosquedeniebla.com.mx/que-hacemos/permacultura/que-es-la-
+permacultura/#:~:text=De%20una%20manera%20m%C3%A1s%20actual,o%20una%20bio%2Dregi
+%C3%B3n%20sustentable 
+Chavarro, D., Vélez, M. I., Tovar, G., Montenegro, I., Hernández, A., & Olaya, A. (2017). Los Objetivos de 
+Desarrollo Sostenible en Colombia y el aporte de la ciencia, la tecnología y la 
+innovación. Documento de trabajo, 1(0). 
+Contreras, L., & Contreras, R. G. S. (2017). Algunas reflexiones sobre la “Arquitectura 
+Vernácula”. Cuadernos de Arquitectura, 7(07), 67. 
+http://cuadernos.uanl.mx/pdf/num7/6%20ALGUNAS%20REFLEXIONES%20SOBRE%20LA%20ARQ
+UITECTURA%20VERNACULA.pdf 
+Corporación Autónoma Regional de Boyacá (2016). Plan de acción 2016-2019. 
+https://www.corpoboyaca.gov.co/cms/wp-content/uploads/2019/08/plan-accion-corpoboyaca-
+2016-2019-v7.pdf 
+
+=== Página 122 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+122 
+Corporación Autónoma Regional de Boyacá (Septiembre 13, 2011). Resolución 2727. Por medio de la cual 
+se establecen las determinantes ambientales para la formulación, revisión o modificación de los 
+planes de ordenamiento territorial municipal en la jurisdicción de CORPOBOYACA y se toman 
+otras determinaciones. https://www.corpoboyaca.gov.co/cms/wp-
+content/uploads/2021/01/DETERMINANTES-AMBIENTALES-RES.-2727-2011.pdf 
+Corradine, A. (1989). Historia de la arquitectura colombiana. Volumen: “Colonia 1538-1850”. Biblioteca de 
+Cundinamarca. Bogotá: Escala 
+Corrales, E. (2016). La crisis del sector rural colombiano. Experiencias que aportan a la construcción de 
+alternativas. Revista Semillas, 65. https://www.semillas.org.co/es/la-crisis-del-sector-rural-
+colombiano 
+Departamento Administrativo Nacional de Estadística [DANE]. (2018). Estadística de población. 
+https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/censo-
+nacional-de-poblacion-y-vivenda-2018. 
+Fonseca Martínez, L., & Saldarriaga Roa, A. (1980). La arquitectura de la vivienda rural en 
+Colombia. Bogotá, Colombia: Colciencias, 1.  
+García-Reyes, M. (2015) Fondo de patrimonio cultural. Programa paisajes de conservación. Técnicas 
+Vernáculas. https://www.patrimonionatural.org.co/wp-content/uploads/TECNICAS-VERNACULAS-
+Libro.pdf 
+Gatti, F.  (2012). Arquitectura y construcción en tierra. Estudio comparativo de las técnicas 
+contemporáneas en tierra. Universidad Politécnica de Catalunya. 
+https://core.ac.uk/download/pdf/41807254.pdf 
+Genatios, C (Noviembre 25, 2016). Ciudades Sostenibles. BID. https://blogs.iadb.org/ciudades-
+sostenibles/es/problema-de-vivienda/ 
+
+=== Página 123 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+123 
+Giraldo, P. M. L. (2016). Vivienda Vernácula en el Caribe Colombiano: Diversidad dentro de la 
+Unidad. Presidenta Sala General, 179. https://docplayer.es/196562685-Vivienda-vernacula-en-el-
+caribe-colombiano-diversidad-dentro-de-la-unidad.html 
+Hernández Ilizaliturri, A. A. (2007). El ecoturismo como estrategia de desarrollo sostenible: un análisis 
+basado en la teoría económica. Entelequia. Revista Interdisciplinar, (5), 209-225. 
+https://ideas.repec.org/a/erv/ancoec/y2007i5p209-225.html 
+Heidegger, M. (1992). Hölderlin y la esencia de la poesía. Traducción de Samuel Ramos, publicada en M 
+Heidegger: Arte y Poesía, Buenos Aires, F.C.E.  
+Hope, G (Agosto 16, 2019). El Manzano. Global Ecovillage Network. https://ecovillage.org/project/el-
+manzano-2/ 
+Ley 2079/21, enero 14, 2021. Diario Oficial. [D.O.]: 51557. (Colombia). Obtenido el 21 de julio de 2022. 
+http://www.secretariasenado.gov.co/senado/basedoc/ley_2079_2021.html 
+Ley 388/97, septiembre 12, 1997. Diario Oficial. [D.O.]: 43091. (Colombia). Obtenido el 21 de julio de 
+2022. http://www.secretariasenado.gov.co/senado/basedoc/ley_0388_1997.html 
+López Correa, J, Martínez Montoya, J y Velásquez Porras, D.  (2014). Técnicas ancestrales de construcción. 
+Universidad De San Buenaventura. Fonseca Martínez, L., & Saldarriaga Roa, A. (1980). La 
+arquitectura de la vivienda rural en Colombia. Bogotá, Colombia: Colciencias, 1. 
+https://bibliotecadigital.usb.edu.co/server/api/core/bitstreams/5159e0b0-aa9d-4a9e-8848-
+8cdae69fb93b/content 
+López, J. M. T. (2019). La transferencia de conocimiento como proceso: de la universidad al sector 
+educativo. Una mirada desde la Pedagogía. Boletin Redipe, 8(3), 19-65. 
+https://revista.redipe.org/index.php/1/article/view/695 
+Loyo Martínez, J. C., & Márquez Martín, S. (2014). Dignificación y mejoramiento de técnicas vernáculas 
+para el empoderamiento constructivo y el acceso a la habitabilidad básica. Sinapsis Social: Revista 
+
+=== Página 124 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+124 
+Científica de Sostenibilidad, 54. 
+https://humanbuildingdotorg.files.wordpress.com/2018/05/2013_dignificacion-y-mejoramiento-
+de-tecnicas.pdf 
+Ministerio de Ambiente, vivienda y desarrollo territorial (2010). Reglamento Colombiano de Construcción 
+Sismo Resistente NSR-10.  Título G. Estructuras de Madera y Estructuras de Guadua. 
+https://nuevalegislacion.com/files/susc/cdj/conc/nsr_10.pdf 
+Muñoz Moreno, J. E. (2015). Modelo de vivienda rural sostenible. Universidad Piloto de Colombia. Trabajo 
+de Grado. http://repository.unipiloto.edu.co/handle/20.500.12277/2317 
+Pineda Martínez, E. (2019). Análisis de situación de salud con el modelo de los determinantes sociales de 
+salud, municipio de Santa Rosa de Viterbo Boyacá 2019. ESE Hospital Regional de Duitama sede 
+Santa Rosa de Viterbo. 
+https://www.boyaca.gov.co/SecSalud/images/Documentos/asis2019/asis_santarosadeviterbo_20
+19.pdf 
+Robledo, J. E. y Prieto, S. D. (1999). Sismos, bahareques y arquitectura republicana. Manizales. 
+Romero Sánchez, S. (2021). La historia olvidada de la arquitectura en Colombia: La vivienda rural y la 
+modernización durante la República Liberal. Dearq, (29), 28-39. 
+https://revistas.uniandes.edu.co/doi/full/10.18389/dearq29.2021.04 
+Sánchez, C. E. (1999). Las tapias, bardas y vallados en Villa de Leyva. Informe de investigación. Bogotá: 
+inédito. 
+Sánchez Quintanar, C., & Jiménez Rosas, E. O. (2010). La vivienda rural: su complejidad y estudio desde 
+diversas disciplinas. Luna Azul, (30), 174-196. 
+https://www.redalyc.org/pdf/3217/321727232011.pdf 
+
+=== Página 125 ===
+TRANSFERENCIA TECNOLÓGICA DE TÉCNICAS VERNÁCULAS  
+125 
+Secretaría Distrital del Hábitat (2020) Cartilla Re imaginemos la Vivienda Rural. 
+https://www.habitatbogota.gov.co/sites/default/files/documents/2020-
+12/30122020%20CARTILLA%20RURAL%20FINAL_0.pdf 
+Semillas (2016). El campo necesita reformas estructurales. El proceso de paz abre una ventana de 
+oportunidad para iniciar el cambio, 65/66, 102. 
+Servicio Nacional de Aprendizaje [SENA]. Centro de industria y construcción. Regional Caldas (2012) 
+Versión digital. Construcción de muros en Tapia y Bahareque. Construcción de estructuras en 
+madera para entrepisos y cubiertas. 
+https://repositorio.sena.edu.co/sitios/albanileria_restauracion_edificaciones/construccion_muros
+_tapia_bahareque.html 
+Vargas, L. (2000). Vivienda rural y calidad de vida en México. En J. González y M. Villar, (Eds.), II Seminario 
+y taller iberoamericano sobre Vivienda rural y calidad de vida en los asentamientos rurales. (Vol. I, 
+pp. 49-66). México: Universidad Autónoma de San Luis Potosí. 
+ 
+ 
+ 
+ 
+ 
+ 
+ANEXOS 
+

@@ -1,0 +1,6183 @@
+# Fuente: TdeG-CECAR-habitatrural-LAGALLERA-SUCRE.pdf
+# Total páginas: 124
+
+=== Página 1 ===
+1 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Diseño sostenible en hábitat rural, Corregimiento La Gallera, Sucre 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ana Karina Barragán Tapia 
+María José Hernández Ruiz 
+Fredys Figueroa Lindarte 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Corporación Universitaria del Caribe – CECAR 
+Facultad de Ciencias Básicas, Ingenierías y Arquitectura 
+Arquitectura 
+Sincelejo 
+2023 
+ 
+
+=== Página 2 ===
+2 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Diseño sostenible en hábitat rural, Corregimiento La Gallera, Sucre 
+ 
+ 
+ 
+ 
+Ana Karina Barragán Tapia 
+María José Hernández Ruiz 
+Fredys Figueroa Lindarte 
+ 
+ 
+Trabajo de grado presentado como requisito para optar al título de Arquitecto 
+ 
+ 
+ 
+Director  
+Pedro Arturo Martínez Osorio 
+PhD, Diseño 
+ 
+Asesor a 
+MSc. Angélica Sierra Franco 
+ 
+ 
+ 
+ 
+ 
+Corporación Universitaria del Caribe – CECAR 
+Facultad de Ciencias Básicas, Ingenierías y Arquitectura 
+Arquitectura 
+Sincelejo 
+2022 
+
+=== Página 3 ===
+3 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+ 
+Nota de Aceptación 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sincelejo, Sucre, 29 de mayo de 2023
+
+=== Página 4 ===
+4 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Tabla de Contenido 
+ 
+resumen .................................................................................................................................................. 10 
+Abstract .................................................................................................................................................. 11 
+Introducción ......................................................................................................................................... 12 
+1. Capítulo I: Problema ...................................................................................................................... 14 
+1.1 
+Planteamiento del problema ................................................................................................................... 14 
+1.1.1 
+Formulación del problema ...................................................................................... 16 
+1.2 
+Justificación............................................................................................................................................. 16 
+1.3 
+Objetivos ................................................................................................................................................. 17 
+1.3.1 
+Objetivo general ...................................................................................................... 17 
+1.3.2 
+Objetivos específicos .............................................................................................. 17 
+2. Capítulo II. Marco De Referencia ............................................................................................... 18 
+2.1 
+Antecedentes .......................................................................................................................................... 18 
+2.2 
+Marco teórico .......................................................................................................................................... 20 
+2.2.1 
+Sostenibilidad .......................................................................................................... 20 
+2.2.2 
+Vivienda sostenible ................................................................................................. 22 
+2.2.3 
+Arquitectura con sentido de Lugar .......................................................................... 23 
+2.3 
+Marco Legal ............................................................................................................................................. 23 
+3. Capítulo III. Materiales Y Métodos ............................................................................................ 25 
+3.1 
+MÉTODOS ................................................................................................................................... 25 
+3.1.1 
+Fase 1 - recolección de información - análisis del sitio .......................................... 26 
+3.1.2 
+Fase 2 – Diseño de vivienda sostenible .................................................................. 27 
+3.1.3 
+Fase 3 – Evaluación de la aceptabilidad ................................................................. 28 
+4. Capítulo IV: Resultados y Discusión ......................................................................................... 29 
+
+=== Página 5 ===
+5 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+4.1 
+Fase 1: recolección de información - análisis del sitio .............................................................................. 29 
+4.1.1 
+Análisis de información documental ...................................................................... 29 
+4.1.2 
+Aplicación de Encuestas y talleres. ......................................................................... 52 
+4.1.3 
+Talleres .................................................................................................................... 60 
+4.2 
+Fase 2: Diseño de vivienda ...................................................................................................................... 70 
+4.2.1 
+Proceso de diseño .................................................................................................... 70 
+4.2.2 
+Características del diseño ........................................................................................ 86 
+4.2.3 
+Renders ................................................................................................................... 91 
+4.3 
+Fase 3. Evaluación de la aceptabilidad .................................................................................................... 92 
+4.3.1 
+Análisis del proyecto de vivienda ........................................................................... 92 
+4.3.2 
+Aceptabilidad del proyecto ..................................................................................... 94 
+4.3.3 
+Resultado de las encuestas de aceptabilidad ........................................................... 95 
+4.3.4 
+Viabilidad financiera ............................................................................................. 100 
+5 
+Conclusiones .............................................................................................................................. 107 
+Referencias Bibliográficas ............................................................................................................ 109 
+Anexos .................................................................................................................................................. 113 
+ 
+ 
+ 
+ 
+
+=== Página 6 ===
+6 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Lista de tablas 
+Tabla 1. Diagrama de Ishikawa .................................................................................................... 16 
+Tabla 2. Talleres participativos segundo momento ...................................................................... 27 
+Tabla 3. Ficha técnica de cultivos en la Gallera, Sucre. ............................................................... 32 
+Tabla 4. Ficha técnica vegetación en la Gallera, Sucre. ............................................................... 33 
+Tabla 5. Población Zenú censada en los resguardos del país, 2018. ............................................ 43 
+Tabla 6. Cuadro de materiales ...................................................................................................... 49 
+Tabla 7. Resumen taller subsumir ................................................................................................. 67 
+Tabla 8. Presupuesto ................................................................................................................... 101 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 7 ===
+7 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Lista de figuras 
+ 
+Figura 1. Casa Chone Ecuador.................................................................................................... 219 
+Figura 2. Prototipo Bio - Casa ...................................................................................................... 20 
+Figura 3. Desarrollo Sostenible..................................................................................................... 21 
+Figura 4. Esquema general metodológico ..................................................................................... 26 
+Figura 5. Ubicación Geográfica .................................................................................................... 30 
+Figura 6. Linea de tiempo del territorio ........................................................................................ 30 
+Figura 7. Asoleamiento ................................................................................................................. 31 
+Figura 8. Area verde del corregimiento. ....................................................................................... 34 
+Figura 9. Areas verdes .................................................................................................................. 35 
+Figura 10. Accesibilidad ............................................................................................................... 36 
+Figura 11. Sección A- A’ .............................................................................................................. 38 
+Figura 12. Entrada principal de la gallera, barrios las flores Cr.2. ............................................... 38 
+Figura 13. Sección B- B’ .............................................................................................................. 39 
+Figura 14. Cr 2. Salida del barrio las flores, al lado del pozo ....................................................... 39 
+Figura 15. Sección C- C’ .............................................................................................................. 40 
+Figura 16. Vía al parque................................................................................................................ 40 
+Figura 17. Tipología Urbana. ........................................................................................................ 41 
+Figura 18. Pueblos indigenas más numerosos en Colombia, 2018. .............................................. 42 
+Figura 19. Población Zenú en los 10 departamentos con mayor volumen poblacional 2018. ..... 43 
+Figura 20.Estructura de la población Zenú por sexo y edad , 2005 y 2018. ................................. 44 
+Figura 21. Distribución de la población Zenú  por tamaño de los hogares a los que pertenece. .. 44 
+Figura 22. Distribución de la población Zenú por tipo de hogar. ................................................. 45 
+Figura 23. Población Zenú por tipo de vivienda. .......................................................................... 45 
+Figura 24. Porcentaje de la población Zenú y el total nacional según cobertura de servicios 
+públicos en la vivieda donde residen ............................................................................................ 46 
+Figura 25. Vivienda vernácula 1 ................................................................................................... 47 
+Figura 26. Vivienda Vernácula 2 .................................................................................................. 47 
+Figura 27. Vivienda vernácula 3 ................................................................................................... 48 
+
+=== Página 8 ===
+8 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Figura 28. Hábitat rural ................................................................................................................. 51 
+Figura 29. Composición de los muros de viviendas ..................................................................... 53 
+Figura 30. Composición de los techos de viviendas ..................................................................... 53 
+Figura 31. Material del piso de la vivienda................................................................................... 54 
+Figura 32. Cuarto de cocina en la vivienda ................................................................................... 54 
+Figura 33. Como cocinan sus alimentos ....................................................................................... 55 
+Figura 34. Cuartos de habitación .................................................................................................. 55 
+Figura 35. Servicios de agua potable ............................................................................................ 56 
+Figura 36. Forma como adquiere el agua potable la vivienda ...................................................... 56 
+Figura 37. Frecuencia de agua potable ......................................................................................... 57 
+Figura 38. Baños de la vivienda .................................................................................................... 57 
+Figura 39. Tipos de Baños ............................................................................................................ 59 
+Figura 40. Vertimiento .................................................................................................................. 58 
+Figura 41. Energía eléctrica .......................................................................................................... 58 
+Figura 42. Viviendas con servicio de recoleccion de resodios ..................................................... 58 
+Figura 43. Tipo de habitante ......................................................................................................... 59 
+Figura 44. Construcción de la vivienda ........................................................................................ 59 
+Figura 45. Matriz de primeras ideas ............................................................................................. 60 
+Figura 46. Sociograma .................................................................................................................. 63 
+Figura 47. Línea de tiempo ........................................................................................................... 64 
+Figura 48. Trayectoria territorio ................................................................................................... 65 
+Figura 49. Palabrear ...................................................................................................................... 66 
+Figura 50. Subsumir ...................................................................................................................... 66 
+Figura 51. Sueño de un hogar ....................................................................................................... 68 
+Figura 52. Visión simbólica del territorio La Gallera ................................................................... 69 
+Figura 53. Sinopsis de talleres realizados ..................................................................................... 69 
+Figura 54. Aproximación al proyecto ........................................................................................... 74 
+Figura 55. Estrategias de sostanibilidad........................................................................................ 75 
+Figura 56. Estructuras de bamboo ................................................................................................ 77 
+Figura 57. Representación de kioscos. .......................................................................................... 77 
+
+=== Página 9 ===
+9 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Figura 58. Objetivos del confort en la arquitectura. ..................................................................... 78 
+Figura 59. Localización del proyecto............................................................................................ 79 
+Figura 60. Propuesta 1 .................................................................................................................. 80 
+Figura 61. Propuesta 2 .................................................................................................................. 81 
+Figura 62. Representación de formas............................................................................................ 82 
+Figura 63. Concepción de la forma ............................................................................................... 82 
+Figura 64. Zonificación ................................................................................................................. 83 
+Figura 65. Cuadro de tareas .......................................................................................................... 84 
+Figura 66. Materiales .................................................................................................................... 85 
+Figura 67. Diseño de la vivienda .................................................................................................. 86 
+Figura 68. Modulo 1 de la vivienda .............................................................................................. 87 
+Figura 69. Modulo 2 de vivienda .................................................................................................. 87 
+Figura 70. Modulo 3 de vivienda .................................................................................................. 87 
+Figura 71.Diseño de muro............................................................................................................. 88 
+Figura 72. Detalles estructurales de la cubierta. ........................................................................... 89 
+Figura 73. Cocina artesanal........................................................................................................... 90 
+Figura 74. Baño isla ...................................................................................................................... 90 
+Figura 75. Exposición del proyecto a la comunidad ..................................................................... 95 
+Figura 76. El proyecto como solución del problema .................................................................... 96 
+Figura 77. Funcionalidad de la vivienda ....................................................................................... 96 
+Figura 78. Materiales utilizados .................................................................................................... 97 
+Figura 79. Concepto de acuerdo con las necesidades  .................................................................. 97 
+Figura 81. Identidad de la cultura zénu ......................................................................................... 98 
+Figura 81. Identificación cultural del diseño ................................................................................ 98 
+Figura 82. Diseño según las necesidades ...................................................................................... 99 
+Figura 83. Disposición a construir y vivir en la vivienda ............................................................. 99 
+Figura 84. Cantidad de material utilizado en la vivienda unifamiliar ......................................... 100 
+Figura 85. Gráfico viabilidad económica.................................................................................... 106 
+ 
+ 
+
+=== Página 10 ===
+10 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Resumen 
+ 
+La gallera Corregimiento ubicado en el departamento de Sucre, se caracteriza por su cultura Zenú 
+predominante y la arquitectura vernácula; aspectos que han venido en declive debido al 
+crecimiento urbano exponencial y la poca propuesta administrativa local enfocada en proyectos de 
+inversión social para los habitantes de este lugar. Es por ello que el presente trabajo tiene a fin 
+diseñar un modelo de vivienda  para los habitantes del corregimiento de La Gallera, haciendo uso 
+del método cualitativo para la consecución de información real y del contexto de los habitantes 
+que permitan analizar las condiciones sociales, culturales, ambientales, económicas, materiales del 
+lugar y así establecer técnicas ancestrales que se resaltan del corregimiento La Gallera para el 
+desarrollo de un modelo de vivienda que además de rescatar la poética pueda tener un equilibrio 
+con el desarrollo de prácticas sostenibles en la construcción del concepto arquitectónico que 
+permitan garantizar el incremento de la calidad de vida de los habitantes desde un enfoque integral.  
+ 
+Palabras clave: cultura, sostenible, vivienda, diseñar, vernácula.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 11 ===
+11 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Abstract 
+ 
+La Gallera corregimiento located in the department of Sucre, is characterized by its predominant Zenú 
+culture and vernacular architecture; aspects that have been in decline due to exponential urban growth and 
+the little local administrative proposal focused on social investment projects for the inhabitants of this place. 
+For this reason, the present work aims to 
+design a housing model for the inhabitants of the village of La Gallera, making use of the qualitative method 
+to obtain real information and the context of the inhabitants that allow analyzing the social, cultural, 
+environmental, economic, material conditions of the place and thus establish ancestral techniques that stand 
+out from the village of La Gallera for the development of a housing model that, in addition to rescuing the 
+poetics, can have a balance with the development of sustainable practices in the construction of the 
+architectural concept that allow guaranteeing the increase in the quality of life of the inhabitants from a 
+comprehensive approach. 
+ 
+Keywords: culture, sustainable, housing, design, vernacula. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 12 ===
+12 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Introducción 
+ 
+Establecer un concepto lineal sobre vivienda se torna complejo, teniendo en cuenta que 
+más allá de abordar el enfoque estructural que estigmatiza esta palabra se deben comprender otros 
+factores, entre ellos la relación entre individuo y sociedad para Reina y López (2020); por lo tanto 
+la vivienda hace parte del hábitat de los humanos y determina las relaciones que puedan 
+establecerse en los ámbitos sociales, económicos y geográficos; entendiendo ésta como el objeto 
+habitado, que depende del lugar, la cultura, la técnica y el sector económico donde se establezca, 
+el acceso a agua potable, y la adecuación de la tipografía regional; señaladas estas últimas como 
+problemáticas dominantes en el territorio rural. 
+ 
+La habitabilidad rural y urbana, trae consigo distintas dinámicas para Molina (2008), 
+Hábitat rural se asocia indiscutiblemente con la vivienda rural y el territorio en donde conviven 
+los miembros de una comunidad rural, que explotan o extraen recursos del medio que los rodea; 
+en el propósito de crecimiento poblacional, modificaciones estructurales, y cambios en las 
+alternativas de producción y desarrollo económico se da la transición de rural a urbano en una 
+escala gradual, esto apoyado al ejercicio gubernamental local y nacional plasmado en el 
+documento base para el desarrollo de las unidades políticas, Plan Nacional de  Desarrollo.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Colombia es un territorio que en el PND 2018-2022, el 75,45% de las viviendas están en 
+condiciones inadecuadas o carecen de algún servicio público y alrededor de 1.6 millones de 
+personas  no tienen vivienda digna (cifra enfocada a la zona rural), determinada por las malas 
+condiciones en la que se encuentran los habitantes con un déficit habitacional del 56%; aunado al 
+concepto para Forero (2019), donde en la actualidad,  hay cerca de 3.8 millones de personas que 
+aún reciben agua con algún nivel de riesgo, lo que condiciona la calidad de vida y atenúa las 
+brechas sociales.  
+ 
+Por su parte, el municipio de Sincelejo, a través del Fondo Municipal de Vivienda Interés 
+Social (FOVIS), en el Plan de Desarrollo Municipal 2020-2023, ha desarrollado proyectos de 
+vivienda VIS y no VIS en el municipio; además de otros proyectos de carácter privado que han 
+
+=== Página 13 ===
+13 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+acercado a él Corregimiento de la Gallera, a la cabecera municipal, generando así la necesidad de 
+un desarrollo conceptual con enfoque arquitectónico que permita a dicha comunidad estar a la 
+vanguardia de los cambios que se están generando.  
+ 
+Es por ello que, en el presente documento, se desarrollara una propuesta que permita 
+identificar una línea base o diagnostica sobre el corregimiento La Gallera, determinando así 
+múltiples factores que pudieran impactarse por el desarrollo de la infraestructura urbana; dicho 
+abordaje se hará en cuatro capítulos. En el capítulo I se hará énfasis en el problema; Capitulo II, 
+se construye el marco referencial, teniendo así el argumento teórico de los temas y conceptos 
+relevantes de la presente investigación; Capítulo III, donde se define la metodología de estudio; 
+Capítulo IV, donde se dará el desglose fase a fase de la investigación dando como resultado final 
+la propuesta de vivienda sostenible que cumpla con las expectativas de presupuesto y calidad, y 
+sobre todo la preservación cultural y ancestral que caracteriza el territorio enfoque de dicha 
+investigación.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 14 ===
+14 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+1 1. Capítulo I: Problema 
+ 
+A continuación, se presenta el planteamiento del problema de acuerdo con las 
+características particulares que presenta el fenómeno de estudio desde una perspectiva que va de 
+lo general a lo particular.  
+ 
+1.1 
+Planteamiento del problema 
+ 
+Hablar de sostenibilidad a nivel global, tiene diferentes enfoques, teniendo en cuenta que 
+existen objetivos de carácter transversal que han sido reconocidos a  través de los Objetivos de 
+Desarrollo Sostenibles donde la Organización de Naciones Unidas (2017) desarrolla a partir de 
+acuerdos, lineamientos que permiten a los países cumplir con los retos que favorecen al desarrollo 
+desde el sector gubernamental, privado, y la sociedad civil en general, cumpliendo las metas desde 
+el enfoque de preservar el desarrollo socioeconómico, cultural y ambiental; Es por ello que el 
+desarrollo de procesos de escala nacional requiere enfrentar retos que vayan de lo general a lo 
+particular, lo que trae consigo un proceso que requiere cooperación global. 
+ 
+Por su parte, para la CEPAL (2018), la agenda 2030, en el marco del Foro de los Países de 
+América Latina y el Caribe sobre el Desarrollo Sostenible en donde participaron 33 países que 
+destacan cifras como el incremento de la pobreza del 28,5% al 30,7%, y la pobreza extrema de 
+8,2% al 10%, indica que más de 100 millones de personas, aún se encuentran viviendo en tugurios 
+urbanos; por otro lado para el DANE (2022), Colombia se encuentra en el segundo pico más alto 
+de déficit habitacional con 68,2% en 2021, siendo superado en el año 2019 con 70,2%; esto nos 
+lleva a interpretar que El tema de la sostenibilidad en el sector construcción está directamente 
+relacionado con  los asentamientos humanos y el medio ambiente, con el objeto de mejorar las 
+condiciones de vida de las personas. 
+ 
+El corregimiento de la Gallera – Sincelejo, está ubicado en la zona rural, que se divide en 
+tres (3) centros poblados que son: Chocho, La Gallera y La arena y dieciséis (16) asentamientos 
+rurales: Babilonia, Buenavista, Cerrito La Palma, Cerro el Naranjo, Cruz del Beque, Chivera, 
+
+=== Página 15 ===
+15 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Laguna Flor, la Peñata, las Majaguas, Las Huertas, Las Palmas, Sabanas del Potrero, San Antonio, 
+San Martín, San Jacinto y San Rafael. 
+ 
+La Gallera es un corregimiento del municipio de Sincelejo, está dividido en dos zonas, las 
+cuales son La Gallera Principal y La Gallera Villa Rosita, en este último se pudo identificar que 
+existe limitada información documentada asociada a estudios de caracterización que pudieran 
+rescatar el impacto ancestral de la comunidad Zenú y el valor arquitectónico y cultural que ha 
+podido trasegar en lo que hoy se puede observar, además de la falta de gestión y gobernanza en 
+impulsar proyectos que permitan mejorar la calidad de vida de los habitantes, para el DANE 
+(2020), el servicio del agua potable en el municipio de Sincelejo corresponde en la zona rural un 
+47%; el corregimiento La Gallera, no cuenta con la infraestructura necesaria, ni los servicios y 
+tampoco capacidad técnica, operativa y administrativa para la ejecución de estas labores, lo que 
+genera descontento y desarticulación social entre los habitantes. Por otro lado, tenemos un alto 
+impacto cultural asociado a la perdida de los saberes asociados a las técnicas ancestrales que 
+preceden en la comunidad producto de la falta de inclusión de los elementos de la arquitectura 
+ancestral en los diseños y construcciones de los proyectos que se han venido promoviendo, lo cual 
+denota el menos precio por el valor de enmarcar el elemento ancestral y la falta de proyectos 
+arquitectónicos enfocados en resaltar este aspecto tan dominante en esta zona de La Gallera. 
+ 
+La apuesta país 2 del PEDCTI 2016, en la línea 3 abarca el fortalecimiento de la cultura de 
+innovación para la productividad y la competitividad en los focos priorizados del departamento, 
+lo que requiere el uso de las unidades de Investigación, Desarrollo e Innovación (I+D+I), para el 
+fortalecimiento de diferentes elementos que impactan directamente en la sociedad. El enfoque del 
+presente estudio se encuentra relacionado al área de arquitectura a partir de elementos culturales, 
+sociales y de innovación enfocado en la cultura Zenú desde la apropiación cultural, y necesidades 
+humanas con el fin de dar respuesta a la problemática de crisis habitacional, impactando desde lo 
+antropológico en la búsqueda de explicar la riqueza simbólica desde la arquitectura ancestral del 
+corregimiento La Gallera de Sincelejo, lo que tomará en cuenta base arquitectónica que se ha 
+desarrollado a nivel regional y nacional a partir de conocimientos ancestrales, como aporte al 
+diseño sustentable que satisfaga las necesidades de este territorio.  
+
+=== Página 16 ===
+16 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Tabla 1 
+Diagrama de Ishikawa  
+Efectos 1. 
+Pérdida 
+de 
+información ancestral 
+acerca 
+de 
+las 
+comunidades 
+indígenas Zenú y su 
+valor simbólico desde 
+lo 
+arquitectónico 
+y 
+territorial.  
+Efectos 2. 
+Comunidad con altos 
+índices 
+de 
+desarticulación social y 
+económica producto de 
+necesidades 
+básicas 
+insatisfechas. 
+Efectos 3. 
+Quebranto 
+cultural 
+debido a la pérdida de 
+los saberes asociados a 
+las 
+técnicas 
+constructivas 
+ancestrales 
+de 
+las 
+comunidades indígenas.  
+Efectos 4. 
+Falta 
+de 
+proyectos 
+arquitectónicos 
+enfocados 
+en 
+los 
+conocimientos 
+ancestrales 
+en 
+el 
+corregimiento de la 
+gallera.  
+Baja calidad habitacional visionado desde la arquitectura ancestral de acuerdo con la perspectiva de 
+sostenibilidad para los habitantes del corregimiento de la Gallera en Sincelejo, Sucre.  
+Causa 1. 
+Escasos 
+recursos 
+documentales 
+sobre 
+estudios realizados en 
+el 
+territorio 
+y 
+la 
+comunidad 
+indígena 
+sobre temas asociados 
+el entorno social, el 
+conocimiento ancestral 
+y lo concerniente a lo 
+arquitectónico.  
+Causa 2.  
+Poca 
+gestión 
+y 
+gobernanza por parte 
+del estado en aspectos 
+para el mejoramiento de 
+la calidad de vida del 
+corregimiento 
+de 
+la 
+gallera, Sincelejo, sucre.  
+Causa 3.  
+Exclusión de elementos 
+de 
+la 
+arquitectura 
+ancestral o vernácula 
+para el desarrollo de 
+nuevos 
+proyectos 
+de 
+diseño y construcción en 
+la región. 
+Causa 4.  
+Desarticulación 
+del 
+departamento 
+de 
+planeación municipal 
+con los ODS para el 
+cierre 
+de 
+brechas 
+institucionales 
+enfocado 
+a 
+la 
+preservación de los 
+saberes ancestrales. 
+Fuente: elaboración propia, 2022. 
+ 
+1.1.1 Formulación del problema 
+ 
+¿Cómo desarrollar un modelo de vivienda sostenible para los habitantes del corregimiento 
+de La Gallera, Sincelejo Sucre? Y ¿Qué características debe tener un modelo de vivienda 
+sostenible para los habitantes del corregimiento de La Gallera, Sincelejo Sucre? 
+ 
+1.2 
+Justificación 
+ 
+La pertinencia de esta investigación se basa en la visión de la arquitectura sostenible ya 
+que permite utilizar elementos propios de la comunidad con el objetivo de conservar su identidad 
+de la mano con el uso de nuevas tecnologías, que permitan mejorar la calidad de vida de los 
+
+=== Página 17 ===
+17 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+habitantes dando solución a algunos inconvenientes en lo que se refiere a la prestación de 
+servicios; Esto permite que el territorio pueda contar su historia mediante la adaptación de 
+diseños en los que prevalezca la cultura vernácula que los caracteriza.  
+ 
+Para poder establecer la propuesta constructiva en el municipio de La Gallera fue necesario 
+establecer un panorama holístico a partir de los múltiples datos sociodemográficos, climáticos, 
+económicos, de materiales, sociales y culturales que permitieran analizar la adaptación de la 
+propuesta de diseño, sobre todo los procesos participativos de la comunidad desde el enfoque de 
+la crisis habitacional y la cultura ancestral para poder conocer el punto de referencia que 
+corresponden a la cultura, costumbres, nivel de vida, economía, ambiente, entre otros elementos 
+arquitectónicos que el presente estudio puede impactar positivamente, además de la búsqueda de 
+generar oportunidades a largo y mediano plazo sobre todo, posibilitando la expansión y acopio con 
+la cabecera municipal, conectando el territorio rural con el urbano al facilitar las condiciones 
+mínimas de habitabilidad y servicios. 
+ 
+1.3 
+Objetivos 
+ 
+1.3.1 Objetivo general 
+Diseñar un modelo de vivienda sostenible para los habitantes del corregimiento de La 
+Gallera, Sincelejo Sucre. 
+ 
+1.3.2 Objetivos específicos 
+ Analizar las condiciones sociales, culturales, ambientales, y económicas, que permitan definir 
+materiales y técnicas ancestrales del corregimiento La Gallera para el desarrollo de un modelo 
+de vivienda sostenible.  
+ Reconocer el contexto de los habitantes desde la poética impartida en talleres comunitarios.  
+ Identificar estrategias de sostenibilidad aplicables al desarrollo de un modelo de vivienda para 
+La Gallera. 
+ Formular una propuesta funcional, técnica, y económica para el desarrollo de un modelo de 
+vivienda sostenible en La Gallera. 
+
+=== Página 18 ===
+18 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+2 2. Capítulo II. Marco de referencia 
+ 
+En el presente estudio, es necesario establecer un punto de partida que determine 
+diferentes antecedentes, bases teóricas, conceptuales y legales que permitan obtener una visión 
+integral asociada al objetivo de esta investigación.  
+ 
+2.1 
+Antecedentes 
+ 
+Con el paso de los años, la investigación científica ha establecido múltiples referentes 
+asociados al concepto de desarrollo sostenible desde una perspectiva rural, lo cual se convierte en 
+el punto de partida para poder sustentar la investigación en curso, partiendo  de la generación de 
+medidas que vayan alineadas al cumplimiento de los Objetivos de Desarrollo Sostenible (ODS); 
+puntualmente el ODS 11, ciudades y comunidades sostenibles, para la ONU (2017), que permite 
+generar propuestas de urbanización de las zonas rurales y garantizar los servicios públicos 
+domiciliarios con un enfoque estructural y arquitectónico. 
+ 
+Desde la perspectiva internacional, en Costa Rica, se desarrolla un modelo de vivienda 
+urbana inclusiva y sostenible (VIUS) avalado por el Ministerio de Vivienda y Asentamientos 
+Humanos (MIVAH, 2020), correspondiendo a un estudio basado en el modelo de integración 
+comunitaria; mientras que en Latinoamérica, en un proyecto realizado en Ecuador, 
+específicamente ubicado en la Parroquia Convento (Chone), el diseño fue basado en una vivienda 
+sostenible que cuenta con tres habitaciones, área social y de servicios (Cocina + Sala + Baño + 
+comedor), donde se destacan áreas conectadas con el intermedio social incorporando hamacas, 
+jardines y se remarcó el  acceso principal, sobre todo, con elementos de la misma naturaleza que 
+permitirían una adaptabilidad, uso y concepto que genera un espacio cambiante y dinámico, con 
+un presupuesto de vivienda de 15.000 US,para Mora (2014); este proyecto se convirtió en un reto 
+por parte del arquitecto donde se utilizaron aproximadamente 900 bambús y 8 troncos de árboles 
+de laurel en el que se  usaron diferentes técnicas de corte.  
+ 
+ 
+
+=== Página 19 ===
+19 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Figura 1 
+Casa Chone - Ecuador 
+ 
+ 
+ 
+ 
+ 
+ 
+Fuente: Enrique Mora, 2014. 
+ 
+En Colombia, para Ozil (2018), propone un Modelo de vivienda rural sostenible y 
+productiva en el departamento de Boyacá, donde es necesario generar un prototipo que unifique 
+de manera funcional, con accesibilidad y con una ideación basada en los tres pisos térmicos, 
+viviendas rurales que se apoyen principalmente en la sostenibilidad, proponiendo para este fin un 
+estudio cualitativo del sector rural que reafirme esta propuesta e incluya un plan de mejoramiento.  
+ 
+La organización Corona (2018), realiza una convocatoria de proyecto denominado premio 
+Corona Pro-Hábitat, basado en un modelo de vivienda social sostenible para Sincelejo. El diseño 
+ganador se denominó Bio-Casa, y su ubicación será llamada barrio San Remo: es un prototipo de 
+vivienda social que parte de una reflexión sobre la arquitectura proyectada desde otro punto de 
+vista, por lo que, establece un futuro en el que es posible construir viviendas independientes con 
+estrategias autosuficientes que posibiliten el uso de paneles solares y un sistema constructivo de 
+bajo impacto ambiental.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 20 ===
+20 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Figura 2 
+Prototipo Bio-casa 
+ 
+Fuente: Hernández, Aranda, Cardona y García, 2018. 
+ 
+En contraste, Duque y Ortiz (2021), realizan el proyecto vivienda sustentable Sinú; 
+argumentando que construir viviendas sostenibles es necesario para lograr el desarrollo social 
+mediante el uso racional de los recursos naturales, es por ello, que se desarrolla el prototipo de 
+vivienda sustentable en el municipio de Corozal – Sucre; basando su diseño en la cultura Zenú a 
+partir del aprovechamiento del territorio. El fin de este prototipo es utilizar materiales reciclados 
+que permitan aprovechar el agua lluvia y la energía; es decir basarse en el uso sostenible de la 
+naturaleza para reducir el impacto ambiental que habitualmente se causa por el ejercicio de 
+construcción de una vivienda común.  
+ 
+2.2 
+Marco teórico 
+ 
+A continuación, se presentan las teorías más importantes que sirvieron de guía para el 
+desarrollo de la presente investigación a partir de temas arquitectónicos, desarrollo sostenible y 
+diseño de viviendas.  
+ 
+2.2.1 Sostenibilidad 
+ 
+Cuando se habla de sostenibilidad, es importante remitirse al concepto propuesto por la 
+Cumbre de la Tierra en 1992, donde se reconoció que la integración y el equilibrio de las 
+
+=== Página 21 ===
+21 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+preocupaciones económicas, sociales y medioambientales requería nuevas percepciones de la 
+forma en que producimos y consumimos, la forma en que vivimos y trabajamos, y la forma en que 
+tomamos decisiones, dando una visión sobre lo que implica el uso racional de los recursos 
+presentes, garantizando el disfrute del mismo a las generaciones futuras sin incidir de manera 
+negativa en  la calidad de vida. Es por ello que la construcción sostenible, ha traído consigo nuevos 
+planes y planteamientos para fortalecer la dignidad humana y el mejoramiento de la equidad social. 
+Por otro lado, la sostenibilidad para Zarta (2018), se relaciona con los efectos de la interacción de 
+los fenómenos implícitos en la sociedad, como procesos productivos y puede ser explorada desde 
+diferentes perspectivas, partiendo de los tres pilares del desarrollo sostenible que son: el 
+económico, el ambiental y el social (Rivera, Alcántara, Blanco y Pascal, 2017). 
+ 
+ Para implementar proyectos de construcción sostenibles, estos tres pilares deben 
+equilibrarse, es decir: La frecuencia de precipitaciones anual, la variabilidad de temperatura y los 
+aspectos más relevantes de un determinado relieve entre otros que se destacan en el ámbito de lo 
+ambiental; la cultura, los paisajes, y  la interacción entre los habitantes de un determinado espacio 
+geográfico; y la generación de empleos, las condiciones salariales y el estatus de vida que se 
+dinamiza con los múltiples sectores económicos.   
+ 
+Figura 3 
+Desarrollo sostenible 
+ 
+Fuente: elaboración propia, 2022. 
+
+=== Página 22 ===
+22 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Por su parte para Susunaga (2014), la construcción sostenible se refiere a prácticas que, 
+durante el ciclo de vida de una edificación, minimicen el impacto a la biodiversidad, clima, emisión 
+de gases y elementos propios de la naturaleza; Por lo cual, el uso eficiente de los recursos naturales 
+se convierte en una estrategia que busca reducir el  impacto desde la reducción de residuos, 
+aprovechamiento eficiente  del medio ambiente y la generación de un impacto social positivo 
+mediante la generación de empleos.    
+ 
+2.2.2 Vivienda sostenible 
+ 
+Las viviendas sostenibles se pueden definir como el espacio que proporciona óptimas 
+condiciones de habitabilidad siendo ahorrativas en el uso de recursos para su funcionalidad y 
+mantenimiento mediante estrategias de uso de fuentes renovables como el aprovechamiento de la 
+luz solar, el clima, la reutilización de aguas lluvias y el reúso integrado en techos y balcones. En 
+este tipo de viviendas el diseño trae consigo el uso de recursos naturales para adaptarse de forma 
+sustentable (Ozil, 2018) destacando aspectos relevantes como el uso de materiales renovables 
+regionalmente con contenido reciclado y capacidad de ser reutilizados al final de su vida útil; y el 
+respeto del entorno histórico, por lo que los consumidores (ahorran cuentas internas ahorro 
+asociado al diario vivir). Según el Banco Mundial (2018), debido al crecimiento de la población, 
+existe el temor de cuántas casas son necesarias para satisfacer la cobertura con el incremento 
+poblacional, dado que con la construcción de un apartamento se da aproximadamente el 32% del 
+consumo total de energía y el 19% de las emisiones, dando un panorama poco alentador al daño 
+ambiental incorporado en América Latina, asociado al consumo de los edificios ya que estos 
+consumen el 42% de la electricidad y causan el 25% de las emisiones de CO2, por lo que es muy 
+importante implementar un sistema de construcción sostenible en Colombia. 
+ 
+Por lo cual, además de relacionar el diseño con esquema de ahorro desde el enfoque 
+económico, para Orjuela (2020), un modelo de vivienda sostenible busca que las zonas rurales 
+aprovechen al máximo los recursos que proporciona el hábitat, mejoren la calidad de vida y 
+alcancen los objetivos de desarrollo económico e industrial sostenible, además de ser beneficioso 
+para el desarrollo de la región y sus habitantes.  
+
+=== Página 23 ===
+23 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+ 
+2.2.3 Arquitectura con sentido de Lugar 
+ 
+Bocco, Gerardo et al. (2019), propone que lugar es mucho más que el medio físico en el 
+que se desenvuelve un género de vida dado; además, es fruto de y construido por la experiencia de 
+la sociedad en su relación con el medio, a lo largo del tiempo. Este argumento convierte la 
+propuesta de diseño de la vivienda sostenible en un recurso que permitirá convertir al 
+corregimiento de la gallera en un lugar que pueda contar su historia a lo largo de la evolución 
+urbana, además de la gradual evolución de la calidad de vida de sus habitantes.  
+ 
+2.3 
+Marco Legal 
+ 
+En Colombia existen dos conceptos asociados al desarrollo de vivienda económica, que 
+representan en los términos VIP y VIS respectivamente para el Ministerio de vivienda, ciudad y 
+territorio (2020), Vivienda de Interés Social Prioritaria (VIP) Es aquella vivienda de interés social 
+cuyo valor máximo es de setenta salarios mínimos legales mensuales vigentes (70 SMLM), 
+mientras  que la vivienda de Interés Social (VIS) Es aquella que reúne los elementos que aseguran 
+su habitabilidad, estándares de calidad en diseño urbanístico, arquitectónico y de construcción 
+cuyo valor máximo es de ciento treinta y cinco salarios mínimos legales mensuales vigentes (135 
+SMLM), es decir que generalmente difieren por los montos. 
+ 
+ De acuerdo con los lineamientos del Estado, se encuentra la Ley de Vivienda 1537 de 2012 
+tiene como objeto señalar las competencias, responsabilidades y funciones de las entidades del 
+orden nacional y territorial, y la confluencia del sector privado en el desarrollo de los proyectos de 
+vivienda de interés social y proyectos de vivienda de interés prioritario destinados a las familias 
+de menores recursos, la promoción del desarrollo territorial, así como incentivar el sistema 
+especializado de financiación de vivienda; por otro lado está la  Ley 388 de 1997 que  tiene como 
+objetivo crear parámetros de cumplimiento obligatorios en la ubicación de la casa en beneficios 
+sociales y garantizar la provisión de servicios públicos básicos. También establece que el Gobierno 
+Nacional es responsable de determinar y regular el costo de la vivienda social y prioritaria, 
+principalmente con base en los recursos que se le asignan y evaluando las necesidades de los más 
+
+=== Página 24 ===
+24 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+pobres del país. 
+ 
+ La Ley 49 de 1990, establece que las agrupaciones familiares con un parentesco en primer 
+grado, cónyuge, pareja casada, pareja del mismo sexo, y cumplan con los requisitos establecidos 
+por el gobierno para optar por una vivienda prioritaria o VIS, teniendo en cuenta características 
+como no superar los 70 SMMLV y 135 SMMLV; por otro lado, para la  Ley 1450 de 2011, las 
+personas con bienes raíces no pueden comprar apartamentos para beneficios sociales o 
+apartamentos con beneficios prioritarios, y organizaciones territoriales estatales para este 
+propósito, por lo que existe un subsidio para mejorar el apartamento propuesto de la misma manera 
+y con estas características de nuevas unidades de vivienda, pero con un estado debe tener bienes 
+raíces, y según el programa de atracción de la Cámara, su naturaleza también se establece en el 
+artículo 51 de la Constitución nacional. 
+ 
+Por su parte, frente a las viviendas de interés social (VIS), existe un fundamento frente a 
+sus características, medidas, ocupación, entre otras que corresponden a los lineamientos que deben 
+seguirse para su construcción, por lo cual, para el FNA-CENAC (1997), tiene los siguientes 
+requisitos mínimos de espacio en la vivienda: Área sanitaria, Área de alimentación, Área de 
+dormitorios, Área multifuncional;  y disponibilidad de servicios públicos como: Acueducto o red 
+de distribución de agua potable, Alcantarillado o red de recolección de aguas servidas, 
+Alcantarillado de aguas lluvias o red de recolección de aguas lluvias y Energía o red de distribución 
+de energía eléctrica. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 25 ===
+25 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+3 3. Capítulo III. Materiales y métodos 
+ 
+A continuación, se presenta la metodología de estudio a través de la cual, se determinó el 
+enfoque, paradigma, tipo y características que tuvo lugar en el desarrollo del estudio frente a la 
+consecución de los objetivos; esto trae consigo una definición acerca los ítems que abarca cada 
+una de las fases estipuladas. 
+ 
+3.1  Métodos 
+ 
+El proyecto se llevó a cabo en el departamento de Sucre, Colombia, específicamente en el 
+corregimiento de La Gallera. Basado en el referente bibliográfico es necesario establecer un 
+estudio de tipo cualitativo con un método proyectual, que permite el desarrollo de un prototipo de 
+vivienda sostenible en el territorio rural del municipio de Sincelejo.  
+ 
+Para Nein y Cortéz (2017), la investigación cualitativa, se basa en un término con el que se 
+describen cualidades a partir del análisis de datos mediante el desarrollo de preguntas e hipótesis 
+para la recolección de información a fin de generar nuevos interrogantes en el proceso de 
+interpretación; es decir, lo cualitativo parte de descubrir información a partir de hallazgos de 
+diferentes características que hay en un contexto, lo que nos lleva a descartar el carácter 
+experimental del estudio, porque el investigador no tiene control sobre las variables 
+independientes, lo que conserva las características del estudio dentro de la conformación de grupos 
+señalando los fenómenos que se determinan en el contexto (Hernández et al., 2014). 
+ 
+Por otro lado, tiene un diseño transversal, que para Hernández et al. (2014), busca observar 
+las variables y recopilar información de un periodo de tiempo específico definido por una muestra. 
+Es decir, los datos provienen de personas con similitudes en todas sus variables, excepto por la 
+variable que se está estudiado, por lo que determina cambios dentro de un factor en un conjunto 
+que conserva características similares.  
+La investigación se desarrolló en 3 Fases.  
+ 
+
+=== Página 26 ===
+26 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Figura 4 
+Esquema general metodológico
+ 
+Fuente: elaboración propia, 2022. 
+ 
+3.1.1 Fase 1 - recolección de información - análisis del sitio 
+ 
+Se realizan los siguientes pasos, teniendo en cuenta lo siguiente:  
+- 
+Primer momento: Se realiza la gestión documental teniendo en cuenta toda la 
+información existente acerca del territorio.  
+- 
+Segundo momento: Consta de la aplicación de encuestas y se construyen siete talleres 
+denominados matriz de primeras ideas, sociograma, línea de tiempo, palabrear, 
+subsumir, sueño de mi hogar, trayectoria territorio.  
+ 
+ 
+ 
+ 
+ 
+
+=== Página 27 ===
+27 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Tabla 2 
+Talleres participativos segundo momento  
+N° TALLERES OBJETIVO 
+1 
+Matriz 
+de 
+primeras 
+ideas 
+Conocer la situación de la gallera en diferentes temas y situaciones, además 
+de ver cómo la comunidad se refiere a sí mismo y a su territorio, buscando 
+escuchar de primera mano, las problemáticas y visión a futuro 
+2 
+Sociograma 
+Entender y conocer cómo está conformado la estructura de "poder" o 
+representatividad de liderazgo en la comunidad y como es su relación con 
+estas personas o grupos  
+3 
+línea 
+del 
+tiempo 
+Identificar sucesos en la historia de la gallera que de alguna manera han 
+marcado a la comunidad, ya sea de forma positiva o negativa 
+4 
+Palabrear 
+Comprender cómo la comunidad entiende y relaciona ciertas palabras que los 
+identifica a ellos como personas individuales y como comunidad 
+5 
+Subsumir 
+Entender cómo la comunidad prioriza según su criterio personal entre su 
+territorio, cuerpo y casa y porque uno es más importante para ellos 
+6 
+Sueño de mi 
+hogar 
+Descubrir cómo la comunidad visualiza su vivienda ideal y entender cómo se 
+han modernizado en el transcurso de los años o si se mantienen en la 
+arquitectura vernácula  
+7 
+Trayectoria 
+territorio 
+Recorrer la gallera para conocer e identificar puntos importantes, estratégicos 
+y lugares que reflejen un impacto a primera vista 
+Fuente: elaboración propia, 2022.  
+ 
+3.1.2 Fase 2 – Diseño de vivienda sostenible 
+ 
+Corresponde al diseño de vivienda, teniendo en cuenta los siguientes momentos:  
+ 
+- 
+Determinación de la ubicación del proyecto  
+- 
+Diseño del proyecto de vivienda de acuerdo con las necesidades encontradas 
+- 
+Uso de los factores que debe tener la vivienda 
+- 
+Creación de sistemas de recolección de agua  
+- 
+Diseño basado en materiales sustentables.  
+Para el desarrollo del proyecto, se tuvieron en cuenta diferentes elementos como:  
+- 
+Metodología BIM  
+- 
+Técnicas de construcción basadas en Bambú  
+- 
+Estrategias sostenibles basadas en la recolección de agua lluvia, sanitario seco, paneles 
+solares, bajo costo, ventilación e iluminación.  
+
+=== Página 28 ===
+28 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+ 
+3.1.3 Fase 3 – Evaluación de la aceptabilidad 
+ 
+Se verifica que el proyecto tenga un porcentaje alto de aceptabilidad en la comunidad, al 
+igual que cumpla con los parámetros demandados en el enfoque de construcción sostenible y la 
+factibilidad financiera mediante indicadores previamente formulados. 
+ 
+a) 
+Estudio sobre la aceptación social del proyecto, recolocación de información sobre 
+la aceptabilidad social, gastos energéticos, sustentabilidad, costo de vivienda, 
+sostenibilidad ambiental. Se presentan los diseños aplicados al proyecto de vivienda, se 
+analiza la factibilidad del proyecto ante otras viviendas, con el fin de potenciar la eficiencia 
+de esta misma. se tiene en cuenta cada ítem de evaluación para así tener una cifra exacta 
+de la aceptación que tendrá el proyecto por parte de la comunidad. Con base en los 
+resultados se tendrá en cuenta que tan factible será el proyecto. 
+ 
+Con lo anterior dicho el proyecto será analizado con una vivienda del sector, se analizarán 
+que componentes poseen las viviendas, como se componen, su materialidad, sustentabilidad, 
+eficiencia, con el fin de mejorar la calidad de vida de los pobladores del corregimiento la Gallera. 
+Las viviendas del sector son principalmente construidas con materiales comunes tales como 
+bloque, cemento, y otras de material (tabla, zinc, caña) y con una composición arquitectónica que 
+no cumple la necesidad de los habitantes. Este proyecto propone una vivienda sustentable con 
+materiales del lugar, eficiente, funcional, económica, y apta para el entorno de vida de los 
+pobladores del corregimiento. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 29 ===
+29 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+4 4. Capítulo IV: Resultados y discusión 
+ 
+A continuación, se desarrollan las tres (3) fases del estudio de acuerdo con un análisis 
+que va de lo general a lo particular.  
+ 
+4.1 
+ Fase 1: recolección de información - análisis del sitio 
+ 
+Para establecer un diagnóstico documental sobre el sitio objeto de estudio es necesario 
+conocer el contexto geográfico, social, cultural y ambiental a fin de conocer los aspectos básicos 
+más relevantes que representa esta población y que serán criterio para la toma de decisiones en la 
+propuesta de diseño 
+ 
+4.1.1 Análisis de información documental 
+ 
+En este apartado se puede encontrar a grandes rasgos la información documentada del 
+sitio del proyecto, así como de los habitantes que en ella se encuentran como lo es en su mayoría 
+la comunidad Zenú 
+ 
+4.1.1.1 Localización – La Gallera, Sucre. 
+ 
+El corregimiento de la gallera se encuentra ubicado en el sur del departamento de 
+Sincelejo como se puede observar en el siguiente gráfico.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 30 ===
+30 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Figura 5 
+Ubicación geográfica 
+ 
+Fuente: elaboración propia, 2022. 
+ 
+4.1.1.2 Línea del tiempo. 
+ 
+En la siguiente ilustración se evidencia la evolución en el crecimiento del territorio desde el 
+año 2004 hasta el 2019 
+ 
+Figura 6 
+Línea de tiempo del territorio 
+ 
+ 
+ 
+Fuente: elaboración propia, 2022. 
+ 
+Esta posición geográfica mente establecida les permite a los habitantes de este 
+corregimiento características climatológicas y de diversidad ambiental como se detalla a 
+continuación.  
+
+=== Página 31 ===
+31 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+4.1.1.3  Asoleamiento. 
+ 
+El corregimiento de La Gallera cuenta con una diversidad climática que brinda un 
+favorecimiento al cultivo de la zona y mantienen una vegetación abundante. La temperatura en la 
+gallera a las horas de la mañana se torna agradable, oscilando en unos 29°c. la variación 
+perceptible de la temperatura se siente a partir de la 11 am oscilando alrededor de los 31°c. 
+Figura 7 
+Línea de tiempo del territorio 
+ 
+ 
+Fuente: Elaboración propia, 2022. 
+La temperatura de un territorio afecta de manera directa en una edificación, así como el 
+nivel de comodidad de la vivienda para lograr el nivel óptimo de sensación de calor, actualmente 
+el sistema de aireación mecánica se utiliza mejor para los bajos recursos financieros con energía y 
+economía. El periodo más oscuro tarda 3 meses y 9 días, que va desde el 10 de agosto al 19 
+noviembre, con una onda corta incidente diario promedio por metro cuadrado de menos de 4,0 
+kwh. El día más oscuro del año es el 29 de septiembre, con un promedio de 3,5kwh. La salida del 
+sol más temprana en Sincelejo es el 28 de mayo a las 5.40, y la salida del sol más tarde registrada 
+es el 28 de enero cuando el sol sale a las 6:23. La puesta del sol más temprana es a las 17:37 el 16 
+de noviembre y la más tardía el 12 de julio a las 18:26. 
+
+=== Página 32 ===
+32 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+ 
+4.1.1.4 Vegetación- Fichas técnicas. 
+ 
+El área de estudio está dotada de abundante vegetación, lo que beneficia la calidad del aire 
+y se generan microclimas en algunos lugares de la zona. Dentro de las especies más comunes de 
+árboles descubiertas están: mango, ceiba, cedro, y palmera especialmente en zonas húmedas, 
+además de cultivos de maíz y yuca entre otros. Se encontraron zonas desprovistas de vegetación, 
+dado a las actividades que se desarrollan en dicho suelo, que comúnmente suele ser agrícultura y 
+ganadería. 
+ 
+Tabla 3 
+Ficha técnica de cultivos en la Gallera, Sucre.  
+ 
+Fuente: elaboración propia, 2022. 
+ 
+ 
+ 
+ 
+ 
+ 
+NOMBRE 
+FICHA TECNICA 
+CURIOSIDADES 
+ 
+Nombre científico: Zea Mays 
+Nombre común: Maíz 
+Origen: Mesoamérica 
+Género: Zea 
+Familia: Poaceae 
+Clase: Angiosperma 
+Especie: Zea Mays 
+Tipo: Vegetal 
+Porte: Mínima 
+Altura: 1,5 m 
+Copa: 5 cm- diámetro 
+Hoja: 30 cm 
+Color: Color verde claro 
+Flor: Es una planta monoica de flores unisexuales 
+ 
+ El maíz es un 
+cereal de muy 
+rápido 
+crecimiento, pero 
+que necesita una 
+provisión 
+abundante de 
+insolación, mucho 
+mayor en el corn 
+belt. 
+ 
+Nombre científico: Manihot esculenta 
+Nombre común: Yuca 
+Origen: Centro de américa del sur 
+Género: Manihot 
+Familia: Euphorbiaceae 
+Clase: Magnoliopsida 
+Especie: Manihot esculenta 
+Tipo: tubérculo 
+Porte: Mínima 
+Altura: 2 m 
+Copa: 10 cm - Diámetro 
+Hoja: 20 cm 
+Color: Color verde oscuro 
+Flor: Sus partes comestibles encontramos las flores 
+y brotes tiernos 
+ 
+No resiste las 
+heladas, requiere 
+altos niveles de 
+humedad, Aunque 
+no anegamiento y 
+de los para crecer 
+
+=== Página 33 ===
+33 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Tabla 4 
+Ficha técnica vegetación en la Gallera, Sucre. 
+ 
+Fuente: elaboración propia, 2022. 
+ 
+Entre otras características que es relevante para entender el contexto de desarrollo urbano 
+del corregimiento la gallera es necesario validar la información asociada al uso del suelo y áreas 
+verdes y definir el tipo de estructuras y construcciones desarrolladas que son de común hallazgo 
+como perfiles de las vías y accesibilidad 
+ 
+NOMBRE 
+FICHA TECNICA 
+CURIOSIDADES 
+ 
+ 
+FICHA TECNICA  
+Nombre científico: Mangifera indica 
+Nombre común: Mango 
+Origen: Subcontinente indio 
+Género: Mangifera 
+Familia: Anacardiaceae 
+Clase: Magnoliopsida 
+Especie: M. Indica 
+Tipo: frutal 
+Porte: Densa 
+Altura: 45 m 
+Copa: 30 m 
+Hoja: 15- 30 cm 
+Color: Color verde oscuro 
+Flor: Tiene solo un estambre funcional con uno o más estaminodios 
+ 
+CURIOSIDADES 
+El fruto es una drupa 
+que destaca entre sus 
+principales 
+características su buen 
+sabor. Dicha pulpa 
+puede ser o no fibrosa, 
+siendo la variedad 
+llamada mango de 
+hilacha la que mayor 
+fibra contiene  
+ 
+Nombre científico: Ceiba pentandra 
+Nombre común: Ceiba 
+Origen: América central 
+Género: Ceiba 
+Familia: Malvaceae 
+Clase: Magnoliopsida 
+Especie: Ceiba Pentandra 
+Tipo: Frutal 
+Porte: Baja 
+Altura: 70 m 
+Copa: 14 m – diámetro 
+Hoja: 20 cm 
+Color: Color verde 
+Flor: Axilares, solitarias o en fascículos 
+ 
+Los árboles tienen una 
+longevidad de más de 
+60 años, estos pierden 
+las hojas al comienzo 
+de la estación seca. 
+Antes de la floración 
+entre enero y marzo. Y 
+lo renueva poco 
+después. 
+ 
+Nombre científico: Cedrus libani 
+Nombre común: Cedro 
+Origen: Mediterraneo Oriental 
+Género: Cedrus 
+Familia: pinopsida 
+Clase: pinopsida 
+Especie: C. libani 
+Tipo: No 
+Porte: Media 
+Altura: 40 m 
+Copa: 8 m – Diámetro 
+Hoja: 3,5 cm – Brotes 
+Color: Color verde 
+Flor: No 
+Cedrus libani produce 
+sus primeros Conos 
+alrededor de los 40 
+años. Florece en otoño. 
+Los conos masculinos 
+aparecen a principios de 
+septiembre y los 
+femeninos a finales del 
+mismo mes  
+ 
+Nombre científico: Arecaceas 
+Nombre común: Palmeras 
+Origen: Mediterraneo oriental 
+Género: Ceroxyloideae 
+Familia: Arecaceae 
+Clase: Monogotyledoneae 
+Especie: Arecacea 
+Tipo: Frutal 
+Porte: Mínima 
+Altura: 30 m 
+Copa: 4 m- Diámetro 
+Hoja: 2,5 m- Brotes 
+Color: Color verde claro 
+Flor: Sus flores poseen 3 sépalos y 3 pétalos 
+ 
+Colombia es el país con 
+mayor numero de 
+variedades y una de 
+ellas es el árbol 
+nacional  
+
+=== Página 34 ===
+34 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+4.1.1.5  Áreas verdes. 
+ 
+Áreas verdes – Fuentes hídricas – Uso del suelo 
+ 
+Figura 8 
+Área verde del corregimiento 
+ 
+Fuente: Elaboración propia, 2022. 
+ 
+La distribución del uso del suelo del territorio se divide en 3: la densidad arbórea es la 
+mayor en el territorio, todavía cuenta con mucha naturaleza, variedad de plantas, flores, árboles 
+etc., además de grandes zonas verdes. La segunda es la ganadera, que ha cogido fuerza en la última 
+década y ha avanzado territorialmente, amenazando a el campo y por último tenemos la agricultura 
+ya que son pocas las tierras dentro y fuera de la gallera que están siendo usadas para esta actividad. 
+ 
+Un aspecto controversial que existe en el corregimiento La Gallera son las fuentes hídricas 
+con las que cuenta dentro del corregimiento y en sus alrededores beneficiando al pueblo para su 
+uso, particularmente la que se encuentra en la calle 2 debido a su acceso y ubicación sin embargo 
+al ser un cuerpo de agua expuesto sin el debido control sanitario tiende a ser fuente de proliferación 
+de vectores y enfermedades.  
+
+=== Página 35 ===
+35 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Figura 9 
+Áreas verdes 
+ 
+Fuente: Elaboración propia, 2022. 
+ 
+También podemos observar que la gallera cuenta con un bajo porcentaje de edificación, las 
+infraestructuras más grandes son los colegios y el centro de salud; fuera de eso no se observan 
+infraestructuras modernas donde predominen los acabados modernos y las versiones de la 
+arquitectura moderna. Las construcciones emergentes se basan en la arquitectura vernácula, es 
+decir que utilizan materiales como bambú, madera, paja o palma, bahareque, barro, etc. Lo que 
+genera, por su parte, que la gallera se pueda observar con un entorno natural. 
+ 
+El tejido de la gallera parece ser disperso por la carrera principal, pero si lo miramos a 
+detalle nos damos cuenta de que tiene una forma cuadricular y que se viene ordenando entre la vía 
+regional y la principal, pero esto solo se da en las flores; si se avanza hasta el parque la gallera se 
+observa organizado solo en la vía principal. No hay segmentaciones ni nomenclaturas que pudieran 
+distinguir en manzanas u otro tejido definido lo que da impresión de ser un lugar disperso.  
+ 
+Ahora bien, tomando en consideración lo anterior, la información hallada y observada al 
+momento de tener un primer acercamiento al corregimiento de La Gallera, lo que se busca a 
+continuación es evidenciar y relacionar dicha información con la que las personas de la comunidad 
+pueden brindar de primera mano sobre sus problemáticas y preocupaciones, esto con el fin de 
+analizarla y explorar las posibles soluciones o estrategias a implementar. 
+
+=== Página 36 ===
+36 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+4.1.1.6 Urbano. 
+ 
+Las diferentes características urbanas del municipio de la Gallera se encuentran 
+relacionadas directamente con la forma histórica en la que el municipio ha tenido un desarrollo al 
+adaptar la cultura Zenú en su forma de pensar. 
+ 
+4.1.1.7  Accesibilidad. 
+Figura 10 
+Accesibilidad 
+ 
+Fuente: Elaboración propia, 2022. 
+ 
+La Gallera cuenta con 3 puntos de accesibilidad, el principal es donde inicia la carrera 2 
+que es la calle principal y en toda la entrada está la estación de gasolina que la identifica, y conecta 
+también con la vía regional, la segunda es donde inicia la calle 2 donde está ubicado el pozo de La 
+Gallera; otra forma de identificar esta entrada en con el restaurante La Troncal que está en la 
+esquina de la conexión de la calle 2 con la vía regional y la tercera entrada está ubicada en la calle 
+3 que nos lleva a el parque-plaza de La Gallera. 
+
+=== Página 37 ===
+37 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+ 
+La mayoría de las vías secundarias conectan directamente la vía regional con la carrera 2, 
+considerándose como accesos directos a La Gallera, pero por el estado vial no es apto para tránsito 
+peatonal o vehicular.  
+ 
+La movilidad principal es la moto por la gran oferta y la facilidad al transitar por las 
+condiciones de las vías, lo que lleva a la modalidad de conocida como mototaxismo que, aunque 
+es poco, es lo más común. Caso contrario, la existencia de casos puntuales de carros los cuales son 
+exclusivos de uso personal. No existen taxis o servicio interno de buses limitando la movilidad de 
+los habitantes interno al transporte informal. Donde encontramos un flujo alto de movilidad de 
+carros, motos, camiones y hasta tractocamiones, es en la vía regional o doble calzada, aunque esto 
+puede aumentar los fines de semana ya que se encuentran múltiples restaurantes muy conocidos 
+que hacen parte de La Gallera y que también son visitados por los viajeros, lo que al mismo tiempo 
+presenta un peligro por el alto índice de accidentabilidad de la zona. 
+ 
+4.1.1.8  Perfiles viales. 
+ 
+Los perfiles que se realizaron sobre la carrera 2 son, sección A-A’ por la entrada de la 
+gallera por la estación de gasolina Terpel, sección B-B’ que se realizó por el pozo y sección C-C’ 
+que se realizó sobre la calle 3 por el parque-plaza de la gallera. 
+ 
+Se aclara que las única carrera y calle que están pavimentadas son las mencionadas 
+anteriormente y que las calles secundarias que conectan con esta no tienen ningún tipo de diseño 
+o andén son totalmente destapadas. 
+ 
+La carrera 2 y la calle 3, son las principales de la gallera y  no son iguales en su trayecto 
+como se evidencia en los perfiles realizados, la mayoría no tiene andenes y su diseño varía, al 
+parecer cuando realizaron la vía los andenes lo hicieron por parte y trayectos muy cortos, al igual 
+que las canales de agua lluvia, pudimos observar varios en el recorrido de hasta 10 mts de distancia. 
+ 
+ 
+
+=== Página 38 ===
+38 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+4.1.1.9 Sección A-A’. 
+ 
+Figura 11  
+Sección A-A’ 
+ 
+Fuente: Elaboración propia, 2022. 
+Figura 12 
+Entrada principal de la gallera, barrio las flores Cr.2 
+ 
+Fuente: Elaboración propia, 2022. 
+ 
+En este perfil podemos observar que no hay un diseño de andenes y el espacio está solo en 
+tierra, y cada lado de la carrera existen canales de aguas lluvias que cuentan con placas de concreto 
+superpuestas para uso peatonal; además estas estructuras delimitan las terrazas de las casas con los 
+andenes. El “andén” es una cerca hecha de palos de madera o árboles, cuentan con luminaria solo 
+aun lado de carrera y la vía se encuentra en excelente estado. 
+
+=== Página 39 ===
+39 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+4.1.1.10 
+Sección B- B’. 
+Figura 13 
+Sección B-B’ 
+ 
+Fuente: Elaboración propia, 2022. 
+Figura 14 
+Cr 2. Salida del barrio las flores, al lado del pozo. 
+ 
+Fuente: Tomado de Google Maps, 2022. 
+ 
+En este perfil, se puede observar que cuenta con un ante jardín y después un pequeño andén 
+en un estado regular. Al otro lado tenemos una separación del bordillo a una malla divisoria de 
+lotes o terreno, en esta parte de la carrera no encontramos canales agua lluvia y en cambio tienen 
+bordillos, esta sección se realizó a la salida del barrio la flores, al lado del pozo y podemos observar 
+la falta de viviendas y es un recorrido largo hasta volver a encontrar la vía. 
+
+=== Página 40 ===
+40 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+4.1.1.11 
+Sección C-C´. 
+Figura 15 
+Sección C-C’ 
+ 
+Fuente: Elaboración propia, 2022. 
+Figura 16 
+Vía al parque 
+ 
+Fuente: Elaboración propia, 2022. 
+ 
+En este perfil podemos observar ya un diseño más claro de andenes principalmente en el 
+lado del parque que cuenta con guía táctil, antejardín y rampas, además de luminarias a lo largo, 
+porque fue renovado en el año 2020, mientras que en el otro lado sólo tenemos un andén y después 
+de este una zona verde que es el retiro del colegio, la calle se encuentra en excelente estado y tiene 
+bordillos, acá tampoco encontramos canal agua lluvia. 
+
+=== Página 41 ===
+41 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+4.1.1.12 
+Tipología urbana. 
+ 
+Aquí se muestra la distribución de los usos del suelo de La Gallera – Sucre con la intención 
+de conocer la magnitud de ocupación de las tipologías que se encuentran y las que destacan: 
+Figura 17 
+Tipología urbana 
+ 
+Fuente: Elaboración propia, 2022. 
+ 
+El uso de suelo residencial es el que predomina teniendo este 85% sobre los demás del uso 
+de suelos urbano del área de estudio, se observan 2 puntos importantes de concentración del uso 
+residencial en el barrio las flores la principal y en el barrio la gallera, el segundo uso del suelo es 
+el comercio con un 8%, el comercio está disperso pero se encuentra un conjunto en el 
+Corregimiento la gallera en los cuales se encuentran, restaurantes, tiendas y bares, el siguiente uso 
+es el dotacional con 5%que se divide en el centro de salud, canchas, el parque plaza e iglesias y 
+por último el uso institucional con 2% en los cuales están de primaria y secundaria. 
+El uso comercial y el uso dotacional están muy por debajo que el uso residencial, lo que 
+indica un déficit en La Gallera ya que no cuenta con suficiente dotación de parques o canchas 
+acondicionadas para el entretenimiento sano de la comunidad o de comercio para el beneficio 
+económico. 
+
+=== Página 42 ===
+42 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+ 
+4.1.1.13 
+Análisis Sociodemográfico. 
+ 
+El corregimiento La Gallera se encuentra ubicado en el departamento de Sucre entre el 
+municipio de Sincelejo y Sampués, teniendo así una ubicación privilegiada, ya que conecta 
+directamente con una vía regional, esto se considera un aspecto positivo, porque la gallera es un 
+corregimiento agrícola, aunque actualmente esta actividad ha disminuido su producción por 
+factores económicos y falta de apoyo, además de un cambio en el uso del suelo en terrenos que 
+anteriormente eran de uso agrícola y hoy pertenecen a personas que no son parte de la comunidad  
+y se han dedicado a la ganadería; actividad que genera compactación en suelos y hace que se pierda 
+la fertilidad en los terrenos que antes estaban destinados a esta actividad. 
+ 
+Conforme a lo anterior, el objetivo de este análisis es mostrar los rasgos que identifican a 
+las personas de la Gallera como una comunidad indígena, cómo están conformados sus hogares, 
+cómo son sus viviendas y por supuesto, cuál ha sido la evolución social que ha tenido el 
+corregimiento. Para el desarrollo de esto, se ha hecho uso de la información pública suministrada 
+por el Departamento Administrativo Nacional de Estadística (DANE) como se evidencia a 
+continuación: 
+Figura 18 
+Pueblos indígenas más numerosos en Colombia, 2018 
+ 
+Fuente: DANE, 2022. 
+
+=== Página 43 ===
+43 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+De acuerdo con el gráfico, la comunidad de la Gallera es perteneciente a la etnia Zenú que 
+en Colombia es la segunda etnia más grande y se localiza principalmente en los departamentos de 
+Sucre y Córdoba, exactamente en los resguardos San Andrés de Sotavento y en el resguardo El 
+Volao en el Urabá antioqueño. 
+Figura 19 
+Población Zenú en los 10 departamentos con mayor volumen poblacional, 2018 
+ 
+Fuente: DANE, 2022. 
+ 
+El gráfico muestra que, entre Córdoba y Sucre se ubica un 94% del pueblo Zenú con un 
+total de 21 resguardos indígenas los cuales de distribuyen entre cabeceras municipales, los centros 
+poblados y el área rural, que no tienen que hacer parte del resguardo indígena necesariamente, pero 
+los tienen en cuentan por la cantidad de población que si hace parte a la etnia. 
+Tabla 5 
+Población Zenú censada en los resguardos del país, 2018. 
+ 
+Fuente: DANE, 2022. 
+
+=== Página 44 ===
+44 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+La distribución de la población Zenú por territorio étnico se desarrolla de la siguiente 
+manera: un 31.1% reside en cabeceras municipales, un 16.8% en resguardos indígenas, el 52.1% 
+en áreas rurales y en centros poblados fuera de los resguardos indígenas, lo que significa que la 
+comunidad indígena prefiere mantenerse unida entre sí, como es el ejemplo de La Gallera. 
+Figura 20 
+Estructura de la población Zenú por sexo y edad, 2005 y 2018 
+ 
+Fuente: DANE, 2022. 
+ 
+La figura anterior, muestra que la etnia Zenú en su mayoría está conformada principalmente 
+por hombres y mujeres entre los 15 a los 64 años, estas personas se encuentran en la capacidad de 
+trabajar, liderar e incrementar la economía de su comunidad, por otro lado, cuentan con un 
+porcentaje de apenas el 27,8% de hombres y mujeres menores de 15 años, lo cual indica que ha 
+disminuido el porcentaje de natalidad en la comunidad. 
+Figura 21 
+Distribución de la población Zenú por tamaño de los hogares a los que pertenece. 
+ 
+Fuente: DANE, 2022. 
+
+=== Página 45 ===
+45 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Distribución de la población por tipo de hogar: en este apartado se encuentra la 
+información de los hogares que conforman la población Zenú y se describen las características que 
+se evidenciaron. En su mayoría los hogares están conformados por 5 o más personas y eso 
+representa el 45% de todos los casos, adicionalmente el 23% de los hogares es de 4 personas y el 
+18% de hogares es de 3 personas, esto es realmente muy común en estas comunidades por su forma 
+de vivir en conjunto.  
+Figura 22 
+Distribución de la población Zenú por tipo de hogar. 
+ 
+Fuente: DANE, 2022. 
+Entre la cultura Zenú el tipo de hogar que destaca como muestran las estadísticas es el 
+nuclear biparental: ambos padres con sus hijos. Después se encuentra la biparental extensa, la cual 
+se conforma por los dos padres, hijos, más otros familiares y finalmente, otro tipo de hogar muy 
+común es el monoparental que está conformado por un padre e hijos, estos tipos de familia están 
+directamente conectados con el número tan extenso de familiares viviendo en una sola vivienda. 
+Figura 23 
+Población Zenú por tipo de vivienda. 
+ 
+Fuente: DANE, 2022. 
+
+=== Página 46 ===
+46 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+El gráfico evidencia que, la construcción de viviendas tradicionales en las últimas décadas 
+presenta una disminución en comparación con las casas que se realiza con bloque, esto conlleva a 
+que se pierdan ciertos rasgos que representan a la etnia Zenú. 
+Figura 24 
+Porcentaje de la población Zenú y el total nacional según cobertura de servicios públicos en la 
+vivienda donde residen. 
+ 
+Fuente: DANE, 2022. 
+Los servicios públicos en las comunidades Zenú es un tema de mucha preocupación, ya que 
+la falta de algunos o todos ellos en un tema recurrente y las soluciones se ven muy lejanas. Una de 
+las razones por lo que esto ocurre puede ser la lejanía de las comunidades a una cabecera municipal, 
+además de la falta de apoyo de los mandatarios. 
+ 
+ 
+4.1.1.14 
+Arquitectónico, tectónico y espacial.  
+ 
+Las viviendas del corregimiento de la Gallera siguen en su mayoría una misma estructura 
+arquitectónica. El objetivo de la investigación en esta parte es precisar cuáles son los materiales 
+utilizados y por cuales se pueden reemplazar, en dado caso, eso resulte ser más beneficioso, además 
+se espera identificar los detalles desfavorables que poseen las viviendas en cuanto a solidez y 
+cambios climáticos para su mejoramiento. 
+
+=== Página 47 ===
+47 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+ 
+4.1.1.15 
+Levantamiento de viviendas vernáculas. 
+ 
+Estudio de viviendas vernáculas en la gallera, esta es la arquitectura representativa del lugar 
+ya que se ven muchas de esta tipología, lo que se busca con este análisis de viviendas reales es 
+entender su distribución espacial, tectónico material y la tectónica estructural para poder entender 
+que materiales son fácil de conseguir en la gallera o a su alrededor y que ventajas y desventajas se 
+encuentran según la experiencia de las personas que viven su día a día en estas viviendas. 
+Figura 25 
+Vivienda vernácula 1 
+ 
+Fuente: Elaboración propia, 2022. 
+ 
+Figura 26 
+Vivienda vernácula 2 
+ 
+Fuente: Elaboración propia, 2022. 
+
+=== Página 48 ===
+48 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Figura 27 
+Vivienda vernácula 3 
+ 
+Fuente: Elaboración propia, 2022. 
+  
+4.1.1.16 
+ Vivencia del hábitat. 
+ 
+Aunque las viviendas vernáculas tengan una distribución muy diferente lo que pudimos 
+observar y los comentarios de las personas terminan siendo muy parecidos. Las personas tienen 
+una sensación terminar en el día de calor, principalmente en las habitaciones y espacios sociales 
+como sala o comedor si estos se encuentran dentro de la vivienda, por lo que comentan que pasan 
+más tiempo en la terrazas o patios, también estos espacios le dan sensación de libertad porque están 
+abiertos totalmente y pueden convivir con los vecinos. 
+ 
+En cambio, el diseño espacial de estas es muy curioso, pero se pueden observar 
+características muy similares, como por ejemplo el baño por fuera de la vivienda ubicado en el 
+patio, al igual que la cocina esto por dos razones: no tienen servicio público de alcantarillado ni de 
+gas natural, por lo tanto, el baño funciona con fosa séptica y la cocina puede ser a leña o con 
+cilindros de gas. En cuanto a la estructura en esta tipología de vivienda es 100% en madera con 
+técnicas vernáculas y ancestrales del lugar. 
+
+=== Página 49 ===
+49 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+4.1.1.17 
+Materialidad. 
+ 
+Los materiales más usados en las viviendas de arquitectura vernácula de La Gallera: 
+ 
+Tabla 6 
+Cuadro de materiales  
+Material 
+Imagen 
+Descripción 
+Palma seca 
+Es la hoja de la palma y la usan usualmente para la 
+cubierta de las viviendas o kioscos. 
+Troncos de 
+madera 
+ 
+Troncos de madera de la zona, los cortan 
+dependiendo para qué tipo de vivienda es y la 
+magnitud del proyecto, los usan para la estructura 
+mayormente. 
+Bahareque 
+ 
+El bahareque es un tipo de bambú este se caracteriza 
+por ser más pequeño y delgado es más fácil de 
+conseguir y es más usado en los muros de la 
+vivienda o también en los cerramientos alrededor de 
+las viviendas. 
+Tierra 
+compactada 
+ 
+Una mezcla de tierras para que el compactado de la 
+tierra sea más firme y nivelado, se usa usualmente 
+para realizar el piso de las viviendas. 
+Guadua 
+ 
+Guadua o bambú también utilizado para los muros 
+y cubierta de la vivienda, pero también para la 
+estructura se puede realizar toda la casa solo con 
+este material. 
+
+=== Página 50 ===
+50 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Lamina de Zinc 
+Galvanizada 
+ 
+El zinc es principalmente usado en la cubierta 
+usualmente antes de colocar la palma seca para 
+mayor impermeabilidad de la cubierta y la palma 
+seca actúa como una segunda capa que cubre a la 
+lámina del sol. 
+Tabla en madera 
+ 
+Estas son usadas en los muros interiores 
+principalmente, ya que pueden dejarlos a la vista, lo 
+que reduce en gastos y esfuerzo. 
+Esterilla en 
+Guadua 
+Se realiza de guadua cortada para generarla y es 
+usada como cielo raso o detalles de la vivienda 
+Fuente: elaboración propia, 2022.  
+ 
+ 
+4.1.1.18 
+Dinámicas del habitar. 
+ 
+Conocer el sitio de estudio desde un primer acercamiento general, donde se puede hacer el 
+análisis a detalle de cómo funciona la población y cómo es su interacción con el territorio. 
+ 
+4.1.1.19 
+  El hábitat rural. 
+ 
+Hábitat rural se asocia indiscutiblemente con la vivienda rural y el territorio en donde 
+conviven los miembros de una comunidad rural, que explotan o extraen recursos del medio que 
+los rodea. El factor más importante en la configuración o estructura del hábitat rural es el modo de 
+apropiación y de adaptación del suelo a las necesidades humanas, o lo que es lo mismo, las 
+características históricas del poblamiento (Hazak, 1997). 
+ 
+ 
+ 
+ 
+
+=== Página 51 ===
+51 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Figura 28 
+Hábitat rural 
+ 
+Fuente: elaboración propia, 2023. 
+ 
+4.1.1.20 
+Cosmovisión. 
+ 
+La cosmovisión hace referencia a la percepción que cada ser humano tiene del entorno que 
+lo rodea, en este caso, donde vive y donde se desarrolla; en ese orden de ideas, se busca que los 
+miembros de la comunidad de la Gallera expresen abiertamente lo que piensan de su territorio, su 
+hogar y su cultura, del mismo modo que, el grupo de trabajo gracias a sus visitas espera crear una 
+conceptualización o valoración del corregimiento.  
+ 
+Las personas que habitan en el corregimiento de la Gallera perciben que su territorio puede 
+ser mejor de lo que ahora es, ellos observan que cuentan con un agradable clima, abundante 
+vegetación, tierras en las que pueden cosechar, sin embargo, su economía no crece como les 
+gustaría, notan que no tienen zonas adecuadamente acondicionadas para la recreación e integración 
+familiar como: parques y canchas, además no hay un espacio propicio para el comercio ni 
+suficiente apoyo por parte del gobierno. En tal sentido, la comunidad como etnia Zenú que es, hace 
+lo posible por resolver sus dificultades con únicamente el acompañamiento de sus capitanes y 
+líderes sociales.  
+
+=== Página 52 ===
+52 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+ 
+No obstante, desde el punto de vista del grupo de trabajo, las personas que hacen parte del 
+corregimiento tienen buena comunicación, son unidas, viven en familias una al lado de la otra, 
+incluso muchas viviendas cuentan con patios amplios y compartidos donde se reúnen. Estas 
+viviendas están hechas en su mayoría de materiales como: hoja de palma, bahareque, guadua y 
+tierra compacta, y aunque, ellos anhelarían vivir en viviendas hechas de mejores materiales y con 
+un mayor número de habitaciones, agradecen vivir en estas que están diseñadas de acuerdo con su 
+cultura.  Finalmente, otro aspecto relevante del territorio es la agricultura, lo que más intentan 
+cosechar es maíz y yuca, pero como ellos mismos han dicho, esa labor ha disminuido 
+considerablemente, primero, por los elevados costos de producción y segundo, porque las 
+generaciones emergentes prefieren otro tipo de actividades para la obtención del sustento.  
+ 
+4.1.2 Aplicación de Encuestas y talleres. 
+ 
+En esta fase hubo interacción directa con la comunidad, ya que es necesario establecer un 
+contraste entre la información que se encuentra documentada y el concepto y vivencia que tienen 
+los habitantes del territorio en la actualidad, ya sea por tradición oral o por experiencias propias.  
+ 
+4.1.2.1 Encuesta. 
+ 
+Para el desarrollo del presente estudio, se tuvo en cuenta un equivalente a 100 viviendas 
+del sector como población objetivo dentro del grupo focal, a través del cual, se conocerán 
+diferentes elementos constructivos, sociales, culturales, entre otros que caracteriza a los pobladores 
+del sector en la zona rural de Sincelejo en el corregimiento de la Gallera. También, el instrumento 
+corresponde a 16 preguntas de manera general sobre cómo se conforma una vivienda de este sector, 
+los datos obtenidos nos dieron a conocer el número equivalente de personas que habitan una 
+vivienda, también la materialidad de esta, los espacios con los que cuenta, y datos que nos ayudarán 
+a obtener la información sobre el núcleo familiar o propiedad de las viviendas, las características, 
+factores importantes, entre otros datos anexos. 
+ 
+ 
+
+=== Página 53 ===
+53 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Figura 29 
+Composición de los muros de viviendas 
+ 
+Fuente: elaboración propia, 2022. 
+ 
+Se pudo determinar que, en la población domina una variedad combinada de elementos 
+constructivos, resaltando el uso de ladrillo. Como dato relevante dentro de los materiales de uso 
+principal como técnica propia de la cultura Zenú en la construcción es el embarro (compuesto de 
+excremento de vaca) y el bahareque (tipo de caña usado por esta cultura como elemento 
+constructivo). Aunque existen viviendas que han diversificado los métodos constructivos aún 
+conservan un porcentaje significativo de estos elementos raizales, sin embargo, son más de uso 
+interno que de las fachadas; éstas se componen de material (ladrillo, bloque) y en su parte posterior 
+de (bahareque y barro). 
+Figura 30 
+Composición de los techos de viviendas 
+ 
+Fuente: elaboración propia, 2022. 
+ 
+Desde la perspectiva la tradición Zenú el material de uso general para la estructura del 
+techo (cubierta) de sus viviendas es la palma sin embargo observamos que el material 
+predominante como método constructivo hoy día es la lámina metálica (zinc) con un porcentaje 
+de 48 y en segundo lugar tenemos la lámina de asbesto cemento con un 37% del total promedio de 
+viviendas encuestadas. 
+Barro
+29%
+Ladrillo
+32%
+Bloque
+23%
+Bareque
+16%
+48
+37
+10
+5
+0
+20
+40
+60
+Respuestas
+Losa de concreto
+Palma o paja
+Lamina asbesto
+Lamina metálica
+
+=== Página 54 ===
+54 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Figura 31 
+Material del piso de la vivienda 
+ 
+Fuente: elaboración propia, 2022. 
+ 
+La mayor parte de la población tiene el piso de sus viviendas en cemento, sin embargo, esta 
+estructura se ha deteriorado de acuerdo con falencias en la técnica y el paso del tiempo; como dato 
+característico de sus raíces un 33% de la población aún posee el piso de su vivienda natural (tierra 
+firme) y una mínima parte equivalente al 18% a innovado con el uso de la cerámica.  
+Figura 32 
+Cuarto de cocina en la vivienda 
+ 
+Fuente: elaboración propia, 2022. 
+ 
+El 97% de las viviendas del corregimiento La Gallera cuenta con una separación estructural 
+para ser utilizado como cocina; el otro restante de los habitantes alterna con cocinas temporales en 
+sus patios, o improvisas cocinas temporales haciendo uso de mesas para colocar estufa en la sala, 
+el comedor u otro espacio disponible para hacer esta actividad 
+ 
+ 
+ 
+ 
+33
+49
+18
+0
+0
+20
+40
+60
+Respuestas
+Otro
+Cerámica
+Cemento
+Tierrafirme
+Sí
+93%
+No
+7%
+
+=== Página 55 ===
+55 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Figura 33 
+¿Cómo cocina sus alimentos? 
+ 
+Fuente: elaboración propia, 2022. 
+ 
+Cabe resaltar que el 97% de la población cuenta con gas natural como fuente principal para 
+cocción de alimentos, es sólo el 7% de los habitantes que debe buscar espacios o temporales para 
+realizar los fogones de leña, tal como su cultura lo precede.  
+ 
+Figura 34 
+Cuartos de la habitación 
+ 
+Fuente: elaboración propia, 2022. 
+ 
+Se encontró que la mayoría de las viviendas, con el 56% tienen 2 habitaciones, lo que 
+permite deducir la zonificación de la mayoría de las viviendas. El segundo porcentaje más alto lo 
+obtuvo el promedio de 3 habitaciones con un 23% de las viviendas encuestadas, cifra que alude al 
+sector poblacional con mayor número de integrantes del núcleo familiar del sector conformado 
+general entre 4 hasta un máximo de 6 personas por vivienda, y el 11% de las viviendas tiene 4 
+habitaciones; la suma de estas dos últimas cifras nos acerca a un porcentaje del 44% que indica 
+que alrededor de la mitad de la población posee numeroso habitantes por núcleos y genera la 
+diversidad de más de 2 habitación para garantizar el confort que pudiera permitir la óptima calidad 
+Gas natutal 
+93%
+Leña
+7%
+10
+56
+23
+11
+0
+10
+20
+30
+40
+50
+60
+1
+Respuestas
+4 habitaciones
+3 habitaciones
+2 habitaciones
+1 habitación
+
+=== Página 56 ===
+56 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+de vida desde la propuesta de diseño, ya que podría pensarse que dentro del 56% de viviendas de 
+2 habitaciones podría encontrarse una precariedad de espacio para los habitantes y en algunos 
+limitantes de tipo económico para tener el número de habitaciones deseadas para la vivienda.  
+Figura 35 
+Servicio de agua potable 
+ 
+Fuente: elaboración propia, 2022. 
+ 
+Según el análisis estadístico, la comunidad no cuenta con servicio de agua potable, lo que 
+obliga a la comunidad a obtener el recurso agua para consumo por servicio de carro tanque con 
+una frecuencia semanal o cada tres días y para cubrir las necesidades de tipo domestico se remiten 
+a hacer uso del agua que se encuentra en el pozo de la comunidad.  
+Figura 36 
+Forma como adquiere agua potable la vivienda 
+ 
+Fuente: elaboración propia, 2022. 
+ 
+Complementando lo dicho en la respuesta anterior, la presente figura, indica de donde 
+proviene el agua en este sector, el 50% de agua obtenida por la comunidad proviene del carro 
+tanque, ya que esta es más utilizada para el consumo alimenticio y de uso diario, otro punto 
+importante son los vendedores de agua potable ya que unas viviendas viven de esto; generalmente 
+el 32% de las viviendas encuestadas consiguen el agua de esta forma, otra forma asociada al tema 
+Sí
+0%
+No
+100%
+50
+18
+32
+0
+0
+10
+20
+30
+40
+50
+60
+1
+Respuestas
+Otro
+Carretilla de agua
+Pozo
+Carro tanque
+
+=== Página 57 ===
+57 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+del agua es la recolección de esta en el pozo de este sector, indicando que un 18% de los habitantes 
+usan este medio para los quehaceres de la casa, y el agua potable de consumo se obtiene de las dos 
+formas inicialmente dichas. 
+ 
+Figura 37 
+Frecuencia del agua potable 
+ 
+Fuente: elaboración propia, 2022. 
+ 
+En este punto es relevante ya que la frecuencia en la obtención del servicio es un aspecto 
+relevante en cuanto a la calidad de vida de la comunidad, y el esquema muestra diferencias 
+significativas lo que nos permite deducir que la población debe tener una o más fuentes y/o formas 
+de obtención del recurso.   
+ 
+Figura 38 
+Baños de la vivienda 
+ 
+Fuente: elaboración propia, 2022. 
+ 
+Con respecto a los baños en las viviendas, el 52% indica que tiene 1, el 47% tiene dos y el 
+1% tiene tres baños, un dato relevante es que las viviendas que tienen dos o más baños poseen 
+estos de manera artesanal, como por ejemplo un quiosco en su patio que hace la función de baño; 
+otras viviendas si poseen este espacio incorporado en esta. 
+33
+53
+10
+4
+0
+10
+20
+30
+40
+50
+60
+1
+Respuestas
+De vez en cuando
+Cada semana
+Dos veces por semana
+Diario
+52
+47
+1
+0
+0
+10
+20
+30
+40
+50
+60
+1
+Respuestas
+Otro
+3
+2
+1
+
+=== Página 58 ===
+58 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Figura 39                                                                  Figura 40  
+Tipo de Baños                                                           Vertimiento 
+ 
+Fuente: elaboración propia, 2022.  
+ 
+   Fuente: elaboración propia, 2022.  
+ 
+La concepción de baño en la mayor parte de las viviendas esta entendida por tener 
+solamente el excusado, solo ¼ parte de la población tiene de manera adicional regadera, es decir 
+que la mayoría de los habitantes tienen tanques de almacenamiento como albercas o tanques que 
+se conectan al baño, esto debido a la falta de acueducto que les permita tener una red disponible 
+para uso de estas actividades con otro tipo de estructura; aspecto que nos lleva a referenciar la falta 
+de alcantarillado para drenaje de aguas negras que hace que el 100% de la población haga uso de 
+fosa séptica.  
+Figura 41                                                               Figura 42 
+Energía eléctrica                                                   Viviendas con servicio de recolección de residuos 
+ 
+ 
+Fuente: elaboración propia, 2022.                         Fuente: elaboración propia, 2022. 
+ 
+ 
+ 
+ 
+Solo 
+excusado
+74%
+Regadera y 
+excusado
+26%
+Red 
+pública
+0%
+Fosa 
+séptica
+100%
+Otra
+0%
+Sí
+100%
+No
+0%
+Sí
+100%
+No
+0%
+
+=== Página 59 ===
+59 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+La totalidad de las viviendad cuenta con energía eléctrica y un servicio de recolección de 
+residuos, indicando que pasa dos veces por semana. .  
+Figura 43 
+Tipo de habitante 
+ 
+Fuente: elaboración propia, 2022. 
+ 
+Para establecer la propiedad y pertenencia de las viviendas habitadas tenemos que el 89% 
+son propietarios; aspecto que consolida el hecho que la gran mayoría de estas fueron construidas 
+por los mismos pobladores sin tener en cuenta aspectos arquitectónicos u otras técnicas de 
+construcción modernas o estructuradas.   
+Figura 44 
+Construcción de la vivienda 
+ 
+Fuente: elaboración propia, 2022. 
+ 
+Para definir la forma de construcción de las viviendas, se estableció el anterior ítem; aunque 
+la mayoría de las viviendas fueron mandadas a construir o compradas hechas existe un porcentaje 
+significativo asociado al 23% de los encuestados en los que predomino el arraigo de tradición de 
+técnicas de construcción proporcional a las personas que habitan en esta comunidad y se dedican 
+a esta actividad como lucro y forma de vida.  
+Rentada
+11%
+Propia
+89%
+9
+57
+23
+11
+0
+10
+20
+30
+40
+50
+60
+1
+Respuestas
+No sabe
+Construyó el mismo
+Mandó a construir
+Compró hecha
+
+=== Página 60 ===
+60 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+ 
+De acuerdo con el resultado anterior, es necesaria la realización de dos talleres, (1) 
+sociograma y (2) línea de tiempo, lo que permitirá poner en práctica los diferentes elementos 
+relacionados a la comunidad que inciden directamente desde la composición familiar en los 
+habitantes del corregimiento la Gallera, Sincelejo.  
+ 
+4.1.3 Talleres 
+La herramienta de elaboración de talleres emerge de la necesidad de interacción con la 
+comunidad para poder complementar la información obtenida luego a la realización de encuestas 
+y realizar un contraste del concepto cultural de la comunidad y las necesidades a cubrir que serán 
+la base en la toma de decisiones para llegar al concepto de diseño.  
+ 
+4.1.3.1 Taller - Matriz de primeras ideas. 
+La “matriz de primeras ideas” fue el primer taller realizado con la colaboración y 
+participación de la comunidad perteneciente al corregimiento de la Gallera, este taller nos permitió 
+determinar qué tanto conocimiento poseen las personas del lugar donde viven y cuáles temas 
+abordar para su mejoramiento. La metodología usada fue una tabla en la cual se relacionaron 
+conceptos e información relevante adquirida mediante preguntas específicas: 
+Figura 45 
+Matriz de primeras ideas 
+ 
+Fuente: elaboración propia, 2022 
+
+=== Página 61 ===
+61 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Como resultado del taller se tienen las siguientes conclusiones: 
+ 
+Territorio 
+ 
+La comunidad refleja un amplio conocimiento sobre su territorio, ellos relatan la evolución 
+de su territorio y con qué otras poblaciones limitan, además de eso manifiestan, su descontento por 
+las personas a las que llaman foráneas, ya que estas compran lotes en el corregimiento, pero no 
+presentan ningún interés por hacer realmente parte de la comunidad. Asimismo, las personas que 
+allí habitan expresan su disgusto por el abandono y la falta de apoyo por parte de las organizaciones 
+gubernamentales en los diversos problemas que se presentan en la comunidad. 
+ 
+Por otro lado, señalan que sería favorecedor tener un crecimiento territorial para así estar 
+más cerca del municipio de Sincelejo y aumentar el progreso, conforme a ello han construido un 
+parque y esperan que, con el deseado apoyo gubernamental, la unión comunal y la obtención de 
+los servicios públicos se logre este propósito. 
+ 
+Política y organización social 
+ 
+La comunidad no tiene una inclinación política, ellos ejercen la democracia acorde a las 
+propuestas que se presenten en el fuero electoral a pesar de las faltas en el cumplimiento de las 
+propuestas y peticiones propias del argot político.  Igualmente, afirman que los líderes sociales se 
+preocupan más por sus propios intereses que por los de la comunidad, por lo tanto, esperan que la 
+herencia del conocimiento permita cambios positivos en su territorio, que prevalezca la 
+importancia a sus necesidades y a la culminación de cada proyecto iniciado. 
+ 
+Historia y cultura 
+ 
+La información con la que la comunidad cuenta se basa principalmente en historias que 
+han ido de generación en generación más que en documentos oficiales. Es de resaltar que, por una 
+parte, un evento característico de su historia y cultura es el festival del maíz que hacen cada año. 
+Mencionan que cada vez toma más fuerza y se proyectan que debido a ello el lugar donde lo 
+realizan (la plaza de la gallera) no tenga la capacidad requerida a corto plazo. Por otra parte, a la 
+
+=== Página 62 ===
+62 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+comunidad actualmente le preocupa una división en cuanto a dos barrios: las flores y la gallera, 
+cada lugar tiene su propio capitán y no están de acuerdo con esto, ya que siempre han sido un solo 
+pueblo.  
+ 
+Población- actividad económica- futuro del campo. 
+ 
+La comunidad está conformada por un alto porcentaje de indígenas de la etnia Zenú y del 
+resguardo de San Andrés de sotavento, ellos mismos afirman no ser una comunidad unida y 
+desconocen cuál puede ser la razón, sin embargo, esto evita que lleguen a soluciones en conjunto 
+ante las problemáticas que se presentan, siendo una de las más preocupantes el olvido de la 
+agricultura, debido a que los jóvenes no están interesados en el trabajo de campo.  
+Con relación a lo anterior, el corregimiento de la Gallera no posee como tal una estructura 
+económica definida, la mayoría de las personas trabajan por fuera del territorio o, por el contrario, 
+trabajan en tiendas de barrio o establecimientos de venta de alcohol o ganan dinero a través de las 
+peleas de gallos; a pesar de que pueden seguir trabajando cosechando maíz y yuca en el campo, 
+esta labor ha sido reemplazada rápidamente por el “mototaxismo”, dado que, en cierta medida la 
+agricultura se ha vuelto insostenible por las pocas ganancias que genera.  
+ 
+Lo descrito anteriormente, hace que la comunidad esté angustiada por su futuro, puesto 
+que, creen que no contaran con los recursos necesarios para sobrevivir por la falta de oportunidades 
+y por el individualismo por el que muchas personas optan. 
+ 
+Para finalizar, luego del análisis de la información suministrada por la comunidad, se 
+presentan las siguientes propuestas de mejora: 
+ Diseñar un espacio o zona productiva en el que los dueños de la vivienda puedan contribuir 
+a la agricultura o a la cría de animales.  
+ Implementar un sistema de recolección de agua lluvia con el fin de reducir el consumo de 
+agua potable en actividades que realmente no lo requieren como son: regar las plantas, 
+bajar el sanitario, hacer aseo en la vivienda y lavar ropa. 
+ Construir una fosa séptica para el adecuado tratamiento de las aguas residuales, ya que 
+cada vivienda en la comunidad cuenta con fosas rudimentarias.  
+
+=== Página 63 ===
+63 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Para estas dos últimas propuestas, se dejarán conexiones hacia la calle para que cuando la 
+Gallera cuente con los servicios públicos, los dueños de la vivienda puedan realizar la respectiva 
+conexión.  
+ 
+4.1.3.2 Taller Sociograma. 
+ 
+Se define un sociograma como una herramienta que permite identificar los grupos y 
+organizaciones sociales, y la estructura de “poder” de una comunidad, para lograr esto, con el taller 
+se utilizaron formas geométricas para establecer los niveles de poder y los colores para determinar 
+cómo es la comunicación y las relaciones entre los grupos. 
+Figura 46 
+Sociograma 
+ 
+Fuente: Elaboración propia, 2022. 
+A continuación, se explica cómo es la relación entre los personajes representativos y los 
+grupos sociales: 
+ 
+Inicialmente, las personas del territorio definen como líder una persona designada como 
+capitán y manifiestan como excelente la comunicación con estos, debido a que, son quienes están 
+al frente del cabildo y, por lo tanto, son a ellos a quienes manifiestan sus inquietudes de forma 
+directa, asimismo afirman mantener una relación y comunicación positiva con el equipo de fútbol, 
+gracias en parte a que su entrenador es el señor Hernán, una persona en la que confían plenamente, 
+ya que ha sido vocero de la comunidad en diversas reuniones; por otra parte, en cambio, definen 
+como negativa su relación con el equipo de softbol, ya que no hay un trabajo en conjunto por parte 
+
+=== Página 64 ===
+64 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+de todos en actividades referente a la recolección de dinero para sus uniformes y artículos 
+deportivos.  
+ 
+4.1.3.3 Taller línea de tiempo. 
+ 
+Se llevó a cabo el taller “línea de tiempo” en el que se registraron acontecimientos de 1990 
+a 2022, estos hechos se especificaron como positivos o negativos, de acuerdo con el criterio de los 
+miembros de la comunidad.  
+Figura 47 
+Línea de tiempo 
+ 
+Fuente: Elaboración propia, 2022. 
+ 
+Acontecimientos positivos: 
+En el año 1997 se cree que fue construida la calle principal, algo positivo, sin embargo, se 
+esperaba la construcción de calles secundarias también. Para el año 1999 la Gallera se convirtió 
+en un cabildo indígena, en los 2000 iniciaron el comercio con restaurantes en la vía Sincelejo – 
+Sampués. Finalmente, los años 2008, 2012, 2014 y 2020 estuvieron llenos de crecimiento, ya que 
+se realizaron las construcciones de una sede del SENA, la doble calzada vía Sincelejo – Sampués, 
+una bomba de gasolina en la entrada del corregimiento y un parque junto a la iglesia central. 
+ 
+Acontecimientos negativos: 
+En el año 1995 la comunidad de la Gallera perdió el parque del pozo, ya que con los años 
+
+=== Página 65 ===
+65 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+este se fue deteriorando hasta quedar en nada. El año 2003 lo recuerdan con mucha tristeza, porque 
+asignaron cerca un batallón que realmente no duró mucho y solo dejó a jóvenes embarazadas, 
+niños sin padres y hogares destruidos. Por último, para el año 2011 otro descontento, la bomba de 
+agua potable dejó de funcionar, y desde ese año y hasta ahora no se cuenta con ese servicio. 
+ 
+4.1.3.4 Taller Transecto. 
+ 
+Se realizó un recorrido para conocer la gallera desde su vía principal y ver cuáles son los 
+lugares que resaltan a simple vista. 
+Figura 48 
+Trayectoria territorio 
+ 
+Fuente: Elaboración propia, 2022. 
+ 
+Se puede analizar que, al realizar el recorrido los lugares que llamaron nuestra atención son 
+en su mayoría institucionales como los colegios y las iglesias o dotacionales como la plaza, parque, 
+el cementerio, la doble calzada y la IPS, pero se manifiestan como inexistentes sitios de recreación; 
+como establecimientos de comercio en la doble calzada se encuentran restaurantes y una estación 
+de gasolina. Se hizo un recorrido en la calle destapada que va del cementerio a la plaza de la gallera 
+y es deplorable su condición empeorándose ésta en la temporada de lluvias formando cuerpos de 
+agua temporales en forma de pantanos que hacen que sea intransitable. De manera general se 
+observa poco tránsito vehicular y peatonal. 
+ 
+ 
+
+=== Página 66 ===
+66 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+4.1.3.5 Taller palabrear subsumir. 
+ 
+Para desarrollar esta parte del proyecto, en la comunidad se realizaron dos actividades: 
+palabrear y subsumir, la primera consistió en escribir cuál era la primera palabra que se les venía 
+a la mente al pensar en su territorio, su casa y su cuerpo, y la segunda actividad se basaba en crear 
+un círculo de valoración, para establecer qué consideraban más importante entre los 3 aspectos ya 
+mencionados, siendo el círculo más grande lo más relevante y el pequeño, lo menos relevante. A 
+continuación, evidencia de las actividades:  
+ 
+Figura 49                                                                                    Figura 50        
+Palabrear                                                                                    Subsumir 
+ 
+Fuente: Elaboración propia, 2022. 
+ 
+                   Fuente: Elaboración propia, 2022. 
+ 
+Conforme a lo anterior, se puede afirmar que las palabras repetidas por cada aspecto son: 
+- 
+Territorio = comunidad 
+- 
+Casa = hogar 
+- 
+Cuerpo = templo 
+El territorio es donde está todo lo que conocen, donde formaron sus hogares, donde comparten y 
+crean los valores de su comunidad, su territorio es vida. Su casa, es donde pueden descansar, allí encuentran 
+amor y paz, allí está su familia, su casa hace parte de su territorio, pero es privado, para ellos representa 
+refugio y protección. Por último, su cuerpo, que caracteriza su etnia Zenú y su cultura. Seguidamente, se 
+muestra un cuadro a modo de resumen:  
+ 
+
+=== Página 67 ===
+67 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Tabla 7 
+Resumen taller subsumir  
+Datos de la actividad 
+Organización 
+mayor a menor 
+según importancia 
+Territorio 
+Cuerpo 
+Casa 
+Casa-territorio-
+cuerpo 
+Porque 
+es 
+donde 
+socializo 
+con 
+mis 
+vecinos y mis amigos. 
+Porque es lo que me 
+ayudó a entender mi 
+origen. 
+Porque es donde me 
+refugio del sol y del 
+agua. 
+Cuerpo-casa-
+territorio 
+Lo defino con mayor 
+relevancia 
+porque 
+priman 
+los 
+valores 
+comunes. 
+Porque 
+considero 
+casa como mi hogar 
+y en ella se da la 
+familia. 
+No 
+menos 
+importante, pero a mi 
+criterio los hombres 
+pasan. 
+Territorio-casa-
+cuerpo 
+Es importante porque 
+necesitamos un lugar 
+donde construir la casa. 
+El cuerpo si hay 
+convivencia y hogar 
+habita feliz. 
+El cuerpo habita feliz 
+en la casa. 
+Casa-territorio-
+cuerpo 
+Porque es la tierra donde 
+vivo 
+La cultura 
+Porque 
+encuentro 
+amor y paz. 
+Cuerpo-territorio-
+casa 
+Necesitamos un cuerpo 
+para poder estar aquí. 
+El cuerpo es más 
+importante porque 
+sin él no se llega al 
+territorio. 
+Sin el cuerpo no se 
+tiene una casa. 
+Territorio-casa-
+cuerpo 
+Es importante porque 
+abarca todo. 
+Es 
+importante 
+porque soy yo. 
+ 
+Porque vivo con mi 
+familia. 
+Territorio-cuerpo-
+casa 
+Porque 
+es 
+una 
+comunidad. 
+El 
+cuerpo 
+es 
+importante porque 
+es templo. 
+Es importante porque 
+yo 
+descanso 
+el 
+cuerpo. 
+Cuerpo-casa-
+territorio 
+Comunidad. 
+Porque soy cuerpo 
+de espíritu santo. 
+Porque descanso. 
+Cuerpo-casa-
+territorio 
+Porque 
+es 
+mi 
+comunidad. 
+Importante porque 
+hábito dentro de él 
+Porque descanso. 
+Territorio-casa-
+cuerpo 
+Hace referencia al lugar 
+En la casa está el 
+cuerpo 
+En el territorio está la 
+casa 
+
+=== Página 68 ===
+68 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Territorio-casa-
+cuerpo 
+Si 
+tenemos 
+territorio 
+podemos 
+construir 
+nuestro hogar. 
+El 
+cuerpo 
+lo 
+podemos someter a 
+las situaciones y al 
+clima. 
+Con ella nos podemos 
+proteger. 
+Fuente: elaboración propia, 2022. 
+ 
+4.1.3.6 Taller sueño de un hogar. 
+ 
+En el presente taller, se indicó a los participantes que realizaran la vivienda donde les 
+gustaría vivir o tener, con espacios definidos y si era posible cómo se vería la vivienda por fuera 
+de acuerdo con las características que se ajustan a sus necesidades. 
+Figura 51 
+Sueño de hogar 
+ 
+Fuente: Elaboración propia, 2022. 
+Como primera observación la mayoría de las personas realizan 3 habitaciones, esto por el 
+número de personas viviendo en una sola vivienda en la actualidad, ya que las familias tienden a 
+ser numerosas. 
+ 
+Las cocinas tienden a estar junto al patio, al igual que el baño, esto es porque en la cultura 
+zenú estos espacios cumplen una función que puede realizarse en el exterior de la vivienda, ya que 
+en su cultura la parte interna y protegida se considera especialmente para dormir y resguardarse de 
+los peligros o factores externos.  
+ 
+
+=== Página 69 ===
+69 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Todos por igual dibujan el espacio de la sala-comedor y solo uno de la terraza, lo que nos 
+hace pensar que pasan más tiempo dentro de la vivienda restándole importancia a esta. 
+ 
+Solo una persona realizo una vivienda un poco más moderna, pero con características muy 
+específicas de cómo vivían antes como la cocina y el baño junto al patio, aparte de esto, dibujo 
+garaje y oficina, que nos habla de que están modernizando sus ideas de una vivienda, además de 
+que en todos los dibujos resalta la forma rectangular o la retícula. 
+Figura 52  
+Visión simbólica del territorio La Gallera 
+ 
+Fuente: Elaboración propia, 2022. 
+Figura 53 
+Sinopsis de los talleres realizados 
+ 
+Fuente: Elaboración propia, 2022. 
+
+=== Página 70 ===
+70 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+4.2 
+Fase 2: Diseño de vivienda 
+ 
+Teniendo la información recolectada de la primera fase, se realiza una propuesta de diseño 
+de vivienda en las cuales se resolvió los problemas manifestados de la comunidad que se vieron 
+claramente reflejados. 
+ 
+La propuesta se realizó bajo la metodología BIM usando el programa de Revit el cual nos 
+facilita realizar variados estudios para identificar problemas en el diseño o por consecuente uso de 
+la energía, análisis solar, análisis de la estructura, de las instalaciones de servicios, las cuales son 
+fundamentales en el diseño. Etc. 
+ 
+4.2.1 Proceso de diseño 
+ 
+En el proceso de diseño arquitectónico se propone, conoce y razona a fin de llegar a un 
+resultado y/o concepto que pueda dar cumplimiento a las expectativas y necesidades del contexto 
+donde se viene trabajando además de dar respuesta a cuestionamientos que surgieron en la fase 
+inicial de este proyecto; la trayectoria a seguir fue inicialmente marcada con el planteamiento de 
+las siguientes preguntas: 
+ 
+ ¿Para quién será la obra? 
+ ¿Quién la utilizara? 
+ ¿En dónde estará ubicado? 
+ ¿Qué actividades se realizarán en ella? 
+ ¿con que recursos financieros y tecnológicos se cuenta para construirla? 
+ 
+La primicia de dar respuesta al diseño estuvo dada para que las respuestas a cada uno de 
+los anteriores interrogantes permitiesen suplir en tiempo y forma las necesidades físicas, culturales, 
+adaptativas y psicológicas de las personas que utilizaran la obra arquitectónica, partiendo de los 
+principios de sustentabilidad y sostenibilidad.  
+
+=== Página 71 ===
+71 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+ 
+La Gallera, sitio seleccionado para la ejecución del proyecto, tiene un clima que se 
+caracteriza por las altas temperaturas y el uso del suelo predomina la agricultura especialmente 
+cultivos de maíz, además de trabajos varios que consisten en la construcción ancestral con caña y 
+madera o el enfoque moderno como la mampostería y concreto; esta comunidad se identifica por 
+ser de etnia Zenú, con cultura, arquitectura y costumbres particulares, por lo que este diseño estará 
+enfocado en las familias que conforman esta comunidad: su convivencia, sus costumbres, 
+ideologías y cotidianidad a fin de adaptar su trasegar diario con el confort de un hogar. La premisa 
+de la comunidad es la escasez de recursos económicos, eso permite ver más allá de lo superficial 
+además de adquirir el conocimiento de determinadas necesidades concretas del medio. 
+ 
+4.2.1.1 Necesidades. 
+ 
+Las necesidades varían entre familia o comunidades, sin embargo, al estar en un mismo 
+lugar por un tiempo prolongado tiempo las costumbres se tornan a la cotidianidad y el contexto 
+donde esto mismo se dé. Es así como se descubrieron los espacios más importantes y necesarios 
+ya siempre han manejado una arquitectura y distribución muy particular de los espacios. 
+ 
+Al conocer detalles específicos se busca un equilibrio entre la cotidianidad y la forma de 
+llegar cada vez más cerca de una espacialidad tradicional de la arquitectura vernácula con toques 
+modernos.  
+ 
+Espacios comunes, pero que utilizan de manera particular a sus costumbres son: 
+ 
+Sala, no es común reunirse en la sala o utilizarla como un espacio social. 
+ 
+Habitaciones, totalmente privadas y la mayoría sin ventilación lo que genere que solo las 
+utilicen de noche. 
+ 
+Baños isla, ubicados siempre por fuera de la vivienda específicamente en el patio de forma 
+central o a un lado tipo isla. 
+ 
+Patio, un espacio social y que puede ser compartido con otras viviendas, totalmente abierto 
+o solo dividido por astas y alambre. 
+
+=== Página 72 ===
+72 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+ 
+Cocina artesanal, también ubicada por fuera de la vivienda especialmente en el patio por 
+su característica especial de ser una cocina artesanal, sus materiales más utilizados ladrillo 
+o barro. 
+ 
+Comedor, no existe como tal un espacio de comedor, se podría decir que es junto con la 
+cocina ya que tienden a comer alrededor de la cocina o donde cocinan en silla o en el piso, 
+en el patio. 
+ 
+Terrazas, el lugar de encuentro y de relacionarse, el más usado en horas de la tarde. 
+ 
+Espacio que es común para ellos como una comunidad de la etnia Zenú es: 
+ 
+ Kioscos, este espacio se encuentra en el patio sus materiales son paja o palma seca y 
+troncos de madera, totalmente abierta y la usan para socializar o hasta descansar en el 
+transcurso del día. 
+ 
+Espacios propuestos al ver necesidades no resueltas son: 
+ 
+ Espacio flexible, esto puede resolver diversas necesidades como al tener visitas o 
+trabajadores que no se quedaran por mucho tiempo tienden a colgar hamacas en la sala 
+o donde puedan para que puedan pasar la noche o otra opción es si la familia crece 
+tener una posibilidad de habitaciones extras a futuro. 
+ Espacio de producción, tener animales en un lugar específicos para ellos o tener 
+pequeños cultivos es un lugar específico o también para realizar actividades pesada que 
+necesitan de un espacio extras para su realización. 
+ Espacio de almacenamiento, es un espacio especial para guardar herramientas o 
+materiales que usan en su día a día. 
+ 
+Todos estos espacios deben estar interrelacionados, ya que las viviendas se caracterizan 
+por poder recorrerlas por fuera y por dentro además de estar abiertas; en alguno de los casos 
+hacia el exterior y en el interior, privatizando solo las habitaciones. 
+ 
+
+=== Página 73 ===
+73 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+4.2.1.2 Materialidad. 
+ 
+La materialidad a utilizarse está definida principalmente por la arquitectura vernácula 
+existente, el contexto del lugar, y además del criterio de sostenibilidad donde principalmente se 
+encuentran: 
+ 
+ 
+Caña bahareque 
+ 
+Madera  
+ 
+Palma amarga 
+ 
+Bambú  
+ 
+Además, se realiza una mezcla con materiales actuales o modernos la idea es que se utilice 
+la menor cantidad posible, pero es necesario para apoyar y mejorar aspectos específicos del 
+proyecto: 
+ 
+ 
+Bloque PET 
+ 
+Hormigón (Concreto ciclópeo) 
+ 
+También es importante aclarar que estos materiales se intentarán utilizar lo menos posible 
+o en definitiva no utilizarlos si se encuentra una forma sostenible de suplantarlo, esto lo definirá 
+el espacio, la función que cumpla este, las necesidades que se tenga y con qué material se adapta 
+mejor, como lo es el ecoblock que se puede realizar desde la recolección de botellas de plástico y 
+reutilizarlas para realizar estos bloques de diferente forma. 
+  
+4.2.1.3 Concepto. 
+ 
+Para dar una respuesta adecuada a las necesidades físicas y espirituales de la comunidad la 
+arquitectura tiene que ver tanto con la razón como con el sentimiento, es por eso que teniendo en 
+cuenta lo anterior se realiza una explicación conceptual de lo requerido para que el proyecto llegue 
+hacer lo más apto posible. 
+
+=== Página 74 ===
+74 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Una Vivienda unifamiliar acorde al entorno y a las raíces ancestrales de las etnias Zenú, 
+utilizando materialidad acorde a su arquitectura y forma de construcción, tiene como principal eje 
+ser una vivienda confortable la cual satisfaga las necesidades del diario vivir de los habitantes de 
+la comunidad.  
+ 
+La funcionalidad del proyecto en cuanto a la cultura y etnia de la comunidad es fundamental 
+para el diseño, que el proyecto cuente con bienestar y confort según la espacialidad de las viviendas 
+ya existentes, el habitar arquitectónico se vuelve el principal juez de las condiciones de 
+sostenibilidad que también se tiene en cuenta la flexibilidad, posibilidad de apropiación, las 
+relaciones interiores exteriores, etc. También, puede considerarse la arquitectura como parte de un 
+sistema inserto en su entorno, para Antúnez (2010), corresponde a un intercambio hacia afuera y 
+hacia adentro fluctuando entre el habitante, las sinergias y la arquitectura se aproxima a la 
+condición de bienestar.  
+ 
+Figura 54  
+Aproximación al proyecto 
+ 
+ 
+Fuente: Aproximación al proyecto, 2018. 
+ 
+4.2.1.3.1 
+ Estrategias sostenibles. 
+ 
+Las viviendas sostenibles tienen como objetivo disminuir la huella ecológica que se 
+produce desde su construcción y uso. Lo hacen aprovechando los recursos in situ y brindando un 
+
+=== Página 75 ===
+75 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+máximo nivel de habitabilidad sin poner en riesgo los recursos naturales.  
+ 
+Estas estrategias se dividen en varios tipos, clasificándose desde los cuidados que tienen 
+las personas, los materiales con los cuales se realiza la vivienda, la forma de construcción, hasta 
+mecanismos que se agregan para el ahorro de agua y energía. 
+ 
+Figura 55 
+Corte bioclimático 
+ 
+Fuente: L. Moreno (2019) CC BY-NC-ND 
+ 
+4.2.1.3.2 
+Estrategias de diseño. 
+ 
+las estrategias de diseños se definen de las necesidades encontradas en la vivencia de la 
+comunidad con su territorio, que muestra claras características repetitivas, donde se puede observar 
+dinámicas de vida ancestrales comunes entre la población. Estas se pueden dividir en espaciales, 
+bioclimáticas y culturales. 
+ 
+Las características que se observaron de manera repetitiva son: 
+ espacios sociales, las relaciones interpersonales se realizan en espacios como terrazas o 
+patios que también pueden ser compartidos con otras viviendas  
+
+=== Página 76 ===
+76 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+ circulación dinámica, que las viviendas se puedan recorrer de diferentes puntos y a su vez 
+visualizarla sin perder la privacidad es fundamental para la vivencia del espacio. 
+ 
+4.2.1.3.3 
+Estrategias culturales. 
+ 
+las relaciones interpersonales entre vecinos son una característica fundamental en el 
+habitar de esta comunidad y hacerlo desde sus viviendas sin la necesidad de salir es aún más 
+importante todavía, por eso se refuerza la vida social en terraza grandes y cubiertas con espacio 
+para sentarse y convivir como también el patio con posibilidad de dejarlos abiertos y sean patios 
+comunitarios. 
+ 
+4.2.1.3.4 
+Estrategias bioclimáticas.  
+ 
+Las estrategias que se proponen para disminuir el impacto negativo de la forma de vida en la 
+comunidad son:  
+ recolección agua lluvias, la escasez de agua potable lleva a buscar opciones para ahorrar 
+agua que se pueda utilizar en actividades diarias  
+ ventilación - confort térmico, el usar materiales correctos de forma incorrecta es uno de 
+los mayores errores para generar un espacio optimo en cuanto confort 
+ materiales de la zona, la apropiación de materiales fácil de conseguir cerca de la zona 
+donde será el proyecto genera un ahorro económico y ecológico  
+ iluminación, que cada espacio se pueda iluminar de forma natural en el transcurso del 
+día sin ayuda de ninguna iluminación artificial, disminuye el impacto de consumo 
+energético y beneficia a la salud humana. 
+ Técnicas de construcción vernáculas, en Colombia el bambú se usa mayormente en zonas 
+rurales donde en más usual conseguir este material. En esos lugares es útil para la 
+construcción de kioscos, viviendas, lugares de comercio, además para realizar artesanías o 
+mobiliarios. 
+ 
+Principalmente para la estructura y formas de usarlas pueden ser como se muestran en la 
+
+=== Página 77 ===
+77 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+siguiente figura: 
+ 
+Figura 56  
+Estructuras de bambú 
+ 
+Fuente: manual para la construcción sustentable del bambú,2013 
+ 
+La región del caribe colombiano presenta actualmente unos de los mayores usos de la 
+arquitectura vernácula aquí se presentará una de las técnicas constructivas vernáculas más usada 
+aun en la actualidad para la creación de kioscos o casas: 
+Figura 57 
+Representación de Kioscos 
+ 
+Fuente: Técnicas vernáculas, 2016. 
+ 
+El proceso constructivo del proyecto será la combinación de arquitectura vernácula con 
+
+=== Página 78 ===
+78 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+métodos actualizados de la forma en que se utilizan el bambú y el hormigón, además de una 
+propuesta moderna, pero al mismo tiempo pensada en la comunidad indígena Zenú. 
+Figura 58  
+Objetivos del confort en arquitectura 
+ 
+Fuente: Estrategias Bioclimáticas en la Arquitectura, 2023. 
+  
+4.2.1.4 Localización del lote. 
+ 
+ 
+Según (Organización Mundial de la Salud, 2011) el proyecto de vivienda se debe 
+localizar sobre terreno estable, y que tome en cuenta en su diseño y localización los riesgos 
+naturales característicos de la zona, por lo tanto, se debe ubicar a distancias prudentes de posibles 
+riesgos a causa del entorno, en los cuales se puede evidenciar el ruido auditivo, alto tráfico, 
+contaminación visual.  
+ 
+ 
+La localización del proyecto fue pensada de tal manera que este no afectara el entorno 
+natural, se tuvo en cuenta factores que a futuro pudieran poner en riesgo la seguridad de la vivienda 
+como afectaciones naturales, distancia prudente de fuente hídrica, conexión indirecta de vías 
+concurridas o de alto peligro (vía troncal); para tener en cuenta los predios del sector de la gallera 
+en su mayoría son de forma plana, lo que nos evita problemática como deslizamiento entre otras 
+características naturales. 
+ 
+
+=== Página 79 ===
+79 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Figura 59 
+Localización del proyecto 
+ 
+Fuente: Elaboración propia 
+ 
+ 
+Dadas estas características la localización del proyecto es en el corregimiento de La 
+Gallera sucre, barrio las flores, este se sitúa en un predio plano que antes fue intervenido para 
+siembra, con características naturales optimas, en la zona de enfrente a una distancia prudente se 
+puede encontrar el (pozo), que es fundamental para la comunidad ya que abastece del recurso 
+hídrico a sus habitantes, otra característica positiva es la conexión hacia la vía troncal y vía 
+principal del corregimiento la gallera y además el terreno se encuentra aislado de contaminaciones 
+auditivas por los flujos vehiculares pero se conecta entre sí. 
+ 
+Con la información recopilada anteriormente y teniendo en cuenta todos los 
+requerimientos para el diseño, se realizan las siguientes propuestas.  
+ 
+Propuesta 1 
+En esta primera propuesta se busca una mayor privacidad en espacios para darle prioridad 
+a los espacios comunes o sociales que reflejan un mayor nivel de interacción y uso en la vivienda 
+y un patio central para generar un espacio abierto con ventilación e iluminación indirecta además 
+de generar un tipo de baño isla interno, dándole una separación interna a la vivienda de manera 
+sutil. 
+
+=== Página 80 ===
+80 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Figura 60 
+Propuesta 1 
+ 
+Fuente: Elaboración propia,2022 
+ 
+Sin embargo, recae en un tipo de arquitectura que no corresponde con la del lugar y no 
+soluciona completamente las necesidades de la comunidad, el baño no tiene conexión con el patio 
+lo que genera un cambio es un diario vivir, además el patio es completamente cerrado sin opción 
+a conectarse con lo de los vecinos, lo que limita la convivencia, característica que reconocemos 
+como relevante entre la comunidad. Otro factor de esta propuesta de diseño es que no hay opción 
+de expandir las habitaciones en caso de que incremente el número de habitantes del núcleo. Por 
+estas razones de descarta esta primera opción, aunque basada en ella y haciendo diversos cambias 
+se propone una segunda opción. 
+ 
+Propuesta 2 
+ 
+Esta propuesta se piensa desde un concepto de modulación para adaptar el espacio a un 
+
+=== Página 81 ===
+81 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+estilo de vida único en su forma, pensando desde una calidad de vida basada en su habitar y 
+necesidades, la privacidad en este tipo de cultura no necesariamente está en ocultar y tener grandes 
+distancias, sino en resguardar la intimidad en las habitaciones y la sala por esto tienden a ser los 
+únicos espacios dentro de la vivienda, dando a entender que todo lo que está por fuera es social. 
+Las habitaciones solo tienen un uso siempre y es el descanso, dejando estos espacios juntos en un 
+módulo y su alrededor espacio verdes, da la impresión de ser el único espacio cubierto a primera 
+vista, antes y después de este módulo se encuentran los espacios de socialización y servicios. 
+Figura 61 
+Propuesta 2 
+ 
+Fuente: Elaboración Propia,2022 
+ 
+ 
+El baño es tipo isla y por esta fuera de la vivienda, pero no por eso separado del diseño, 
+ya que el baño tiene conexión con todos sin ser el centro, el patio es amplio y con opción de ser 
+abierto, un espacio flexible y una circulación lineal conecto.  
+ 
+4.2.1.5 Forma. 
+ 
+ 
+La integración de la forma con el contexto es un punto focal para el proyecto este 
+
+=== Página 82 ===
+82 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+viene desde su tejido urbano hasta su cultura, la modulación de un objeto es algo que se puede ver 
+hasta en el tejido de un sombrero volteado en sus diferentes diseños, estos inician desde un plano 
+con divisiones cuadriculadas donde van llenando el plano coloreando diversos cuadrados de forma 
+ingeniosa y pensada hasta realizar diseños únicos y diversos. 
+Figura 62 
+Representación de formas  
+ 
+Fuente: Ministerio de Comercio, Industria y Turismo. Artesanías de Colombia, 2016 
+ 
+Figura 63 
+Concepción de la forma 
+ 
+Fuente: Elaboración propia 
+ 
+ 
+Esta misma técnica fue la empleada para realizar la forma del proyecto pensada para 
+la modulación de espacios adaptativos y la futura ampliación de estos, este tipo de concepto emplea 
+
+=== Página 83 ===
+83 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+características modernas pero que se adaptó a las soluciones que se requerían para las necesidades 
+tanto espaciales como del habitar.  
+ 
+4.2.1.6 Espacial. 
+ 
+ 
+El proyecto cuenta con espacios básicos de una vivienda convencional, lo que la hace 
+diferente es como se resuelven las necesidades del habitar para la comunidad Zenú. Se propone 
+una distribución acorde a las necesidades y características para la población del sector de la gallera. 
+Para este ejercicio fue necesario entender un poco sobre como construían ancestralmente y 
+vivenciaban día a día estos espacios en la comunidad y hacer un Pareto respecto a cómo se hace 
+en la actualidad, basándonos en las nuevas necesidades de espacios, y mejoras en la calidad de 
+vida y características propias de estas mismas. 
+ 
+  
+Las subzonas más características de la cultura Zenú son las sociales y de servicios, en estos 
+espacios la comunidad establece relaciones con otras personas ya sean vecinos o con la misma 
+familia, y pasan la mayor parte de su tiempo.  
+ 
+Figura 64 
+Zonificación 
+ 
+Fuente: Elaboración propia, 2022 
+
+=== Página 84 ===
+84 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+ 
+De tal forma está conformada la distribución de la vivienda: en el acceso principal se 
+observa una gran terraza típico de la cultura ancestral, en el acceso de la vivienda encontramos la 
+sala como espacio repartidor: en sus laterales, están las habitaciones, de manera continua hacia la 
+sala encontramos un espacio conector que nos dirige hacia el comedor el cual comparte espacio 
+con la cocina creando una unión modular de espacio. De manera directa al comedor podemos 
+conectarnos con un espacio de uso múltiple el cual cumplirá varias funciones según sea deseado, 
+de manera lineal por la cocina interna podemos acceder hacia el patio en el que se puede encontrar 
+una estufa artesanal tradicional a esta cultura Zenú. En la zona del patio podemos encontrar la zona 
+productiva, kiosco, bodega y servicio, al igual que un baño isla que es propio de las características 
+constructivas y organización espacial de la cultura indígena Zenú.  
+ 
+ 
+De esta manera se organizan los espacios en el proyecto, un aspecto a tener en cuenta 
+son los callejones característicos de las viviendas Zenú las cuales tienen acceso directo al patio lo 
+cual fue una característica implementada en nuestro diseño. 
+ 
+Cuadro de areas: 
+ 
+Figura 65 
+Cuadro de tareas 
+ 
+Fuente: Elaboración Propia,2022 
+ 
+
+=== Página 85 ===
+85 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+4.2.1.7 Tectónico. 
+ 
+ 
+La tectónica va desde la estética hasta el contexto, es una unión armoniosa de esas dos 
+características y lo que se mueve entre ellas que es lo espacial y temporal; habla en qué momento 
+de tiempo está posicionado el proyecto y así tener un concepto muy claro y conciso de lo que se 
+puede y no contemplar dentro de la arquitectura. 
+ 
+ 
+La tectónica necesita de 3 conceptos para formarse de manera correcta la forma, la 
+función y material, partiendo de esto esta se puede interpretar de diversas formas, entre ellas el 
+poder incorporar la naturaleza y la arquitectura, y esta se puede lograr de diversas formas, una de 
+ellas es con los materiales que se pueden usar dentro de un proyecto que ya tiene forma y función. 
+ 
+Figura 66  
+Materiales 
+ 
+Fuente: Elaboración Propia,2022 
+
+=== Página 86 ===
+86 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+ 
+Los materiales pensados para el proyecto se encuentran fácilmente en la región y son 
+característicos de su contexto, el ecoblock PET la misma comunidad lo puede realizar con moldes 
+y plástico reciclado, además es más resistente que el común o de cemento y/o ladrillo sin contar 
+con el hecho que es fácil de hacer, sin embargo, para la cocina artesanal se propone el uso de 
+bloque o ladrillo ya que este tipo horno que funciona mejor con mampostería convencional. 
+ 
+ 
+Lo que logra la tectónica es darle fuerza y sentido de lugar a un proyecto, es la que lo 
+lleva de la forma a un modelo arquitectónico consciente que puede contar una historia con respecto 
+al entorno y a sí mismo. 
+ 
+4.2.2 Características del diseño 
+ 
+Figura 67  
+Diseño de la base de la vivienda 
+ 
+Fuente: Elaboración propia, 2022. 
+ 
+La cimentación fue pensada aprovechando en principio la topografía del terreno donde será 
+construida la vivienda y con la ventaja de ser adaptada a otro predio del sector, por lo tanto, se 
+propone un tipo de cimentación cíclope en forma de dado, la cual se adaptará con profundidades 
+acordes al proceso de diseño, para este caso el proyecto posee una base de cimentación con 
+dimensiones (0.40x0.40x0.50) m adosada a pilares estructurales en bambú.  
+
+=== Página 87 ===
+87 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Figura 68 
+Módulo 1 de la vivienda 
+ 
+Fuente: Elaboración propia, 2022. 
+ 
+La plataforma que sostiene la vivienda será de un grosor de (0.08) m y en concreto armado 
+semi pulido para evitar una textura corrosiva, sumada a esto se anclarán a pilares de bambú las 
+cuales soportarán las cubiertas y serán la estructura para los muros.  
+ 
+                    Figura 69  
+Módulo 2 de vivienda 
+Fuente: Elaboración propia, 2022. 
+ 
+                   Figura 70 
+Módulo 3 de vivienda 
+Fuente: Elaboración propia, 2022. 
+ 
+
+=== Página 88 ===
+88 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+4.2.2.1 Diseño de muros  
+ 
+Para este punto, fue importante profundizar en las técnicas constructivas de la comunidad, 
+las cuales pertenecen a la etnia Zenú y lograr el equilibrio que permita conservar la propuesta de 
+diseño. Para el caso de los muros se utilizó el bahareque, sumado a una estructura en ecoblock 
+(PET), la cual es un bloque ecológico. Adicionalmente, el diseño contará con una estructura en 
+bambú, tejido de caña y un recubrimiento en una mezcla especial que darán ornamentación al 
+proyecto, además, persianas en madera para asegurar la ventilación continua en los espacios. 
+ 
+Figura 71 
+Diseño de muro 
+ 
+Fuente: Elaboración propia, 2022. 
+ 
+4.2.2.2 Diseño del techo 
+ 
+Para el techo de la vivienda se implementaron materiales como: la paja amarga y un nuevo 
+material en PVC reciclable, el cual se integra de manera ecológica al proyecto. El diseño de la 
+cubierta se inspiró en el contexto donde el proyecto será emplazado esto se evidencia en el primer 
+módulo, una cubierta a cuatro (4) aguas en paja marga, y la continuidad de los demás modelos 
+posee una cubierta a un (1) agua en PVC reciclable.  
+ 
+
+=== Página 89 ===
+89 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+La estructura del techo se basa en listones de madera unidos por cuñas metálicas 
+amarraderas y clavos. Como se presenta, a continuación: 
+                         
+Figura 72 
+Detalles estructurales de la cubierta 
+ 
+ 
+ 
+Fuente: Elaboración propia, 2022. 
+ 
+4.2.2.3  Espacios característicos 
+ 
+En este punto hacemos énfasis en lo que son espacios característicos según las tradiciones 
+Zenú y como la comunidad ha adoptado estos espacios y hasta la actualidad cuentan con ellos, 
+hablaremos de 3 espacios los cuales están definidos como: 
+ 
+- 
+Cocina artesanal: 
+ 
+Dados los estudios de campo de investigación una característica en la vivienda tradicional 
+del sector de la gallera se puede evidenciar la utilización de estufas artesanales localizadas en los 
+patios de las viviendas, esto nos da a indicar que, aunque poseen servicio de gas natural los 
+habitantes cuentan con este espacio artesanal en sus hogares, de allí la principal razón de conservar 
+esa característica.  
+
+=== Página 90 ===
+90 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 73  
+Cocina artesanal 
+ 
+Fuente: Elaboración propia, 2022. 
+ 
+- 
+Baño isla: 
+Otro espacio de gran importancia según las características de las viviendas es que el baño 
+se ubica en la parte externa de esta misma, la importancia de esta característica es que el sector 
+carece de servicio de acueducto y se opta a usar posa séptica que se conecta de manera directa a 
+este tipo de baño. Para nuestro diseño se implementó esta misma idea, pero con visión a conectarse 
+a en un futuro a la red de servicio. 
+ 
+Figura 74  
+Baño isla 
+ 
+Fuente: Elaboración propia, 2022. 
+
+=== Página 91 ===
+91 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+- 
+Zona productiva:  
+ 
+Zonas de producciones según la cultura Zenú utilizadas como huertos o zona para cría de 
+animales, de tal manera dado el tamaño del lote en el cual se implanta el proyecto se propone este 
+espacio para así adecuarse más a las características propias raizales de la cultura.  
+ 
+4.2.3 Renders 
+ 
+Perspectiva frontal 
+ 
+ 
+Patio 
+ 
+
+=== Página 92 ===
+92 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Vista lateral derecha en perspectiva 
+ 
+ 
+4.3 
+Fase 3. Evaluación de la aceptabilidad 
+ 
+La evaluación de la aceptabilidad establece la percepción, aceptación o rechazo por parte 
+de la comunidad referente a la propuesta de diseño, teniendo en cuenta que además del componente 
+técnico del proyecto hay gran interés por el enfoque cultural que tiene el sitio de desarrollo de este. 
+ 
+4.3.1 Análisis del proyecto de vivienda 
+ 
+Información: la propuesta de diseño fue pensada en adaptar una propuesta de diseño que 
+respetara las culturas raizales de la gallera, recalcando que este corregimiento se rige por culturas 
+Zenú, para lo cual se realizó un arduo trabajo investigativo con el fin de dar a conocer las 
+características de la cultura, previo a esto se realiza esta propuesta la cual posee características 
+raizales de esta cultura, tanto el tema constructivo como características impartidas por su 
+comunidad, como lo es el rodamiento de casa o expansión de la vivienda, todas estas características 
+sumadas a las necesidades de los nuevos usos dan como finalidad la propuesta obtenida. 
+ 
+Características: teniendo la visión de algo innovador y adaptándose a las necesidades del 
+sector de la Gallera, se realizó el desarrollo de la propuesta. Desde el inicio se tenía conocimiento 
+que el proyecto se llevaría a cabo en una zona con características raizales específicas, asimismo se 
+
+=== Página 93 ===
+93 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+sabía que, la comunidad hace parte de una cultura Zenú, por ende prima su forma de vivir, su forma 
+de relacionarse, sus viviendas predominantes, las cuales destacan por sus terrazas, acceso directo 
+a la sala, espacios de uso múltiple, conexión de la cocina a la parte exterior, baño isla, kiosco y 
+zonas productivas, adicionalmente a eso se hace énfasis en los materiales empleados en la 
+construcción de las viviendas como son: la paja marga, el bareque, la caña flecha y la caña de lata 
+o bambú.  
+ 
+De acuerdo con lo anterior, en la propuesta de diseño se incorpora en la mayor parte de sus 
+materiales de construcción el uso de materiales ecológicos: ecoblock PET y cubiertas en plástico 
+PET, los cuales son económicos y fáciles de adquirir para la comunidad. 
+ 
+Materiales: uno de los puntos más importantes del proyecto es la implementación de los 
+materiales, la escogencia va de acuerdo con lo que se proponía, un tipo de vivienda con arquitectura 
+vernácula, la cual se encargaría de escoger los materiales propio de su región y de tal manera que 
+se ha construido a lo largo de la historia de su cultura, tanto los materiales como técnicas 
+constructivas fueron propias de su cultura, de manera innovadora se proponen materiales de 
+construcción los cuales dan al diseño características innovadoras pero respetando lo propio de su 
+cultura como lo es los materiales raizales sumado a lo innovador y sustentable.  
+ 
+- 
+Material propio: Palma amarga, listones de madera, caña flecha, mezcla bahareque 
+acabado en cal. 
+- 
+Material innovador sustentable: ecoblock PET 
+ 
+Zonificación espacial: acogiéndonos a las características de construcciones raizales del 
+sector de la gallera se proponen ideas propias de su cultura con características arquitectónicamente 
+funcionales. La zonificación espacial posee una distribución similar a los ideales arquitectónicos 
+de la región, y denota como se organizan los espacios de manera casi similar en todas las viviendas, 
+las características propias arquitectónicas de las zonificaciones serian el uso de terrazas, conexión 
+directa habitación, sala, conexión directa cocina, patio, baño isla, kiosco, zonas productivas 
+(cultivos, cría animales), zona de servicio parte externa. Acogiéndose a esas características se da 
+
+=== Página 94 ===
+94 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+a la tarea de proponer un diseño confortable y que pertenezca a la comunidad, que sean propios 
+tanto en la zonificación o distribución de manera funcional como el uso de los materiales. 
+ 
+Sistema de instalaciones (servicios): dados los estudios de campo logramos identificar 
+que el sector cuenta con unos servicios públicos y carece de otros, este proyecto de diseño fue 
+pensado para acoplarse al estado actual, proyectado al estado futuro donde puedan tenerse estos 
+servicios. Los estudios de campo nos indican que el sector cuenta con servicio eléctrico, servicio 
+de  gas, internet (tv), pero carece del servicio de agua potable estable, por lo cual el proyecto fue 
+pensado para solucionar esta necesidad, proponiendo 2 tanques de agua subterráneos los cuales se 
+cumplirán la función de recolectar la mayor cantidad de agua necesaria sea de aguas lluvias o agua 
+potable los cuales tendrán la función de cumplir las necesidades de la vivienda, y pensado de 
+manera a futuro para que se conecte a la red de acueducto. Otro servicio público que no posee el 
+sector es la red de alcantarillado ya que todas las viviendas cuentan con posa séptica, al diseño se 
+le implemento posa séptica con conexión futura a una red de alcantarillado, los anteriores, 
+corresponden a los servicios que carece el corregimiento de la Gallera, Sincelejo, pero, la propuesta 
+de teniendo en cuenta que el diseño se pensó visionando el estado actual del territorio frente a la 
+forma como se verá en el futuro en cuanto a la cobertura de los servicios.  
+  
+4.3.2 Aceptabilidad del proyecto  
+ 
+Basado en los datos obtenidos, el desarrollo de las encuestas, talleres y el análisis de lo 
+cultural del corregimiento de la Gallera perteneciente al municipio de Sincelejo, realizó la 
+propuesta de vivienda la cual se acoge a las necesidades del sector, se expuso a la comunidad la 
+finalidad del proyecto y las características tanto técnicas arquitectónicas y culturales con el fin de 
+obtener un resultado positivo aceptable de la comunidad con el proyecto presentado. 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 95 ===
+95 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Figura 75 
+Exposición del proyecto a la comunidad 
+ 
+Fuente. Elaboración Propia, 2022 
+ 
+Por otro lado, se expone a la comunidad el desarrollo del proyecto el cual fue tomado como 
+punto de partida la riqueza cultural, vernácula y apropiación cultural de la cultura Zenú, se explicó 
+su funcionalidad sus características técnicas arquitectónica, su zonificación espacial, uso de 
+materiales propios e innovadores, con la finalidad de que la comunidad se interiorizara y se 
+acogiera al proyecto. También, fue necesario escuchar las indicaciones o detalles propuestas por 
+la comunidad, por lo cual, se realizó un tipo de encuesta para obtener la información de que tan 
+aceptable era el proyecto para la comunidad, indicando una aceptación de (%) de las personas 
+encuestadas y con anotaciones positivas sobre la aceptabilidad del proyecto. A continuación, 
+mostraremos las encuestas de aceptabilidad con base a la información recolectada, estos fueron los 
+resultados.  
+ 
+4.3.3 Resultado de las encuestas de aceptabilidad 
+ 
+Para la primera pregunta, ¿Cree usted que el proyecto propuesto soluciona un problema 
+real?, en esta se pregunta obtuvieron resultados unánimes, votando todos por un sí, de esta manera 
+podemos apreciar que la solución dada fue aceptada por los habitantes de la gallera, recordando 
+los problemas que tiene la población de, habitabilidad, déficit de vivienda, servicios públicos, de 
+cultura etc. Fueron aceptados los factores que tuvimos en cuenta como la economía, los materiales, 
+
+=== Página 96 ===
+96 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+los factores bioclimáticos, su cultura, sus principales características.  
+ 
+Figura 76 
+El proyecto como solución del problema 
+ 
+Fuente: Elaboración propia, 2022. 
+ 
+Para la segunda pregunta, Valore en una escala de 1 a 5 la funcionalidad de la vivienda, 
+las respuestas tuvieron todo un valor de 5, entendiendo que el sistema espacial y funcional si 
+cumplió con sus expectativas, era de vital importancia este aspecto, puesto que diseñar una 
+vivienda funcional con las características propias de su lugar y que además recolectara toda la 
+cultura de estas personas era el principal objetivo.  
+ 
+Figura 77  
+Funcionalidad de la vivienda 
+ 
+Fuente: Elaboración propia, 2022. 
+ 
+Para la tercera pregunta, ¿Cómo califica los materiales utilizados en la vivienda? Valorando 
+la escala en un rango de muy bueno a malo de 1 a 5 siendo 5 una apreciación muy buena y 1 
+
+=== Página 97 ===
+97 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+rechazo frente al uso de los materiales propuestos. La mayor calificación para esta pregunta obtuvo 
+un 80%, los materiales utilizados y las técnicas constructivas son propias de la comunidad, y esto 
+los hace más asequibles para ellos, en cuanto a costos los materiales responden a un proyecto 
+económico, es decir pensado para su comunidad.  
+ 
+Figura 78 
+Materiales utilizados 
+ 
+Fuente: Elaboración propia, 2022. 
+ 
+En cuanto a la Cuarta pregunta, ¿El concepto de diseño contribuye las necesidades de la 
+comunidad?  Calificación en una escala de satisfacción de 1 a 5 siendo 5 muy satisfecho y 1 nada 
+satisfecho Esta pregunta fue aceptada en un 90%, el concepto plantea una vivienda unifamiliar 
+acorde al entorno y a las raíces ancestrales de las etnias Zenú, las necesidades que fueron cumplidas 
+en el proyecto fueron aceptadas satisfactoriamente por la comunidad.  
+ 
+Figura 79 
+Concepto de acuerdo con las necesidades 
+ 
+Fuente: Elaboración propia, 2022. 
+
+=== Página 98 ===
+98 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Para la quinta pregunta, Siendo parte de la cultura Zenú, ¿usted se siente identificado con 
+la vivienda? Esta pregunta fue aceptada en un 90%, el tema de la identificación es muy 
+importante en este tipo de proyectos culturales, puesto que está en juego la cultura si no, saber 
+preservar toda la historia que contienen estas comunidades indígenas. Que los habitantes de la 
+gallera se sientan identificados era uno de los principales objetivos, que su cultura estuviera 
+plasmada en cada rincón del proyecto.  
+ 
+Figura 80  
+Identidad de la cultura Zenú 
+ 
+Fuente: Elaboración propia, 2022. 
+ 
+En cuanto a la sexta pregunta, ¿El diseño arquitectónico de la vivienda se identifica con la 
+arquitectura de La Gallera?, La mayor calificación (5) obtuvo un 66%, seguida de la calificación 
+(4) con un 34%. Siendo las más altas, las únicas votadas. Nos damos cuenta de que las personas si 
+tuvieron la percepción de ver el proyecto construido en La Gallera. Es importante que el proyecto 
+además de cumplir con las características de la cultura Zenú, se integre a la arquitectura que está 
+actualmente se encuentra en el territorio.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 99 ===
+99 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Figura 81 
+Identificación cultural del diseño 
+ 
+Fuente: Elaboración propia, 2022. 
+ 
+Para la séptima pregunta, ¿El diseño de las instalaciones le parece que es funcional según 
+las necesidades de los servicios públicos en La Gallera? Las instalaciones diseñadas tuvieron una 
+puntuación positiva en un 90%, estas fueron fundamentales en el diseño del proyecto, 
+respondiendo al déficit de servicios públicos en la Gallera. Fueron planteadas instalaciones 
+eléctricas, instalaciones sanitarias (Fosa séptica), Instalaciones hidráulicas (Recolección y 
+almacenamiento de aguas lluvias). 
+ 
+Figura 82 
+Diseño según las necesidades 
+ 
+Fuente: Elaboración propia, 2022. 
+ 
+En cuanto a la octava pregunta, ¿Considera que los habitantes de La Gallera estarían 
+dispuestos a construir la vivienda y vivir en ella? En esta pregunta todos los habitantes eligieron 
+la mayor calificación. El costo del proyecto era fundamental para que los habitantes pudieran 
+
+=== Página 100 ===
+100 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+ejecutarlo, por lo tanto, los materiales fueron seleccionados para que el proyecto sea construido en 
+el menor costo.  
+ 
+Figura 83 
+Disposición a construir y vivir en la vivienda 
+ 
+Fuente: Elaboración propia, 2022. 
+ 
+Figura 84 
+Cantidad de material utilizado en la vivienda unifamiliar 
+ 
+Fuente: elaboración propia, 2023. 
+ 
+4.3.4 Viabilidad financiera 
+ 
+En este apartado se muestra el resultado de un presupuesto estimado para la vivienda 
+unifamiliar. Para la realización de este proyecto se tuvo como objetivo principal que, los habitantes 
+tuviesen un ahorro económico en comparación con lo invertido en una vivienda actual, es por ello 
+Concreto; 0,8%
+Bambu; 39%
+Madera; 38%
+Bloque
+; 10%
+Teja 
+termoacustica; 
+12%
+0
+50
+100
+150
+200
+250
+300
+Concreto
+Bambu
+Madera
+Bloque
+Teja
+termoacustica
+
+=== Página 101 ===
+101 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+que, los materiales a utilizar son ecológicos, sostenibles y asequibles, las cantidades y elementos 
+utilizados han sido seleccionados de tal forma que el costo sea el menor, para así lograr que en su 
+totalidad la construcción de la vivienda sea rentable. 
+ 
+Tabla 8 
+Presupuesto 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+CAP ITEM 
+DESCRIPCION 
+UND CANTIDAD 
+VLR. 
+UNITARIO 
+VLR. 
+PARCIAL 
+VLR. 
+CAPITULOS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+A 
+COSTOS DIRECTOS  
+1 
+PRELIMINARES 
+ 
+ 
+1.1 
+Descapote, Limpieza y 
+Nivelación Manual 
+M2  
+300,00 
+5.000,00 1.500.000,00 
+3.440.540,00 
+ 
+1.2 
+Localización y 
+Replanteo 
+M2  
+90,00 
+9.500,00 
+855.000,00 
+ 
+1.3 
+Campamento 
+UND 
+1,00 
+300.000,00 
+300.000,00 
+ 
+1.4 
+Excavación Manual 
+zapatas 
+M3  
+2,68 
+65.500,00 
+175.540,00 
+ 
+1.5 
+Mano de obra (Por 
+capitulo) 
+ 
+ 
+ 
+610.000,00 
+2 
+CIMENTACIÓN 
+ 
+ 
+2.1 
+Relleno en Recebo 
+Compactado 
+M2  
+3,40 
+10.000,00 
+34.000,00 
+1.105.400,00 
+ 
+2.2 
+Concreto ciclópeo 
+M3  
+1,68 
+370.000,00 
+621.600,00 
+ 
+2.3 
+Sub-Base en Concreto 
+Pobre 2000 psi 
+M2  
+3,40 
+22.000,00 
+74.800,00 
+ 
+2.4 
+Mano de obra (Por 
+capitulo) 
+ 
+ 
+ 
+375.000,00 
+3 
+ESTRUCTURA EN 
+MADERA 
+ 
+ 
+3.1 
+Columnas en Bambú 
+UND 
+21,00 
+121.500,00 2.551.500,00 
+6.764.000,00 
+ 
+3.2 
+Vigas en listón de 
+madera 15 * 10 
+ML  
+25,00 
+22.500,00 
+562.500,00 
+ 
+3.3 
+Vigas en listón de 
+madera 05 * 05 
+ML  
+152,00 
+15.000,00 2.280.000,00 
+ 
+3.4 
+Listones en Bambú 
+ML  
+45,00 
+6.000,00 
+270.000,00 
+ 
+3.5 
+Liston de Madera 
+circular Ø20 (Kiosco) 
+UND 
+4,00 
+50.000,00 
+200.000,00 
+ 
+3.6 
+Liston de Madera 
+circular Ø10 (Terraza) UND 
+4,00 
+25.000,00 
+100.000,00 
+ 
+3.7 
+Mano de obra (Por 
+ 
+ 
+ 
+800.000,00 
+
+=== Página 102 ===
+102 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+capitulo) 
+4 
+MAMPOSTERIA 
+ 
+ 
+4.1 
+Levante en bahareque 
+M2  
+66,30 
+8.435,00 
+559.240,50 
+6.017.700,30 
+ 
+4.2 
+Levante en Bloque PET M2  
+25,98 
+14.435,00 
+375.021,30 
+ 
+4.3 
+Cerramiento en Bambú M2  
+185,80 
+12.005,00 2.230.529,00 
+ 
+4.4 
+Divisorio en Bambú 
+M2  
+47,70 
+9.435,00 
+450.049,50 
+ 
+4.5 
+Persianas en Madera 
+M2  
+33,68 
+8.250,00 
+277.860,00 
+ 
+4.6 
+Mano de obra (Por 
+capitulo) 
+ 
+ 
+ 
+2.125.000,00 
+5 
+CUBIERTA 
+ 
+ 
+5.1 
+Cubierta modulo 1 paja M2  
+123,00 
+18.500,00 2.275.500,00 
+8.895.470,00 
+ 
+5.2 
+Cubierta Kiosco paja 
+M2  
+31,62 
+18.500,00 
+584.970,00 
+ 
+5.3 
+Cubierta modulo 2 y 3 
+(Teja termoacústica 
+UPVC) 
+ML  
+45,00 
+65.500,00 2.947.500,00 
+ 
+5.4 
+Cubierta Baños, cocina, 
+bodega (Teja 
+termoacústica UPVC) 
+ML  
+35,00 
+65.500,00 2.292.500,00 
+ 
+5.5 
+Mano de obra (Por 
+capitulo) 
+ 
+ 
+ 
+795.000,00 
+6 
+PISOS-BASES 
+ 
+ 
+6.1 
+Relleno en Recebo 
+Compactado 0.30 
+M3  
+90,69 
+18.456,00 1.673.774,64 
+8.977.493,20 
+ 
+6.2 
+Placa en Concreto 
+pobre e=0.08 
+M2  
+90,69 
+43.456,00 3.941.024,64 
+ 
+6.3 
+Impermeabilizar  
+M2  
+90,69 
+12.456,00 1.129.634,64 
+ 
+6.4 
+Afinado 
+M2  
+90,69 
+7.456,00 
+676.184,64 
+ 
+6.5 
+Alistado 
+M2  
+90,69 
+8.456,00 
+766.874,64 
+ 
+6.6 
+Mano de obra (Por 
+capitulo) 
+ 
+ 
+ 
+790.000,00 
+7 
+INSTALACION 
+HIDRAULICA 
+ 
+ 
+7.1 
+Red de Suministro 1/2" ML  
+7,39 
+3.650,00 
+26.973,50 
+3.352.499,08 
+ 
+7.2 
+Red de Suministro 1" 
+ML  
+51,74 
+4.817,00 
+249.231,58 
+ 
+7.3 
+Red de Suministro 2" 
+ML  
+13,84 
+17.150,00 
+237.356,00 
+ 
+7.4 
+Salida Agua  
+ML  
+59,13 
+5.200,00 
+307.476,00 
+ 
+7.5 
+Bajante Aguas Lluvias 
+ML  
+62,08 
+23.900,00 1.483.712,00 
+ 
+7.6 
+Llaves Terminales 
+UN  
+4,00 
+25.900,00 
+103.600,00 
+ 
+7.7 
+Llaves de Cierre 
+UN  
+12,00 
+7.100,00 
+85.200,00 
+ 
+7.8 
+Llaves Lavamanos 
+UN  
+4,00 
+28.900,00 
+115.600,00 
+ 
+7.9 
+Conector T 1" 
+UN  
+8,00 
+3.500,00 
+28.000,00 
+
+=== Página 103 ===
+103 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+ 7.10 Conector T 1/2" 
+UN  
+9,00 
+850,00 
+7.650,00 
+ 7.11 Conector L 1" 
+UN  
+11,00 
+3.200,00 
+35.200,00 
+ 7.12 Conector L 1/2" 
+UN  
+1,00 
+2.600,00 
+2.600,00 
+ 7.13 Reductor 1" a 1/2" 
+UN  
+9,00 
+8.900,00 
+80.100,00 
+ 7.14 Motobombas 
+UN  
+2,00 
+129.900,00 
+259.800,00 
+ 7.15 Mano de obra (Por 
+capitulo) 
+ 
+ 
+ 
+330.000,00 
+8 
+ 
+INSTALACION 
+SANITARIA 
+ 
+ 
+ 
+ 
+ 
+ 
+8.1 
+Tanque de 
+Abastecimiento 2000 
+Lts 
+UN  
+1,00 1.249.900,00 1.249.900,00 
+4.809.812,31 
+ 
+8.2 
+Tanque de 
+Abastecimiento 5000 
+Lts 
+UN  
+1,00 2.839.900,00 2.839.900,00 
+ 
+8.3 
+Tubería de 4" 
+ML  
+1,00 
+16.983,00 
+16.983,00 
+ 
+8.4 
+Tubería de ventilación 
+ML  
+1,00 
+10.997,00 
+10.997,00 
+ 
+8.5 
+Rejilla de Piso 2" 
+UN  
+2,00 
+14.900,00 
+29.800,00 
+ 
+8.6 
+Tubería de 2" 
+ML  
+19,57 
+9.483,00 
+185.582,31 
+ 
+8.7 
+Codo 45° 2" 
+UN  
+2,00 
+5.950,00 
+11.900,00 
+ 
+8.8 
+Codo 45° 4" 
+UN  
+1,00 
+12.900 
+12.900,00 
+ 
+8.9 
+Conector L 2" 
+UN  
+7,00 
+2.950,00 
+20.650,00 
+ 8.10 Conector Y Reductora 
+4" a 2" 
+UN  
+2,00 
+8.150,00 
+16.300,00 
+ 8.11 Conector Y 45° 2" 
+UN  
+1,00 
+11.900 
+11.900,00 
+ 8.12 Conector Y 4" 
+UN  
+1,00 
+14.900 
+14.900,00 
+ 8.13 Conector Y 2" 
+UN  
+2,00 
+4.150 
+8.300,00 
+ 8.14 Sifón 2" 
+UN  
+3,00 
+7.600,00 
+22.800,00 
+ 8.15 Reductor 4" a 2" 
+UN  
+2,00 
+11.900 
+23.800,00 
+ 8.16 Tapón 4" 
+UN  
+1,00 
+3.200 
+3.200,00 
+ 8.17 Mano de obra (Por 
+capitulo) 
+ 
+ 
+ 
+330.000,00 
+9 
+INSTALACION 
+ELÉCTRICA 
+ 
+ 
+9.1 
+Acometida Eléctrica 
+GL  
+1,00 
+45.500,00 
+45.500,00 
+4.168.925,00 
+ 
+9.2 
+Tubería Eléctrica 3/4" 
+ML  
+161,23 
+2.500,00 
+403.075,00 
+ 
+9.3 
+Contador 
+UN  
+1,00 
+89.900,00 
+89.900,00 
+ 
+9.4 
+Breakers 
+UN  
+6,00 
+12.900,00 
+77.400,00 
+ 
+9.5 
+Lámpara ojo de buey 
+de sobreponer 
+UN  
+28,00 
+14.900,00 
+417.200,00 
+ 
+9.6 
+Toma 
+UN  
+14,00 
+23.900,00 
+334.600,00 
+
+=== Página 104 ===
+104 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+ 
+9.7 
+Toma GFCI 
+UN  
+3,00 
+53.700,00 
+161.100,00 
+ 
+9.8 
+Salida Monofásica 
+UN  
+3,00 
+75.500,00 
+226.500,00 
+ 
+9.9 
+Salida TV y Datos 
+UN  
+3,00 
+9.900,00 
+29.700,00 
+ 9.10 Tablero 8 Circuitos 
+UN  
+1,00 
+140.000,00 
+140.000,00 
+ 9.11 Interruptores Sencillos  UN  
+6,00 
+4.700,00 
+28.200,00 
+ 9.12 Interruptores Dobles 
+UN  
+2,00 
+7.200,00 
+14.400,00 
+ 9.13 Interruptores Triple 
+UN  
+1,00 
+11.900,00 
+11.900,00 
+ 9.14 Puesta a Tierra 
+UN  
+1,00 
+25.650,00 
+25.650,00 
+ 9.15 Lampara exterior 
+UN  
+4,00 
+29.900,00 
+119.600,00 
+ 9.16 Codos 16mm de 
+diámetro 
+UN  
+83,00 
+6.500,00 
+539.500,00 
+ 9.17 Casquillo reductor 
+UN  
+7,00 
+6.900,00 
+48.300,00 
+ 9.18 Caja registro 
+UN  
+38,00 
+25.300,00 
+961.400,00 
+ 9.19 Mano de obra (Por 
+capitulo) 
+ 
+ 
+ 
+495.000,00 
+10 
+CARPINTERIA MADERA 
+ 
+ 
+10.1 
+Closets Madera si 
+Forrar (Instalación 
+incluida) 
+M2  
+6,00 
+313.600,00 1.881.600,00 
+5.602.200,00 
+ 
+10.2 
+Hoja Puerta Tríplex 
+0.80 (Instalación 
+incluida) 
+UN  
+4,00 
+117.800,00 
+471.200,00 
+ 
+10.3 
+Cocina Integral 
+Muebles Superior e 
+Inferior (Instalación 
+incluida) 
+ML  
+3,00 
+453.500,00 1.360.500,00 
+ 
+10.4 
+Ventanas marco en 
+madera (Instalación 
+incluida) 
+UN  
+2,00 
+85.700,00 
+171.400,00 
+ 10.5 Puerta ventana plegable 
+(Instalación incluida) 
+UN  
+7,00 
+94.500,00 
+661.500,00 
+ 
+10.6 
+Puerta corrediza en 
+madera (Instalación 
+incluida) 
+UN  
+2,00 
+528.000,00 1.056.000,00 
+11 
+PISOS ACABADOS 
+ 
+ 
+11.1 Piso Baños Cerámica 
+30x30 
+M2  
+1,67 
+35.400,00 
+59.118,00 
+114.118,00 
+ 
+11.2 Mano de obra (Por 
+capitulo) 
+ 
+ 
+ 
+55.000,00 
+12 
+APARATOS SANITARIOS-
+ACCESORIOS 
+ 
+ 
+12.1 Ducha sencilla 
+UN  
+1,00 
+150.000,00 
+150.000,00 
+924.900,00 
+ 
+12.2 Sanitario Corona 
+UN  
+1,00 
+205.000,00 
+205.000,00 
+
+=== Página 105 ===
+105 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Laguna 
+ 
+12.3 
+Lavamanos Eco 48x38 
+con mueble básico a 
+piso 
+UN  
+1,00 
+315.000,00 
+315.000,00 
+ 12.4 Lavadero sencillo 
+UN  
+1,00 
+129.900,00 
+129.900,00 
+ 12.5 Mano de obra (Por 
+capitulo) 
+ 
+ 
+ 
+125.000,00 
+13 
+CERRADURAS 
+ 
+ 
+13.1 Cerradura Baños-
+Puerta Madera 
+UN  
+1,00 
+34.500,00 
+34.500,00 
+273.100,00 
+ 
+13.2 Cerradura Alcobas-
+Puerta Madera 
+UN  
+4,00 
+34.500,00 
+138.000,00 
+ 13.3 Cerradura Puerta 
+principal madera 
+UN  
+1,00 
+45.600,00 
+45.600,00 
+ 13.4 Mano de obra (Por 
+capitulo) 
+ 
+ 
+ 
+55.000,00 
+14 
+OBRAS EXTERIORES 
+ 
+ 
+ 
+ 
+ 
+ 
+14.1 Plantas, flores  
+UN 
+8,00 
+38.900,00 
+311.200,00 
+1.351.108,00 
+ 
+14.2 Anden en Concreto 
+e=0.10 2500 psi 
+M2  
+15,00 
+43.456,00 
+651.840,00 
+ 14.3 Dilataciones 
+ML 
+3,00 
+4.356,00 
+13.068,00 
+ 14.4 Mano de obra (Por 
+capitulo) 
+ 
+ 
+ 
+375.000,00 
+15 
+HERRAMIENTAS Y 
+EQUIPOS 
+ 
+ 
+ 
+ 
+ 
+ 
+15.1 Herramientas 
+GL  
+4,00 
+16.450,00 
+65.800,00 
+133.600,00 
+ 
+15.2 Equipos 
+GL  
+3,00 
+22.600,00 
+67.800,00 
+16 
+ASEO GENERAL 
+ 
+ 
+ 
+ 
+ 
+ 
+16.1 Aseo General 
+M2  
+90,00 
+2.000,00 
+180.000,00 
+180.000,00 
+17 
+INSTALACIONES 
+ESPECIALES 
+ 
+ 
+ 
+ 
+ 
+ 
+17.1 Instalación de Gas 
+Domiciliario 
+Gl  
+1,00 
+223.456,00 
+223.456,00 
+223.456,00 
+ 
+COSTO DIRECTO 
+ 
+56.334.321,89 
+ 
+Desperdicio 10% 
+ 
+5.633.432,19 
+ 
+TOTAL, COSTO DIRECTO 
+ 
+61.960.254,08 
+Fuente: Elaboración propia, 2023. 
+ 
+La anterior propuesta de valor adaptada al presupuesto establecido para el proyecto toma 
+como referente el hecho que, según la RESOLUCIÓN NÚMERO (4030) 20 DICIEMBRE 2021 “Por 
+la cual se asignan tres (3) hogares que realizaron cambio de proyecto, en el marco del Programa de Vivienda 
+
+=== Página 106 ===
+106 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Gratuita Fase I para ser asignados en el proyecto Altos de la Sabana del municipio de Sincelejo en el 
+departamento de Sucre y se modifican las resoluciones No. 0877 del 28 de octubre de 2013 y 0898 del 8 de 
+mayo de 2014.” Establece como valor unitario del rubro destinado a la solución de vivienda la suma de 
+ciento veintitrés millones setecientos noventa y cinco mil pesos m/cte. ($123.795.000,00) comparado con 
+el monto presupuestal anteriormente referenciado nos da una  diferencia en los costos de construcción de 
+un 50% rasgo que además de ser económicamente viable, rescata la culturalidad del territorio y se visiona 
+a mejorar la calidad de vida de los habitantes y el entorno cumpliendo ampliamente con los principios de 
+sostenibilidad planteados previamente en el diseño  
+ 
+Figura 85 
+Gráfico viabilidad económica. 
+ 
+Fuente: elaboración propia, 2023. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 107 ===
+107 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+5 
+Conclusiones 
+ 
+El análisis que se realizó de La Gallera fue fundamental para el diseño de la vivienda, ya 
+que brindo conclusiones muy específicas de las vivencias de forma comunitaria, en su vida 
+privada, y la vivencia de sus hogares; esto abrió la puerta a un mundo de conocimiento totalmente 
+diferente, desde costumbres, cultura, familia, relaciones, sentido de la vida, comunidad, conceptos, 
+etc. Por otro lado, actividades que se realizaron con el fin de estudiar las viviendas vernáculas 
+desde una visión espacial arquitectónica, además de la realización de preguntas a las personas que 
+viven en ellas para comprender de mejor manera la sensación o confort en este tipo de vivienda, 
+termino de aclarar la información requerida para llegar a un diseño acorde para los integrantes de 
+la comunidad indígena Zenú. 
+ 
+Después de finalizar el análisis se realizó el diseño de la vivienda en el cual se tuvieron en 
+cuenta espacios que se definieron como imprescindibles para la vida cotidiana de la comunidad, 
+en estos espacios se resaltan dos, la cocina artesanal, cocinar en leña es una costumbre en la gallera, 
+es un espacio que se usa todos los días y conforma parte del patio lo que hace que este sea una 
+zona social más en la vivienda, otro espacio que es fundamental y está ubicado en un pequeño 
+patio es el baño isla, definido así por su ubicación central que tiene acceso a todas los espacios de 
+la vivienda, una razón por lo que está ubicado es esta parte es que la gallera no cuenta con servicio 
+de alcantarillado por lo que los baños funcionan con fosa séptica, aspecto tenido en cuenta al 
+momento de establecer el concepto, así como  los materiales y el diseño tradicional de la fachada 
+y cubierta se mantuvieron en el primer módulo de la vivienda, mientras que el resto de la vivienda 
+cuanta con un diseño moderno modular para la fácil organización, construcción de la vivienda y 
+la adaptabilidad a diferentes forma de lotes. 
+ 
+Se observó que la vivienda unifamiliar cumplió con las necesidades de los habitantes, fue 
+de mucha importancia que la propuesta fuera una respuesta o solución a los problemas previamente 
+planteados. En ese sentido se lograron, estrategias bioclimáticas en la distribución del proyecto, 
+funcionalidad espacial; los espacios son un reflejo de las viviendas de la gallera, prevalecen los 
+materiales característicos de la cultura Zenú, las instalaciones resuelven un problema real, los 
+
+=== Página 108 ===
+108 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+métodos constructivos son factibles para la comunidad, y además el costo del proyecto se establece 
+como un argumento económico de gran importancia para los habitantes. Es válido visualizar la 
+construcción en el territorio, gracias a que El proyecto es viable dentro del cierre de brechas 
+institucionales del Estado, mejora la calidad de vida de los habitantes y se convierte en una 
+respuesta el cumplimiento de metas asociados al ODS 11. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5  
+
+=== Página 109 ===
+109 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+6 Referencias bibliográficas 
+ 
+Antúnez, S. (2010). Aproximación al proyecto sostenible. Cuaderno 12. Ed. Digital. Universidad 
+Católica de Perú.  
+ 
+Bocco, Gerardo, Cinti, Ana, Vezub, Julio, Sánchez-Carnero, Noela, & Chávez, Matías. (2019). 
+Lugar y sentido de lugar en un camino de la costa atlántica patagónica, 1950-1970. Región 
+y 
+sociedad, 31, 
+e1127.https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-. 
+ 
+ 
+CEPAL. (2018). América Latina y el Caribe avanza hacia el desarrollo sostenible, pero persisten 
+retos: CEPAL. https://www.cepal.org/es/noticias/america-latina-caribe-avanza-desarrollo-
+sostenible-pero-persisten-retos-cepal 
+ 
+Corona (2018). Convocatoria Vivienda Social sostenible para Sincelejo. Hábitat para la 
+Humanidad 
+Colombia. 
+https://empresa.corona.co/storage/app/media/Publicacion_Premio_Corona_2018.pdf 
+ 
+DANE (2022). Comunicado de prensa. Déficit habitacional. Encuesta Nacional de Calidad de 
+Vida. 
+https://www.dane.gov.co/files/investigaciones/deficit-habitacional/comunicado-
+deficit-hab-2021.pdf  
+ 
+Foro Iberoamericano, del Caribe sobre Mejores Prácticas, & VV Staff. (2002). Habitat: mejores 
+prácticas para un futuro más sostenible (No. 1). IEPALA Editorial. 
+ 
+Garrigós-Simón, F. J., González-Cruz, T., & Contreras-Pacheco, O. (2017). Policies to enhance 
+social development through the promotion of SME and social entrepreneurship: A study in 
+the Colombian construction industry. Entrepreneurship & Regional Development, 29(1-2), 
+51-70. 
+Hernández, R., Fernández, C., y Batista, P. (2014). Metodología de la investigación. (6ª ed.). 
+
+=== Página 110 ===
+110 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+México D.F., México: McGraw-Hill / interamericana editores, s.a. de C.V. 
+ 
+Lancheros, N. (2021). Modelo de Negocio Dirigido a la Construcción Sostenible de Viviendas de 
+Interés Social para el Municipio de San Juan de Rioseco-Cundinamarca. [Trabajo de 
+grado. Universidad Santo Tomás]. http://hdl.handle.net/11634/33269. 
+ 
+María O. (2012) Proyecto vivienda sostenible para la república de Guatemala. [Proyecto de 
+investigación Universidad Autónoma de Tamaulipas]. https://docplayer.es/68526082-
+Proyecto-vivienda-sostenible-para-la-republica-de-guatemala.html 
+ 
+Martínez, C. y Delgado, Y. (2021). Aplicación de la villa ecológica como modelo del hábitat rural 
+sostenible Solución sostenible y productiva de vivienda rural para la población de la 
+cuenca alta del río Tunjuelito en la ciudad de Bogotá D.C. [Tesis de grado. Universidad 
+La Gran Colombia]. http://hdl.handle.net/11396/6206 
+ 
+Mora, Y. y Avendaño, E. (2019). Diseño y construcción de una vivienda campestre sostenible en 
+Fusagasugá. 
+Tesis 
+de 
+grado. 
+Universidad 
+Piloto 
+de 
+Colombia]. 
+http://repository.unipiloto.edu.co/bitstream/handle/20.500.12277/6594/GP-117%20-
+%20Dise%C3%B1o%20y%20%20Construcci%C3%B3n%20de%20una%20vivienda%2
+0sostenble%20en%20Fusagauga.pdf?sequence=1&isAllowed=y 
+ 
+Ministerio de Vivienda y Asentamientos Humanos de Costa Rica (2020). Modelo de vivienda 
+urbana inclusiva y sostenible VUIS. http://www.mivah.go.cr/Documentos/VUIS/Modelo-
+de-Vivienda-Urbana-Inclusiva-y-sostenible-VUIS.pdf 
+ 
+Ministerio 
+de 
+comercio. 
+Industria 
+y 
+turismo 
+(216). 
+Artesanías 
+de 
+Colombia. 
+https://repositorio.artesaniasdecolombia.com.co/handle/001/3809  
+ 
+Municipio de Sincelejo (2019). Plan de desarrollo municipal.  
+ 
+
+=== Página 111 ===
+111 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+Neil, D. y Cortéz, L. (2017). Procesos y fundamentos de la investigación científica. 
+http://repositorio.utmachala.edu.ec/bitstream/48000/14232/1/Cap.4-
+Investigaci%C3%B3n%20cuantitativa%20y%20cualitativa.pdf 
+ 
+Organización Nacional de Naciones Unidas – ONU. (2017). Objetivos de Desarrollo Sostenibles 
+– ODS. https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/ 
+ 
+Organización Nacional de Naciones Unidas – ONU. (2022). COP 26: Juntos por el planeta. 
+https://www.un.org/es/climatechange/cop26#:~:text=La%20Conferencia%20de%20las%
+20Naciones,3.886%20representantes%20de%20los%20medios. 
+ 
+Orduz, J. (2021). Diseño de modelo de viviendas sostenibles tipo (VIS) para el municipio de 
+Castilla 
+la 
+Nueva, 
+Meta. 
+[Tesis 
+de 
+grado. 
+Universidad 
+EAN]. 
+https://repository.ean.edu.co/bitstream/handle/10882/11226/OrduzJuan2021.pdf?sequenc
+e=2&isAllowed=y 
+ 
+Orjuela, M. (2020). Diseño de una edificación sostenible para una Vivienda de Interés Social. 
+[Tesis 
+de 
+grado. 
+Corporación 
+Universitaria 
+Minuto 
+de 
+Dios]. 
+https://repository.uniminuto.edu/bitstream/10656/12048/1/T.IC_OrjuelaMarcos_2020.pdf 
+ 
+Ozil, T. (2018). Modelos de vivienda rural sostenible y productivos Boyacá Colombia. [Tesis de 
+grado. 
+Universidad 
+Santo 
+Tomás 
+Seccional 
+Tunja]. 
+https://repository.usta.edu.co/jspui/bitstream/11634/28733/13/2020Thomas%C3%96zil.p
+df 
+Reina, J. y López, I. (2020). Prototipo de vivienda rural sostenible para el municipio de 
+Gachantiva, 
+Boyacá. 
+[Tesis 
+de 
+grado. 
+Universidad 
+la 
+Gran 
+Colombia]. 
+https://repository.ugc.edu.co/bitstream/handle/11396/5653/Reina_Johana_Lopez_Ingry_2
+020.pdf?sequence=1&isAllowed=y 
+ 
+Rivera, J., Alcántara, G., Blanco, N. y Pascal, E. (2017). ¿Desarrollo sostenible o sustentable? La 
+
+=== Página 112 ===
+112 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+controversia de un concepto. 15(1).  57-67. ISSN: 2215-2172 
+ 
+Robles, N y Flechas, L. (2020). Modelo de vivienda sostenible para el área rural en el municipio 
+de Agua de Dios. [Tesis de grado. Universidad Católica de Colombia].  
+ 
+Susunaga Monroy, J. M. (2014). Construcción sostenible, una alternativa para la edificación de 
+viviendas de interés social y prioritario.  
+ 
+Valencia, D. (2018). La vivienda sostenible, desde un enfoque teórico y de política pública en 
+Colombia. 
+Rev. 
+Ingenierías 
+Universidad 
+de 
+Medellín. 
+17(33). 
+39-56. 
+http://www.scielo.org.co/pdf/rium/v17n33/1692-3324-rium-17-33-39 
+ 
+Zarta Ávila, P. (2018). La sustentabilidad o sostenibilidad: un concepto poderoso para la 
+humanidad. Tabula Rasa, (28), 409-423.Doi: https://doi.org/10.25058/20112742.n28 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 113 ===
+113 
+DISEÑO SOSTENIBLE HABITAT RURAL LA GALLERA 
+ 
+ 
+ 
+ 
+ 
+ 
+7 Anexos 
+ 
+Anexo 1. Talleres realizados en la Gallera, Sucre 
+ 
+
+=== Página 114 ===
+11
+ 
+ 
+ 
+ 
+ 
+ 
+Anexo 2. Transepto - Equipamientos del corregimiento de la Gallera, Sucre. 
+  
+ 
+  
+  
+  
+ 
+ 
+ 
+
+=== Página 115 ===
+11
+ 
+ 
+ 
+ 
+Anexo 3. Tipología de vivienda de la Gallera, Sucre. 
+  
+  
+  
+  
+ 
+ 
+Anexo 4. Encuesta característica de la vivienda de la Gallera, Sucre. 
+
+=== Página 116 ===
+11
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 117 ===
+11
+ 
+ 
+ 
+ 
+Anexo 5. Presentación proyecto de vivienda en la Gallera, Sucre. 
+  
+ 
+ 
+Anexo 6. Encuesta aceptabilidad de la vivienda en la Gallera, Sucre. 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 118 ===
+11
+ 
+ 
+ 
+ 
+Anexo 7. Rendimiento de las cuadrillas para el presupuesto del proyecto. 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+10 
+CA
+P 
+ITE
+M 
+DESCRIPCI
+ON 
+UN
+D 
+RENDIMIEN
+TO 
+CANTID
+AD 
+TIEMPO 
+ACTIVID
+AD 
+VLR. 
+UNITAR
+IO 
+VLR. 
+PARCIA
+L 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+A 
+COSTOS 
+DIRECTOS  
+1 
+PRELIMINARES 
+ 
+ 
+1.1 
+Descapote, 
+Limpieza y 
+Nivelación 
+Manual 
+M2  
+0,013 
+300,00 
+2,00 125.000,0
+0 
+ 
+ 
+Cuadrilla A 
+250.000,0
+0 
+ 1.2 Localización 
+y replanteo 
+M2  
+0,023 
+90,00 
+1,00 110.000,0
+0 
+ 
+ 
+Comisión topográfica 
+110.000,0
+0 
+ 1.3 Campamento UN  
+0,083 
+1,00 
+1,00 125.000,0
+0 
+ 
+ 
+Cuadrilla A 
+125.000,0
+0 
+ 1.4 
+Excavación 
+Manual 
+Cimiento  
+M3  
+0,07 
+2,68 
+1,00 125.000,0
+0 
+ 
+ 
+Cuadrilla A 
+125.000,0
+0 
+ 
+TOTAL CAPITULO 
+610.000,0
+0 
+2 
+CIMENTACIÓN 
+ 
+ 
+2.1 
+Relleno en 
+Recebo 
+Compactado 
+M2  
+0,013 
+3,40 
+1,00 125.000,0
+0 
+ 
+ 
+Cuadrilla A 
+125.000,0
+0 
+ 2.2 Concreto 
+Ciclope 
+M3  
+0,013 
+1,68 
+1,00 125.000,0
+0 
+ 
+ 
+Cuadrilla A 
+125.000,0
+0 
+ 2.3 
+Sub-Base en 
+Concreto 
+Pobre 2000 
+psi 
+M2 
+0,013 
+3,40 
+1,00 125.000,0
+0 
+ 
+
+=== Página 119 ===
+11
+ 
+ 
+ 
+ 
+ 
+Cuadrilla A 
+125.000,0
+0 
+ 
+TOTAL CAPITULO 
+375.000,0
+0 
+4 
+MAMPOSTERIA 
+ 
+ 
+3.1 Levante en 
+Bahareque 
+M2  
+0,0125 
+66,30 
+5,00 125.000,0
+0 
+ 
+ 
+Cuadrilla A 
+625.000,0
+0 
+ 3.2 Levante en 
+Bloque PET 
+M2  
+0,058 
+25,98 
+3,00 125.000,0
+0 
+ 
+ 
+Cuadrilla A 
+375.000,0
+0 
+ 3.3 Cerramiento 
+en Bambú 
+M2  
+0,033 
+185,80 
+4,00 125.000,0
+0 
+ 
+ 
+Cuadrilla A 
+500.000,0
+0 
+ 3.5 Divisorio en 
+Bambú 
+M2  
+0,08  
+47,70 
+2,00 125.000,0
+0 
+ 
+ 
+Cuadrilla A 
+250.000,0
+0 
+ 3.6 Persianas en 
+madera 
+M2  
+0,08 
+33,68 
+3,00 125.000,0
+0 
+ 
+ 
+Cuadrilla A 
+375.000,0
+0 
+ 
+TOTAL CAPITULO 
+2.125.000,
+00 
+3-5 
+CUBIERTA Y 
+ESTRUCTURA 
+MADERA 
+ 
+ 
+4.1 
+Cubierta 
+Modulo 1 y 
+Kiosco (Paja) 
+M2  
+0,04 
+123,00 
+3,00 165.000,0
+0 
+ 
+ 
+Cuadrilla C 
+495.000,0
+0 
+ 4.2 
+Cubierta 
+Modulo 2 y 3, 
+baño, cocina 
+artesanal, 
+lavandería 
+(Teja 
+termoacústica 
+UPVC) 
+ML 
+0,04 
+35,00 
+2,00 165.000,0
+0 
+ 
+ 
+Cuadrilla C 
+330.000,0
+0 
+
+=== Página 120 ===
+12
+ 
+ 
+ 
+ 
+ 4.3 Columnas en 
+Bambú 
+UN
+D  
+0,058 
+21,00 
+4,00 200.000,0
+0 
+ 
+ 
+4.4 
+Vigas en 
+listón de 
+madera 15 * 
+10 
+ML 
+25,00 
+ 
+ 
+4.5 
+Vigas en 
+listón de 
+madera 05 * 
+05 
+ML 
+152,00 
+ 
+ 
+4.6 Listones en 
+Bambú 
+ML 
+45,00 
+ 
+ 
+4.7 
+Liston de 
+Madera 
+circular Ø20 
+(Kiosco) 
+UN
+D  
+4,00 
+ 
+ 
+4.8 
+Liston de 
+Madera 
+circular Ø10 
+(Terraza) 
+UN
+D  
+4,00 
+ 
+ 
+ 
+Cuadrilla B 
+800.000,0
+0 
+ 
+TOTAL CAPITULO 
+1.625.000,
+00 
+6 
+PISOS-BASES 
+ 
+ 
+5.1 
+Relleno en 
+Recebo 
+Compactado 
+0.30 
+M3  
+0,05 
+90,69 
+2,00 125.000,0
+0 
+ 
+ 
+Cuadrilla A 
+250.000,0
+0 
+ 5.2 
+Placa en 
+Concreto 
+e=0.08 
+M2  
+0,033 
+90,69 
+1,00 165.000,0
+0 
+ 
+ 
+Cuadrilla C 
+165.000,0
+0 
+ 5.3 Impermeabili
+zar  
+M2  
+0,45 
+90,69 
+1,00 125.000,0
+0 
+ 
+ 
+Cuadrilla A 
+125.000,0
+0 
+ 5.4 Afinado 
+M2  
+0,30  
+90,69 
+1,00 125.000,0
+0 
+ 
+ 
+Cuadrilla A 
+125.000,0
+0 
+ 5.5 Alistado 
+M2  
+0,05  
+90,69 
+1,00 125.000,0
+ 
+
+=== Página 121 ===
+12
+ 
+ 
+ 
+ 
+0 
+ 
+Cuadrilla A 
+125.000,0
+0 
+ 
+TOTAL CAPITULO 
+790.000,0
+0 
+8 
+ 
+RED 
+SANITARIA 
+ 
+ 
+6.1 
+Tanque de 
+Abastecimient
+o 2000 Lts 
+UN  
+0,058 
+1,00 
+2,00 165.000,0
+0 
+ 
+ 
+6.2 
+Tanque de 
+Abastecimient
+o 5000 Lts 
+UN  
+1,00 
+ 
+ 
+6.3 Tubería de 4" ML 
+1,00 
+ 
+ 
+6.4 Tubería de 
+ventilación 
+ML 
+1,00 
+ 
+ 
+6.5 Rejilla de 
+Piso 2" 
+UN  
+2,00 
+ 
+ 
+6.6 Tubería de 2" ML 
+19,57 
+ 
+ 
+6.7 Codo 45° 2" 
+UN  
+2,00 
+ 
+ 
+6.8 Codo 45° 4" 
+UN  
+1,00 
+ 
+ 
+6.9 Conector L 2" UN  
+7,00 
+ 
+ 
+6.10 
+Conector Y 
+Reductora 4" 
+a 2" 
+UN  
+2,00 
+ 
+ 
+6.11 Conector Y 
+45° 2" 
+UN  
+1,00 
+ 
+ 
+6.12 Conector Y 4" UN  
+1,00 
+ 
+ 
+6.13 Conector Y 2" UN  
+2,00 
+ 
+ 
+6.14 Sifón 2" 
+UN  
+3,00 
+ 
+ 
+6.15 Reductor 4" a 
+2" 
+UN  
+2,00 
+ 
+ 
+6.16 Tapón 4" 
+UN  
+1,00 
+ 
+ 
+Cuadrilla C 
+330.000,0
+0 
+ 
+TOTAL CAPITULO 
+330.000,0
+0 
+7 
+INSTALACION 
+HIDRAULICA 
+ 
+ 
+7.1 
+Red de 
+Suministro 
+1/2" 
+ML 
+0,05 
+7,39 
+2,00 165.000,0
+0 
+ 
+ 
+7.2 Red de 
+Suministro 1" ML 
+51,74 
+ 
+
+=== Página 122 ===
+12
+ 
+ 
+ 
+ 
+ 
+7.3 Red de 
+Suministro 2" ML 
+13,84 
+ 
+ 
+7.4 Salida Agua  
+ML 
+59,13 
+ 
+ 
+7.5 
+Bajante 
+Aguas 
+Lluvias 
+ML 
+62,08 
+ 
+ 
+7.6 Llaves 
+Terminales 
+UN  
+4,00 
+ 
+ 
+7.7 Llaves de 
+Cierre 
+UN  
+12,00 
+ 
+ 
+7.8 Llaves 
+Lavamanos 
+UN  
+4,00 
+ 
+ 
+7.9 Conector T 1" UN  
+8,00 
+ 
+ 
+7.10 Conector T 
+1/2" 
+UN  
+9,00 
+ 
+ 
+7.11 Conector L 1" UN  
+11,00 
+ 
+ 
+7.12 Conector L 
+1/2" 
+UN  
+1,00 
+ 
+ 
+7.13 Reductor 1" a 
+1/2" 
+UN  
+9,00 
+ 
+ 
+7.14 Motobombas 
+UN  
+2,00 
+ 
+ 
+Cuadrilla C 
+330.000,0
+0 
+ 
+TOTAL CAPITULO 
+330.000,0
+0 
+9 
+INSTALACION 
+ELÉCTRICA 
+ 
+ 
+8.1 Acometida 
+Eléctrica 
+GL  
+0,085 
+1,00 
+3,00 165.000,0
+0 
+ 
+ 
+8.2 Tubería 
+Eléctrica 3/4" ML 
+161,23 
+ 
+ 
+8.3 Contador 
+UN  
+1,00 
+ 
+ 
+8.4 Breakers 
+UN  
+6,00 
+ 
+ 
+8.5 
+Lámpara ojo 
+de buey de 
+sobreponer 
+UN  
+28,00 
+ 
+ 
+8.6 Toma 
+UN  
+14,00 
+ 
+ 
+8.7 Toma GFCI 
+UN  
+3,00 
+ 
+ 
+8.8 Salida 
+Monofásica 
+UN  
+3,00 
+ 
+ 
+8.9 Salida TV y 
+Datos 
+UN  
+3,00 
+ 
+ 
+8.10 Tablero 8 
+Circuitos 
+UN  
+1,00 
+ 
+
+=== Página 123 ===
+12
+ 
+ 
+ 
+ 
+ 
+8.11 Interruptores 
+Sencillos  
+UN  
+6,00 
+ 
+ 
+8.12 Interruptores 
+Dobles 
+UN  
+2,00 
+ 
+ 
+8.13 Interruptores 
+Triple 
+UN  
+1,00 
+ 
+ 
+8.14 Puesta a 
+Tierra 
+UN  
+1,00 
+ 
+ 
+8.15 Lampara 
+exterior 
+UN  
+4,00 
+ 
+ 
+8.16 Codos 16mm 
+de diámetro 
+UN  
+83,00 
+ 
+ 
+8.17 Casquillo 
+reductor 
+UN  
+7,00 
+ 
+ 
+8.18 Caja registro 
+UN  
+38,00 
+ 
+ 
+Cuadrilla C 
+495.000,0
+0 
+ 
+TOTAL CAPITULO 
+495.000,0
+0 
+11 
+PISOS 
+ACABADOS 
+ 
+ 
+9.1 
+Piso Baños 
+Cerámica 
+30x30 
+M2  
+0,058 
+12,00 
+1,00 55.000,00 
+ 
+ 
+Oficial 
+55.000,00 
+ 
+TOTAL CAPITULO 
+55.000,00 
+12 
+APARATOS 
+SANITARIOS-
+ACCESORIOS 
+ 
+ 
+13.1 Ducha 
+sencilla 
+UN  
+0,0125 
+1,00 
+1,00 125.000,0
+0 
+ 
+ 
+13.2 
+Sanitario 
+Corona 
+Laguna 
+UN  
+0,058 
+1,00 
+ 
+ 
+13.3 
+Lavamanos 
+Eco 48x38 
+con mueble 
+básico a piso 
+UN  
+0,033 
+1,00 
+ 
+ 
+13.4 Lavadero 
+sencillo 
+UN  
+0,08  
+1,00 
+ 
+ 
+Cuadrilla A 
+125.000,0
+0 
+ 
+TOTAL CAPITULO 
+125.000,0
+0 
+
+=== Página 124 ===
+12
+ 
+ 
+ 
+ 
+13 
+CERRADURAS 
+ 
+ 
+15.1 
+Cerradura 
+Baños-Puerta 
+Madera 
+UN  
+0,3 
+1,00 
+1,00 55.000,00 
+ 
+ 
+15.2 
+Cerradura 
+Alcobas-
+Puerta 
+Madera 
+UN  
+0,3 
+3,00 
+ 
+ 
+15.3 
+Cerradura 
+Puerta 
+principal 
+madera 
+UN  
+0,3 
+3,00 
+ 
+ 
+Oficial 
+55.000,00 
+ 
+TOTAL CAPITULO 
+55.000,00 
+14 
+OBRAS 
+EXTERIORES 
+ 
+ 
+16.1 Plantas, flores  UN  
+0,08 
+15,00 
+3,00 125.000,0
+0 
+ 
+ 
+16.2 
+Anden en 
+Concreto 
+e=0.10 2500 
+psi 
+M2  
+0,08 
+15,00 
+ 
+ 
+16.3 Dilataciones 
+ML 
+0,08 
+15,00 
+ 
+ 
+Cuadrilla A 
+375.000,0
+0 
+ 
+TOTAL, CAPITULO 
+375.000,0
+0 
+TOTAL, COSTO 
+DIRECTO 
+7.900.000,00  
+ 
+ 
+ 
+ 
+

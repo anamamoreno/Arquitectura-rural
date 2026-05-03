@@ -1,0 +1,1126 @@
+# Fuente: AC-Andes-Orocue.pdf
+# Total páginas: 12
+
+=== Página 1 ===
+Guía metodológica del estudio 
+de asentamientos humanos 
+para zonas rurales: vivienda 
+de interés cultural. Caso de 
+estudio: Orocué, Casanare*
+El artículo es una guía para el estudio de asentamientos humanos 
+en zonas rurales que apoya la nueva política de vivienda de interés 
+cultural en Colombia. Está enfocada en la dimensión sociocultural y 
+de la experiencia humana del hogar mediante técnicas y dinámicas 
+vernáculas en la aplicación de proyectos constructivos y de adapta­
+ción al hábitat. Plantea una manera viable de levantar arquitectura 
+y cultura por medio de una aproximación íntima con las comunida­
+des, a fin de que académicos, arquitectos, constructoras y entidades 
+públicas desarrollen proyectos en zonas vulnerables de manera 
+sostenible, viable y apropiada.
+      Palabras clave: vivienda de interés cultural, arquitectura 
+vernácula, adaptación al hábitat, construcción sostenible, gestión, 
+cultura.
+	
+Methodological Guide for the 
+Study of Human Settlements in Rural 
+Areas: Housing of Cultural Interest. 
+Case Study: Orocué, Casanare
+The article serves as a guide for analyzing human settlements in 
+rural areas, offering support for the new housing of cultural inter­
+est policy in Colombia. It focusses on the sociocultural dimension 
+and the human experience of a home by examining the vernacular 
+techniques and practices used for construction projects and habi­
+tat adaptation. The proposed approach provides a practical means 
+of gathering architectural and cultural information by establishing 
+close relationships with communities. It will enable academics, 
+architects, construction companies and public entities to develop 
+sustainable, viable and appropriate projects in vulnerable areas. 
+      Keywords: housing of cultural interest, vernacular architecture, 
+habitat adaptation, sustainable construction, management, 
+culture. 
+Recibido: 27 de septiembre de 2022         Aceptado: 8 de junio de 2023
+Cómo citar: Ponce de León Hernández, María José. "Guía metodológica 
+del estudio de asentamientos humanos para zonas rurales: vivienda 
+de interés cultural. Caso de estudio: Orocué, Casanare". Dearq no. 37 
+(2023): 68-79. DOI: https://doi.org/10.18389/dearq37.2023.07
+María José Ponce de León Hernández
+mj.ponce@uniandes.edu.co
+Universidad de los Andes, Colombia
+   DOI: https://doi.org/10.18389/dearq37.2023.07
+	
+Agradecimientos: Este estudio fue posible gracias 
+al trabajo en conjunto con la Universidad del 
+Trópico, que investiga la Orinoquía colombiana, 
+y el programa de Travesías, adscrito a la 
+Facultad de Ciencias Sociales de la Universidad 
+de los Andes, como parte de la investigación 
+Aproximación Etnoecológica a los saberes y 
+técnicas vernáculas del hábitat llanero.
+*	
+
+Síntesis metodológica basada en la tesis 
+realizada por la autora para obtener el título en la 
+Maestría en Arquitectura de la Universidad de los 
+Andes.
+Dearq  37
+
+=== Página 2 ===
+introducción
+El Ministerio de Vivienda, Ciudad y Territorio de Colombia (2020) ha propuesto 
+herramientas para hacer efectivo el derecho a la vivienda digna en el país. Den­
+tro de las políticas clave están la de Vivienda de Interés Social (VIS) y la Vivien­
+da de Interés Prioritario (VIP). Están enfocadas en la construcción de la unidad 
+habitacional y conllevan alternativas subsidiarias para poblaciones vulnerables. 
+Si bien el objetivo es claro, existe ambigüedad, desconocimiento, sesgo y sub­
+jetividad hacia lo que significa una vivienda digna, considerando que Colombia 
+tiene una amplia diversidad cultural y natural, lo que dificulta concebir una defi­
+nición estandarizada de vivienda digna. Adicionalmente, el modelo de negocio 
+convencional de firmas constructoras que apoyan dichas políticas se centra en 
+fines lucrativos, y dichos proyectos suelen ser replicados en todas las regiones 
+de Colombia, con lo que se reducen costos de diseño y planeación, pero gene­
+ran graves impactos ambientales y sociales. Consecuentemente, el patrimonio 
+colombiano se ve afectado por la carencia de perspectiva y de adecuación al 
+sitio y sus habitantes.
+Como alternativa, en 2020, el Ministerio de Cultura lanzó la nueva Política de 
+Vivienda de Interés Cultural (VIC), que busca proteger el patrimonio colombiano. 
+Dicha vivienda está "caracterizada por estar totalmente arraigada e imbricada 
+en su territorio y su clima; su diseño, construcción, financiación y criterios nor­
+mativos obedecen a costumbres, tradiciones, estilos de vida, materiales loca­
+les y técnicas constructivas y productivas, así como a mano de obra locales". 
+En el caso rural, la política busca generar subsidios similares a las de VIS/VIP; sin 
+embargo, se está en una etapa inicial de elaboración.
+El reto está en entender, orientar y reglamentar cada una de las particularidades 
+en los territorios, es decir, avalar todas las técnicas y los sistemas constructivos 
+ancestrales y rurales para una vivienda, incorporándolos a la norma y así dar cuen­
+ta del patrimonio del país, haciendo hincapié en los procesos de diálogo social.
+Con esto en mente, el artículo propone una metodología que sirve como guía 
+para el estudio de asentamientos humanos en zonas rurales y así apoyar la nueva 
+política. Se tomaron como caso de estudio tres resguardos indígenas conforma­
+dos por la etnia Sáliba, en el municipio de Orocué, departamento de Casanare, 
+región de los Llanos Orientales en Colombia.
+La metodología está enfocada en la dimensión sociocultural y de experiencia 
+humana en el hogar, mediante técnicas y dinámicas vernáculas en la aplicación 
+de proyectos constructivos y de adaptación al hábitat. El objetivo principal es 
+plantear una manera viable de levantar arquitectura y cultura por medio de una 
+aproximación íntima e inclusiva con las comunidades. La guía está dirigida hacia 
+la VIC; sin embargo, académicos, arquitectos, constructoras y otras entidades 
+públicas interesadas en estudiar y proponer proyectos de vivienda en zonas ru­
+rales vulnerables también pueden usarla para comprender de forma holística el 
+hábitat e incorporar el desarrollo sostenible dentro de sus estudios/proyectos.
+estado del arte
+Se encontró una relación importante entre la vivienda rural/vernácula y la soste­
+nibilidad ambiental. El estudio de Lárraga Lara et al. (2014) reúne críticamente 
+bibliografía significativa acerca de la sostenibilidad en la arquitectura alrededor 
+de todo el mundo. En dicha revisión queda claro que la poca inmersión de los 
+arquitectos en temas de sostenibilidad ha generado un impacto considerable 
+en el manejo incorrecto de los conceptos, por lo cual construyen una base de 
+datos en la que se encuentran componentes de sostenibilidad en la vivienda 
+tradicional, los orígenes, debates, críticas y metodologías que permiten medir 
+la sostenibilidad en la vivienda tradicional. Según los autores, "[l]a arquitectura 
+tradicional es heredera del conocimiento empírico producto de la experimenta­
+ción ancestral de los pueblos indígenas en sus construcciones" (Lárraga et al. 
+2014, 127), y aunque el vocablo sostenibilidad es ajeno al léxico indígena, sus 
+investigación
+68 – 69
+
+=== Página 3 ===
+referentes empíricos no lo son porque satisfacen las necesidades básicas de 
+adaptación al medio ambiente.
+En un inicio, los pilares de la sostenibilidad eran el ambiental, el social y el eco­
+nómico; sin embargo, en el desarrollo del concepto se ha agregado el pilar cul­
+tural. Lo anterior se ha ido observando cada vez más en los estudios actuales 
+sobre la vivienda rural y su aporte a la sostenibilidad. María de la Luz Lobos 
+Martínez (2017) encontró nociones de sostenibilidad en el patrimonio verná­
+culo de una región en Chile que están fuertemente ligadas a la forma de vida 
+local y la diversidad cultural específica de la región. De aquí, la autora cita a 
+Gauzin-Müller, quien habla del humanismo ecológico, cuya esencia fluctúa 
+entre el high-tech y el low-tech, es decir, aquello que correlaciona productos 
+industriales y elementos tradicionales o pasivos con el medio ambiente.
+Un ejemplo de esto es la arquitectura vernácula. Ahora, todos los autores con­
+cuerdan en que la arquitectura rural —sea vernácula o moderna— es particular 
+al sitio al que pertenece. Según Sánchez Quintanar y Jiménez Rosas (2010), la 
+vivienda rural, su complejidad y estudio desde diversas disciplinas es un reflejo 
+de las diferencias culturales y territoriales que puedan existir. La vivienda rural 
+debe verse desde una perspectiva sociocultural y estar enfocada en la dimen­
+sión de la experiencia humana sin separarse del territorio y del entorno natural.
+Gustavo Romero et al. (2004) estudiaron la participación comunitaria como eje 
+metodológico en el diseño arquitectónico y en la producción social del hábitat. 
+Plantearon que tradicionalmente los arquitectos y urbanistas han percibido el 
+tema del hábitat desde sus aspectos físicos, como el sistema estructural y el 
+diseño habitacional; sin embargo, hoy en día se comprende que cada uno de los 
+aspectos físicos están contenidos dentro de un sistema productivo, económico, 
+social, ambiental e histórico-cultural. Por ello, los diseños técnicos deben inte­
+ractuar con otros actores (incluyendo una comunidad) y profesiones para cons­
+truir un desarrollo local e integral, lo que se asemeja a lo propuesto por la VIC.
+En Colombia, Susana Romero (2021) proporciona una visión de los hitos deter­
+minantes en los comienzos de transformación de la vivienda rural tras la Re­
+pública Liberal y los movimientos modernos. Entre 1930 y 1946, el Instituto de 
+Crédito Territorial pone en marcha una campaña por el mejoramiento de la vi­
+vienda campesina, lo que fue crucial para la noción de lo moderno en Colombia, 
+enfocado hacia la prosperidad campesina. Esto, en contraste con las narrativas 
+tradicionales sobre la modernidad en Colombia, centralizadas en la capital del 
+país e inspiradas en el primer mundo. Los intelectuales del momento defen­
+dían que Colombia podía ser una nación moderna y rural, puesto que en ese 
+entonces el país era mayoritariamente agrario y que la producción cafetera era 
+esencial en la economía. Se consideraba que la vivienda rural productiva, junto 
+a sus propiedades vernáculas, era la estrategia fundamental para el desarrollo. 
+Esto trae a colación la importancia de la productividad, desde diferentes oficios 
+y como factor determinante de una cultura.
+De la noción de modernizar la ruralidad, surge una paradoja controversial que 
+complejiza algunas zonas rurales en el momento en el que el Estado interfiere 
+e intenta homogeneizar el país, llevándolo a una "modernidad" de papel. Como 
+bien lo expresa Santiago Pradilla, en sus Cartografías emocionales (2010), antes 
+de que el Estado se interpusiera, los campesinos:
+[…] no habían deseado esos cambios, estaban solucionados de otra manera; pero 
+la expectativa por la inversión del Estado hace emerger un imaginario de pro­
+greso y calidad de vida que resulta más desconocido y ajeno al contexto de lo 
+que ellos podían imaginar. Sólo en el momento en que tuvieron acceso a todas 
+estas ventajas del "progreso" realmente empezó a existir la pobreza, y disminuyó 
+la calidad de vida. (9)
+Esto por las expectativas de recibir regalías y dejar a un lado el desarrollo 
+propio, opuesto a lo planteado por el Instituto de Crédito Territorial. De aquí 
+Parte de la 
+sostenibilidad es 
+respetar el ciclo natural 
+y, además, entender 
+que el hombre es parte 
+del ciclo: respetar el 
+entorno y respetarse 
+dentro de él.
+Dearq  37
+
+=== Página 4 ===
+las políticas VIS/VIP crean el efecto dominó del cual algunas constructoras lu­
+crativas se aprovechan y permiten la creación de viviendas estandarizadas y 
+desarrollos gigantes, que intervienen con la cultura, el progreso y el paisaje 
+regional. No se pretende que el Estado deje de intervenir, sino que se dirijan los 
+esfuerzos hacia la VIC, buscando resguardar el patrimonio de las zonas rurales, 
+promover el trabajo, movilizar la economía rural y cambiar la concepción ses­
+gada del desarrollo global.
+Guardiola Lince y Velandia Rayo (2018) proporcionan una mirada a la vivienda 
+rural desde la gestión pública, en particular desde el Ministerio de Agricultura 
+y Desarrollo Rural. Utilizando como herramienta metodológica las entrevistas, 
+comprenden las relaciones entre actores para lograr la esquematización de 
+estas, identificar posibles vacíos y proponer estrategias de fortalecimiento en 
+estos para su mejoramiento. Los autores concluyen que:
+El programa de vivienda rural no es conceptualizado bajo la idea de un hábitat 
+que sea el soporte para su sostenibilidad. El diseño de la vivienda termina siendo 
+una unidad básica y genérica que no representa las necesidades sociales, eco­
+nómicas y culturales. Es inviable un programa de vivienda en donde el diseño sea 
+igual para todas las regiones del país, sin especificar la multiculturalidad y las 
+diferencias climáticas existentes en Colombia. Un diseño que tiene como objetivo 
+beneficiar una familia, termina siendo un problema generalizado y en ese sentido, 
+un recurso gubernamental perdido. (23)
+metodología1
+El plan de trabajo se llevó a cabo durante tres meses con un enfoque cualitati­
+vo, abordando dos unidades de análisis: técnicas vernáculas de construcción 
+llanera y la identidad campesina. Consistió en tres técnicas de toma de datos: 
+levantamientos arquitectónicos/culturales, entrevistas semiestructuradas y ta­
+lleres. Estas técnicas posibilitan una visión integral de lo que se vive en un hábi­
+tat específico, a fin de entender el entorno cultural, social y ambiental.
+Los levantamientos fueron participativos con la comunidad y ello permitió iden­
+tificar las técnicas vernáculas en la construcción rural. Adicionalmente, se apro­
+vechó para realizar un diagnóstico ambiental, con el fin de plasmar la sosteni­
+bilidad intrínseca en las técnicas vernáculas. Las tablas 1 y 2 (pág. 79) resumen 
+los ejes para el levantamiento, así como el diagnóstico ambiental.
+Las entrevistas se realizaron en simultáneo con los levantamientos (y así se re­
+copiló una muestra total de diez hogares) y se enfocaron en formas de habitar, 
+construir, producir y relacionarse. Se hizo hincapié en el patrimonio arquitectó­
+nico local, identificando el valor cultural y de identidad campesina con base en 
+la distribución de espacios, las secuencias de uso y los dispositivos técnicos de 
+producción y construcción. Si bien se plantearon algunas preguntas iniciales 
+(tabla 3, pág. 80), en campo se evidenció una comunicación espontánea y di­
+dáctica, a medida que surgían observaciones en el levantamiento.
+Los talleres consistieron en esquematizar el entorno natural cercano, el ciclo 
+ecológico y su relación con la comunidad. Estos tres talleres se hacen con la 
+comunidad en el trabajo de campo. Se inicia dividiendo al grupo en tres, con 
+uno o dos líderes por grupo. La idea es que cada grupo sea el que proponga y 
+se apropie del taller. Los líderes están únicamente ahí para hacer preguntas que 
+vayan surgiendo sin dar su propia percepción, pues la idea es ver el territorio, la 
+casa y los hábitos desde el punto de vista de la comunidad. Al final del taller se 
+comparte el trabajo a toda la comunidad, buscando generar un diálogo grupal. 
+En la tabla 4 (pág. 80) se puede observar con detalle el objetivo detrás de cada 
+taller y los resultados específicos de uno de los resguardos del caso de estudio.
+A partir de la recolección de información, se procedió al análisis ambiental, eco­
+nómico y social de la vivienda, y se propusieron posibles aproximaciones a la 
+VIC para el caso llanero.
+1.    	
+	
+	
+	
+Como base metodológica se utilizaron los aportes 
+encontrados en 'Saberes compartidos del hábitat: una 
+arquitectura para el paisaje rural' (García Reyes y Anzellini 
+2019).
+investigación
+70 – 71
+
+=== Página 5 ===
+resultados
+Análisis ambiental, económico y social
+Teniendo en cuenta el valor de sostenibilidad intrínseca en las técnicas y di­
+námicas vernáculas de construcción, se tomaron como base los componentes 
+que definen una vivienda integral, expuestos por el Ministerio de Cultura en la 
+conferencia del 2021 sobre la VIC (fig. 1).
+Es importante tener en cuenta la figura 1 a la hora de analizar la sostenibilidad. 
+Compuesta típicamente por lo económico, ambiental y social, es pertinente in­
+cluir un cuarto elemento, que es del factor cultural. Esta consideración termina­
+ría por definir realmente lo que es la sostenibilidad, porque agrega conceptos 
+de arraigo, en lo social; uso de materiales locales, en lo ambiental, y empren­
+dimientos, en lo económico. En la actualidad, el pilar económico cobra mayor 
+prioridad social, por lo cual el presente análisis se enfoca en este.
+La problemática más importante recae sobre el uso de palma versus zinc para 
+el techo, el bloque de ladrillo versus el bloque de adobe o el entablado de 
+madera en el cerramiento/estructura versus la madera en lo estructural, es 
+decir, materiales locales (técnicas vernáculas) versus industrializados (técni­
+cas modernas). En la tabla 5 (pág. 81) se puede ver una comparación entre los 
+diferentes materiales encontrados, en cuanto a usos, dinámicas constructi­
+vas, costos, vida útil, ventajas y desventajas operacionales, impacto ambiental 
+e impacto social/cultural.
+A partir de dicha comparación, es evidente la conveniencia de fortalecer la 
+apropiación y la protección de las técnicas y dinámicas vernáculas; sin embar­
+go, la seducción de "lo moderno" opaca esta evidencia. En cuanto a la VIC, es 
+importante buscar estrategias para mejorar estas técnicas y garantizar una me­
+jor forma de habitar la vivienda en la zona rural.
+De la comparación se puede resaltar que: 1) los materiales locales y dinámicas 
+de autoconstrucción son óptimos, en cuanto al pilar económico, social/cultural 
+y ambiental; 2) los materiales no locales y dinámicas de construcción VIS van 
+totalmente en contra de la sostenibilidad, y 3) ambos casos tienen ventajas y 
+desventajas complementarias. Sin embargo, se considera que los materiales 
+locales, al tener mayor arraigo en cuanto a confort térmico, deben mantener­
+se, y los esfuerzos gubernamentales o de dinámicas constructivas modernas 
+para zonas rurales deben enfocarse en mejorar aspectos de higiene, durabili­
+dad y seguridad de los materiales y dinámicas locales, sin cambiarlo totalmente. 
+Es decir, reconocer los avances tecnológicos de cada sitio.
+Figura 1_ Valores y componentes de interés. Fuente: 
+adaptado de la Vigías de Patrimonio MinCultura (2021).
+Técnicas constructivas con 
+tierra, palma y madera. Oficios y 
+saberes: bahareque, tapia, adobe, 
+cubiertas de palma, pisos, amarres 
+y enchapes. 
+CULTURAL
+Técnicas constructivas sostenibles, 
+manejo de agua, eficiencia 
+energética, uso de materiales 
+locales, ciclos de producción y 
+confort térmico natural.
+AMBIENTAL
+Viviendas y unidades productivas. 
+Subsistencia: seguridad 
+alimentaria, emprendimiento, 
+cadenas productivas.
+ECONÓMICO
+Calidad de vida, pertenencia 
+y arraigo: resguardos, mingas, 
+cooperativas, campesinos.
+SOCIAL
+Dearq  37
+
+=== Página 6 ===
+Estrategias de la vivienda de interés cultural
+Tras analizar las técnicas y dinámicas del hábitat rural llanero y tener un primer 
+acercamiento a su entorno, es posible proporcionar reflexiones para la VIC que 
+sirven para aproximarse a la política.
+Según asuntos legales, la VIC se consideraría VIS, siempre que esté destina­
+da a garantizar el derecho a la vivienda de los hogares de menores ingresos 
+y cumpla con los precios máximos; ello facilitaría que el Gobierno nacional 
+destinara recursos a la construcción y mejoramiento de estas viviendas. Sin 
+embargo, y en contradicción con los lineamientos de la Política Nacional de 
+Vivienda (la cual establece con claridad que los subsidios se han de orientar 
+a la demanda y no a la oferta directa), las regalías de la VIS en las zonas rura­
+les han sido enfocadas en proporcionar unidades de vivienda construidas por 
+entes exteriores al sitio. Ello ha generado algunos fenómenos sociales que 
+pueden afectar negativamente el desarrollo, desvalorizando las técnicas de 
+autoconstrucción y productividad y, además, obstaculizando el arraigo al terri­
+torio y a la cultura. En consecuencia, a fin de conservar la dimensión cultural 
+de la nueva política en cuestión, se debe repensar la forma de orientar los 
+subsidios. Lo principal sería que la VIC promueva la educación, el trabajo y la 
+concientización del valor existente dentro de los propios territorios, afirmando 
+la importancia y relevancia que tiene la mano de obra y los conocimientos 
+locales. Lógicamente, la definición de vivienda digna debe ir más allá de es­
+tándares técnicos y objetivos lucrativos de quienes desarrollarían esta política 
+y la construcción.
+En este sentido, el Ministerio de Cultura podría destinar recursos para la con­
+tratación de expertos que estudien las cadenas de valor en los diferentes terri­
+torios, sus potenciales económicos y, mediante la educación, buscar desarro­
+llar áreas de progreso. En el caso de los Llanos Orientales de Colombia, se vio 
+potencial en actividades turísticas basadas en el trabajo del llano y comercio a 
+pequeña escala entre comunidades y familias vecinas de productos cultivados 
+y animales para consumo. Por otro lado, y teniendo en cuenta que la palma está 
+escasa por la quema anual del llano, en vez de subsidiar unidades de vivienda, 
+se plantea la posibilidad de declarar como área protegida un terreno con abun­
+dancia de palma. De ser el caso, se debe administrar de manera adecuada (con 
+siembra nueva y respetando los ciclos naturales de la regeneración de hojas 
+de palma) para suplir la demanda de palma para construir las cubiertas. Así, la 
+construcción de la vivienda dependería del dueño de la casa, lo que le permitiría 
+decidir sobre el diseño y preservar la relevancia del trabajo y la independencia 
+en la cultura llanera. Esto, además, podría ser económicamente más viable que 
+invertir en viviendas individuales.
+Figura 2_ Comparación entre una habitación VIS 
+completamente cerrada vs. una habitación autoconstruida 
+con separación entre el muro y el techo, permitiendo la 
+entrada de luz y viento. Fuente: elaboración propia.
+investigación
+72 – 73
+
+=== Página 7 ===
+La VIC, al tratarse de conservación del patrimonio, debe considerar el man­
+tenimiento y la observación constante. En el caso de la palma que debe ser 
+renovada, garantizaría a los habitantes de una vivienda condiciones de vida 
+digna.
+La integración de estas ideas se relaciona con algunas dinámicas de construc­
+ción que optimizarían los materiales en tierra (palma y madera). Puesto que uno 
+de los problemas más graves de la utilización de la palma, la tierra y la madera 
+para las paredes es su cumplimiento con estándares de seguridad de elemen­
+tos estructurales y no estructurales, se aconseja, para construcciones de uno 
+y dos pisos, promover y ordenar cartillas y manuales de carácter "prestacional", 
+es decir, con recomendaciones abiertas y adaptables y no imposiciones rígidas, 
+de diseños y procesos constructivos usuales en cada región, que han sido de­
+bidamente avalados por la tradición local. Por ejemplo, utilizar muros en tierra y 
+reforzarlos con malla gallinero o un ensamblaje de tapas metálicas o de plástico 
+de botella y luego recubrirlo con algún tipo de pañete que puede ser también 
+hecho en tierra, pasto y excremento de vaca. En cuanto al uso de madera, se 
+utilizaría particularmente para las columnas, vigas y tirantes de la estructura, tal 
+como se ha utilizado en casos reconocidos como buenas prácticas y ejemplos 
+que se pueden seguir.
+De acuerdo con la pertinencia de los hallazgos encontrados en el estudio de los 
+casos descritos en este trabajo: 1) es relevante tener en cuenta que la madera 
+debe cortarse y manejarse en luna menguante, dado que, por temas ambien­
+tales, si no se hace en este periodo mensual, se puede llegar a pudrir antes de 
+que acabe su vida útil máxima. 2) Las hojas de palma, por su parte, se deben 
+usar especialmente para las cubiertas, y con el propósito de que duren el máxi­
+mo de su vida útil prevista (aproximadamente entre 12 y 20 años), se deben 
+tomar de una palmera que tenga más de 30 años. 3) La hilada de palmas se 
+debe instalar adecuadamente: tupida, apretada, con buen traslapo, con bue­
+na pendiente, arcada y bien amarrada o pisada con puntillas. Y 4) en cuanto 
+al diseño arquitectónico, se debe realizar un cuidadoso estudio del sitio, para 
+así provechar las posibilidades bioclimáticas y buscar aprender de las técnicas 
+vernáculas del sitio; por ejemplo, las estructuras no están completamente ce­
+rradas, el techo va ligeramente elevado del muro, con el fin de ventilar e iluminar 
+naturalmente los espacios (cosa que en la VIS no se hace y genera la necesidad 
+de ventilación e iluminación artificial).
+conclusiones
+Reflexión
+La idea principal detrás de este estudio es promover la conciencia ambiental 
+a través de la cultura, no dejando que la diversidad colombiana se opaque por 
+ideas modernas como la inmediatez del desarrollo y el no racionar los recursos. 
+Con esto en mente, el hallazgo más significativo de esta experiencia investigati­
+va fue el concepto de autorrealización —autoconstrucción, autoproducción, au­
+tosostenibilidad—, lo que genera independencia y plantea una visión de mundo 
+viable no consumista. Ello quiere decir que la VIC debe manejarse más desde la 
+gestión de recursos que desde la construcción.
+Parte de la sostenibilidad es respetar el ciclo natural y, además, entender que 
+el hombre es parte del ciclo: respetar el entorno y respetarse dentro de él. 
+La arquitectura tiene entonces una oportunidad muy grande en la política VIC, 
+a través de la educación y la cultura, a fin de conservar visiones de mundo dife­
+rentes a los llamados occidentales y basados en el entenderse dentro del me­
+dio ambiente como ser humano. Esto se puede complementar con el concepto 
+de relacionalidad, que implica que las personas y las cosas pertenecientes al 
+entorno no son de manera independientes, sino función de las relaciones que 
+configuran.
+Dearq  37
+
+=== Página 8 ===
+Figura 3_ Galería de fotos de técnicas vernáculas 
+de los llanos. Fuente: elaboración propia.
+Figura 4_ Galería de fotos de oficios típicos en los 
+llanos. Fuente: elaboración propia.
+investigación
+74 – 75
+
+=== Página 9 ===
+Fortalezas y debilidades
+Es importante tener en cuenta que este trabajo, sobre todo, acaba en ser ape­
+nas una reflexión acerca de la VIC. Falta mucho por hacer; sin embargo, se po­
+dría decir con certeza que la VIC debe ser estudiada multidisciplinariamente. 
+La arquitectura es el punto medio o la disciplina gestora, pero debe haber una 
+influencia importante de la antropología, la ciencia, la ingeniería y los conoci­
+mientos campesinos.
+Como se mencionó, este artículo sirve como guía metodológica del estudio 
+de asentamientos humanos en las zonas rurales. De esta, se podría conside­
+rar que una gran fortaleza es la flexibilidad de la metodología propuesta. Esto 
+permitió un enfoque más antropológico que técnico, lo que resultó en insumos 
+habitacionales y de identidad cultural. Esto, sin embargo, aplicado a la esfera 
+gubernamental, podría significar discrepancias políticas y administrativas. Una 
+solución para prevenir y mitigar esto es que el Gobierno se involucre con la 
+academia (arquitectos, antropólogos, ingenieros, etc.) y con los campesinos a 
+la hora de reglamentar la política; es decir, hacer un estudio conjunto y proce­
+so participativo en el cual las comunidades tengan la representación adecuada 
+para así incentivar la apropiación y cuidado de su entorno y el medio ambiente, 
+sin renunciar a la identidad y diversidad que estas aportan.
+bibliografía
+1.	
+García-Reyes Röthlisberger, 
+María Inés y Stefano 
+Anzellini Fajardo. 2019. 
+"Saberes compartidos del 
+hábitat: una arquitectura 
+para el paisaje rural". 
+Dearq 1 (24): 34-47. 
+https://doi.org/10.18389/
+dearq24.2019.03
+2.	
+Guardiola Lince, Carolina 
+y Diego A. Velandia Rayo. 
+2018. "La gestión pública 
+de la vivienda rural en 
+Colombia: Una mirada 
+hacia la estructura 
+administrativa del 
+Ministerio de Agricultura 
+y Desarrollo Rural". Tesis 
+de maestría, Universidad 
+de los Andes. https://
+repositorio.uniandes.edu.
+co/handle/1992/35127
+3.	
+Lárraga Lara, 
+Rigoberto,Miguel Aguilar 
+Robledo, Humberto 
+Reyes Hernández y Javier 
+Fortanelli Martínez. 2014. 
+"La sostenibilidad de la 
+vivienda tradicional: Una 
+revisión del estado de la 
+cuestión en el mundo". 
+Revista de Arquitectura 
+16, n.º 1: 126-133. 
+https://doi.org/10.14718/
+RevArq.2014.16.14
+4.	
+Lobos Martínez, María de 
+la Luz. 2017. "Nociones 
+de sostenibilidad en el 
+patrimonio vernáculo 
+del Valle del Choapa". 
+Revista Gremium, agosto. 
+https://editorialrestauro.
+com.mx/nociones-de-
+sostenibilidad-en-el-
+patrimonio-vernaculo-del-
+valle-del-choapa/
+5.	
+Ministerio de Cultura de 
+Colombia. 2020. "Avance 
+histórico: La vivienda 
+de interés cultural hace 
+parte de la nueva Ley 
+de Vivienda". https://
+mincultura.gov.co/prensa/
+noticias/Paginas/Avance-
+hist%c3%b3rico-La-
+vivienda-de-inter%c3%a9s-
+cultural-hace-parte-de-la-
+nueva-Ley-de-Vivienda-.
+aspx
+6.	
+Ministerio de Vivienda, 
+Ciudad y Territorio de 
+Colombia. 2020. "Política 
+de Vivienda Rural". https://
+www.minvivienda.gov.co/
+viceministerio-devivienda/
+politica-de-vivienda-rural
+7.	
+Pradilla, Santiago. 2010. 
+Cartografías emocionales: 
+Una aproximación a la 
+vivienda de interés cultura. 
+1. Propuesta Metodológica. 
+Bogotá: Universidad 
+Nacional de Colombia.
+8.	
+Romero, Gustavo, Rosendo 
+Mesías, Mariana Enet, 
+Rosa Oliveras, Lourdes 
+García, Manuel Coipel y 
+Daniela Osorio. 2004. La 
+participación en el diseño 
+urbano y arquitectónico 
+en la producción social del 
+hábitat. Ciudad de México: 
+Programa Iberoamericano 
+de Ciencia y Tecnología 
+para el Desarrollo. http://
+cdam.unsis.edu.mx/files/
+Desarrollo%20Urbano%20
+y%20Ordenamiento%20
+Territorial/Otras%20
+disposiciones/
+Participaci%C3%B3n_
+dise%C3%B1o_urbano.pdf
+9.	
+Romero Sánchez, Susana. 
+2021. "La historia olvidada 
+de la arquitectura en 
+Colombia: La vivienda rural 
+y la modernización durante 
+la República Liberal". 
+Dearq, n.º 29: 28-39. 
+https://doi.org/10.18389/
+dearq29.2021.04
+10.	 Sánchez Quintanar, 
+Concepción, y Eric Orlando 
+Jiménez Rosas. 2010. 
+"La vivienda rural: Su 
+complejidad y estudio 
+desde diversas disciplinas". 
+Revista Luna Azul, n.º 
+30: 174-196. http://www.
+scielo.org.co/pdf/luaz/n30/
+n30a10.pdf
+11.	 Vigías de Patrimonio 
+MinCultura. 2021. 
+"Vivienda de interés 
+cultural". YouTube, 28 
+de septiembre. https://
+www.youtube.com/
+watch?v=UhcxyPUdOtU
+Figura 5_ Hábitat llanero rural. Fuente: elaboración propia.
+Tabla 1_ Ítems principales del levantamiento 
+arquitectónico y cultural. Fuente: elaboración propia.
+Tabla 2_ Ítems principales del diagnóstico ambiental. 
+Fuente: elaboración propia.
+2.    	
+	
+	
+	
+Alimento granulado preparado con la harina de yuca brava.
+3.    	
+	
+	
+	
+Pan ácido, crujiente, delgado y circular hecho de harina de 
+yuca.
+4.    	
+	
+	
+	
+	
+Horno artesanal hecho de arcilla para cocinar el mañoco y 
+el casabe, que genera una gran cantidad de humo.
+5.    	
+	
+	
+	
+Abrevadero, pozo o zanja que se llena de agua, ya sea 
+artificialmente o por filtración natural.
+6.    	
+	
+	
+	
+	
+Vara donde se pone el tasajo (carne o pescado) a secar.
+Dearq  37
+
+=== Página 10 ===
+Ítem
+Descripción
+Caso de estudio
+Criterios de localización
+Razones por las que se elige 
+un terreno en específico 
+para construir una casa
+Se encontraron tres criterios principales:
+•	
+Seguridad: un sitio de baja criminalidad y, adicionalmente, en el que no haya un riesgo alto de daños por catástrofes naturales.
+•	
+Comunidad: que la casa quede cerca a otras y se generen relaciones simbióticas a través del intercambio de bienes o de favores mutuos.
+•	
+Riqueza natural: 
+	– Incide en la sustentación de la familia, que se puedan cultivar frutos y criar animales
+	– Tiene que ver con el bienestar que genera el paisaje.
+Distribución espacial
+Distribución de los espacios 
+de un hogar: habitaciones, 
+cocina, baños, zonas de 
+estar, patios, cultivos, etc.
+Se levantaron 10 casas en las que se encontraron unidades separadas que conforman los diferentes espacios.
+•	
+Los corredores, cocina y sala son abiertos (no tienen muros)
+•	
+Las habitaciones y baños tienen alguna clase de cerramiento, pero no están completamente cerrados (la estructura del techo se separa del muro para 
+permitir la entrada de luz y viento). 
+•	
+A los alrededores de la casa se encuentran pequeños cultivos y criaderos para alimentación.
+•	
+El conjunto de espacios puede o no compartir el mismo techo, dependiendo de la función del espacio.
+Sistemas-modos de habitar
+Maneras de habitar el 
+espacio y funciones del 
+hogar
+•	
+Se trata de una casa productiva en la que comúnmente existe una jerarquía en labores por género. Los oficios de la cocina y el aseo de la casa, por 
+lo general, los realizan las mujeres, y los del exterior o alrededor de la casa, los hombres. Estos constan principalmente en sembrar, cultivar, vender, 
+construir, cazar, cocinar, tratar las verduras, recoger frutos, criar a los niños, criar animales, tejer y limpiar.
+•	
+Con relación a la forma de habitar el espacio, durante la temprana mañana se podrá estar paseando por el lote buscando la cosecha, juntando el ganado 
+o haciendo arreglos en el cercado; durante mediodía se encontrarán en las zonas de estar/trabajar en familia haciendo el mañoco[2] o casabe[3], 
+cultivando abejas, tejiendo, haciendo el almuerzo, etc. Después se almuerza, en la tarde se descansa en familia y por la noche se duerme en una 
+habitación o en una hamaca.
+Estructura
+Clasificación de estructura: 
+configuración y material
+Hay dos tipos de configuración en los espacios de la casa llanera: 
+•	
+Unidades abiertas: la estructura está compuesta de columnas y vigas en madera o cemento.
+•	
+Unidades cerradas: también se implementan columnas y vigas de cemento o madera y los muros pueden estar hechos de mampostería reforzada (sobre 
+todo para las unidades que se subsidian del gobierno o que no son autoconstruidas), bloques de adobe (hechos con pasto en vez de paja y en algunos 
+casos con excremento de la vaca) o entablado de madera. Los elementos que componen la estructura de la cubierta, en el léxico local, son: costilla dura, 
+zapatilla, tirante, reyes, puntual, tijeras, travesaño y solera.
+Techos
+Clasificación de techos: 
+configuración y material
+Los techos consisten en palma real o láminas de zinc (que, aunque sea un material industrializado, se ensambla con técnicas vernáculas, de la misma 
+manera que para la palma).
+•	
+El proceso técnico de la construcción en palma consiste en:
+	– Una recolecta de palma real que tenga preferiblemente más de 30 años, pues es más resistente (puede durar hasta 20 años en buenas condiciones). 
+	– Quebrajar la palma: hoja por hoja, se les hace un corte longitudinal a ambos lados del peciolo para amainar las pinnas y así proceder a organizarlas 
+perpendicular al peciolo. 
+	– La sentada: se acuesta la palma en el suelo donde le dé el sol para así secarse durante 5-10 días. 
+	– En cuanto al ensamblaje sobre la estructura ya construida, se colocan las hojas de abajo hacia arriba y se amarran o se pisan con puntilla. Entre mejor 
+pisada/amarrada, más durará la cubierta, dado que menos bichos o roedores tendrán la posibilidad de anidarse en ella, y más impermeable será.
+Cerramientos
+Clasificación de 
+cerramientos: 
+configuración y material
+Se vieron tres tipos de elementos para el cerramiento de las casas: la palma, el adobe y el entablado de madera.
+•	
+Las mejores técnicas vernáculas para los cerramientos son el adobe reforzado y la madera, cuyo manejo debe hacerse en luna menguante (dado que, 
+por temas ambientales, si no se hace en este periodo mensual, la madera se pudre y no cumple con su vida útil máxima).
+•	
+Se considera que la palma no es un material adecuado; su colocación vertical no garantiza una buena estructura (contrario a los techos por estar 
+recostada). 
+Detalles
+Objetos y detalles 
+arquitectónicos de la 
+casa que son particulares 
+a la región
+•	
+Como parte de la identidad llanera, hay una fuerte relación con la vaquería, por lo cual muchos objetos (herramientas, muebles, canoas, etc.) son de 
+fabricación manual con materiales que sobran de las construcciones y de la ganadería, como maderas, textiles y pieles.
+•	
+Las viviendas hechas en adobe suelen ser de un color terracota, por el color natural de la tierra de la región, lo que también tiene una función 
+bioclimática. 
+•	
+Los canastos para filtrar el mañoco y el casabe son hechos de la fibra natural de las especies de la región, así como escobas, sombreros, etc. El 
+budare[4] también está hecho de arcillas naturales de la región.
+Ítem
+Caso de estudio
+Manejo de aguas
+•	
+Las aguas grises y negras se vierten a un pozo séptico encontrado en el lote de la casa o hacia algún cuerpo de agua, sin tratamiento.
+•	
+El agua potable se adquiere de un pozo profundo. Otra posibilidad es construir un jagüey[5] o recolectar agua en baldes directamente de un lago o río. 
+En ningún caso el agua tiene tratamiento por lo que contiene vectores.
+•	
+El agua lluvia se maneja a través de canaletas alrededor de la casa, aleros y canales superficiales auto excavados. Se recolecta para consumo, 
+almacenado en tanques pequeños, sin tratamiento, contiene vectores o metales.
+Eficiencia energética
+•	
+Se aprovecha al máximo la luz diurna, dispuesta por la arquitectura de la casa. En un caso se observó la instalación de un panel solar sobre el techo, que 
+suple la electricidad requerida (dinámica que entra dentro de las estrategias pasivas de habitar un espacio). 
+•	
+El alimento animal se dispone al momento de necesitarlo y la proteína que sobra se seca sobre la tasajera[6] y se conserva dentro de un baúl hasta 15 
+días para evitar el uso de la nevera.
+•	
+No se utilizan sistemas de aire acondicionado ni calefacción para la ducha. Es de gran importancia que la casa pueda ventilarse bioclimáticamente.
+Manejo de los residuos
+•	
+Reutilizan plásticos y metales para la reventa o para uso en elementos de la casa, para las materas y cercas; en algunos casos, se refuerzan los muros 
+de adobe con mallas y luego se tapan con pañete en adobe. Todo se busca aprovechar y, en caso contrario, se queman o se entierran apartados de la 
+vivienda. Los residuos orgánicos se colectan para compostaje.
+Uso de materiales locales y ciclos de producción
+•	
+Antes de que existiesen los subsidios de VIS, toda la materia prima de las casas se conseguía en el mismo lote o en el del vecino, es decir, materiales 
+locales del territorio llanero.
+•	
+En la autoconstrucción, se respetan ciclos de producción naturales y los seres existentes a la hora de realizar la planeación de la vivienda. Esto, desde el 
+momento en que se establece su ubicación dentro del lote, hasta su diseño y renovación.
+•	
+La casa y forma de habitar se acopla al entorno que la rodea; se busca evitar tumbar árboles para construir y, si es el caso, se aprovechan 
+completamente como materia prima.
+Confort térmico-bioclimática
+•	
+Los materiales y la distribución espacial utilizan la bioclimática, gracias a la transmisión generacional de experiencia.
+•	
+Las técnicas de construcción tradicionales mantienen la frescura natural dentro de las casas mediante conceptos pasivos implementados 
+empíricamente. El uso de tierra y palma como materia prima produce frescura adicional por sus propiedades naturales, óptimas en cuanto al 
+relacionamiento con el medio ambiente. La brisa refresca el espacio, pues con las palmeras produce flujo de aire y circulación.
+•	
+El papel que desempeñan los árboles en cuanto a la reducción del calor y el confort térmico garantiza la protección del entorno natural.
+•	
+La frescura se alcanza al tener espacios abiertos; los cerrados se disponen de manera que los muros de mayor área estén orientados hacia el norte o el 
+sur y los otros estén protegidos con sombra.
+investigación
+76 – 77
+
+=== Página 11 ===
+Introductorias
+Técnicas
+Sociales
+Habitacionales
+1.	 ¿Qué importancia tiene el campo para 
+usted?¿Qué relación tiene con el campo?
+2.	 ¿Qué actividades realiza a diario?
+3.	 ¿Qué actividades realiza en su tiempo libre?
+4.	 ¿Cuáles son sus gustos?
+5.	 ¿Qué importancia tiene el hogar para usted?
+6.	 ¿Qué le gusta en particular de su hogar?
+7.	 ¿Qué relación tiene su vivienda con el medio 
+ambiente?
+8.	 ¿Qué relación tiene su vivienda con la 
+comunidad?
+9.	 Del 1-10 ¿qué tan social considera su vivienda?
+10.	¿Qué importancia le daría al campo y a la 
+identidad campesina?
+1.	 ¿Cuál es su oficio? (Oficio productivo y 
+constructivo)
+2.	 Descripción del oficio constructivo. ¿En qué 
+consiste?
+3.	 ¿Dónde aprendió ese oficio o quién se lo 
+enseñó?
+4.	 ¿Por qué construyen de esa manera?
+5.	 ¿De dónde obtienen los materiales y qué tan 
+fácil es adquirirlos?
+6.	 ¿Qué tan durable es ese método constructivo?
+7.	 ¿Qué otros oficios constructivos conoce y 
+realiza?
+8.	 ¿Cree que tiene más experticia en uno o en 
+otro? O ¿se trata de gusto en el hacer o hay otra 
+razón por la que realiza la que usted hace?
+9.	 ¿Por qué construyó su casa ahí?
+10.	¿Cuántas personas se necesitan para construir 
+una casa? ¿Cuánto tiempo se demoran?
+11.	¿Cuáles son técnicas locales de construcción? 
+¿Existen técnicas industriales? ¿Por qué se 
+escoge la local sobre la industrial o viceversa?
+12.	¿Existe un manejo de aguas, eficiencia 
+energética, manejo de residuos, uso de 
+materiales locales y análisis de ciclos de 
+producción, confort térmico natural?
+1.	 ¿Qué aportes cree que tiene esa manera de 
+construir en su comunidad?
+2.	 ¿Qué dinámicas colectivas existen a la hora de 
+construir una casa?
+3.	 ¿Cómo se transmite el conocimiento a lo largo 
+de las generaciones? ¿Se ha mantenido el 
+conocimiento o se ha perdido con el tiempo?
+4.	 ¿Cómo se integra la comunidad durante 
+o después de este tipo de actividades 
+constructivas?
+1.	 ¿Cuántas personas viven en esta casa o 
+cuántos grupos familiares?
+2.	 ¿Cómo se definió el tamaño de la casa?, ¿ya 
+sabían que iba a abarcar esos grupos familiares 
+o se fueron adaptando?
+3.	 ¿Cómo se conforman sus dinámicas 
+habitacionales?
+4.	 ¿Qué estrategias constructivas o de convivencia 
+fueron implementándose?
+5.	 ¿Qué modos de habitar se generan?
+Taller 1. Cartografía
+Taller 2. Casa
+Taller 3. Calendario ecológico
+El objetivo es entender el territorio cercano desde la perspectiva 
+de la comunidad, anotando cuerpos de agua importantes, especies 
+de árboles típicos, familias/hogares cercanos, lugares de mayor 
+importancia personal como recursiva, etc.
+El grupo hará en una cartulina un mapa cartográfico con estos 
+aspectos. El líder no dibuja, sino el grupo.
+El objetivo es entender la arquitectura de la casa desde lo que era 
+tradicionalmente, lo que es ahora y posibilidades de estas a futuro.
+
+El grupo dividirá la cartulina en tres secciones en las que se expresen 
+estas ideas a través de dibujos y anotaciones.
+El objetivo es comprender las actividades que se realizan a lo largo del 
+año con respecto a las temporadas y momentos específicos al sitio.
+
+
+El grupo organizará la cartulina de manera que pueda especificar 
+momentos, por ejemplo, de cosecha, de construcción, etc.
+Casos de estudio
+Recurso más importante: madera y palma. 
+Dinámica: comunitaria, propias leyes.
+Límite: río Consejo
+Tradicional: techos de palma; cerramientos de adobe, palma o 
+entablado de madera; estructura de madera.
+Actual: mezcla de tradicional con VIS (techos de zinc; cerramiento de 
+bloque de ladrillo y estructura metálica o de concreto).
+Futuro: diseño que garantice la seguridad, la higiene y la frescura.
+Momentos importantes: quema del llano, luna menguante, lluvias, 
+sequías, tala del monte, festividades en diciembre, siembra óptima y 
+recolección, cosecha del moriche (palma).
+Tabla 3_ Preguntas prestablecidas para las entrevistas 
+semiestructuradas. Fuente: elaboración propia.
+Tabla 4_ Objetivos de los talleres. Fuente: elaboración 
+propia.
+Tabla 5_ Comparativo entre materiales locales y no 
+locales. Fuente: elaboración propia.
+Dearq  37
+
+=== Página 12 ===
+Descripción
+Análisis
+Económico
+Operación
+Ambiental
+Social/Cultural
+Material
+Usos
+Tipo
+Dinámica VIS
+Dinámica de autoconstrucción
+Tiempo de obra (días)
+Costos de 
+adquisición (COP)
+Vida útil 
+(años)
+Ventajas 
+operacionales
+Desventajas 
+operacionales
+Impacto
+Arraigo
+Palma
+Cubierta o 
+cerramiento
+Acopio 
+manual
+NA
+Recogido del recurso disponible cercano y adecuado manualmente a las 
+necesidades. En algunos casos, los vecinos o la comunidad apoyan la 
+construcción a cambio de que en otra oportunidad se les devuelva algún 
+favor similar. Autoconstrucción y dinámicas comunitarias/mano de obra local 
+retribuida.
+Autoconstrucción: cinco días en alistar y secar la 
+palma. Cuatro días en ensamblar, montar y amarrar. 
+Total: 9 días.
+100 000
+5-10
+Frescura
+Mal pisada requiere 
+constante renovación 
+y posibilita la invasión 
+de animales
+Positivo
+Sí
+Comprado
+Trueque con algún lote cercano y adecuado manualmente a las necesidades. 
+En algunos casos, los vecinos o la comunidad apoyan la construcción a cambio 
+de que en otra oportunidad se les devuelva algún favor similar. Comercialización 
+local, autoconstrucción y dinámicas comunitarias/mano de obra local retribuida.
+Autoconstrucción: una semana en transportar, 
+alistar y secar palma. Cuatro días en ensamblar, 
+montar y amarrar. Total: 11 días.
+Desconocido
+Madera
+Estructura o 
+cerramiento
+Acopio 
+manual
+NA
+Recogido del recurso disponible, cercano y adecuado manualmente a 
+las necesidades. En algunos casos, los vecinos o la comunidad apoyan la 
+construcción a cambio de que en otra oportunidad se les devuelva algún 
+favor similar. Autoconstrucción y dinámicas comunitarias/mano de obra local 
+retribuida.
+Autoconstrucción: una semana en cortar árboles 
+y alistar la madera. Cuatro días en construir. Total: 
+11 días.
+100 000
+50-100
+Frescura y 
+durabilidad
+Mal cortada, la 
+madera se puede 
+pudrir y llenarse de 
+insectos
+Positivo
+Sí
+Comprado
+Trueque con algún lote cercano y adecuado manualmente a las necesidades. 
+En algunos casos, los vecinos o la comunidad apoyan la construcción a cambio 
+de que en otra oportunidad se les devuelva algún favor similar. Comercialización 
+local, autoconstrucción y dinámicas comunitarias/mano de obra local retribuida.
+Autoconstrucción: semana y media en transportar 
+y alistar madera. Cuatro días en construir. Total: 
+15 días.
+Desconocido
+Adobe
+Estructura y 
+cerramiento
+Acopio 
+manual
+NA
+Recogido del recurso disponible cercano y adecuado manualmente a las 
+necesidades. En algunos casos, los vecinos o la comunidad apoyan la 
+construcción, a cambio de que en otra oportunidad se les devuelva algún 
+favor similar. Autoconstrucción y dinámicas comunitarias/mano de obra local 
+retribuida.
+Autoconstrucción: diez días en alistar y construir. 
+Total: 10 días.
+100 000
+20-30
+Frescura y 
+durabilidad
+Mal construida, puede 
+ser estructuralmente 
+insegura
+Positivo
+Sí
+Comprado
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Zinc
+Cubierta
+Acopio 
+Manual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Comprado
+Vivienda de interés 
+social. Importación de 
+materiales y mano de 
+obra local saldada.
+Importación de materiales. En algunos casos, los vecinos o la comunidad 
+apoyan la construcción, a cambio de que en otra oportunidad se les devuelva 
+algún favor similar. Comercialización no local, autoconstrucción y dinámicas 
+comunitarias/mano de obra local retribuida.
+Autoconstrucción: dos días en transportar. Cuatro 
+días en construir. Total: 6 días. 
+VIS: tres semanas en construir. Total: tres semanas. 
+Cuatro días versus 21 días.
+7 000 000
+50
+Durabilidad e 
+higiene
+Almacena demasiado 
+calor
+Negativo
+No
+Bloque de 
+ladrillo
+Estructura y 
+cerramiento
+Acopio 
+manual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Comprado
+Vivienda de interés 
+social. Importación de 
+materiales y mano de 
+obra local saldada.
+Importación de materiales. En algunos casos, los vecinos o la comunidad 
+apoyan la construcción, a cambio de que en otra oportunidad se les devuelva 
+algún favor similar. Comercialización no local, autoconstrucción y dinámicas 
+comunitarias/mano de obra local retribuida.
+Autoconstrucción: tres días en transportar. Dos 
+semanas en construir. Total: 17 días. 
+VIS: cuatro semanas en construir. Total: cuatro 
+semanas Diecisiete días versus 28 días.
+8 000 000
+50-100
+Durabilidad e 
+higiene
+Almacena demasiado 
+calor
+Negativo
+No
+Cemento
+Estructura o 
+cerramiento
+Acopio 
+manual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Comprado
+Vivienda de interés 
+social. Importación de 
+materiales y mano de 
+obra local saldada.
+Importación de materiales. En algunos casos, los vecinos o la comunidad 
+apoyan la construcción, a cambio de que en otra oportunidad se les devuelva 
+algún favor similar. Comercialización no local, autoconstrucción y dinámicas 
+comunitarias/mano de obra local retribuida.
+Autoconstrucción: tres días en transportar. Una 
+semana en construir. Total: 10 días. 
+VIS: tres semanas en construir. Total: 3 semanas. 
+Diez días versus 21 días.
+8 000 000
+50-100
+Durabilidad e 
+higiene
+Almacena demasiado 
+calor
+Negativo
+No
+Acero
+Estructura
+Acopio 
+manual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Comprado
+Vivienda de interés 
+social. Importación de 
+materiales y mano de 
+obra local saldada.
+Importación de materiales. En algunos casos, los vecinos o la comunidad 
+apoyan la construcción, a cambio de que en otra oportunidad se les devuelva 
+algún favor similar. Comercialización no local, autoconstrucción y dinámicas 
+comunitarias/mano de obra local retribuida.
+Autoconstrucción: tres días en transportar. Una 
+semana en construir. Total: 10 días. VIS: tres 
+semanas en construir. Total: 3 semanas. 
+Diez días versus 21 días.
+5 000 000
+50
+Durabilidad e 
+higiene
+Almacena demasiado 
+calor
+Negativo
+No
+investigación
+78 – 79
+

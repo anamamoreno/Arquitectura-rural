@@ -1,0 +1,2569 @@
+# Fuente: TdeG-USTA-BelendeUmbria.pdf
+# Total páginas: 72
+
+=== Página 1 ===
+1 
+ 
+ 
+ 
+ 
+REVIVIR LA ARQUITECTURA VERNÁCULA CAFETERA 
+Modelo sostenible para la vivienda rural en Belén de Umbría 
+ 
+ 
+ 
+ 
+ 
+LINA CLEMENCIA FARFÁN OSPINA 
+Trabajo de grado – Arquitectura 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Universidad Católica de Pereira 
+Facultad de Arquitectura y Diseño 
+2025 
+ 
+ 
+
+=== Página 2 ===
+2 
+ 
+ 
+AGRADECIMIENTOS 
+ 
+A mi madre, Nubia Ospina, por ser mi raíz, mi fuerza y mi mayor apoyo en cada etapa de 
+la vida. Gracias por creer en mí incluso cuando yo dudaba, por acompañarme con amor, 
+paciencia y sabiduría, y por sostenerme en los momentos más difíciles. Este logro también 
+es tuyo. 
+A los arquitectos Lorenzo Fonseca, Gustavo Correa y Juan Carlos González, por su 
+guía, conocimiento y generosidad al compartir su experiencia durante el desarrollo de este 
+trabajo. Su acompañamiento fue fundamental para transformar una idea en una propuesta 
+arquitectónica con sentido y compromiso. 
+A todas las personas que, de una u otra forma, contribuyeron a la culminación de mis 
+estudios. A mis amigos, profesores, compañeros de clase, y a quienes me inspiraron desde 
+el silencio o desde la distancia. Cada palabra de aliento, cada gesto, cada conversación 
+quedó sembrada en este camino. 
+Y finalmente, a la tierra y a las montañas que me vieron crecer y que me enseñaron a habitar 
+el mundo con respeto, sensibilidad y esperanza. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 3 ===
+3 
+ 
+RESUMEN 
+ 
+Este trabajo investigativo y proyectual se enfoca en la vivienda rural en Belén de Umbría, 
+Risaralda, dentro del Paisaje Cultural Cafetero colombiano. A partir del análisis territorial, 
+normativo y tipológico, se examina el déficit habitacional rural —predominantemente 
+cualitativo— y su impacto en la calidad de vida campesina. El estudio se basa en tres 
+viviendas vernáculas ubicadas en una finca familiar, que permiten identificar patrones 
+espaciales y constructivos tradicionales, con materiales como guadua y bahareque. A partir 
+de estos referentes, se formula una propuesta arquitectónica sostenible, contextual y 
+replicable, que integra principios de bioclimática, autoconstrucción progresiva y 
+aprovechamiento de recursos locales. El proyecto busca promover soluciones dignas y 
+culturalmente pertinentes, que fortalezcan la permanencia en el territorio y reduzcan la 
+huella ecológica. Así, se aporta al debate sobre arquitectura rural, sostenibilidad e 
+identidad, contribuyendo al desarrollo de políticas habitacionales más integrales y 
+sensibles a la realidad del campo colombiano. 
+ABSTRACT 
+This research and design-based project focuses on rural housing in Belén de Umbría, 
+Risaralda, located in the heart of Colombia’s Coffee Cultural Landscape. Through 
+territorial, regulatory, and typological analysis, it explores the rural housing deficit—
+primarily qualitative—and its impact on the quality of life for farming families. The study 
+is grounded in three traditional homes located on a family farm, which serve as vernacular 
+references to identify spatial and constructive patterns, using materials such as guadua and 
+bahareque. Based on these examples, a sustainable, context-specific, and replicable 
+housing prototype is developed, integrating bioclimatic strategies, progressive self-
+construction, and the use of local resources. The project aims to offer dignified and 
+culturally relevant solutions that strengthen rural permanence and reduce ecological 
+impact. Ultimately, it contributes to the discussion on rural architecture, sustainability, and 
+identity, advocating for more integrated and sensitive housing policies that align with the 
+socio-economic and cultural realities of Colombia’s rural regions. 
+ 
+
+=== Página 4 ===
+4 
+ 
+ 
+TABLA DE CONTENIDO 
+ 
+AGRADECIMIENTOS .......................................................................................... 2 
+RESUMEN ........................................................................................................ 3 
+TABLA DE CONTENIDO ..................................................................................... 4 
+1. 
+INTRODUCCIÓN .......................................................................................... 7 
+2. PLANTEAMIENTO DEL PROBLEMA ............................................................... 9 
+2.1 ANTECEDENTES. ....................................................................................... 9 
+2.2 CONTEXTO .............................................................................................. 12 
+2.3 PREGUNTA DE INVESTIGACIÓN ............................................................ 19 
+3. HIPOTESIS ..................................................................................................... 20 
+3.1 Objetivo general .......................................................................................... 20 
+3.2 Objetivos específicos ............................................................................... 20 
+4. METODOLOGIA ............................................................................................ 21 
+5. 
+JUSTIFICACIÓN ......................................................................................... 25 
+6. MARCO TEORICO CONCEPTUAL ................................................................. 27 
+7. MARCO NORMATIVO ................................................................................... 39 
+8. RESULTADOS .............................................................................................. 46 
+8.1 Diagnóstico territorial .................................................................................. 46 
+8.2 Categorías de Investigación .......................................................................... 47 
+8.3 Propuesta arquitectónica .............................................................................. 54 
+9. CONCLUSIONES .......................................................................................... 68 
+9. REFERENCIAS BIBLIOGRAFICAS ............................................................... 70 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 5 ===
+5 
+ 
+LISTA DE ILUSTRACIONES 
+ 
+ILUSTRACIÓN 1 EVOLUCIÓN DE NECESIDADES BÁSICAS INSATISFECHAS 
+(NBI),SEGÚN ÁREA.COLOMBIA,1985–2018. ..................................................... 10 
+ILUSTRACIÓN 2 DÉFICIT CUANTITATIVO Y CUALITATIVO RURAL POR 
+DEPARTAMENTOS, 2018. .................................................................................. 11 
+ILUSTRACIÓN 3 DÉFICIT HABITACIONAL RURAL POR MUNICIPIO 2018. ..... 13 
+ILUSTRACIÓN 4 PLANTA ARQUITECTÓNICA CASA 1 .................................... 51 
+ILUSTRACIÓN 5 ESTADO CONSTRUCTIVO CASA 1 ........................................ 51 
+ILUSTRACIÓN 6 RELACIÓN DE LA VIVIENDA CON EL PAISAJE .................... 52 
+ILUSTRACIÓN 7 ESTRUCTURA ESPACIAL LINEAL CON ESPACIO 
+INTERMEDIO ARTICULADOR .......................................................................... 53 
+ILUSTRACIÓN 8 LOCALIZACIÓN DEL PROYECTO ........................................ 54 
+ILUSTRACIÓN 9 RELACIÓN ACTIVIDAD–TÉCNICA–ESPACIO ....................... 55 
+ILUSTRACIÓN 10 ESTRATEGIAS PROYECTUALES ......................................... 56 
+ILUSTRACIÓN 11 IMPLANTACIÓN EN EL TERRENO ...................................... 58 
+ILUSTRACIÓN 12 SISTEMA ESTRUCTURAL RELACIONES ESPACIALES Y 
+ÁREAS DE LA VIVIENDA: EL CORREDOR COMO ESPACIO ARTICULADOR .. 60 
+ILUSTRACIÓN 13 PLANTA DE LA VIVIENDA: INTEGRACIÓN CON EL PAISAJE 
+INMEDIATO ...................................................................................................... 61 
+ILUSTRACIÓN 14 SISTEMA DE CUBIERTA ...................................................... 62 
+ ILUSTRACIÓN 15 SISTEMA ESTRUCTURAL DEL PISO Y ORGANIZACIÓN 
+ESPACIAL DE LA VIVIENDA ............................................................................ 63 
+ILUSTRACIÓN 16  SISTEMA ESTRUCTURAL PLANTA DEL PRIMER PISO ...... 64 
+ILUSTRACIÓN 17 SECCIONES ARQUITECTÓNICAS Y CONFIGURACIÓN 
+ESPACIAL DE LA VIVIENDA ............................................................................ 65 
+ILUSTRACIÓN 18 SECCIÓN LONGITUDINAL: RELACIÓN CON EL TERRENO Y 
+ACCESO A LA VIVIENDA ................................................................................. 66 
+ILUSTRACIÓN 19 SECCIÓN LONGITUDINAL: RECORRIDO Y RELACIÓN CON 
+EL PAISAJE ....................................................................................................... 67 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 6 ===
+6 
+ 
+LISTA DE TABLAS 
+ 
+TABLA 1 EVOLUCIÓN DE NBI POR COMPONENTES EN ÁREAS RURALES 
+1985-2018. ........................................................................................................ 11 
+TABLA 2 PRINCIPALES NORMAS Y PROGRAMAS DE VIVIENDA RURAL EN 
+COLOMBIA ....................................................................................................... 39 
+TABLA 3 CLASIFICACIÓN TIPOLÓGICA DE VIVIENDAS RURALES 
+CAFETERAS ...................................................................................................... 47 
+ 
+ 
+ 
+
+=== Página 7 ===
+7 
+ 
+1. INTRODUCCIÓN 
+ 
+La vivienda rural en Colombia ha sido históricamente marginada tanto en las políticas 
+públicas como en el diseño arquitectónico. Mientras las viviendas urbanas han contado con 
+subsidios, financiación y procesos de planificación institucional, en el campo muchas veces 
+las soluciones habitacionales son autogestionadas, improvisadas o están en estado de 
+abandono. Esta situación se ve agravada por la migración de los habitantes rurales hacia 
+las ciudades, el uso de técnicas constructivas no sostenibles y la falta de atención estructural 
+por parte del Estado. 
+A pesar de su importancia como espacio de abrigo, producción y arraigo cultural, la 
+vivienda rural no ha sido objeto de una intervención integral desde la arquitectura. En este 
+contexto, resulta urgente proponer alternativas sostenibles y culturalmente apropiadas que 
+respondan a las condiciones reales del territorio, el clima, la economía campesina y los 
+saberes locales, con el fin de mejorar la calidad de vida en el campo. 
+El déficit habitacional rural presenta dos dimensiones. Por un lado, el déficit cuantitativo, 
+que hace referencia a la insuficiencia en el número de viviendas nuevas disponibles, 
+generando situaciones de hacinamiento, cohabitación o falta de vivienda propia. Por otro 
+lado, el déficit cualitativo se refiere al mal estado de las viviendas existentes y a la carencia 
+de servicios públicos esenciales como agua potable, saneamiento, energía, infraestructura 
+vial y acceso a salud o educación. 
+Según cifras del Departamento Administrativo Nacional de Estadística (DANE, 2024), el 
+déficit habitacional general en Colombia es del 26.8%. En el sector urbano es del 7.3%, 
+mientras que en la zona rural alcanza el 62.1%, de los cuales más del 70% corresponde 
+al déficit cualitativo, y el 27.2% al déficit cuantitativo. Estas cifras evidencian una crisis 
+estructural en el acceso a una vivienda adecuada en el campo colombiano. 
+En particular, en la zona cafetera se identifican problemáticas como cimentaciones 
+inadecuadas por la topografía, cubiertas y muros en mal estado debido al envejecimiento 
+de los materiales o la falta de mantenimiento, y afectaciones estructurales por 
+
+=== Página 8 ===
+8 
+ 
+asentamientos, humedad o la cercanía con instalaciones productivas como graneros o 
+establos. 
+Ante esta realidad, el presente trabajo plantea una investigación de enfoque teórico-
+proyectual orientada al desarrollo de una propuesta de vivienda vernácula sostenible para 
+el municipio de Belén de Umbría, en el departamento de Risaralda. Esta propuesta se 
+fundamenta en el estudio de tres viviendas ubicadas en una finca cafetera familiar, las 
+cuales sirven como referentes para el análisis espacial, material, constructivo y cultural. A 
+partir de este análisis se formula una propuesta de diseño replicable que contribuya al 
+mejoramiento del hábitat rural, integrando criterios de sostenibilidad ambiental, 
+pertinencia cultural y fortalecimiento de la identidad territorial en el Paisaje Cultural 
+Cafetero. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 9 ===
+9 
+ 
+2. PLANTEAMIENTO DEL PROBLEMA 
+ 
+2.1 ANTECEDENTES. 
+ 
+Déficit Habitacional Rural en Colombia: Problemática y Retos en el Contexto 
+Cafetero Magnitud del Déficit Habitacional Rural 
+ 
+Colombia enfrenta un déficit habitacional alto y persistente, especialmente en las zonas 
+rurales. En 2024, más de una cuarta parte de los hogares (26,8%) vivía en condiciones de 
+déficit habitacional, aunque con una leve mejora frente a 2023 (28,9%). Esta cifra agregada 
+esconde una brecha urbano-rural dramática: en las ciudades el déficit se redujo a ~17,3%, 
+mientras que en el campo supera el 61%. En otras palabras, seis de cada diez familias 
+campesinas habitan viviendas inadecuadas o insuficientes, frente a menos de dos de cada 
+diez en entornos urbanos (Departamento Administrativo Nacional de Estadística [DANE], 
+2024; Ministerio de Vivienda, Ciudad y Territorio [Minvivienda], 2021). 
+ 
+El déficit habitacional se descompone en cuantitativo (hogares que necesitan una vivienda 
+nueva) y cualitativo (viviendas existentes con carencias de calidad, espacio o servicios). A 
+nivel nacional predomina el déficit cualitativo (20,0% de los hogares en 2024) sobre el 
+cuantitativo (6,8%). En el medio rural, cerca del 70% del déficit es de tipo cualitativo, lo 
+que equivale a unos 42% de hogares rurales con viviendas deterioradas o precarias, versus 
+~20% que carecen de vivienda adecuada (déficit cuantitativo). Esta distribución contrasta 
+con la urbana, donde el déficit cuantitativo es minoritario (solo ~2,8% de hogares urbanos 
+en 2024). La fuerte incidencia del déficit cualitativo rural indica que, más que ausencia 
+total de vivienda, el problema principal es la mala calidad de las construcciones existentes 
+y la falta de condiciones habitacionales dignas en el campo (Minvivienda, 2021; DANE, 
+2024). 
+ 
+Rezago en Condiciones de Vida Rural (Indicadores NBI) 
+Los indicadores de Necesidades Básicas Insatisfechas (NBI) reflejan las brechas profundas 
+entre el campo y la ciudad en términos de vivienda y bienestar. Colombia logró reducir 
+sustancialmente la pobreza multidimensional en décadas recientes; entre 1985 y 2018 el 
+índice nacional de NBI cayó de 43,2% a 14,1% (una reducción de 67%) (Ministerio de 
+Vivienda, 2021).. Sin embargo, la mejoría no fue homogénea: en 2018 el NBI urbano bajó 
+a 9,4%, mientras que el NBI rural permaneció en 30,2%. Aún existía entonces una brecha 
+de ~21 puntos porcentuales en desmedro de las zonas rurales, lo que evidencia rezagos 
+estructurales en las condiciones de vida campesinas. La Figura 1 ilustra esta evolución 
+
+=== Página 10 ===
+10 
+ 
+histórica: la brecha urbano-rural, si bien ha disminuido (de ~36 puntos porcentuales en los 
+años 80 a ~21 puntos en 2018), sigue siendo marcada. 
+ 
+ 
+Ilustración 1 EVOLUCIÓN DE NECESIDADES BÁSICAS INSATISFECHAS (NBI),SEGÚN 
+ÁREA.COLOMBIA,1985–2018. 
+Fuente: Departamento Administrativo Nacional de Estadística, 2020. En Plan Nacional de Construcción y 
+Mejoramiento 
+de 
+Vivienda 
+Social 
+Rural 
+- 
+PNVISR 
+(2021) 
+ 
+La Figura 1 (datos DANE) ilustra esta evolución histórica del NBI urbano vs. rural, 
+mostrando que si bien la brecha se redujo (de ~36 puntos en los 80 a ~21 puntos en 2018), 
+sigue siendo marcada. En particular, el componente habitacional del NBI ha avanzado más 
+lento en lo rural. La Tabla 1 desagrega los componentes del NBI rural entre 1985 y 2018: 
+se observa que los mayores rezagos actuales corresponden a vivienda inadecuada y 
+dependencia económica de los hogares rurales. Por ejemplo, en 2018 todavía 13,6% de los 
+hogares rurales habitaban en viviendas inadecuadas (construcciones en materiales 
+deficientes o improvisados), comparado con solo 2,9% de hogares urbanos en esa situación. 
+Asimismo, 8,8% de los hogares rurales carecían de servicios básicos adecuados (agua 
+potable, saneamiento, energía), frente a apenas ~2% en cabeceras. Otros indicadores 
+muestran disparidades similares en hacinamiento crítico (9,4% rural vs 2,5% urbano en 
+2018). Estos datos confirman que el déficit habitacional rural es multidimensional: no se 
+trata únicamente de construir más casas, sino de abordar carencias de calidad constructiva, 
+saneamiento básico, acceso a agua y otros servicios que históricamente han aquejado al 
+campesinado colombiano. 
+ 
+
+=== Página 11 ===
+11 
+ 
+ 
+COMPONENTE DE NBI 
+1985 
+1993 
+2005 
+2018 
+Vivienda Inadecuada 
+25,9% 
+23,7% 
+28,3% 
+13,6% 
+Servicios básicos insuficientes 48,9% 
+19,2% 
+14,8% 
+8,7% 
+Hacinamiento 
+25,9% 
+24,4% 
+19,5% 
+9,6% 
+Inasistencia escolar 
+30,8% 
+16,4% 
+7,3% 
+3,1% 
+Dependencia económica 
+19,5% 
+23,3% 
+23,6% 
+10,5% 
+ 
+Tabla 1 EVOLUCIÓN DE NBI POR COMPONENTES EN ÁREAS RURALES 1985-2018. 
+Fuente: Departamento Administrativo Nacional de Estadística, 2021. En Plan Nacional de Construcción y 
+Mejoramiento de Vivienda Social Rural - PNVISR (2021) 
+ La vivienda rural típica presenta múltiples privaciones simultáneas que afectan la dignidad 
+y calidad de vida. 
+ 
+ 
+ 
+Ilustración 2 DÉFICIT CUANTITATIVO Y CUALITATIVO RURAL POR DEPARTAMENTOS, 2018. 
+Fuente: Departamento Administrativo Nacional de Estadística, 2018. Recuperado y Modificado: Ministerio 
+de Vivienda, Ciudad y Territorio, 2020. En Plan Nacional de Construcción y Mejoramiento de Vivienda 
+Social Rural - PNVISR (2021) 
+
+=== Página 12 ===
+12 
+ 
+ 
+2.2 CONTEXTO 
+ 
+Caso de Estudio Belén de Umbría. 
+Belén de Umbría, municipio cafetero de Risaralda, ejemplifica la magnitud y 
+características del déficit de vivienda rural. Según el censo de 2018, aproximadamente 4 
+de cada 10 hogares de Belén de Umbría presentaban déficit habitacional (39,4%), 
+prevaleciendo abrumadoramente el déficit cualitativo. En concreto, solo el 3,6% de los 
+hogares carecía de una vivienda digna (déficit cuantitativo), pero un 35,8% enfrentaba 
+carencias cualitativas en su vivienda (techos, pisos o muros en mal estado, cocinas 
+inadecuadas, falta de baño, hacinamiento mitigable, etc.). Esta cifra local de déficit 
+cualitativo supera incluso el promedio nacional cualitativo (26,8%), evidenciando el mayor 
+rezago de las áreas rurales cafeteras en materia de hábitat (DANE, 2019; Ministerio de 
+Vivienda, 2021). 
+Belén de Umbría se caracteriza por una población dispersa en veredas de difícil acceso y 
+una economía predominantemente agrícola (caficultura). Las condiciones de 
+infraestructura básica son limitadas, lo que incide directamente en la calidad de las 
+viviendas rurales. La cobertura de servicios públicos en las veredas es baja y las vías 
+terciarias están en mal estado, dificultando el transporte de materiales de construcción y la 
+ejecución de proyectos de vivienda. De hecho, a nivel nacional solo 10% de los 142.284 
+km de vías terciarias está en buen estado, lo que aisla a muchas comunidades. Además, 
+gran parte de los hogares rurales en Colombia aún cocinan con leña – se estima que 1,5 
+millones de familias dependen de leña para preparar sus alimentos – debido a la falta de 
+conexión a gas domiciliario. Estas carencias estructurales en infraestructura y servicios no 
+solo agravan las condiciones de salubridad y confort de las viviendas, sino que encarecen 
+y complican cualquier iniciativa de mejoramiento habitacional: construir o renovar una 
+casa en una vereda remota implica mayores costos de transporte, problemas logísticos y 
+ausencia de proveedores locales, factores que históricamente han frenado la reducción del 
+déficit rural. 
+ 
+ 
+
+=== Página 13 ===
+13 
+ 
+ 
+Ilustración 3 DÉFICIT HABITACIONAL RURAL POR MUNICIPIO 2018. 
+Fuente: Departamento Administrativo Nacional de Estadística, 2018. Recuperado y Modificado: Ministerio 
+de Vivienda, Ciudad y Territorio, 2020. Fuente: Departamento Administrativo Nacional de Estadística, 2018. 
+Recuperado y Modificado: Ministerio de Vivienda, Ciudad y Territorio, 2020. 
+ 
+ 
+
+=== Página 14 ===
+14 
+ 
+Factores Socioeconómicos y Culturales del Déficit Rural 
+Más allá de la infraestructura, existen desafíos socioeconómicos y culturales en el contexto 
+rural colombiano que complejizan el problema habitacional. En las zonas campesinas 
+predominan los ingresos bajos e informales: muchas familias dependen de jornales 
+agrícolas, cultivos de subsistencia o pequeños ingresos que son inestables. Se calcula que 
+casi 90% de los hogares rurales perciben ingresos inferiores a dos salarios mínimos, y la 
+gran mayoría trabaja en la informalidad, sin acceso fácil a crédito. Esta fragilidad 
+económica conlleva que numerosas viviendas sean autoconstruidas gradualmente con 
+materiales de baja calidad, conforme la familia puede ahorrar o conseguir insumos. Tal 
+proceso incremental, sin asistencia técnica, perpetúa el déficit cualitativo: las casas se 
+amplían o reparan con bahareque, madera rústica, latas y otros materiales provisionales, lo 
+que las deja vulnerables. 
+Adicionalmente, las dinámicas culturales rurales difieren de las urbanas. La vivienda 
+campesina no solo sirve de habitación, sino también de centro productivo y comunitario. 
+Por ejemplo, en familias cafeteras la casa suele integrar espacios para el beneficio del café 
+(secado, almacenamiento de granos), zonas para cría de animales de corral, 
+almacenamiento de insumos agrícolas, e incluso áreas de reunión comunitaria. Estos usos 
+múltiples rara vez son considerados en los diseños de vivienda de interés social 
+estandarizados de origen urbano. Cuando se implementan en el campo soluciones de 
+vivienda pensadas para la ciudad, a menudo fracasan en adaptarse a la vida cotidiana rural. 
+Vale citar un caso revelador documentado en Urabá: un campesino recibió una casa nueva 
+“de material” por un programa estatal, pero terminó usándola como bodega y regresó a 
+vivir a su antigua vivienda de bahareque. La vivienda entregada, si bien era físicamente 
+“mejor” según estándares urbanos, no correspondía a sus necesidades culturales ni al clima 
+local, resultándole poco funcional. Como señala Francesco Orsini (director de Hábitat de 
+Comfama), uno de los problemas de Colombia es seguir llevando al campo viviendas que 
+no responden a las necesidades culturales, geográficas y climáticas de esas poblaciones. 
+Es inútil invertir millones en prototipos urbanos estandarizados que no se ajustan a las 
+lógicas rurales — se prioriza la estética sobre la funcionalidad y la calidad de uso. En el 
+paisaje cafetero, por ejemplo, persisten tradiciones constructivas como el bahareque 
+(estructura en entramado de caña y barro) que han probado ser climáticamente adecuadas 
+y culturalmente significativas. Ignorar estas tradiciones y condiciones locales conduce a 
+soluciones habitacionales poco apropiadas, que las comunidades no llegan a apropiar 
+plenamente. 
+Por otro lado, en el contexto cafetero regional existe un entramado institucional que puede 
+ser parte de la solución, pero con alcances limitados. Los Comités de Cafeteros, instancias 
+gremiales de la Federación Nacional de Cafeteros, han jugado históricamente un rol en 
+apoyar el desarrollo rural local. A través del Fondo Nacional del Café y convenios con 
+gobiernos locales, estos comités han cofinanciado numerosas obras de infraestructura rural 
+
+=== Página 15 ===
+15 
+ 
+– desde caminos veredales (placas huella) y puentes, hasta escuelas y acueductos 
+comunitarios – buscando mejorar el bienestar de la población caficultora. En materia de 
+vivienda, si bien los Comités no son constructores de vivienda por sí solos, sí han 
+participado en programas de mejoramiento de vivienda rural y saneamiento básico en 
+coordinación con entidades gubernamentales (p. ej. proyectos conjuntos con el Fondo 
+Nacional del Café, gobiernos departamentales, Agencias de Desarrollo Rural, etc.). 
+Extensionistas cafeteros asesoran a las familias en mejoras locativas y, en algunos casos, 
+se han otorgado créditos blandos para adecuar fincas y viviendas. No obstante, la escala 
+del déficit habitacional excede con creces las capacidades gremiales. Las soluciones 
+requieren una coordinación multisectorial mucho mayor. Es revelador que, pese a la 
+existencia de programas gubernamentales dirigidos al campo (como Mi Casa Ya Rural para 
+vivienda nueva o Cambia Mi Casa para mejoramientos), los avances en vivienda rural han 
+sido muy limitados en los últimos años. 
+Lentitud en la Ejecución de Políticas de Vivienda Rural 
+El rezago del hábitat rural también se explica por la dificultad de ejecutar los programas 
+públicos de vivienda en el campo. Las cifras recientes lo demuestran: en 2023 el Gobierno 
+Nacional lanzó el programa Cambia Mi Casa con la meta de 100 mil subsidios anuales de 
+mejoramiento de vivienda rural, pero solo se lograron otorgar 115 subsidios de 
+mejoramiento en zona rural en todo el año, frente a 3.343 subsidios equivalentes entregados 
+en zona urbana. Esta brecha abismal indica que, por cada mejora de vivienda efectuada en 
+el campo, se realizaron casi 30 en las ciudades. De igual forma, en vivienda nueva social 
+(Mi Casa Ya), de 75.000 subsidios entregados en 2023 apenas 2.413 beneficiaron a hogares 
+rurales (3,2%). En contraste, el 97% de esos subsidios quedaron en ámbitos urbanos. 
+¿Por qué es tan difícil materializar las soluciones habitacionales en el campo? Diversos 
+factores operativos y de mercado han conspirado contra ello: la baja presencia de 
+constructores y contratistas en áreas rurales, los sobrecostos de transporte de materiales a 
+veredas apartadas, trámites engorrosos de legalización de predios (muchas familias rurales 
+no tienen títulos de propiedad formal, lo que les impide acceder a subsidios), y la dispersión 
+geográfica de las viviendas a intervenir (lo que hace ineficiente la construcción a escala). 
+Por ejemplo, el Ministerio de Vivienda exige que, para otorgar subsidios de vivienda de 
+interés social rural, el lote beneficiado cuente previamente con disponibilidad de servicios 
+públicos (agua, energía, manejo de residuos). Esta condición, lógica en teoría, es en la 
+práctica un obstáculo enorme dado que las familias solicitantes suelen no contar con tales 
+servicios básicos en sus parcelas, perpetuando un círculo vicioso. Cuando por fin se 
+asignan subsidios, muchas veces no llegan a ejecutarse: numerosos casos documentados 
+muestran familias que llevan años esperando la construcción o mejoramiento prometido, 
+sin avances en obra. En Apartadó (Urabá antioqueño), por ejemplo, hay viviendas rurales 
+que quedaron a medio construir y hoy lucen abandonadas, invadidas por la maleza, porque 
+el proyecto oficial se paralizó. “Sacan proyectos, la gente sale beneficiada, pero no los 
+
+=== Página 16 ===
+16 
+ 
+terminan... ¿para dónde se va esa plata?” es el reclamo de una de las afectadas. Tal 
+situación alimenta la frustración y la sensación de abandono estatal en el campo. 
+Incluso altas autoridades lo han reconocido. La exministra de Agricultura Jhenifer Mojica 
+señaló en 2023 que “hace seis años no se ejecutan proyectos de vivienda rural”, 
+acumulándose deudas con campesinos que “tumbaron sus casas esperando [la nueva] y no 
+llegó; se han centrado solo en las ciudades. Este vacío en la política pública rural ha dejado 
+un grave rezago: más de 2,4 millones de familias campesinas siguen sin un techo digno. 
+En consecuencia, el paisaje rural colombiano está salpicado de viviendas semiconstruidas 
+o mejoramientos inconclusos, símbolos de promesas incumplidas. Para el gremio 
+constructor, la baja densidad poblacional y la falta de infraestructura en el campo afectan 
+la viabilidad de los proyectos – no es posible lograr economías de escala, y los márgenes 
+financieros son muy estrechos, por lo que sin subsidios más altos nadie construye allí. Casi 
+la totalidad de los hogares rurales dependen de algún apoyo estatal para mejorar su 
+vivienda, dado sus bajos ingreso. Esto subraya la necesidad de un mayor esfuerzo público: 
+“¿Cómo reducir el déficit en suelo rural si no hay subsidios?” se pregunta el presidente 
+de Camacol, enfatizando que se requiere un amplio despliegue de financiación pública y 
+modelos especiales para estas zonas. 
+En definitiva, el problema de la vivienda rural cafetera es estructural y profundamente 
+arraigado, resultado de décadas de políticas públicas urbanocéntricas, débil inversión en el 
+campo y modelos de intervención inapropiados para la realidad rural. Como resume Orsini, 
+nos hemos concentrado tanto en la urbanización acelerada que olvidamos nuestros 
+compromisos habitacionales en el campo. En los últimos años se han dado algunos pasos 
+para saldar esta deuda histórica – por ejemplo, el Acuerdo de Paz de 2016 incluyó en su 
+punto 1 el mandato de crear un Plan Nacional de Vivienda Social Rural (PNVISR) con 
+soluciones adecuadas a cada regió. Dicho plan se formuló en 2017-2020 y se incorporó 
+como Política Pública de Vivienda Rural, pero su implementación ha sido lenta y todavía 
+insuficiente persisten vacíos que requieren acciones más decididas. 
+Sostenibilidad y Resiliencia Ambiental de la Vivienda Rural 
+Un aspecto transversal que agrava la problemática habitacional rural es la alta 
+vulnerabilidad ambiental de las poblaciones campesinas. Muchas comunidades habitan en 
+zonas frágiles o de alto riesgo frente a amenazas naturales como inundaciones, 
+deslizamientos, sequías prolongadas y vendavales. Estas condiciones se han intensificado 
+con los efectos del cambio climático. Según la Encuesta Nacional de Calidad de Vida 
+2022, aproximadamente el 9,5% de los hogares rurales reportó haber enfrentado eventos 
+climáticos adversos que afectaron directamente sus condiciones de vida (DANE, 2023). 
+Un ejemplo claro es el caso de La Mojana, una región en la Depresión Momposina que 
+sufre periódicas inundaciones. Allí, las viviendas tradicionales tipo palafito (elevadas sobre 
+
+=== Página 17 ===
+17 
+ 
+pilotes) son una respuesta adaptativa ancestral al riesgo hídrico, pero muchas de las 
+soluciones habitacionales modernas ignoran este saber territorial y resultan ineficaces 
+(Fonseca & Saldarriaga, 2004). Del mismo modo, en las laderas andinas se requieren 
+viviendas con estructuras sismo-resistentes y obras de estabilización del terreno; en zonas 
+de páramo, materiales con aislamiento térmico adecuado; en áreas sin conexión a red 
+eléctrica, sistemas autónomos de energía limpia como paneles solares; y en regiones de 
+alta pluviosidad, cubiertas con recolección de aguas lluvias. 
+Estas estrategias de adaptación territorial no son un lujo arquitectónico, sino una condición 
+esencial para garantizar la seguridad, durabilidad y habitabilidad de las viviendas rurales 
+en un país altamente diverso geográficamente. Como destaca el Plan Nacional de 
+Construcción y Mejoramiento de Vivienda Social Rural (PNVISR), las soluciones deben 
+responder a criterios bioclimáticos, culturales y de sostenibilidad ambiental, integrando 
+saberes locales y tecnologías apropiadas (Minvivienda, 2021). En este sentido, construir 
+viviendas rurales resilientes contribuye no solo a prevenir pérdidas materiales y vidas 
+humanas, sino también a fortalecer el arraigo y la permanencia digna de las comunidades 
+en sus territorios. 
+Por tanto, cualquier propuesta arquitectónica para vivienda rural debe integrar criterios de 
+sostenibilidad y resiliencia climática. Esto implica diseño bioclimático, uso de técnicas y 
+materiales locales, y equipamiento eco-amigable (páneles solares, recolección de aguas 
+lluvias, bio-digestores, etc.). El Gobierno Nacional ha reconocido esta necesidad: 
+recientemente, los programas de mejoramiento de vivienda han empezado a incorporar 
+componentes de sostenibilidad. Por ejemplo, el nuevo Programa de Mejoramiento de 
+Vivienda 2025 incluye la instalación de paneles solares en techos y sistemas de recolección 
+de agua lluvia, buscando mejorar la calidad de vida de los hogares vulnerables con energías 
+limpias y abastecimiento de agua alternativo. No obstante, estos lineamientos aún deben 
+traducirse en proyectos reales en el territorio. La realidad es que, hasta hoy, el país carece 
+de una oferta especializada y capacidad instalada para construir vivienda rural sostenible a 
+gran escala. La arquitectura sostenible en el campo no es un lujo, sino una urgencia: los 
+efectos del cambio climático ya están golpeando al hábitat rural (riadas que destruyen 
+casas, cosechas arruinadas por sequías, etc.), amenazando con agravar la precariedad 
+existente. Fortalecer la resiliencia de las viviendas rurales es también proteger la seguridad 
+y el arraigo de las comunidades campesinas en su territorio. 
+Hacia una Vivienda Rural Digna, Pertinente y Sostenible 
+El déficit habitacional rural en Colombia – y específicamente en el contexto cafetero de 
+Belén de Umbría – es un problema complejo y multidimensional. No se limita a la escasez 
+de unidades de vivienda, sino que engloba la falta de calidad de las construcciones 
+existentes, la carencia de servicios básicos, las dificultades económicas de los hogares, las 
+brechas institucionales en la ejecución de políticas y las particularidades culturales y 
+
+=== Página 18 ===
+18 
+ 
+ambientales del campo colombiano. Esta problemática, por su magnitud, deteriora la 
+calidad de vida rural y contribuye a fenómenos sociales preocupantes como la migración 
+campo-ciudad y el despoblamiento de las zonas agrícolas. Diversos estudios han señalado 
+que las malas condiciones de vivienda y hábitat inciden en la pérdida de “permanencia 
+campesina”: las nuevas generaciones rurales tienden a abandonar el campo en busca de 
+mejor bienestar en las ciudades si no encuentran en su lugar de origen un entorno digno, 
+con oportunidades y servicios comparables. Mejorar la vivienda rural, entonces, impacta 
+directamente la equidad territorial y el desarrollo sostenible del país, pues contribuye a 
+cerrar brechas históricas entre el campo y la ciudad. 
+El Estado colombiano ha comenzado a dar pasos en esa dirección. El mencionado Plan 
+Nacional de Vivienda Social Rural (PNVISR) surgido del Acuerdo de Paz busca atender 
+la deuda histórica con el campo, planteando estrategias y acciones para disminuir el déficit 
+cualitativo y cuantitativo en zonas rurales. Sin embargo, los avances han sido lentos y 
+todavía insuficientes para cambiar la realidad en el terreno. Se requiere una visión integral 
+e innovadora que aborde las múltiples aristas del problema. En este sentido, se justifica 
+plenamente la propuesta arquitectónica planteada en esta tesis: desarrollar un modelo de 
+vivienda rural sostenible, adecuado al entorno cafetero de Belén de Umbría, que pueda 
+servir como referente replicable en la región. La intención es que, a través de un diseño 
+participativo y contextualizado – que dialogue con la comunidad, respete la cultura local 
+(ej. técnicas en bahareque, estética del paisaje cultural cafetero) y se adapte al medio 
+ambiente – se logre una solución habitacional pertinente y de calidad. Solo mediante 
+iniciativas integrales de esta naturaleza será posible enfrentar efectivamente el déficit de 
+vivienda rural y garantizar un hábitat digno para las familias campesinas. En última 
+instancia, mejorar la vivienda rural no solo significa construir casas, sino construir futuro 
+en el campo colombiano: lograr que más familias puedan prosperar en su terruño, con 
+bienestar y seguridad, frenando el éxodo rural y fortaleciendo el desarrollo equilibrado del 
+país. 
+ 
+ 
+
+=== Página 19 ===
+19 
+ 
+2.3 PREGUNTA DE INVESTIGACIÓN 
+ 
+¿Cuáles son los elementos arquitectónicos y espaciales esenciales de la vivienda rural 
+cafetera, y de qué manera pueden integrarse en adecuaciones o nuevas propuestas 
+habitacionales que respondan a las condiciones específicas del territorio y a su relación con 
+la producción de la tierra como una unidad funcional vinculada a la tenencia? 
+ 
+ 
+
+=== Página 20 ===
+20 
+ 
+3. HIPOTESIS 
+ 
+La vivienda rural cafetera se configura como una unidad funcional determinada por 
+elementos arquitectónicos y espaciales esenciales —como la disposición central de la 
+cocina, los corredores perimetrales, los espacios de almacenamiento y las áreas de 
+integración productiva— que, al ser adaptados e integrados en nuevas propuestas 
+habitacionales, permiten responder a las condiciones específicas del territorio, fortalecer la 
+relación con la producción cafetera y garantizar la continuidad cultural y social de la 
+tenencia de la tierra. 
+ 
+3.1 Objetivo general 
+ 
+Desarrollar una propuesta arquitectónica de vivienda rural sostenible para la zona cafetera 
+de Belén de Umbría, Risaralda, a partir del estudio de las transformaciones espaciales, 
+constructivas y culturales de la vivienda vernácula, con el fin de garantizar condiciones 
+dignas y productivas para sus habitantes, promover el arraigo campesino y contribuir a la 
+conservación del patrimonio del Paisaje Cultural Cafetero mediante el uso de materiales 
+locales y estrategias de diseño apropiadas. 
+ 
+3.2 Objetivos específicos 
+ 
+3.2.1 Analizar las transformaciones espaciales, constructivas y culturales de tres viviendas 
+vernáculas ubicadas en la zona rural de Belén de Umbría, a partir de la caracterización de 
+sus elementos constitutivos, con el propósito de establecer criterios proyectuales que 
+contribuyan al diseño de soluciones habitacionales sostenibles y contextualizadas en 
+entornos rurales cafeteros. 
+3.2.2 Diseñar un prototipo de vivienda rural replicable, adaptado a las condiciones 
+geográficas, culturales y climáticas del Paisaje Cultural Cafetero, mediante la integración 
+de criterios de sostenibilidad ambiental y eficiencia productiva, con el fin de mejorar la 
+habitabilidad, la economía familiar y favorecer la permanencia en el territorio caficultor. 
+3.2.3 Establecer lineamientos arquitectónicos y estratégicos para la adecuación, 
+mejoramiento o construcción de viviendas rurales en el contexto del Paisaje Cultural 
+Cafetero, fundamentados en los aprendizajes derivados del análisis de referentes 
+vernáculos y en los principios de sostenibilidad, identidad cultural y arraigo territorial. 
+ 
+
+=== Página 21 ===
+21 
+ 
+4. METODOLOGIA 
+ 
+El tipo de investigación que se utilizó fue proyectual, ya que es una metodología que 
+contribuye a diseñar y desarrollar modelos o soluciones a problemas prácticos, que 
+integra el contexto disciplinar y cultural para responder a las necesidades humanas. En la 
+arquitectura la investigación proyectual  permite analizar la realidad del proyecto, se 
+integran los inputs del contexto cultural y de producción utilizando  las herramientas para 
+construir soluciones a las demandas sociales. La investigación proyectual se enfoca en 
+crear caminos como posibilidades y sistemas innovadores; en el presente estudio se 
+plantea  un prototipo de vivienda digna para los campesinos de la zona cafetera de Belén 
+de Umbría, Risaralda, que a la vez sea productiva y sostenible.  
+ 
+Además, esta investigación tiene un enfoque cualitativo y se elabora con base en un 
+análisis vivencial, salidas de campo, toma de fotografías, selección de 3 casas que 
+servirán como referentes del trabajo. La investigación se realiza en tres etapas que 
+corresponden al estudio de bibliografía y determinación de los objetivos, análisis 
+tipológico y estrategias y el prototipo de vivienda.  
+ 
+Se siguieron los siguientes pasos 
+ 
+- Procesamiento de la información existente de otros estudios similares.   
+- Identificación del problema con datos estadísticos. 
+ 
+Metodología 
+ 
+ 
+a. 
+Selección de casas referentes escogidas para el estudio tipológico y tecnológico. 
+b. 
+Definición de la región de estudio. 
+c. 
+Procesamiento de la información. 
+
+=== Página 22 ===
+22 
+ 
+d. 
+Toma de fotografías de las casas de la vereda Taparcal. La fotografía es un 
+auxiliar muy importante en este trabajo. Los datos visuales acerca del contexto 
+geográfico y de las viviendas son ricos en posibilidades de manejo y de recuperación de 
+información. la fotografía ayuda a reducir el registro manual de datos y permite ilustrar 
+ejemplos interesantes. 
+e. 
+Estudio del sistema ambiental de esta región. 
+ 
+El análisis de la información comprende el panorama tecnológico regional y la situación 
+ambiental de las viviendas. 
+ 
+Las casas tomadas como referentes presentan una serie de aspectos históricos, culturales 
+y de economía agrícola que permiten enfocar el estudio en forma integral sobre 
+fundamentos comunes. Presentan además condiciones tecnológicas propias de las 
+construcciones de viviendas. Presentan además condiciones tecnológicas propias de la 
+construcción de viviendas, especialmente uso de la madera y de la guadua.  
+ 
+La metodología incluye de análisis del contexto (paisaje cultural cafetero, arquitectura 
+tradicional, definición de objetivo de sostenibilidad y eficiencia agua y energía, diseño 
+arquitectónico basado en la orientación de la ventilación y uso de materiales locales y, 
+planificación de interacciones que garantizan servicios básicos y posibilidades 
+alternativas, solares y de recolección de agua). 
+ 
+Metodología de la investigación 
+La investigación adopta un enfoque proyectual, propio de la arquitectura, que integra los 
+aspectos culturales, técnicos y sociales para abordar problemas prácticos. Este enfoque 
+considera el contexto disciplinar y cultural como insumos fundamentales en el proceso de 
+diseño En nuestro caso se orienta al diseño de un prototipo de vivienda rural que sea a la 
+vez digna, productiva y sostenible para campesinos de Belén de Umbría (Risaralda). 
+Además, se empleó un enfoque cualitativo fundamentado en la experiencia de campo. 
+Se realizaron salidas al sitio de estudio (vereda Taparcal) con toma de fotografías y 
+análisis vivencial para comprender las condiciones locales. De hecho, al igual que en 
+
+=== Página 23 ===
+23 
+ 
+investigaciones similares, la metodología cualitativa combinó trabajo de gabinete 
+(revisión bibliográfica) con trabajo de campo (observación directa y entrevistas) (Peña 
+Henríquez, 2015). 
+La investigación se estructuró en tres etapas principales: (1) estudio bibliográfico y 
+definición de objetivos generales y específicos; (2) análisis tipológico de viviendas 
+rurales existentes y formulación de estrategias proyectuales; (3) diseño del prototipo de 
+vivienda rural sostenible. En cada etapa se aplicaron procedimientos específicos para 
+recopilar y procesar información. 
+Para alcanzar los objetivos se siguieron los siguientes pasos concretos: 
+• 
+Procesamiento de información existente proveniente de estudios previos sobre 
+vivienda rural y arquitectura cafetera. 
+ 
+ 
+• 
+Identificación del problema habitacional local mediante el análisis de datos 
+estadísticos sobre déficit y características de la vivienda rural. 
+ 
+ 
+• 
+Selección de tres viviendas vernáculas de la zona como referentes para el estudio 
+tipológico y tecnológico. 
+ 
+ 
+• 
+Definición y delimitación de la región de estudio: zona cafetera de Belén de 
+Umbría, con énfasis en la vereda Taparcal. 
+ 
+ 
+• 
+Procesamiento de los datos e información recolectada (fichas de campo, 
+documentos). 
+ 
+ 
+• 
+Toma de fotografías de las viviendas en el área de estudio. La fotografía se 
+empleó como herramienta clave para documentar el contexto geográfico y 
+constructivo de las casas rurales. Este registro visual permite reducir el trabajo 
+manual de registro y sirve para ilustrar elementos arquitectónicos relevantes. 
+ 
+ 
+• 
+Estudio del sistema ambiental de la región (clima, topografía, recursos hídricos), 
+para entender las condiciones físicas en que se ubican las viviendas. 
+ 
+ 
+El análisis de la información recopilada abarcó tanto el panorama tecnológico regional 
+(materiales y técnicas constructivas tradicionales) como la situación ambiental de la 
+vivienda rural. Las tres viviendas seleccionadas como referentes comparten aspectos 
+históricos, culturales y productivos comunes en el paisaje cafetero, a la vez que muestran 
+condiciones constructivas propias —por ejemplo, el uso predominante de madera y 
+
+=== Página 24 ===
+24 
+ 
+guadua en la estructura—. Estos referentes aportan fundamentos compartidos para el 
+estudio integral y ofrecen pautas de diseño basadas en la tradición local. 
+La metodología incluyó además un análisis integral del contexto local. Se consideró el 
+paisaje cultural cafetero y la arquitectura vernácula tradicional como marco de 
+referencia. Se definieron objetivos de sostenibilidad ambiental, enfocados en la eficiencia 
+en el uso del agua y la energía. También se evaluó el diseño arquitectónico desde la 
+orientación del edificio y la ventilación natural, así como la utilización de materiales 
+locales autóctonos. Igualmente, se planificaron estrategias para garantizar los servicios 
+básicos esenciales y el aprovechamiento de fuentes alternativas de energía, tales como 
+energía solar y captación de aguas lluvias. En resumen, se consideraron los siguientes 
+aspectos del contexto: 
+• 
+Paisaje Cultural Cafetero y patrimonio vernáculo. 
+ 
+ 
+• 
+Arquitectura rural tradicional local (elementos estructurales y formales). 
+ 
+ 
+• 
+Objetivos de sostenibilidad ambiental (eficiencia hídrica y energética). 
+ 
+ 
+• 
+Diseño basado en orientación y ventilación natural; uso de materiales locales. 
+ 
+ 
+• 
+Servicios básicos y fuentes alternativas (infraestructura de captación de agua y 
+energía solar). 
+ 
+ 
+Estos criterios contextuales guiaron el desarrollo del prototipo de vivienda, asegurando 
+que la propuesta responda a las condiciones específicas de la región cafetera y promueva 
+soluciones habitacionales sostenibles y coherentes con el entorno cultural. 
+  
+ 
+ 
+ 
+
+=== Página 25 ===
+25 
+ 
+5. JUSTIFICACIÓN 
+ 
+El sector rural colombiano concentra múltiples problemáticas estructurales asociadas a la 
+pobreza, la desigualdad, la falta de institucionalidad y la ausencia de políticas públicas 
+integrales. (DNP, 2022; Comisión de la Verdad, 2021) Estas condiciones han generado 
+un escenario de desventaja para sus habitantes, marcado por el limitado acceso a servicios 
+públicos, salud, educación, empleo y, de manera particular, a soluciones habitacionales 
+adecuadas. La población rural se encuentra en constante disminución y envejecimiento, 
+debido al desplazamiento de los jóvenes hacia las ciudades en busca de mejores 
+oportunidades, lo que contribuye al abandono del campo y a la pérdida progresiva de 
+saberes y prácticas culturales. (DANE, 2018; FAO, 2019) 
+La vivienda rural, como elemento esencial para la calidad de vida de las comunidades 
+campesinas, presenta un alto déficit tanto cualitativo como cuantitativo. Como lo señalan 
+Fonseca y Saldarriaga (1980), “la forma como el gobierno y las instituciones han mirado 
+la vivienda rural ha sido sistemáticamente la de ignorar la existencia de las zonas rurales y 
+sus necesidades, sin interesarse por las expresiones culturales que allí existen, proponiendo 
+modelos urbanos inadecuados como solución a las deficiencias habitacionales de la 
+población campesina del país”. 
+Este enfoque centralista ha generado soluciones habitacionales descontextualizadas, con 
+materiales no adecuados, procesos costosos y pérdida de identidad cultural. (MVCT, 2021; 
+ArchDaily Colombia, 2020) 
+La vivienda debe entenderse no solo como abrigo, sino como un eje articulador del 
+territorio, la economía campesina, la familia y la cultura local. En este sentido, una vivienda 
+digna, sostenible y adaptada a las condiciones del entorno resulta indispensable para 
+garantizar la seguridad alimentaria, frenar la migración forzada y dignificar la vida rural. 
+(ONU-Hábitat, 2021; Cepal, 2020) 
+
+=== Página 26 ===
+26 
+ 
+La agricultura, además, continúa siendo un pilar económico y social de gran importancia 
+para Colombia, por lo que mejorar las condiciones de vida en el campo es también una 
+apuesta estratégica para el desarrollo nacional. (Ministerio de Agricultura, 2022) 
+Diversas iniciativas institucionales, como las impulsadas por la Comisión de la Verdad y 
+entidades gubernamentales y no gubernamentales, han buscado atender progresivamente 
+las problemáticas rurales, mediante el reconocimiento del derecho a la tierra, la 
+implementación de programas de infraestructura básica y la promoción de mercados justos. 
+(Comisión de la Verdad, 2021; PNUD, 2019) Sin embargo, aún persiste un vacío en la 
+formulación de propuestas de vivienda desde enfoques arquitectónicos sostenibles, 
+vernáculos y culturalmente pertinentes. (Álvarez, 2020; Revista Dearq, 2019) 
+En este contexto, el reconocimiento del Paisaje Cultural Cafetero (PCC) por parte de la 
+UNESCO como Patrimonio Mundial resalta la necesidad urgente de proteger, conservar y 
+promover el territorio y su arquitectura tradicional. (UNESCO, 2011) Este paisaje 
+excepcional se compone no solo de cafetales y montañas, sino también de una cultura viva 
+expresada en sus viviendas, oficios, formas de organización social y conocimientos 
+ancestrales. Proteger el PCC implica repensar la vivienda rural como parte integral del 
+patrimonio, capaz de transmitir valores históricos, artísticos, simbólicos y ambientales. 
+(Rangel & Mejía, 2021) 
+En consecuencia, este trabajo de grado se justifica por la necesidad de contribuir, desde la 
+arquitectura, al diseño de soluciones habitacionales sostenibles para el campo colombiano. 
+Se busca consolidar un modelo de vivienda rural digno, adaptado al contexto caficultor, 
+que permita a las comunidades desarrollar sus proyectos de vida en condiciones apropiadas, 
+evitando el desarraigo y fortaleciendo la cohesión social y territorial. Esta propuesta 
+responde al llamado urgente de garantizar el derecho a una vivienda adecuada como base 
+del bienestar rural. (ONU-Hábitat, 2020) 
+ 
+ 
+ 
+
+=== Página 27 ===
+27 
+ 
+ 
+6. MARCO TEORICO CONCEPTUAL 
+ 
+El concepto de vivienda como derecho fundamental 
+El derecho a una vivienda adecuada ha sido reconocido internacionalmente como parte de 
+los derechos humanos básicos. La Organización de las Naciones Unidas lo consagra en la 
+Declaración Universal de 1948 (artículo 25) y organismos especializados enfatizan su 
+centralidad para la dignidad humana. Por ejemplo, según Rossbach (2024), directora de 
+ONU-Hábitat subraya que una vivienda adecuada “es más que un simple refugio” y 
+constituye la base de la dignidad, la seguridad y las oportunidades de las personas. En otras 
+palabras, disponer de una vivienda digna es condición fundamental para desarrollar una 
+vida en condiciones de bienestar. Así mismo, según la Organización Panamericana de la 
+Salud (OPS, 2019) considera la vivienda un determinante social clave de la salud y la 
+equidad: no se trata solo del espacio físico, sino de un factor que influye en todos los 
+aspectos de la vida (salud, educación, empleo, etc.). En línea con ello, la OPS/OMS afirma 
+que la vivienda es un elemento esencial para lograr la equidad en salud, ya que “afecta a la 
+salud y la equidad en salud; es un determinante social” que puede ampliar o reducir 
+desigualdades. Estas visiones remarcan que la vivienda trasciende lo material y se vincula 
+con derechos fundamentales como la dignidad, la salud y la seguridad. 
+En Colombia, el derecho a una vivienda digna está recogido en la Constitución Política 
+(Art. 51) y ha sido desarrollado mediante leyes recientes. La Ley 2079 de 2021, que 
+establece los lineamientos de la política pública de vivienda y hábitat en Colombia, declara 
+la política de vivienda y hábitat como política de Estado “con el fin de garantizar el 
+ejercicio efectivo del derecho a una vivienda y hábitat dignos para todos los colombianos”. 
+Esta ley busca asegurar que el Estado promueva programas habitacionales integrales, tanto 
+urbanos como rurales, orientados a que toda la población pueda disfrutar de condiciones 
+adecuadas de vivienda. Por su parte, la Ley 1537 de 2012 ya había establecido mecanismos 
+para facilitar el acceso de las familias de menores recursos a una vivienda digna, 
+definiéndolo como objetivo central de la política de vivienda social. Esta normativa 
+
+=== Página 28 ===
+28 
+ 
+impulsa subsidios de vivienda de interés social, programas de mejoramiento habitacional 
+y otras herramientas para hacer efectivo el derecho a la vivienda, especialmente entre los 
+grupos vulnerables. En conjunto, estas disposiciones reflejan el reconocimiento legal de la 
+vivienda como un derecho fundamental y la obligación del Estado de hacerlo realidad con 
+equidad territorial (tanto en zonas urbanas como rurales). 
+No obstante, distintos expertos señalan desafíos para materializar plenamente este derecho. 
+Desde una perspectiva crítica, se advierte que en la práctica la vivienda a veces se concibe 
+más como un bien de consumo que como un derecho social (Organización Panamericana 
+de la Salud [OPS], 2022), lo cual ha derivado en fenómenos como la especulación 
+inmobiliaria o el déficit de vivienda social. Frente a esto, autores como Gerardo Pisarello 
+y otros juristas sostienen que la fundamentalidad del derecho a la vivienda radica en que 
+este es precondición para la realización de la dignidad humana y la igualdad (Pisarello, 
+2007). En suma, el marco jurídico y los planteamientos de organismos internacionales 
+coinciden en reconocer la vivienda adecuada como un derecho humano fundamental, cuyo 
+cumplimiento requiere políticas integrales de hábitat y un enfoque de derechos que priorice 
+a las personas por encima de la lógica meramente mercantil. En el contexto de una tesis en 
+arquitectura, esto implica considerar la vivienda no solo desde sus cualidades físicas, sino 
+como un factor habilitador de calidad de vida, bienestar y desarrollo humano sostenible. 
+La vivienda rural como espacio cultural, productivo y habitacional 
+En las áreas rurales, la vivienda cumple funciones que trascienden la mera habitabilidad 
+básica, integrando dimensiones culturales y productivas propias de la vida campesina. La 
+vivienda rural no es solo el resguardo familiar, sino también el centro de actividades 
+económicas (agropecuarias) y un símbolo de la identidad local. Autores especializados en 
+hábitat rural colombiano destacan que la casa campesina tradicional se configura 
+simultáneamente como vivienda, unidad productiva y escenario cultural. En el caso de las 
+fincas cafeteras del Eje Cafetero colombiano, por ejemplo, Ángela María Santa Quintero 
+(2018) describe “la vivienda como unidad productiva y la cultura asociada a ella como 
+herencia viva”. Esto significa que la casa rural cafetera no solo sirve de morada, sino que 
+en ella se desarrollan labores agrícolas (beneficio del café, almacenamiento de cosechas, 
+
+=== Página 29 ===
+29 
+ 
+etc.) y se conservan saberes, tradiciones y prácticas culturales transmitidas por 
+generaciones. 
+La vivienda rural es así un espacio polifuncional. En la arquitectura vernácula cafetera, la 
+casa suele integrar infraestructura productiva incorporada: un ejemplo es el beneficiadero 
+o área de procesamiento del café, muchas veces adosado o incluido en la vivienda misma. 
+Los pequeños caficultores mantienen técnicas de beneficio de café tradicionales que 
+requieren espacios especiales dentro del predio, conocidos regionalmente como heldas, 
+adaptados a las condiciones topográficas y a la estructura de la casa. De este modo, la 
+vivienda se extiende para alojar funciones productivas (secado de granos, almacenamiento 
+en silos, establos para animales menores, etc.), evidenciando su rol como pieza central de 
+la unidad agro-productiva familiar. La presencia del beneficiadero, el granero, el corral o 
+la huerta dentro del conjunto residencial rural refleja la fusión entre lo habitacional y lo 
+laboral en la vida campesina. 
+Al mismo tiempo, la vivienda rural opera como espacio cultural en cuanto alberga y 
+expresa modos de vida, relaciones sociales y valores simbólicos. Es en la casa donde se 
+reproducen costumbres cotidianas, se celebran rituales familiares y se resguarda la 
+memoria comunitaria. Por ejemplo, en ciertas regiones andinas de Colombia, las viviendas 
+incluyen espacios denominados colcas (depósitos tradicionales) para guardar las cosechas, 
+lo cual tiene un significado cultural heredado de prácticas prehispánicas (Sánchez, 
+Afanador & Castillo, 2016). También es frecuente que la organización espacial de la casa 
+responda a patrones culturales: patio central que articula la vida doméstica, cocina como 
+espacio de sociabilidad, o habitaciones dispuestas según roles familiares. En el caso 
+cafetero, la típica casa de bahareque con corredores perimetrales propicia un ambiente 
+comunitario y abierto, donde el corredor es lugar de encuentro social y el patio o plazoleta 
+de acceso funciona como ámbito de hospitalidad para vecinos y visitantes. De esta manera, 
+la arquitectura rural materializa en su forma los valores de solidaridad, trabajo familiar y 
+relación con el entorno natural propios de la cultura campesina. 
+Diversos investigadores han resaltado, asimismo, el carácter identitario de la vivienda 
+rural. La forma y técnica constructiva tradicionales –por ejemplo, el bahareque en la zona 
+cafetera o el adobe en regiones andinas– son resultado de un proceso histórico de 
+
+=== Página 30 ===
+30 
+ 
+adaptación cultural al entorno. Según Fonseca y Saldarriaga, la vivienda campesina 
+tradicional en Colombia es fruto de una síntesis entre la herencia constructiva indígena, la 
+influencia colonial y las necesidades funcionales de la economía agrícola local (Sánchez, 
+Afanador & Castillo, 2016). Así, en cada región del país se han desarrollado tipologías de 
+vivienda rural particulares (casas de bahareque y tapia en el Eje Cafetero, palafitos en zonas 
+inundables, ranchos de bahareque en la Costa Caribe, malocas indígenas en la Amazonía, 
+entre otras), las cuales reflejan la diversidad cultural y productiva del territorio. En síntesis, 
+la vivienda rural debe entenderse de forma integral: es vivienda (satisfacción de 
+necesidades de cobijo y hábitat familiar), es espacio productivo (centro de trabajo agrario 
+y sustento económico) y es espacio cultural (contenedor de tradiciones, saberes y vínculos 
+sociales). Cualquier análisis arquitectónico en el contexto rural caficultor, como Belén de 
+Umbría en Risaralda, requiere abordar esta triple dimensión para comprender plenamente 
+el significado y valor de la vivienda en dicho contexto. 
+Enfoques arquitectónicos de la vivienda rural en Colombia 
+La arquitectura de la vivienda rural en Colombia ha sido estudiada desde distintos 
+enfoques, que van desde la documentación de las tipologías vernáculas tradicionales hasta 
+las propuestas de mejoramiento y diseño contemporáneo para el hábitat rural. Un aporte 
+fundamental en este campo es la obra de Lorenzo Fonseca y Alberto Saldarriaga, quienes 
+en estudios clásicos (Fonseca & Saldarriaga, 1999) caracterizaron la diversidad de 
+viviendas rurales del país. En La arquitectura de la vivienda rural en Colombia, estos 
+autores clasificaron las viviendas campesinas por regiones geográficas y culturales, 
+identificando sus materiales, sistemas constructivos y organización espacial típicos. Por 
+ejemplo, Fonseca y Saldarriaga (1999) documentaron el “minifundio cafetero” en 
+Antioquia, Caldas, Quindío y Risaralda, es decir, la vivienda de los pequeños agricultores 
+del café, describiendo sus rasgos comunes: casas generalmente de un piso, estructura de 
+bahareque (guadua y madera con relleno de tierra), muros pañetados y pintados con cal, 
+techos de teja de barro a dos aguas, amplios corredores perimetrales y una disposición 
+arquitectónica adaptada a la pendiente del terreno. Esta vivienda cafetera vernácula incluye 
+elementos funcionales como el corredor frontal (espacio de transición interior-exterior), 
+cocina con fogón de leña separada o semiabierta, y habitaciones sencillas dispuestas 
+
+=== Página 31 ===
+31 
+ 
+alrededor de patios o galerías. Fonseca y Saldarriaga resaltan cómo dichas construcciones 
+aprovechan materiales locales (bahareque con guadua abundante en la región, tejas de 
+barro artesanales) y responden al clima húmedo-cálido con soluciones pasivas (ventilación 
+cruzada en corredores, aleros amplios que protegen de la lluvia). En suma, la arquitectura 
+vernácula rural en Colombia se distingue por ser bioclimática, económica y ligada al 
+entorno, resultado de un saber constructivo empírico transmitido culturalmente. 
+Desde una perspectiva más contemporánea, los enfoques arquitectónicos hacia la vivienda 
+rural han incorporado criterios de sustentabilidad y mejoramiento de la calidad de vida 
+campesina sin perder la identidad local. Estudios recientes sobre la arquitectura en 
+bahareque destacan que esta técnica tradicional no solo posee un alto valor patrimonial, 
+sino también ventajas ambientales y sismo-resistentes. La arquitectura regional del Eje 
+Cafetero, basada en estructuras de guadua y tierra, ha sido reconocida como un modelo de 
+sostenibilidad vernácula, al emplear materiales locales, renovables y sistemas 
+constructivos de bajo impacto ambiental (Fonseca & Saldarriaga, 1999; Saldarriaga Roa, 
+2006). Rincon & Montoya (2016) la destacan como ecotecnología apropiada al contexto, 
+cuya resiliencia ha sido probada por décadas, y promueven su revaloración en proyectos 
+de vivienda rural sostenible. Este rescate de lo vernáculo se ha combinado con 
+innovaciones: por ejemplo, el desarrollo de paneles prefabricados de bahareque 
+encementado y la mejora de uniones estructurales de guadua para aumentar la seguridad 
+estructural de las viviendas sin alterar su esencia constructiva. Instituciones como la 
+Facultad de Arquitectura de la Universidad Nacional y la Universidad de los Andes 
+(muchas veces con participación de expertos como Camilo Salazar Ferro) han trabajado en 
+prototipos de vivienda rural que integran técnicas tradicionales con criterios modernos de 
+habitabilidad (espacios higiénicos para cocina y baño, iluminación natural, eficiencia 
+energética) y con participación de la comunidad en el diseño. Un ejemplo fueron los 
+proyectos de vivienda campesina mejorada impulsados por el Ministerio de Agricultura en 
+los años recientes, donde se combinaron materiales locales con módulos sanitarios 
+modernos. 
+Otro enfoque arquitectónico importante ha sido el reconocimiento de la dimensión 
+patrimonial de ciertas viviendas rurales y su conservación. En regiones como el Eje 
+
+=== Página 32 ===
+32 
+ 
+Cafetero, la casa tradicional cafetera se considera parte del patrimonio cultural. Arquitectos 
+e investigadores (p. ej. Alberto Saldarriaga en colaboración con la empresa Corona, 2013) 
+han elaborado manuales para la preservación de la vivienda campesina, proponiendo 
+lineamientos para su restauración con técnicas originales, mantenimiento preventivo de 
+materiales orgánicos (madera, caña) y adecuaciones discretas que no desvirtúen su valor 
+histórico. El respeto por la tipología original –volumetría, colorido, elementos decorativos 
+como balcones calados y chambranas de madera– se equilibra con la incorporación de 
+mejoras que atiendan necesidades actuales (p. ej., instalaciones eléctricas seguras, 
+suministro de agua potable, disposición de baños dentro o cerca de la vivienda). Este 
+enfoque de restauración y mejoramiento integral reconoce que la vivienda rural no es un 
+“museo congelado”, sino un hábitat vivo que debe evolucionar sin perder sus valores 
+arquitectónicos y culturales esenciales. 
+En síntesis, los enfoques arquitectónicos sobre la vivienda rural en Colombia oscilan entre 
+la documentación y valorización de las formas vernáculas tradicionales, y las propuestas 
+de modernización respetuosa. La literatura especializada coincide en que cualquier 
+intervención en la vivienda rural debe partir del entendimiento profundo de la cultura 
+constructiva local y su significado simbólico. Como plantea el filósofo Martin Heidegger, 
+"el construir es ya en sí mismo habitar", es decir, la manera como edificamos refleja una 
+forma de estar en el mundo, una relación íntima entre el ser humano y su entorno 
+(Heidegger, 1951/2002). Aplicado al contexto colombiano, construir vivienda rural implica 
+comprender cómo los campesinos habitan su territorio y qué valores (de producción, 
+familia, paisaje) están intrínsecamente ligados a su morada. Los arquitectos, por tanto, 
+enfrentan el reto de diseñar o mejorar viviendas rurales que sean técnicamente adecuadas 
+y, a la vez, fieles a las tradiciones y necesidades locales, logrando un equilibrio entre 
+funcionalidad, sostenibilidad e identidad. 
+La vivienda en el Paisaje Cultural Cafetero 
+El Paisaje Cultural Cafetero de Colombia (PCC) ofrece un contexto emblemático para 
+entender la vivienda rural cafetera, dado que esta región ha sido reconocida como 
+Patrimonio Mundial por su riqueza cultural, donde las casas de finca son componentes 
+fundamentales. El PCC abarca zonas rurales de los departamentos de Caldas, Quindío, 
+
+=== Página 33 ===
+33 
+ 
+Risaralda y Valle del Cauca, y fue inscrito en la Lista de Patrimonio Mundial de la 
+UNESCO en 2011. En la declaratoria del Paisaje Cultural Cafetero como Patrimonio 
+Mundial de la Humanidad por la UNESCO en 2011, se reconoció explícitamente la 
+arquitectura vernácula en bahareque como uno de los dieciséis atributos excepcionales que 
+configuran este paisaje cultural. Esta arquitectura tradicional refleja la adaptación al 
+entorno montañoso, el uso de materiales locales como la guadua y el barro, y los saberes 
+ancestrales transmitidos por generaciones (UNESCO, 2011). De hecho, el Ministerio de 
+Cultura de Colombia, mediante la Resolución 2079 de 2011, reconoció formalmente al 
+Paisaje Cultural Cafetero como Patrimonio Cultural de la Nación. Dentro de los valores 
+del PCC figuran las viviendas tradicionales de la colonización antioqueña: casas 
+campesinas de bahareque y tapia con techos de teja, generalmente policromadas con vivos 
+colores, rodeadas de cultivos de café y conectadas por estrechos caminos entre montañas. 
+Estas edificaciones no solo embellecen el paisaje, sino que narran la historia del 
+poblamiento cafetero y la adaptación del ser humano a un territorio de difícil topografía. 
+La vivienda cafetera en el PCC se caracteriza arquitectónicamente por su estética 
+pintoresca y su adecuación al entorno rural productivo. Un rasgo típico es el uso extensivo 
+de la guadua (bambú nativo) en la construcción: “El elemento constante en todas las 
+construcciones de esta región cafetera es la guadua, usada como elemento estructural, de 
+cerramiento, de ornamentación, aplicada en todos los espacios de la casa”. Esto ha dado 
+lugar al desarrollo de la técnica del bahareque estructural de guadua, considerada 
+sostenible y acorde a las condiciones sísmicas de la zona. Las viviendas suelen presentar 
+una planta en “L” o en torno a un patio, con corredores amplios que sirven para secar granos 
+al sol y para la reunión social, y con distribución espacial muy funcional: áreas públicas 
+(corredor, acceso) bien definidas y separadas de las áreas de trabajo (beneficiadero, 
+despensa, establo) y de las áreas privadas (dormitorios). Esta organización responde a la 
+necesidad de articular la vida familiar con el proceso productivo del café, manteniendo 
+cierto orden jerárquico del espacio (lo público al frente, lo productivo y lo íntimo hacia la 
+parte trasera de la vivienda, muchas veces oculto desde la fachada principal). 
+Dentro del Paisaje Cultural Cafetero, Belén de Umbría (municipio de Risaralda) se inscribe 
+como un ejemplo de localidad donde estas viviendas tradicionales aún existen, aunque 
+
+=== Página 34 ===
+34 
+ 
+enfrentan transformaciones. Investigaciones patrimoniales advierten que muchas casas de 
+finca cafeteras están en riesgo por cambios inadecuados o abandono. Santa Quintero (2018) 
+señala que la creciente afluencia de turismo y las nuevas dinámicas económicas han llevado 
+a “adecuaciones de las viviendas campesinas, [y] eliminación o mutilación de 
+infraestructura tradicional”, poniendo en peligro la autenticidad del paisaje cultural. Por 
+ejemplo, se han identificado casos donde los corredores de madera fueron sustituidos por 
+terrazas en materiales modernos, o las tejas de barro cambiadas por cubiertas metálicas, 
+alterando la fisonomía original. Esto plantea el reto de conciliar la modernización con la 
+conservación patrimonial. Las entidades culturales recomiendan proteger las 
+características arquitectónicas esenciales (sistemas estructurales en guadua, técnicas de 
+bahareque, acabados y policromías tradicionales) y fomentar programas de restauración 
+participativa con las comunidades. En respuesta, iniciativas locales en el Eje Cafetero han 
+capacitado a maestros de obra en técnicas tradicionales, y algunas fincas han adoptado 
+modelos de turismo rural que valorizan la casa típica como atractivo, incentivando su 
+preservación. 
+Es importante destacar que la vivienda en el PCC no puede verse de forma aislada, sino 
+como parte de un paisaje cultural integrado. La noción misma de Paisaje Cultural implica 
+la interacción entre las personas, su vivienda, la producción agrícola (el cafetal) y el entorno 
+natural. Cada casa de finca con su yarumo al frente, su platanal al costado y su camino de 
+acceso flanqueado por cercas vivas, configura postales culturales que identifican a la 
+región. En términos de valores patrimoniales, la vivienda cafetera encarna la herencia 
+arquitectónica de la colonización antioqueña, con adaptaciones locales: por ejemplo, 
+colores vibrantes en fachadas que según algunos autores representan la alegría y resiliencia 
+de la cultura cafetera, o detalles como la chambrana de macana (pasamanos calado en los 
+corredores) que se ha vuelto un sello estético del Eje Cafetero. La UNESCO valoró cómo 
+estas casas, junto con los cultivos y las manifestaciones inmateriales asociadas (fiestas del 
+café, cooperativismo cafetero), conforman un paisaje único en el mundo. Por ende, 
+conservar la vivienda rural tradicional en el PCC es indispensable para mantener el 
+equilibrio y la autenticidad de este patrimonio. Cualquier intervención arquitectónica o 
+plan habitacional en zonas pertenecientes al PCC debe alinearse con las directrices de 
+conservación, lo que incluye usar materiales coherentes (guadua, madera, teja de barro), 
+
+=== Página 35 ===
+35 
+ 
+respetar las escalas y volumetrías originales, y asegurar que las nuevas construcciones no 
+rompan la armonía visual y cultural del entorno. 
+En conclusión, la vivienda rural cafetera en el PCC es a la vez objeto de estudio 
+arquitectónico, elemento patrimonial y recurso para el desarrollo local (mediante turismo 
+cultural, por ejemplo). Su estudio teórico proporciona un marco para entender cómo la 
+arquitectura vernácula puede alcanzar reconocimiento global por su valor cultural, y a la 
+vez, nos interpela sobre cómo gestionar ese legado frente a las dinámicas de cambio. Para 
+una tesis de arquitectura centrada en vivienda rural cafetera (como en Belén de Umbría), 
+el PCC aporta un marco de referencia clave, ofreciendo lecciones sobre la interacción entre 
+arquitectura, cultura y territorio, así como lineamientos para la sostenibilidad de estas 
+viviendas en el siglo XXI. 
+Definiciones clave según autores relevantes 
+Para fundamentar este marco teórico, es pertinente aclarar algunos conceptos básicos de 
+vivienda y hábitat, tal como han sido definidos por distintos autores y organismos, lo que 
+ayudará a delimitar el sentido en que se emplean en esta investigación: 
+Vivienda: se entiende en términos generales como el espacio físico que sirve de refugio y 
+residencia al ser humano. Una definición clásica señala que “por vivienda, se entiende el 
+refugio natural, o construido por la mano del hombre, en el que éste habita de modo 
+temporal o permanente”scielo.org.mx. Esta noción, citada en textos de derechos humanos, 
+enfatiza que la vivienda puede tomar diversas formas (una casa, un apartamento, una 
+choza) pero siempre supone un lugar donde las personas desarrollan su vida doméstica. Sin 
+embargo, en el enfoque de vivienda adecuada promovido por la ONU, el concepto va más 
+allá de cuatro paredes y un techo: Según Rossbach (2024), directora regional de ONU-
+Habitat, el derecho a una vivienda adecuada implica condiciones mínimas como: seguridad 
+jurídica en la tenencia, disponibilidad de servicios básicos, espacio suficiente, 
+habitabilidad, asequibilidad, accesibilidad y adecuación cultural. Estos criterios deben ser 
+el punto de partida para cualquier política pública o proyecto arquitectónico que busque 
+mejorar el hábitat en zonas rurales (ONU-Habitat, 2019; Rossbach, 2024).Es decir, no 
+cualquier techo sobre la cabeza constituye una vivienda digna; deben concurrir condiciones 
+
+=== Página 36 ===
+36 
+ 
+que garanticen una vida segura, saludable y en dignidad. Esta comprensión integral de 
+“vivienda” será la que guíe el análisis, abarcando tanto la edificación en sí como su entorno 
+inmediato y dotaciones. 
+Hábitat: en el contexto de los asentamientos humanos, se refiere al conjunto de condiciones 
+ambientales, urbanas y socioeconómicas que configuran el entorno en el que se desarrolla 
+la vida cotidiana. De acuerdo con ONU-Hábitat (2019), el término “hábitat” engloba no 
+solo la vivienda física, sino también los sistemas de infraestructura básica (agua, 
+saneamiento, energía), los equipamientos sociales (salud, educación, espacios públicos) y 
+el entorno natural y construido que da soporte a la vida comunitaria. En este sentido, pensar 
+el hábitat rural implica comprender la complejidad de las condiciones materiales, sociales 
+y culturales que influyen en la habitabilidad y el bienestar de los habitantes del campo.Es 
+un concepto amplio que incorpora la idea de asentamiento humano. Autores como Jorge 
+Hardoy y David Satterthwaite han definido hábitat como “el espacio construido y social 
+donde las personas habitan”, enfatizando que un hábitat adecuado implica integración 
+urbana/rural, sostenibilidad ambiental y participación de la comunidad en su desarrollo. En 
+términos de políticas públicas colombianas, la ya mencionada Ley 2079 de 2021 oficializa 
+la noción de hábitat digno junto con vivienda digna, reconociendo que la calidad de vida 
+depende tanto de la vivienda como de su entorno. Para esta tesis, entender el hábitat rural 
+cafetero implicará analizar no solo las casas, sino la provisión de servicios básicos en el 
+campo, la conectividad vial/veredal, la relación entre viviendas y parcelas productivas, y 
+otros factores del contexto territorial de Belén de Umbría. 
+Vivienda de interés social rural (VIS Rural) es una categoría establecida en la política 
+habitacional colombiana para atender las necesidades de vivienda de la población rural de 
+bajos ingresos. Según la Ley 1537 de 2012, este tipo de vivienda comprende tanto 
+soluciones de vivienda nueva como mejoramientos de viviendas existentes, dirigidas a 
+hogares campesinos en situación de vulnerabilidad. La ley establece criterios de 
+focalización, costos máximos y estándares mínimos de calidad, y designa al Ministerio de 
+Agricultura y Desarrollo Rural como el encargado de liderar los programas de VIS Rural. 
+Estos programas otorgan subsidios, priorizan a mujeres cabeza de familia y poblaciones 
+especiales, y buscan garantizar condiciones básicas de dignidad, habitabilidad y acceso a 
+
+=== Página 37 ===
+37 
+ 
+servicios públicos (Congreso de la República de Colombia, 2012). Algunos autores, como 
+Salazar Ferro (2014) en contextos académicos, han criticado que la VIS rural tiende a 
+aplicar modelos uniformes de vivienda en el campo, a veces divorciados de las tradiciones 
+locales. Por ello, hoy se aboga por enfoques de VIS rural contextualizados, donde las 
+soluciones habitacionales respeten la tipología regional (p. ej., incorporar el corredor, usar 
+materiales locales) y respondan también a las necesidades productivas (espacio para acopio 
+de cosecha, para cría de animales menores, etc.). La definición operacional de este término 
+en la tesis incluirá esa perspectiva crítica: no basta con una unidad habitacional mínima, 
+sino que debe ser adecuada culturalmente para el medio rural cafetero. 
+Habitabilidad: es un concepto técnico-arquitectónico que se refiere al conjunto de 
+condiciones que hacen que una vivienda sea habitable, es decir, apta y confortable para sus 
+ocupantes. La Organización Mundial de la Salud y agencias de vivienda suelen enumerar 
+criterios de habitabilidad que incluyen: ventilación e iluminación suficientes, protección 
+frente a la intemperie, seguridad estructural, disponibilidad de agua potable, saneamiento, 
+control de vectores, privacidad, entre otros. La habitabilidad tiene un componente objetivo 
+(parámetros medibles de calidad del espacio) y otro subjetivo (percepción de confort y 
+satisfacción de los moradores). En el contexto de esta investigación, se considerarán los 
+estándares de habitabilidad recomendados por la Organización Mundial de la Salud 
+(OMS). Esta entidad sostiene que la mejora de las condiciones de la vivienda —incluyendo 
+temperatura interior adecuada, calidad del aire, ventilación y solidez estructural— puede 
+salvar vidas, prevenir enfermedades y mejorar significativamente la calidad de vida. Estas 
+directrices de salud ambiental se complementan con las normas colombianas de 
+construcción para vivienda rural, que establecen criterios técnicos mínimos para garantizar 
+la seguridad, habitabilidad y adecuación cultural en contextos vernáculos (Organización 
+Mundial de la Salud [OMS], 2018; Organización Panamericana de la Salud [OPS], 
+2021).También se integrará la idea de habitabilidad cultural, entendida como la adecuación 
+de la vivienda a los modos de vida de sus habitantes (por ejemplo, en viviendas rurales 
+cafeteras es importante prever áreas para el secado del café o almacenamiento de leña, lo 
+cual es parte de su habitabilidad funcional). 
+
+=== Página 38 ===
+38 
+ 
+Habitar (desde la perspectiva filosófica): siguiendo la línea reflexiva de Martin Heidegger 
+y otros filósofos, “habitar” no se reduce a ocupar un espacio físico, sino que supone una 
+relación existencial con el lugar. Heidegger, en su conferencia Construir, habitar, pensar 
+(1951), argumenta que el acto de construir auténticamente surge del habitar poético del ser 
+humano en el mundo. Su célebre frase “construir no es sólo un medio para habitar; el 
+construir es ya en sí mismo un habitar” recalca que habitamos en la medida en que dotamos 
+de significado a los espacios que construimos y hacemos propios. Aplicado a la vivienda 
+rural cafetera, este concepto invita a apreciar cómo las familias campesinas no solo utilizan 
+sus casas como espacios funcionales, sino que construyen en ellas su universo vital, un 
+sentido de pertenencia al paisaje, al territorio y a la comunidad (Heidegger, 1951/2003). 
+Autores contemporáneos como Christian Norberg-Schulz retoman esta idea con el término 
+genius loci, refiriéndose al espíritu del lugar que las viviendas tradicionales logran captar 
+cuando están armonizadas con su entorno natural y cultural. Para la tesis, este enfoque 
+aportará una capa interpretativa: analizar la vivienda rural desde el habitar implica estudiar 
+la relación profunda entre el campesino, su vivienda y el paisaje cafetero, entendiendo la 
+casa como un lugar de arraigo y manifestación del ser. 
+ 
+ 
+
+=== Página 39 ===
+39 
+ 
+7. MARCO NORMATIVO 
+ 
+Presentación 
+y 
+Descripción  
+ 
+En Colombia, la vivienda rural en el contexto cafetero se enmarca en un robusto conjunto 
+normativo que busca garantizar el derecho a una vivienda digna, adecuada y saludable para 
+las poblaciones rurales. Este marco legal ha evolucionado para abordar las necesidades 
+específicas del campo, reconociendo la importancia cultural y ambiental de territorios 
+como el Paisaje Cultural Cafetero (declarado Patrimonio Mundial de la UNESCO). A la 
+vez, los lineamientos internacionales – impulsados por agencias como ONU-Hábitat y la 
+OMS – han influido en la formulación de políticas nacionales, enfatizando que la vivienda 
+adecuada es un derecho humano fundamental y un determinante clave de la salud pública. 
+A continuación, se analiza el marco legal vigente en Colombia aplicable a la vivienda rural, 
+así como los estándares internacionales relevantes que orientan el concepto de vivienda 
+adecuada 
+y 
+saludable. 
+ 
+Tabla 2 Principales normas y programas de vivienda rural en Colombia 
+Norma / 
+Programa 
+Año 
+Entidad 
+responsable 
+Contenido / 
+Aportes clave 
+Tipo de 
+intervención 
+Ley 1537 de 
+2012 
+2012 
+Congreso de la 
+República / 
+MinAgricultura 
+Establece la 
+política de 
+vivienda de 
+interés social 
+rural. Crea el 
+Subsidio 
+Familiar de 
+Vivienda Rural 
+otorgado “en 
+especie” 
+(vivienda 
+construida o 
+mejorada). 
+Prioriza a 
+víctimas, mujeres 
+cabeza de familia 
+Legal / Política 
+habitacional 
+
+=== Página 40 ===
+40 
+ 
+y hogares en 
+pobreza. 
+Ley 2079 de 
+2021 (Ley de 
+Vivienda y 
+Hábitat) 
+2021 
+Congreso de la 
+República / 
+MinVivienda 
+Actualiza la 
+política 
+habitacional con 
+enfoque de 
+derechos. Ordena 
+la formulación de 
+una Política 
+Pública de 
+Vivienda Rural 
+basada en la 
+sostenibilidad, 
+equidad y enfoque 
+diferencial. Exige 
+participación 
+comunitaria, 
+adecuación 
+cultural, provisión 
+de servicios 
+básicos, 
+tecnologías 
+apropiadas y 
+priorización de 
+población rural 
+vulnerable.  
+Reglamenta la 
+categoría de 
+Vivienda de 
+Interés Cultural 
+(creada por la Ley 
+2079). Define la 
+VIC como 
+viviendas 
+profundamente 
+Legal / Política 
+habitacional 
+
+=== Página 41 ===
+41 
+ 
+arraigadas al 
+territorio, el 
+clima, las 
+tradiciones y 
+materiales 
+vernáculos. 
+Establece 
+lineamientos para 
+que los proyectos 
+de vivienda 
+(urbanos y 
+rurales) respeten 
+la identidad 
+cultural local, 
+especialmente en 
+territorios como el 
+Paisaje Cultural 
+Cafetero. 
+Promueve diseños 
+coherentes con la 
+arquitectura 
+tradicional 
+(bahareque, 
+balcones, colores, 
+etc.) combinando 
+valor patrimonial 
+y habitabilidad 
+digna. 
+Programa 
+“Mi Casa Ya 
+Rural” 
+Desde 
+2021 
+Ministerio de 
+Vivienda, Ciudad y 
+Territorio 
+Adaptación del 
+programa urbano 
+“Mi Casa Ya” al 
+contexto rural. 
+Busca facilitar el 
+acceso a vivienda 
+nueva en el 
+campo mediante 
+subsidios estatales 
+directos y 
+esquemas 
+simplificados de 
+Habitacional / 
+Financiero / 
+Inclusivo 
+
+=== Página 42 ===
+42 
+ 
+financiación. 
+Tiene como 
+objetivo reducir la 
+intermediación 
+operativa y 
+unificar la oferta 
+institucional de 
+vivienda social, 
+permitiendo que 
+los hogares 
+rurales accedan a 
+beneficios 
+similares a los 
+urbanos. 
+Fondo de 
+Adaptación 
+Desde 
+2011 
+Presidencia de la 
+República – Fondo 
+de Adaptación / 
+Fonvivienda 
+Creado tras el 
+fenómeno de La 
+Niña, este fondo 
+atiende 
+emergencias y 
+reconstrucción en 
+zonas afectadas 
+por desastres 
+naturales. Ha 
+construido miles 
+de viviendas 
+rurales resilientes 
+para comunidades 
+afectadas 
+(inundaciones, 
+sequías). 
+Ejemplo: 
+proyecto Ichitki 
+en La Guajira 
+(200 viviendas 
+para población 
+Wayúu). Aplica 
+modelos de 
+autoconstrucción 
+asistida, 
+combinando 
+Emergencia / 
+Participativo / 
+Cultural 
+
+=== Página 43 ===
+43 
+ 
+técnicas 
+ancestrales con 
+estándares 
+técnicos actuales. 
+Promueve 
+participación 
+comunitaria, 
+preservación 
+cultural y 
+sostenibilidad 
+ambiental en la 
+vivienda rural. 
+Nombre del 
+instrumento 
+normativo o 
+guía 
+Año 
+Tipo 
+Entidad 
+responsable 
+Aporte 
+principal al 
+enfoque de 
+vivienda rural 
+Observación 
+General Nº 4 
+del Comité 
+de Derechos 
+Económicos, 
+Sociales y 
+Culturales 
+(CDESC) 
+1991 
+Norma 
+internacional 
+interpretativa 
+vinculante (Pacto 
+Internacional de 
+DESC) 
+ONU – Comité de 
+DESC 
+Establece los 7 
+estándares del 
+derecho a la 
+vivienda 
+adecuada: 
+seguridad de la 
+tenencia, 
+disponibilidad 
+de servicios, 
+asequibilidad, 
+habitabilidad, 
+accesibilidad, 
+ubicación 
+adecuada y 
+adecuación 
+cultural. 
+Colombia los 
+adopta al ser 
+parte del 
+PIDESC. 
+
+=== Página 44 ===
+44 
+ 
+Declaración 
+Universal de 
+los Derechos 
+Humanos – 
+Artículo 25 
+1948 
+Declaración 
+internacional de 
+derechos humanos 
+ONU 
+Reconoce el 
+derecho de toda 
+persona a un 
+nivel de vida 
+adecuado, 
+incluyendo 
+alimentación, 
+vestido y 
+vivienda. Base 
+ética y jurídica 
+de políticas 
+habitacionales 
+nacionales. 
+Pacto 
+Internacional 
+de Derechos 
+Económicos, 
+Sociales y 
+Culturales – 
+Artículo 11 
+1966 
+(ratificado 
+por 
+Colombia 
+en 1969) 
+Tratado 
+internacional de 
+derechos humanos 
+derechos 
+humanos 
+ONU 
+ 
+Reconoce el 
+derecho de toda 
+persona a una 
+vivienda 
+adecuada. Es 
+jurídicamente 
+vinculante para 
+Colombia. 
+Lineamientos 
+de Vivienda 
+Saludable – 
+OMS 
+2018 
+Guía técnica 
+internacional de 
+salud pública 
+Organización 
+Mundial de la 
+Salud (OMS) 
+Define los 
+estándares 
+mínimos para 
+que la vivienda 
+sea un entorno 
+saludable. 
+Establece 
+criterios de 
+seguridad 
+estructural, 
+ventilación, 
+acceso a agua 
+potable, 
+saneamiento, 
+calidad del aire 
+interior y 
+entorno físico. 
+Vincula 
+directamente 
+condiciones de 
+vivienda con 
+riesgos para la 
+salud física, 
+
+=== Página 45 ===
+45 
+ 
+mental y social. 
+Aplica 
+especialmente 
+en contextos 
+rurales donde 
+persisten 
+cocinas con 
+leña, 
+hacinamiento y 
+falta de 
+servicios 
+básicos. 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 46 ===
+46 
+ 
+ 
+8. RESULTADOS 
+8.1 Diagnóstico territorial  
+ 
+El diagnóstico territorial permitió identificar las condiciones físicas, ambientales y socio-
+productivas que caracterizan el contexto rural de la vereda Taparcal, en el municipio de 
+Belén de Umbría. Este territorio se encuentra dentro del Paisaje Cultural Cafetero 
+Colombiano y presenta una fuerte relación entre vivienda, producción agrícola y paisaje. 
+Las viviendas analizadas se ubican en predios cafeteros donde la topografía, el clima y 
+las dinámicas productivas influyen directamente en la configuración espacial de las casas. 
+La pendiente del terreno, la presencia de cultivos de café, plátano y vegetación 
+secundaria, así como las dinámicas familiares asociadas al trabajo agrícola, determinan la 
+forma en que las viviendas se implantan en el territorio. 
+En este contexto, la vivienda rural no se entiende únicamente como un espacio 
+doméstico, sino como una estructura que articula actividades de habitación, trabajo y 
+relación con el paisaje. Por esta razón, el diagnóstico territorial se centró en analizar la 
+relación entre emplazamiento, tipología espacial, materialidad y uso cotidiano de las 
+viviendas existentes. 
+Este análisis permitió identificar patrones comunes en la arquitectura vernácula cafetera, 
+particularmente en la forma en que las casas se adaptan a la topografía, integran espacios 
+intermedios y permiten el desarrollo de actividades productivas en su entorno inmediato. 
+ 
+ 
+ 
+ 
+
+=== Página 47 ===
+47 
+ 
+ 
+8.2 Categorías de Investigación 
+ 
+Para comprender las características espaciales de la vivienda rural cafetera se 
+seleccionaron tres casos de estudio ubicados en la vereda Taparcal. Estas viviendas 
+corresponden a diferentes periodos de construcción y presentan variaciones en su 
+organización espacial y relación con el paisaje. 
+El análisis comparativo se realizó a partir de tres categorías principales: ubicación y 
+periodo de construcción, configuración espacial de la planta y relación de la vivienda con 
+el espacio exterior. Estas categorías permiten identificar continuidades y 
+transformaciones en la arquitectura vernácula de la región. 
+ 
+Tabla 3 Clasificación tipológica de viviendas rurales cafeteras 
+CATEGORÍA 
+CASA 1 
+CASA 2 
+CASA 3 
+UBICACIÓN 
+VEREDA TAPARCAL 
+VEREDA TAPARCAL 
+VEREDA TAPARCAL 
+Planta 
+1950 
+ 
+1975 
+1955 
+Tipología espacial 
+Lineal con corredor lateral 
+ 
+Frente en torno a patio 
+ 
+ 
+Compacta 
+
+=== Página 48 ===
+48 
+ 
+CATEGORÍA 
+CASA 1 
+CASA 2 
+CASA 3 
+Materialidad principal 
+Bahareque, 
+guadua, 
+madera 
+ 
+ 
+Madera, piso de cemento 
+ 
+ 
+Bloque de cemento, zinc 
+Elementos estructurales Zócalo 
+de 
+cemento 
+ estructura en madera 
+Estructura en madera 
+Muros portantes en bloque 
+Cubierta 
+Teja de barro inclinada 
+Teja fibrocemento a un agua 
+ 
+Zinc a dos aguas 
+Espacios habitables 
+Cocina, sala, 10 alcobas, 
+baño interno 
+Cocina, 3 alcobas, bodega, 
+baño interno 
+Cocina-comedor, 
+1 
+alcoba, baño interior 
+Usos 
+productivos 
+asociados 
+Secado de café, bodegas, 
+fogón de leña. 
+Bodega de insumos, espacio 
+para trilladora 
+No 
+tiene 
+actividad 
+productiva 
+Estado de conservación Regular: 
+deterioro 
+en 
+cubierta y pisos 
+Habitada 
+Nueva pero inadecuada y 
+poco ventilada 
+Relación con el entorno Corredor abierto hacia el 
+beneficiadero y la zona 
+Patio 
+con 
+vista 
+a 
+las 
+montañas 
+ 
+Sin conexión visual con el 
+paisaje 
+
+=== Página 49 ===
+49 
+ 
+CATEGORÍA 
+CASA 1 
+CASA 2 
+CASA 3 
+productiva 
+ 
+Observaciones 
+cualitativas 
+Construcción 
+tradicional 
+viva, espacios iluminados, 
+abiertos, 
+equidistantes, 
+fácil acceso  
+Intervenciones 
+no 
+coherentes con contexto 
+Vivienda de emergencia 
+sin identidad local 
+Tabla guía para el análisis de las unidades habitacionales. 
+ 
+ 
+
+=== Página 50 ===
+50 
+ 
+CATEGORÍA 
+ 
+CASA 1 
+ 
+ 
+UBICACIÓN 
+ 
+ 
+VEREDA 
+TAPARCAL 
+1950 
+ 
+ 
+PLANTAARQUITECTONICA 
+ 
+La Casa 1 corresponde a una vivienda rural tradicional del Paisaje Cultural Cafetero, 
+construida hacia 1950 y ubicada en la vereda Taparcal. Su configuración en “L” responde 
+a la necesidad de integrar los espacios domésticos con las actividades productivas del 
+café, como el beneficiadero y el secadero, lo que permite un funcionamiento continuo 
+entre la vida familiar y el trabajo agrícola. 
+El conjunto presenta una estructura de zócalo en bloque de cemento sobre el cual se 
+levanta una estructura en madera con muros en bahareque recubiertos de pañete de 
+
+=== Página 51 ===
+51 
+ 
+CATEGORÍA 
+ 
+CASA 1 
+ 
+ 
+La cubierta inclinada en teja de barro a dos aguas proporciona ventilación natural y 
+control térmico, elementos característicos de la arquitectura vernácula cafetera. 
+ 
+  
+ 
+ 
+ 
+ 
+Ilustración 4 Planta arquitectónica Casa 1 
+Ilustración 5 Estado constructivo Casa 1 
+El estado de conservación actual es regular, con deterioro avanzado en pisos y cubiertas. 
+En el entrepiso de madera se observan zonas podridas, grietas y colonización por 
+líquenes y vegetación espontánea, evidenciando la falta de mantenimiento. En el interior, 
+el cielo raso de madera presenta filtraciones y deformaciones por humedad, mientras que 
+las vigas exteriores muestran pérdida de rigidez estructural. 
+A nivel ambiental, la vivienda mantiene una relación directa con el entorno natural, 
+orientada hacia el valle y protegida por vegetación nativa. El corredor lateral abierto 
+funciona como elemento de transición climática, ofreciendo sombra y ventilación cruzada. 
+
+=== Página 52 ===
+52 
+ 
+Desde el punto de vista cultural, esta vivienda es representativa de la arquitectura 
+tradicional cafetera, donde los materiales locales, las soluciones empíricas y el sentido de 
+pertenencia al paisaje se manifiestan en la construcción. Aunque el tiempo y las 
+condiciones climáticas han afectado su integridad física, su valor patrimonial radica en 
+conservar la lógica espacial, los materiales originales y la integración entre hábitat y 
+producción rural. 
+Figura X. Planta arquitectonica 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tipología espacial 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ilustración 6 Relación de la vivienda con el paisaje 
+
+=== Página 53 ===
+53 
+ 
+ 
+Ilustración 7 Estructura espacial lineal con espacio intermedio articulador 
+ 
+ 
+Lineal 
+con 
+corredor 
+lateral 
+ 
+La orientación longitudinal permite captar los vientos dominantes del oriente, garantizando 
+ventilación natural en los espacios principales. Los corredores laterales protegen del 
+asoleamiento directo y sirven como transición climática entre interior y exterior. 
+Esta tipología representa la vivienda cafetera tradicional, donde la arquitectura se convierte 
+en testimonio material del modo de vida campesino y su relación con el café como sustento 
+económico y cultural. 
+ 
+El análisis de estos tres casos permitió identificar elementos comunes de la arquitectura 
+vernácula cafetera, particularmente la presencia de espacios intermedios, la adaptación a la 
+topografía y la integración entre vivienda y actividad productiva. Estos hallazgos 
+constituyen la base conceptual para el desarrollo de la propuesta arquitectónica presentada 
+en los siguientes capítulos. 
+ 
+ 
+ 
+ 
+
+=== Página 54 ===
+54 
+ 
+ 
+8.3 Propuesta arquitectónica 
+ 
+La propuesta arquitectónica surge como resultado del análisis territorial, tipológico y 
+habitacional desarrollado en los capítulos anteriores. A partir del estudio de las viviendas 
+existentes en la vereda Taparcal y de la comprensión de las dinámicas productivas del 
+paisaje cafetero, se plantea un modelo de vivienda rural que integra las actividades 
+domésticas, productivas y ambientales propias del territorio. 
+El proyecto se localiza en una finca cafetera ubicada en la vereda Taparcal, en el municipio 
+de Belén de Umbría, Risaralda. Este territorio se caracteriza por una topografía montañosa, 
+una fuerte presencia de cultivos de café y una red de caminos rurales que conectan las 
+viviendas dispersas con las áreas de producción agrícola. 
+8.4 Desarrollo proyectual  
+La localización general del proyecto, mostrada en la figura anterior, permite comprender 
+la relación entre las diferentes viviendas existentes, los cultivos y las infraestructuras 
+productivas de la finca, como el beneficiadero de café. En este contexto, la vivienda no se 
+concibe como un objeto aislado, sino como parte de un sistema territorial donde la vida 
+cotidiana y el trabajo agrícola se encuentran profundamente integrados. 
+ 
+Ilustración 8 Localización del proyecto 
+La implantación de la propuesta responde a criterios de accesibilidad, relación con las áreas 
+de cultivo y aprovechamiento de las condiciones topográficas del terreno. La ubicación 
+seleccionada permite mantener una relación directa con los cafetales y con las 
+
+=== Página 55 ===
+55 
+ 
+infraestructuras productivas existentes, al mismo tiempo que garantiza condiciones 
+adecuadas de ventilación, iluminación natural y control climático. 
+Asimismo, la distribución de las viviendas dentro del territorio busca respetar las lógicas 
+de ocupación tradicional del paisaje cafetero, donde las casas se implantan de manera 
+dispersa en relación con las parcelas productivas, generando una estructura territorial 
+donde vivienda, trabajo y paisaje conforman una unidad inseparable. 
+ 
+Ilustración 9 Relación actividad–técnica–espacio 
+El desarrollo proyectual de la propuesta se fundamenta en la comprensión de la vivienda 
+rural cafetera como un espacio de vida donde las actividades domésticas, productivas y 
+sociales se encuentran profundamente integradas. Más que partir de una forma 
+arquitectónica predeterminada, el proyecto se construye a partir del análisis de las 
+dinámicas de habitar observadas en las viviendas estudiadas. 
+El gráfico presentado sintetiza este proceso mediante la relación entre tres dimensiones 
+fundamentales: la actividad, la técnica constructiva y la organización espacial. Estas 
+dimensiones permiten comprender cómo las prácticas cotidianas, las condiciones del sitio 
+y los sistemas constructivos configuran la arquitectura de la vivienda rural. 
+Desde la dimensión de la actividad, se identifican los usos principales asociados al habitar 
+rural, tales como el descanso, las actividades domésticas, el almacenamiento y las labores 
+relacionadas con la producción cafetera. Estas actividades no se desarrollan únicamente en 
+espacios interiores, sino que se extienden hacia corredores, patios y áreas exteriores, 
+generando una relación constante entre la vivienda y el paisaje. 
+La dimensión técnica se refiere a los elementos constructivos que permiten materializar 
+estas formas de habitar. En las viviendas analizadas se observa el uso de sistemas 
+
+=== Página 56 ===
+56 
+ 
+constructivos sencillos basados en muros portantes, estructuras de columnas y cubiertas 
+livianas, que permiten modular el espacio construido y adaptarlo a diferentes necesidades. 
+Estos elementos no solo cumplen una función estructural, sino que también definen la 
+configuración espacial de la vivienda. 
+Finalmente, la organización espacial surge de la interacción entre actividad y técnica. A 
+partir de la disposición de habitaciones, corredores, circulaciones y cubiertas, se generan 
+diferentes configuraciones espaciales que permiten articular los espacios privados con los 
+espacios de uso colectivo. Estas configuraciones reflejan principios recurrentes en la 
+arquitectura vernácula cafetera, como la presencia de espacios intermedios, la flexibilidad 
+del espacio construido y la relación directa con el entorno. 
+De esta manera, la propuesta arquitectónica se concibe como un marco espacial capaz de 
+soportar diferentes formas de habitar, donde la estructura, la circulación y los espacios 
+intermedios permiten la adaptación de la vivienda a las dinámicas cotidianas del territorio. 
+En este sentido, la arquitectura no se entiende únicamente como un objeto construido, sino 
+como una estructura que posibilita el habitar. El proyecto busca construir un marco espacial 
+que permita el desarrollo de las actividades cotidianas propias del contexto rural cafetero, 
+manteniendo la relación entre vivienda, producción y paisaje. 
+ 
+Ilustración 10 Estrategias proyectuales 
+Estas operaciones se sintetizan en cuatro procesos principales: unidad espacial compacta, 
+unidad espacial fraccionada, marco espacial contenedor y composición por partes. 
+Cada una de estas operaciones representa una forma de organizar el espacio construido en 
+función de las dinámicas del habitar rural. 
+
+=== Página 57 ===
+57 
+ 
+La unidad espacial compacta corresponde a configuraciones en las que las funciones 
+domésticas se concentran en un volumen único. Este tipo de organización se encuentra 
+frecuentemente en viviendas rurales donde las actividades se desarrollan en espacios 
+interiores relativamente cerrados. 
+Por su parte, la unidad espacial fraccionada permite separar diferentes áreas de la 
+vivienda, generando relaciones entre volúmenes independientes que se articulan mediante 
+corredores, patios o espacios intermedios. Esta lógica permite una mayor flexibilidad 
+espacial y una mejor adaptación a las dinámicas familiares y productivas. 
+El concepto de marco espacial contenedor surge como una estrategia para organizar la 
+vivienda a partir de una estructura que define el límite del espacio habitable sin cerrarlo 
+completamente. Este marco permite integrar espacios interiores y exteriores, generando 
+áreas intermedias donde se desarrollan muchas de las actividades cotidianas de la vida 
+rural. 
+Finalmente, la composición por partes permite articular diferentes unidades espaciales 
+dentro de una misma estructura arquitectónica. A través de esta estrategia se generan 
+configuraciones que pueden crecer o adaptarse con el tiempo, respondiendo a las 
+transformaciones de la familia y de las actividades productivas. 
+Un elemento central en esta organización espacial es el espacio intermedio, representado 
+en corredores, balcones o patios. Estos espacios funcionan como zonas de transición entre 
+el interior y el exterior, permitiendo el desarrollo de actividades domésticas, sociales y 
+productivas en relación directa con el paisaje. Tal como plantea Alberto Saldarriaga, estos 
+espacios intermedios cuestionan la separación tradicional entre interior y exterior, 
+generando una condición espacial ambigua donde el habitar se extiende más allá de los 
+límites de la vivienda. 
+Desde el punto de vista constructivo, la propuesta se basa en un sistema estructural modular 
+que permite organizar la vivienda a partir de una retícula de columnas y vigas. Este sistema 
+facilita la construcción progresiva, la adaptación a diferentes condiciones del terreno y la 
+posibilidad de ampliar la vivienda en el tiempo. La estructura se complementa con muros 
+livianos y una cubierta inclinada que responde a las condiciones climáticas del territorio 
+cafetero, favoreciendo la ventilación natural y la protección frente a la lluvia. 
+De esta manera, el proyecto se concibe como una arquitectura que no impone una forma 
+rígida, sino que establece un marco espacial flexible capaz de soportar diversas formas de 
+habitar en el contexto rural. 
+En las viviendas rurales cafeteras, el corredor o balcón constituye uno de los espacios más 
+importantes del habitar cotidiano. Este espacio intermedio funciona como una zona de 
+
+=== Página 58 ===
+58 
+ 
+transición entre el interior de la vivienda y el paisaje productivo que la rodea, permitiendo 
+que las actividades domésticas se extiendan más allá de los límites del espacio cerrado. 
+Las imágenes muestran diferentes formas en las que estos corredores son apropiados por 
+los habitantes. En ellos se desarrollan actividades como el descanso, la conversación, el 
+trabajo doméstico, el secado de ropa y la observación del entorno. Estas prácticas 
+evidencian que el habitar rural no se limita al interior de la vivienda, sino que se despliega 
+en espacios abiertos pero protegidos, donde la arquitectura permite una relación constante 
+con el paisaje y con la vida comunitaria. 
+El corredor funciona así como un espacio flexible que articula lo privado y lo colectivo, lo 
+interior y lo exterior. Su carácter abierto favorece la ventilación natural, la iluminación y 
+el contacto visual con el territorio agrícola, al mismo tiempo que ofrece protección frente 
+a la lluvia y el sol. 
+Tal como señala Alberto Saldarriaga, estos espacios intermedios plantean una condición 
+espacial ambigua donde la distinción entre dentro y fuera se vuelve difusa. Cuando los 
+habitantes utilizan el patio o el balcón, no están completamente dentro ni completamente 
+fuera de la vivienda; habitan un espacio de transición que amplía las posibilidades del 
+habitar cotidiano. 
+En este sentido, el corredor no debe entenderse únicamente como un elemento de 
+circulación, sino como un espacio de vida, donde se desarrollan múltiples actividades que 
+forman parte de la cotidianidad rural. Esta condición convierte al espacio intermedio en 
+uno de los elementos estructurales de la arquitectura vernácula cafetera y en un principio 
+fundamental para el desarrollo de la propuesta arquitectónica. 
+ 
+Ilustración 11 Implantación en el terreno 
+
+=== Página 59 ===
+59 
+ 
+Implantación en el paisaje cafetero 
+La propuesta arquitectónica parte de la lectura del paisaje rural cafetero del municipio de 
+Umbría. El proyecto se implanta sobre la topografía existente respetando la pendiente 
+natural del terreno y las dinámicas productivas del lugar. La vivienda se orienta 
+longitudinalmente siguiendo las curvas del terreno, buscando aprovechar las visuales hacia 
+el valle y favorecer la ventilación cruzada característica de la arquitectura rural del paisaje 
+cultural cafetero. 
+La implantación reconoce el territorio no como un soporte pasivo, sino como un sistema 
+ecológico y productivo donde la arquitectura debe integrarse de manera respetuosa. Por 
+esta razón, el proyecto se eleva ligeramente sobre el terreno mediante un sistema estructural 
+liviano que reduce la intervención directa sobre el suelo y permite la continuidad del paisaje 
+vegetal. 
+ 
+Estrategia de paisaje y jardín productivo 
+El entorno inmediato de la vivienda se concibe como un jardín productivo compuesto por 
+especies vegetales propias de la región. Este sistema vegetal cumple múltiples funciones: 
+generar sombra, mejorar el microclima, aportar biodiversidad y reforzar la relación entre 
+vivienda y paisaje agrícola. 
+Las especies seleccionadas responden a criterios ecológicos y culturales del territorio 
+cafetero, permitiendo consolidar un espacio vivo donde naturaleza y arquitectura se 
+integran. El jardín no se plantea únicamente como un elemento ornamental, sino como 
+parte del sistema de habitar rural, donde el paisaje participa activamente en la vida 
+cotidiana de los habitantes. 
+ 
+Sistema constructivo y espacio intermedio 
+La estructura del proyecto retoma principios constructivos de la arquitectura vernácula 
+cafetera, particularmente el uso de sistemas livianos en madera que permiten modular el 
+espacio y adaptarse a la topografía. Este sistema estructural define un marco espacial 
+abierto que da lugar a la aparición de espacios intermedios como corredores y galerías. 
+Estos espacios intermedios funcionan como zonas de transición entre el interior de la 
+vivienda y el paisaje exterior, favoreciendo la ventilación natural, la protección climática 
+y el desarrollo de actividades cotidianas al aire libre. De esta manera, la arquitectura no se 
+concibe como un volumen cerrado, sino como una estructura permeable que amplía el 
+espacio habitable hacia el paisaje. 
+
+=== Página 60 ===
+60 
+ 
+ 
+Arquitectura y paisaje 
+El proyecto propone una relación continua entre arquitectura, paisaje y habitar. La vivienda 
+no se impone sobre el territorio, sino que se inserta dentro de él, estableciendo una conexión 
+directa entre la vida doméstica, el sistema productivo agrícola y las condiciones 
+ambientales del lugar. 
+De esta forma, la arquitectura se convierte en un mediador entre el habitante y el paisaje, 
+permitiendo que el acto de habitar se desarrolle en permanente diálogo con el entorno 
+natural y cultural del paisaje cafetero 
+ 
+Ilustración 12 Sistema estructural Relaciones espaciales y áreas de la vivienda: el corredor como espacio 
+articulador 
+Implantación en el paisaje cafetero 
+La implantación del proyecto responde a una lectura integral del territorio, en la que la 
+topografía, la vegetación existente y las dinámicas productivas determinan la ubicación y 
+orientación de la vivienda. Más que ocupar un lugar, la propuesta busca integrarse al 
+sistema ecológico y agrícola del paisaje cafetero, estableciendo una relación directa entre 
+la arquitectura y su entorno inmediato. 
+La disposición longitudinal de la vivienda se adapta a las curvas del terreno, minimizando 
+las intervenciones sobre el suelo y permitiendo una implantación ligera que respeta las 
+condiciones naturales del sitio. Esta estrategia favorece el drenaje, la ventilación natural y 
+la continuidad de los flujos ecológicos presentes en el lugar. 
+ 
+
+=== Página 61 ===
+61 
+ 
+ 
+ 
+Ilustración 13 Planta de la vivienda: integración con el paisaje inmediato 
+El sistema vegetal propuesto no se concibe como un elemento ornamental, sino como una 
+extensión del paisaje productivo. La incorporación de especies nativas y cultivadas 
+refuerza la biodiversidad, contribuye al equilibrio ambiental y establece relaciones directas 
+con las prácticas agrícolas del territorio. De esta manera, la vivienda se inserta en un 
+sistema vivo donde arquitectura, vegetación y producción coexisten de forma articulada. 
+Asimismo, la organización del espacio exterior configura áreas de transición, recorridos y 
+zonas de permanencia que amplían el habitar más allá del interior construido. Estos 
+espacios permiten que las actividades cotidianas se desarrollen en relación constante con 
+el paisaje, consolidando una forma de habitar en la que el límite entre arquitectura y entorno 
+se vuelve difuso. 
+En este sentido, la implantación no se entiende como una acción puntual sobre el territorio, 
+sino como una estrategia de articulación entre el habitar, el paisaje y el sistema productivo 
+rural. 
+Sistema constructivo de la cubierta | Estructura y configuración espacial de la 
+cubierta 
+El sistema de cubierta se concibe como un elemento estructural y espacial que define la 
+organización de la vivienda y las condiciones de habitabilidad. A partir de una estructura 
+modular en madera, compuesta por columnas, vigas y cerchas inclinadas, la cubierta 
+resuelve no solo la protección climática, sino también la configuración del espacio interior 
+y su relación con el exterior. 
+
+=== Página 62 ===
+62 
+ 
+La disposición a dos aguas responde a las condiciones climáticas del territorio cafetero, 
+permitiendo la evacuación eficiente de aguas lluvias y favoreciendo la ventilación natural. 
+La inclinación de la cubierta, junto con los aleros extendidos, genera espacios protegidos 
+que actúan como zonas intermedias entre el interior y el exterior. 
+ 
+Ilustración 14 Sistema de cubierta 
+El sistema estructural se organiza a partir de una retícula regular que facilita la construcción 
+progresiva y la adaptación a diferentes condiciones del terreno. Las cerchas y elementos 
+diagonales garantizan la estabilidad del conjunto, mientras que su configuración abierta 
+permite la continuidad visual y la circulación del aire, contribuyendo al confort térmico de 
+la vivienda. 
+Más allá de su función técnica, la cubierta se consolida como el elemento articulador del 
+proyecto, integrando estructura, espacio y clima en una misma operación arquitectónica. 
+Su presencia define el carácter de la vivienda y refuerza la relación entre el habitar, la 
+técnica constructiva y el paisaje. 
+Sistema constructivo del piso y relación con el terreno 
+El sistema estructural del piso se plantea como una plataforma elevada que permite adaptar 
+la vivienda a las condiciones del terreno y establecer una relación directa con el paisaje 
+cafetero. A partir de una retícula modular de apoyos puntuales, la estructura se separa del 
+suelo, reduciendo la intervención sobre el terreno y facilitando la construcción en 
+pendientes. 
+Esta elevación no solo responde a condiciones técnicas, como el control de la humedad y 
+la ventilación inferior, sino que también configura una forma particular de habitar, donde 
+la vivienda se posa sobre el paisaje sin modificarlo de manera agresiva. La estructura 
+
+=== Página 63 ===
+63 
+ 
+liviana permite que el aire circule por debajo del piso, mejorando las condiciones térmicas 
+y garantizando la durabilidad de los materiales. 
+ 
+Ilustración 15 Sistema estructural del piso y organización espacial de la vivienda 
+ 
+La modulación estructural organiza la distribución espacial de la vivienda, permitiendo la 
+articulación entre espacios cerrados y abiertos. Sobre esta plataforma se disponen los 
+diferentes elementos arquitectónicos, como muros, corredores y áreas productivas, 
+manteniendo la flexibilidad del sistema y su capacidad de adaptación en el tiempo. 
+De esta manera, el piso se entiende como un sistema base que no solo soporta la 
+construcción, sino que establece las condiciones para el desarrollo del habitar rural, 
+integrando técnica, paisaje y vida cotidiana en una misma operación arquitectónica. 
+Organización espacial de la vivienda 
+La planta arquitectónica se organiza a partir de un sistema lineal que articula los diferentes 
+espacios de la vivienda mediante un corredor continuo. Este elemento actúa como eje 
+estructurador del habitar, permitiendo la conexión entre las áreas privadas, los espacios 
+domésticos y las zonas de relación con el exterior. 
+Los espacios cerrados, como habitaciones, cocina y servicios, se disponen como unidades 
+independientes que se insertan dentro de una retícula modular. Esta organización permite 
+separar funciones sin perder la continuidad espacial, generando una relación fluida entre 
+los diferentes usos de la vivienda. 
+El corredor, ubicado como espacio intermedio, cumple una función fundamental en la 
+articulación entre interior y exterior. Más allá de su condición de circulación, se configura 
+
+=== Página 64 ===
+64 
+ 
+como un espacio de estancia donde se desarrollan actividades cotidianas, como el descanso, 
+la conversación o el trabajo doméstico, evidenciando que el habitar rural se extiende más 
+allá de los espacios cerrados. 
+ 
+Ilustración 16  Sistema estructural planta del primer piso 
+La disposición longitudinal de la vivienda responde tanto a las condiciones del terreno 
+como a las dinámicas productivas del contexto cafetero, permitiendo una relación directa 
+con el paisaje y facilitando la ventilación cruzada y la iluminación natural. 
+De esta manera, la planta no se concibe como una distribución rígida, sino como un sistema 
+flexible que permite adaptarse a las transformaciones del habitar rural, integrando vivienda, 
+producción y paisaje en una misma estructura espacial. 
+Sección constructiva y espacial de la vivienda 
+Las secciones permiten comprender la relación entre estructura, espacio y condiciones 
+ambientales, evidenciando cómo la vivienda responde al clima y al territorio a partir de un 
+sistema constructivo coherente. 
+La elevación de la vivienda sobre apoyos puntuales separa el piso del terreno, facilitando 
+la ventilación inferior, el control de la humedad y la adaptación a la topografía. Este sistema 
+reduce el impacto sobre el suelo y permite que la vivienda se pose de manera ligera sobre 
+el paisaje. 
+La cubierta inclinada a dos aguas, con amplios aleros, constituye un elemento fundamental 
+para el control climático. Su configuración favorece la evacuación del agua lluvia, protege 
+los espacios intermedios de la radiación solar directa y permite la ventilación natural 
+mediante la circulación del aire caliente hacia la parte superior. 
+
+=== Página 65 ===
+65 
+ 
+ 
+Ilustración 17 Secciones arquitectónicas y configuración espacial de la vivienda 
+La estructura portante, conformada por una retícula de columnas y vigas, organiza el 
+espacio y permite la modulación de la vivienda. Este sistema facilita la construcción 
+progresiva, la flexibilidad en la distribución y la adaptación a diferentes necesidades del 
+habitar rural. 
+En sección, el corredor se evidencia como un espacio intermedio que articula interior y 
+exterior, generando condiciones de sombra, ventilación cruzada y relación visual con el 
+paisaje. Este espacio no solo conecta, sino que configura un lugar de permanencia donde 
+se desarrollan múltiples actividades de la vida cotidiana. 
+De esta manera, la sección no se limita a mostrar la construcción, sino que revela cómo la 
+arquitectura integra técnica, clima y habitar en un mismo sistema, respondiendo de manera 
+integral a las condiciones del contexto rural cafetero. 
+En este sentido, la sección evidencia que la arquitectura no se limita a definir un objeto 
+construido, sino que establece un sistema capaz de responder simultáneamente a las 
+condiciones del clima, el territorio y las dinámicas del habitar rural. 
+El espacio intermedio como lugar de habitar 
+La sección evidencia el papel fundamental del espacio intermedio en la configuración del 
+habitar rural. El corredor se presenta como un umbral que articula interior y exterior, 
+permitiendo una relación continua entre la vivienda y el paisaje. 
+Este espacio no se limita a una función de circulación, sino que se convierte en un lugar de 
+permanencia donde se desarrollan múltiples actividades de la vida cotidiana, como el 
+
+=== Página 66 ===
+66 
+ 
+descanso, la conversación, el trabajo doméstico y la interacción social. En él, el habitar se 
+extiende más allá de los límites físicos de la vivienda. 
+ 
+Ilustración 18 Sección longitudinal: relación con el terreno y acceso a la vivienda 
+La cubierta inclinada y los amplios aleros generan condiciones de sombra y protección 
+frente a la lluvia, mientras que la apertura lateral favorece la ventilación natural y el 
+contacto visual con el entorno. De esta manera, el corredor funciona como un regulador 
+climático que mejora las condiciones de confort sin recurrir a soluciones tecnológicas 
+complejas. 
+La elevación de la vivienda refuerza esta condición, permitiendo la circulación del aire por 
+debajo del piso y estableciendo una relación ligera con el terreno. La estructura abierta y 
+modular facilita la continuidad espacial, haciendo posible que las actividades se desplacen 
+entre interior y exterior de manera fluida. 
+En este sentido, el espacio intermedio plantea una condición espacial ambigua, donde la 
+distinción entre dentro y fuera se diluye. Tal como lo plantea Alberto Saldarriaga, cuando 
+se habita el corredor o el balcón, no se está completamente dentro ni completamente fuera, 
+sino en un espacio de transición que amplía las posibilidades del habitar cotidiano. 
+De esta manera, la arquitectura no se concibe como un objeto aislado, sino como una 
+estructura que posibilita el habitar, donde el espacio intermedio se convierte en el elemento 
+fundamental que articula la relación entre vivienda, paisaje y vida cotidiana en el contexto 
+rural cafetero. 
+ 
+ 
+
+=== Página 67 ===
+67 
+ 
+ 
+ 
+Ilustración 19 Sección longitudinal: recorrido y relación con el paisaje 
+ 
+Esta sección evidencia la relación entre el terreno, la estructura y el espacio habitable a 
+través de una implantación ligera que se adapta a la pendiente natural. 
+El proyecto se eleva sobre una serie de apoyos puntuales, permitiendo que el suelo 
+permanezca libre y permeable, evitando intervenciones agresivas sobre el paisaje. Esta 
+decisión constructiva no solo responde a una lógica técnica, sino que define una forma de 
+habitar donde la arquitectura se posa sobre el territorio sin dominarlo. 
+La cubierta, continua y horizontal, actúa como elemento unificador del conjunto, 
+generando un espacio intermedio protegido que regula la luz, la temperatura y la relación 
+con el exterior. Bajo esta, el habitar se desarrolla como una experiencia abierta, donde los 
+límites entre interior y exterior se diluyen. 
+La sección muestra cómo el recorrido acompaña la topografía, permitiendo una transición 
+progresiva entre niveles, reforzando la idea de un habitar en movimiento, en constante 
+relación con el entorno natural. 
+Asimismo, la modulación estructural repetitiva ordena el espacio y facilita la construcción, 
+evidenciando un sistema claro, racional y replicable. 
+ 
+
+=== Página 68 ===
+68 
+ 
+ 
+9. CONCLUSIONES 
+ 
+9.1 Identidad y habitar 
+La vivienda rural cafetera se consolida como una expresión viva de la identidad territorial 
+del Paisaje Cultural Cafetero, donde el habitar no se entiende de manera aislada, sino en 
+relación 
+directa 
+con 
+el 
+paisaje 
+y 
+las 
+dinámicas 
+productivas. 
+A partir del análisis realizado, se evidencia que elementos como el corredor, la relación 
+interior–exterior y el uso de materiales locales no solo configuran la forma arquitectónica, 
+sino que estructuran la vida cotidiana. Su reinterpretación en el proyecto permite preservar 
+esta memoria vernácula desde una lógica contemporánea. 
+9.2 Déficit habitacional (más fuerte ahora) 
+El déficit habitacional rural en Colombia trasciende la cantidad de viviendas y se sitúa en 
+la 
+falta 
+de 
+propuestas 
+arquitectónicas 
+pertinentes 
+al 
+territorio. 
+La investigación evidencia que los modelos estandarizados no responden a las condiciones 
+topográficas, climáticas ni socioculturales del contexto rural. En contraste, el proyecto 
+plantea una vivienda que se adapta a la pendiente, integra el sistema productivo y reconoce 
+las dinámicas del habitar campesino, proponiendo una alternativa situada y replicable. 
+9.3 Investigación proyectual (aquí la conectamos más contigo) 
+La investigación desarrollada en la vereda Taparcal permitió identificar principios 
+tipológicos fundamentales de la vivienda rural, tales como el basamento, la elevación del 
+sistema habitable, la flexibilidad espacial y el uso de materiales naturales. 
+Estos elementos son reinterpretados en la propuesta arquitectónica mediante un sistema 
+constructivo ligero y modular, que incorpora estrategias bioclimáticas y optimiza los 
+recursos, manteniendo la esencia vernácula sin recurrir a la copia literal. 
+9.4 Proyecto como sistema  
+ 
+El proyecto arquitectónico entiende la vivienda como un sistema integral donde habitar, 
+producir 
+y 
+paisaje 
+se 
+articulan. 
+La elevación de la estructura sobre apoyos puntuales, la cubierta como elemento unificador 
+y la adaptación a la topografía permiten configurar un espacio intermedio que favorece la 
+ventilación, 
+la 
+protección 
+climática 
+y 
+la 
+continuidad 
+del 
+terreno. 
+
+=== Página 69 ===
+69 
+ 
+De este modo, la vivienda no se impone sobre el territorio, sino que se integra a él, 
+fortaleciendo las condiciones de habitabilidad rural. 
+9.5 
+Proyección 
+de 
+la 
+arquitectura 
+vernácula 
+sostenible 
+ 
+La reinterpretación de la arquitectura vernácula desde criterios de sostenibilidad demuestra 
+que es posible proyectar soluciones contemporáneas sin perder la identidad cultural. 
+El proyecto reafirma que la arquitectura rural puede ser un instrumento de transformación, 
+no solo en términos espaciales, sino también sociales, productivos y ambientales, 
+contribuyendo a la permanencia de las comunidades en el territorio y al fortalecimiento del 
+paisaje cultural cafetero. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Página 70 ===
+70 
+ 
+ 
+10. REFERENCIAS BIBLIOGRAFICAS 
+ 
+Departamento Administrativo Nacional de Estadística. (2020). Informe estadístico: 
+Necesidades Básicas Insatisfechas 1985–2018. Bogotá, Colombia. 
+Departamento Administrativo Nacional de Estadística. (2021). Evolución de componentes 
+del NBI en zonas rurales. En Plan Nacional de Construcción y Mejoramiento de Vivienda 
+Social 
+Rural 
+– 
+PNVISR. 
+ 
+Departamento Administrativo Nacional de Estadística. (2018). Déficit habitacional rural 
+por 
+municipio 
+y 
+por 
+departamentos. 
+ 
+Ministerio de Vivienda, Ciudad y Territorio. (2020). Indicadores de hábitat rural en 
+Colombia. 
+Bogotá, 
+Colombia. 
+ 
+Federación Nacional de Cafeteros de Colombia. (2010). Plan de Desarrollo Social 
+Sostenible para familias cafeteras. 
+Orsini, R. (2023). Territorios inacabados: arquitectura rural y políticas públicas en 
+Colombia. Universidad Nacional de Colombia. 
+Departamento Administrativo Nacional de Estadística. (2018). Censo Nacional de 
+Población y Vivienda 2018. Bogotá, Colombia. 
+Departamento Nacional de Planeación. (2022). Bases del Plan Nacional de Desarrollo 
+2022–2026. Bogotá, Colombia. 
+Ministerio de Vivienda, Ciudad y Territorio. (2021). Plan Nacional de Construcción y 
+Mejoramiento de Vivienda Social Rural (PNVISR 
+Comisión para el Esclarecimiento de la Verdad. (2021). Informe final: Hay futuro si hay 
+verdad. 
+Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). (2019). 
+Desarrollo rural en América Latina y el Caribe: evolución y desafíos para una nueva 
+generación de políticas. 
+ONU-Hábitat. 
+(2020). 
+El 
+derecho 
+a 
+una 
+vivienda 
+adecuada. 
+ 
+ArchDaily Colombia. (2020). Artículos sobre vivienda rural vernácula. 
+
+=== Página 71 ===
+71 
+ 
+UNESCO. (2011). Paisaje Cultural Cafetero de Colombia. World Heritage Centre. 
+Disponible en: https://whc.unesco.org 
+Álvarez, J. (2020). Vivienda rural vernácula: tipologías, materiales y territorio. Revista 
+Bitácora Urbano-Territorial. 
+Rangel, A., & Mejía, L. (2021). Arquitectura tradicional en el Paisaje Cultural Cafetero. 
+Universidad Nacional de Colombia. 
+Rossbach, A. (2024, diciembre 10). La vivienda adecuada: un derecho humano que 
+debemos defender. ONU-Hábitat. Disponible en: https://unhabitat.org/la-vivienda-
+adecuada-un-derecho-humano-que-debemos-defender 
+Fonseca, L., & Saldarriaga, A. (2004). La arquitectura de la vivienda rural en Colombia 
+(Vol. 2). Universidad Nacional de Colombia. 
+Fonseca, L., & Saldarriaga, A. (s.f.). La vivienda rural en el paisaje cafetero. Universidad 
+Nacional de Colombia. 
+Salazar Ferro, C. (2018). Hábitat y arquitectura en Colombia. Bogotá: Universidad 
+Nacional de Colombia. 
+Roze, M. (2000). La vivienda rural: espacio cultural y solidario. Editorial Universitaria. 
+Heidegger, M. (s.f.). Conferencias y artículos. (Edición en español). 
+Organización Mundial de la Salud. (s.f.). Vivienda saludable: documento técnico. OMS. 
+ONU-Hábitat. (2019). El derecho a una vivienda adecuada. Programa de las Naciones 
+Unidas para los Asentamientos Humanos. 
+Congreso de la República de Colombia. (2012). Ley 1537 de 2012. Diario Oficial. 
+Disponible 
+en: 
+https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=48388 
+ 
+Congreso de la República de Colombia. (2021). Ley 2079 de 2021. Diario Oficial. 
+Disponible 
+en: 
+https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=169323 
+Departamento Administrativo Nacional de Estadística (DANE). (2018). Resultados del 
+Censo Nacional de Población y Vivienda. Disponible en: https://www.dane.gov.co 
+Ministerio de Vivienda, Ciudad y Territorio (MVCT). (2021). Plan Nacional de 
+Construcción y Mejoramiento de Vivienda Social Rural (PNVISR). Bogotá, Colombia. 
+
+=== Página 72 ===
+72 
+ 
+Federación Nacional de Cafeteros de Colombia. (2010). Programas de desarrollo social y 
+vivienda en zonas cafeteras. Disponible en: https://www.federaciondecafeteros.org 
+El Colombiano. (2023). Especial sobre vivienda rural y programas Mi Casa Ya. 
+Disponible en: https://www.elcolombiano.com 
+Peña Henríquez, G. (2015). Arquitectura habitacional rural con valor patrimonial [Tesis 
+de pregrado, Universidad de Chile]. Repositorio Académico de la Universidad de Chile. 
+Disponible en: https://repositorio.uchile.cl/handle/2250/135272 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

@@ -288,22 +288,50 @@ with tab_m2:
 
     st.divider()
 
-    # Filtros
-    fc1, fc2, fc3, fc4 = st.columns(4)
-    with fc1:
-        estado_filtro = st.selectbox(
-            "Mostrar",
+    # Filtros en sidebar (aplican solo al tab M2)
+    with st.sidebar:
+        st.markdown("### 🎚 Filtros · Casos M2")
+        st.caption("Aplican solo cuando estás en el tab M2.")
+
+        estado_filtro = st.radio(
+            "Estado",
             ["Pendientes", "Aceptados", "Descartados", "Todos"],
-            index=0
+            index=0,
         )
-    with fc2:
+
+        st.markdown("---")
         clima_filt = st.multiselect("Clima TdR", CLIMAS, default=[])
-    with fc3:
+
         tipos_unicos = sorted([t for t in df_m2["Tipo"].unique() if t])
         tipo_filt = st.multiselect("Tipo", tipos_unicos, default=[])
-    with fc4:
+
         sistemas_unicos = sorted([s for s in df_m2["Sistema_constructivo"].unique() if s])
         sis_filt = st.multiselect("Sistema constructivo", sistemas_unicos, default=[])
+
+        st.markdown("---")
+        st.markdown("**📚 Archivo fuente**")
+        st.caption("Marca/desmarca para mostrar/ocultar.")
+        archivos_unicos = sorted([a for a in df_m2["Archivo_fuente"].unique() if a])
+        archivo_filt = []
+        for a in archivos_unicos:
+            # nombre corto sin .pdf y con conteo
+            n_casos = int((df_m2["Archivo_fuente"] == a).sum())
+            label = f"{a.replace('.pdf', '')}  ·  {n_casos}"
+            if st.checkbox(label, value=True, key=f"archivo_{a}"):
+                archivo_filt.append(a)
+
+        # Atajos
+        col_a, col_b = st.columns(2)
+        with col_a:
+            if st.button("Todas", key="archivo_all", width='stretch'):
+                for a in archivos_unicos:
+                    st.session_state[f"archivo_{a}"] = True
+                st.rerun()
+        with col_b:
+            if st.button("Ninguna", key="archivo_none", width='stretch'):
+                for a in archivos_unicos:
+                    st.session_state[f"archivo_{a}"] = False
+                st.rerun()
 
     # Aplicar filtros
     f = df_m2.copy()
@@ -320,6 +348,9 @@ with tab_m2:
         f = f[f["Tipo"].isin(tipo_filt)]
     if sis_filt:
         f = f[f["Sistema_constructivo"].isin(sis_filt)]
+    # Archivo fuente: a diferencia de los otros, default es "todas seleccionadas"
+    # → siempre filtramos por la lista actual (vacía = nada visible)
+    f = f[f["Archivo_fuente"].isin(archivo_filt)]
 
     st.markdown(f"**{len(f)} casos** con los filtros actuales")
 

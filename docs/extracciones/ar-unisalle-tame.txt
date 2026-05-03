@@ -1,0 +1,2259 @@
+# Fuente: AR-Unisalle-Tame.pdf
+# Total páginas: 60
+
+=== Página 1 ===
+Universidad de La Salle 
+Universidad de La Salle 
+Ciencia Unisalle 
+Ciencia Unisalle 
+Arquitectura 
+Facultad de Arquitectura, Diseño y Urbanismo 
+2021 
+Vivienda rural neovernacular tradicional para sabana 
+Vivienda rural neovernacular tradicional para sabana 
+semiinundable – Tame-Arauca. 
+semiinundable – Tame-Arauca. 
+Angela Liliana Espinel Solano 
+Universidad de La Salle, Bogotá, aespinel49@unisalle.edu.co 
+Follow this and additional works at: https://ciencia.lasalle.edu.co/arquitectura 
+ Part of the Architectural Technology Commons, Environmental Design Commons, and the Landscape 
+Architecture Commons 
+Citación recomendada 
+Citación recomendada 
+Espinel Solano, A. L. (2021). Vivienda rural neovernacular tradicional para sabana semiinundable – Tame-
+Arauca.. Retrieved from https://ciencia.lasalle.edu.co/arquitectura/2358 
+This Trabajo de grado - Pregrado is brought to you for free and open access by the Facultad de Arquitectura, Diseño 
+y Urbanismo at Ciencia Unisalle. It has been accepted for inclusion in Arquitectura by an authorized administrator 
+of Ciencia Unisalle. For more information, please contact ciencia@lasalle.edu.co. 
+
+=== Página 2 ===
+TAME - ARAUCA
+VIVIENDA RURAL 
+NEOVERNACULAR TRADICIONAL 
+PARA SABANA SEMI - INUNDABLE 
+PROPUESTA ARQUITECTÓNICA
+ANGELA 
+LILIANA 
+ESPINEL 
+SOLANO
+Este documento busca ser una pequeña luz en la lucha contra la desigualdad y déficit de vivienda dig-
+na sin condiciones de confort, sostenibilidad o sismorresistencia para los campesinos de Colombia
+
+=== Página 3 ===
+La investigación y propuesta es elaborada por Angela Espinel, con apo-
+yo del docente / Arquitecto y Dr. Cum Laude en Patrimonio Cultural y 
+Natural UVa. Jairo Humberto Agudelo, en el espacio académico Formu-
+lación y Anteproyecto de grado durante noveno semestre, en colabo-
+ración con Jesús peñaranda; para décimo semestre, en Proyecto Final, 
+se hace el desarrollo de propuesta. 
+ESTUDIANTE:
+ANGELA LILIANA ESPINEL SOLANO
+70171007 
+DIRECTOR DE TESIS:
+ARQ. Dr . JAIRO HUMBERTO AGUDELO CASTAÑEDA
+PRESENTADO A:
+UNIVERSIDAD DE LA SALLE
+FACULTAD CIENCIAS DEL HÁBITAT
+ARQUITECTURA
+BOGOTÁ, 2021
+El presente documento se divide en dos partes: Investiga-
+ción y Propuesta. La parte de INVESTIGACIÓN, se divide en 
+dos capítulos, donde se da a conocer el contexto de Tame, 
+proyectos referentes y se da una muestra de los análisis 
+realizados de viviendas tradicionales, del mismo modo, se 
+muestra una etnografía realizada en el territorio, necesaria 
+para comprender mejor las necesidades y características 
+del Paisaje Cultural. La parte de PROPUESTA, inicia desde 
+el capítulo 3, la cual evidencia la problemática, diagnóstico 
+y propuesta, teniendo en cuenta los sistemas del territorio, 
+problemáticas, análisis DOFA y base del diseño arquitectó-
+nico. El cuarto capítulo se divide en los diferentes aspectos 
+de diseño: Implantación – Función – Estética, desarrollando 
+la realización del proyecto de manera formal y conceptual. 
+Por último, el capítulo 5, mostrará el capítulo de sostenibi-
+lidad y el esquema básico de gestión. 
+PROYECTO  DE GRADO
+REDACCIÓN, DISEÑO Y FOTOGRAFÍA POR ANGELA ESPINEL
+
+=== Página 4 ===
+Gracias a mi profesor y director de tesis Jairo Agu-
+delo por su conocimiento y paciencia guiando este 
+proceso con su criterio profesional, pero sobretodo 
+por buscar la forma de comprender circunstancias 
+externas sin excavar a fondo y darme tiempo para 
+superarlas. Gracias a todas las familias que partici-
+paron en mi trabajo de campo, y que con mucha 
+vergüenza tuve que decirles que no era más que un 
+ejercicio académico. Gracias a mis padres por su pa-
+ciencia, soporte y amor. Gracias a Juan, por ser mi 
+río y calmarme en los malos días.
+El interés por el proyecto surge del conocimiento 
+de la vulnerabilidad en el territorio objetivo y busca 
+generar una posible solución que guarde relación 
+con su cultura, dando respuesta a sus necesidades 
+de manera eficiente, aportando al acercamiento al 
+tema, buscando ser una luz frente al conocimiento 
+sobre la vivienda rural de Tame, creando un proyec-
+to que genere apropiación y mejore la producción.
+M O T I VA C I Ó N  P E R S O N A L
+A G R A D E C I M I E N T O S
+
+=== Página 5 ===
+La arquitectura de la vivienda campesina ha tenido constantes cambios tipológicos, técnicos y es-
+téticos propios de las tradiciones predominantes y su evolución depende tanto de los aspectos cli-
+máticos, sociales, políticos, como también de su  economía agropecuaria, además, mantienen una 
+ventaja para el campesino respecto a sus necesidades habitacionales, laborales y la disponibilidad 
+inmediata de los recursos naturales empleados para la construcción. 
+Esta investigación busca exponer la compilación de características esenciales de la vivienda rural, obtenidas  a 
+partir del análisis de  infraestructuras  en diferentes zonas de Colombia y así poder plantear un  modelo pragmá-
+tico,  enfocado en tratar las problemáticas establecidas durante el trabajo de campo, que conserve los diseños 
+culturales, funcionales y utilice algunos recursos naturales típicos de la región. Con el fin de poder presentarle 
+a la comunidad rural de la región un plan  de acción para una vivienda productiva, sostenible y confortable, que 
+abarque las necesidades básicas para la familia, además de la capacitación, en  primer lugar, para la reutiliza-
+ción de desechos agropecuarios y domésticos, que les posibilite aplicar un sistema cíclico que les ayudará en 
+factores productivos, ambientales, económicos y sociales, paralelamente, en segundo lugar, se les capacitará 
+para poder mantener la tradición de autoconstrucción con un enfoque en sistemas sismo resistentes y  la utili-
+zación apropiada de los recursos naturales para su construcción.
+Para acercarse al territorio y recolectar información de primera mano, se escoge la metodología de ETNOGRA-
+FÍA, aplicando la técnica de itinerarios, siguiendo durante el día las actividades de cada miembro de la familia 
+objetivo, entendiendo los modos de vida y la forma en que usan los espacios, las relaciones que la casa permite 
+entre ellos y costumbres que conservan.   
+INTRODUCCIÓN
+“Es finalmente la materialidad, más que el discurso, lo que distingue una 
+arquitectura de otra, lo que le otorga identidad y le permite calificarla como 
+más o menos humana, generosa, cálida y habitable. La prueba reina de cual-
+quier obra de arquitectura proviene de su incorporación positiva en el paisaje 
+natural y construido y del grado de satisfacción de quienes la habitan.” 
+(Restrepo, 2001)
+
+=== Página 6 ===
+INTRODUCCIÓN	
+Estado del arte
+Análisis de viviendas 1930-2020
+Etnografía: 
+1. Tame rural, sector La Isla
+2.Tame indígena, información 
+secundaria
+3. Finca el Arbolito
+Localización
+Contexto social - cultural -        
+ambiental
+DOFA
+Dimensiones del problema
+Análisis de los sistemas del terri-
+torio
+APROXIMACIÓN AL TEMA
+DISEÑO PARTICIPATIVO
+1
+2
+3
+PRIMERA PARTE
+PROBLEMA/ DIAGNÓSTICO
+Marco teórico–conceptual
+Concepto de diseño
+Implantación
+Prioridades de intervención 
+Plan estratégico
+CONCEPTUALIZACIÓN
+Implantación 
+Función 
+Estética
+Relaciones
+Programa arquitectónico
+Planimetría - Renders
+Sostenibilidad 
+Red Eléctrica
+Red Hidráulica
+Red Sanitaria
+Modelo de Gestión
+4
+5
+6
+CONCLUSIONES	
+REFERENCIAS	
+SEGUNDA PARTE
+PROPUESTA 
+SOSTENIBILIDAD-GESTIÓN
+
+=== Página 7 ===
+PRIMERA 
+PARTE
+RESUMEN
+Se expone un proceso de investigación, en primer lugar se hace una búsqueda de viviendas ru-
+rales de distintos tiempos y territorios en Colombia, logrando crear una recolección de caracte-
+rísticas en planta, que demuestren su arquitectura profunda. En segundo lugar, se estudia una 
+muestra de diez (10) viviendas rurales, cinco (5) pertenecientes al departamento de Arauca y 
+cinco (5) del municipio de Tame, por medio de estas se busca comprender su contexto, los mo-
+dos de vida de las familias que las habitan, relaciones espaciales y el paisaje cultural, con el objeti-
+vo de obtener información de primera mano, realizar un análisis de características a conservar 
+y poder tomar acción de cambio frente a las problemáticas que limitan la calidad de vida de la fa-
+milia objetivo, aportando un modelo que pueda ser replicable a casos parecidos en la región. 
+ 
+PALABRAS CLAVE:
+PALABRAS CLAVE: Vivienda rural; Arquitectura Vernacular; Tradición; Relación espacial; Paisaje cultural
+ABSTRACT
+A research process is presented, firstly, a search of rural houses from different times and territo-
+ries in Colombia, managing to create a collection of characteristics in plan, which demonstra-
+te its deep architecture. Secondly, a sample of ten (10) rural houses is studied, five (5) belonging 
+to the department of Arauca and five (5) from the municipality of Tame, through these we seek 
+to understand their context, the lifestyles of the families that inhabit them, spatial relations-
+hips and cultural landscape, in order to obtain first-hand information, make an analysis of cha-
+racteristics to preserve and to take action to change the problems that limit the quality of life 
+of the target family, providing a model that can be replicable to similar cases in the region. 
+ 
+KEYWORDS: Rural housing; Vernacular Architecture; Tradition; Spatial relationship; Cultural landscape. 
+
+=== Página 8 ===
+TEMA
+PROBLEMA
+HIPÓTESIS
+GENERAL
+Vivienda Rural Tradicional
+ESPECÍFICO
+Planteamiento de un proyecto arqui-
+tectónico de una vivienda rural basa-
+do en el estudio de la vivienda rural 
+en Colombia, en distintas regiones 
+del país y en el territorio de implanta-
+ción, Tame- Arauca, donde se realiza 
+una etnografía para obtener informa-
+ción de primera mano.
+Se busca renovar una vivienda rural en el 
+sector de la Isla en el municipio de Tame, 
+perteneciente a una familia raizal, arrai-
+gada a las costumbres de la región, en 
+la cual se presentan problemas debido 
+al déficit de infraestructura adecuada 
+para habitar con unas condiciones míni-
+mas de confort, seguridad, salubridad y 
+sostenibilidad.
+“Institucionalmente se ha ignorado la 
+expresión cultural de las diferentes re-
+giones del país, en el diseño, construc-
+ción y decoración de las viviendas rura-
+les… Se ha propuesto como solución al 
+déficit cualitativo de las edificaciones de 
+GENERAL
+La vivienda rural Colombiana se mo-
+difica de acuerdo a la región y paisa-
+je cultural en que se encuentre, pero 
+conserva características vernacula-
+res comunes que mantienen la idio-
+sincrasia del país.
+ESPECÍFICO
+Los materiales y técnicas vernacu-
+lares mantienen un rol importante 
+para conservar los símbolos y len-
+guajes de la identidad rural colom-
+biana, por lo cual es conveniente re-
+tomar las ideas del pasado hacia una 
+reinterpretación con técnicas más 
+recientes, con el fin de elaborar un 
+modelo más elaborado, y que permi-
+ta conservar la identidad cultural al 
+mismo tiempo que proporciona con-
+fort y calidad de vida, sin perturbar 
+en gran medida el paisaje cultural.
+TEMA
+PROBLEMA
+HIPÓTESIS
+MATRIZ DE LA INVESTIGACIÓN
+OBJETIVOS
+METODOLOGÍA
+CAPÍTULOS
+GENERAL
+Definir las características a conser-
+var dentro de los diseños y signifi-
+cados de la vivienda.
+ESPECÍFICO
+1. Analizar y exponer las caracterís-
+ticas morfológicas
+2. Analizar las relaciones espacia-
+les de la vivienda rural colombiana, 
+evidenciando los distintos modos 
+de habitarla.
+3. Comparar característica comu-
+nes
+Realizar un análisis formal en el que se 
+recolectan las características de mate-
+riales, estilo y morfología del objeto de 
+estudio. También, se realiza un análisis 
+de arquitectura profunda, observando 
+la relación existente entre los espacios 
+de la casa y cómo estos funcionan para 
+quien los habita. 
+La primera parte se divide en dos ca-
+pítulos, en el primero encontraremos 
+un acercamiento al territorio y a la vi-
+vienda rural colombiana, mostrando 
+los análisis realizados. En el segundo 
+capítulo, se evidenciará el ejercicio de 
+etnografía, donde se analizan vivien-
+das del territorio a intervenir.
+Se tiene en cuenta la determinante 
+del contexto, entendiendo las condi-
+ciones del entorno y la idiosincrasia 
+de la región, buscando características 
+similares, así mismo, algunos rasgos 
+singulares que determinen como las 
+personas habitan la vivienda rural y 
+así poder concluir cuáles tuvieron una 
+buena interpretación del entorno na-
+tural y su paisaje cultural.
+OBJETIVOS
+METODOLOGÍA
+CAPÍTULOS
+
+=== Página 9 ===
+TAME
+ARAUCA
+El municipio de Tame se encuentra ubicado 
+en la región de la Orinoquia, en el Departa-
+mento de Arauca, sobre una meseta de las úl-
+timas estribaciones de la Cordillera Oriental, 
+llevando a lado y lado los ríos Tame y Cravo. 
+El territorio limita hacie el norte con el munici-
+pio de Fortul, al oriente con Arauquita y Puer-
+to Rondón, al sur con el departamento del 
+Casanare, y al occidente con el departamen-
+to de Boyacá, con el cual se distribuye parte 
+del imponente nevado del Cocuy, del cual 
+proviene el agua potable para estos lugares. 
+Es reconocido por su variedad de ecosiste-
+mas, en el que encontramos sabana seca, 
+sabana inundable, bosque húmedo-tro-
+pical, bosque de niebla o el páramo, cada 
+uno conservando gran biodiversidad de 
+especies nativas de flora y fauna,  manteni-
+dos por la gran red hídrica que alimenta al 
+municipio con los ríos de Tame y Cravo Nor-
+te, que se ramifican por todo el municipio.
+APROXIMACIÓN AL 
+APROXIMACIÓN AL 
+TEMA
+TEMA1
+
+=== Página 10 ===
+FLORA Y FAUNA DE TAME
+El territorio contiene gran 
+cantidad de animales y plan-
+tas que son exoticos y reco-
+nocidos en varias partes del 
+mundo por su belleza y lla-
+mativos colores.
+Dentro de un estudio rea-
+lizado por el Instituto de 
+Investigación de Recursos 
+Biológicos Alexander Von 
+Humboldt, se establece que 
+en Tame se encuentran 268 
+especies de plantas, 38 es-
+pecies de mamíferos,  140 
+especies de aves, 29 espe-
+cies de peces y 22 anfibios.
+
+=== Página 11 ===
+ARQUITECTURA 
+VERNÁCULAR
+ANÁLISIS DE VIVIENDAS RURALES
+(RESUMEN NOVENO SEMESTRE)
+La arquitectura vernácula se constituye como una tradición regional más auténtica. Esta arquitectura 
+nació entre los pueblos autóctonos de cada región, como una respuesta a sus necesidades de hábi-
+tat. Lo que hace diferente a estas edificaciones, es que las soluciones adoptadas son un ejemplo de 
+relación con el entorno, ademas, están realizadas por el mismo usuario, apoyado en la comunidad y 
+el conocimiento de sistemas constructivos heredados ancestralmente.
+Está presente en las tradiciones de muchas regiones en Colombia. Por lo cual, la vivienda se modifica 
+o se adapta a su entorno, a su cultura y los símblos que representan a cada comunidad. En algunos 
+casos la unidad básica de la vivienda adopta un plano de planta rectangular y se utiliza como habi-
+tación con usos complementarios, en otros sectores la vivienda se compone de varios edificios con 
+diferentes funciones, dejando aislado principalmente la cocina, separada del dormitorio para evitar 
+contaminación por el humo del fogón y contaminación de olores. (Las estructuras de planta circular 
+son heredadas de las culturas indígenas). La tercera unidad es un depósito, que tiene múltiples usos. 
+El número y la calidad de las unidades de la vivienda dependen del número de personas que se alo-
+jarán y de las actividades que desarrolle cada familia en el sector productivo, siendo directamente 
+proporcional la cantidad de construcciones con la cantidad de actividades que realice la familia.
+A continuación podremos observar tres de los proyectos analizados durante noveno semestre de 
+viviendas rurales en otras zonas del país, los cuales fueron sacados de los archivos de: 
+1. Monclus, F. (1933). COLONIZACIÓN AGRARIA Y URBANISMO RURAL EN EL SIGLO XX. España
+2. Restrepo G. (1935). ARQUITECTURA ALDEANA Y RURAL. Imprenta Nacional. Bogotá
+3. CORONA. SALDARRIAGA, R. (2015) CONCURSO CORONA PRO HABITAT 2015. Eje cafetero 
+
+=== Página 12 ===
+ANÁLISIS VIVIENDAS LIBRO: COLONIZACIÓN AGRARIA Y URBANISMO RURAL EN EL SIGLO XX (ESPAÑA, 1933)
+VIVIENDA PROGRESIVA (CRECEDERA) ETAPA 1
+VIVIENDA PROGRESIVA (CRECEDERA) ETAPA 2
+Monclús, F.
+La vivienda está diseñada en un principio para una
+pareja del campo, solucionando algunas de sus
+necesidades básicas, con una geometría cuadrada
+y espacios reducidos, dónde lo jerárquico está
+demarcado por la sala
+Formalmente es una base cuadrada a la cual se le
+añade el volumen que enmarca el ingreso con un
+porche pequeño, sus ventanas son pequeñas y con
+divisiones, en la entrada principal es alargada al
+estilo balcón, con techo a dos aguas
+Cubierta inclinada en teja (2 aguas)
+Estructura a la vista
+Chimenea fogón
+Ventanas 
+pequeñas
+Salida 
+demarcada
+Ingreso 
+demarcado
+Aumento 
+de nivel
+Ventana 
+tipo balcón
+Construida con hormigón mixto y ladrillos en un sistema
+de muros de carga con 10cm de espesor, y terminaciones
+en madera en puertas y ventanas, así como un sistema
+de construcción en madera de escala para la cubierta a
+dos aguas y terminación en pintura
+PROGRAMA 
+ARQUITECTÓNICO
+:
+• 1 Habitación
+• Comedor-Estar
+• Cocina
+• Despensa
+• Porche
+• Zagúan
+Para la segunda etapa se propone la adición de
+un volumen de 36,5m², que funciona como
+complejo habitacional para los futuros hijos de
+la pareja, o demás integrantes de la familia
+El
+nuevo
+volumen
+supone
+la
+complementación
+de
+la
+geometría,
+alargándose hasta el final del porche,
+resaltando con una altura mayor a la del
+volumen original
+Formalmente mantiene el mismo estilo,
+con
+cubierta
+inclinada,
+geometría
+ortogonal, limpieza, ventanas pequeñas y
+cercadas
+Ventanas 
+pequeñas
+Salida 
+demarcada
+Conservación 
+del estilo
+Aumento 
+altura
+Teja barro
+0
+1
+2
+4
+5
+6
+3
+0
+1
+2
+3
+4
+5
+6
+0
+7
+1
+2
+3
+4
+5
+6
+8
+9
+0
+1
+2
+4
+5
+6
+3
+1
+0
+7
+8
+9
+1
+0
+ANÁLISIS VIVIENDAS LIBRO: COLONIZACIÓN AGRARIA Y URBANISMO RURAL EN EL SIGLO XX (ESPAÑA, 1933)
+65,40m²
+102,90m²
+VIVIENDA PROGRESIVA (CRECEDERA) ETAPA 1
+VIVIENDA PROGRESIVA (CRECEDERA) ETAPA 2
+Monclús, F.
+CONVERGENCIA
+ACCESIBILIDAD
+VISIBILIDAD
+CONVERGENCIA
+ACCESIBILIDAD
+VISIBILIDAD
+
+=== Página 13 ===
+VIVIENDA RURAL 2
+Cubierta inclinada con acabado en palma(estilo 4 
+aguas)
+Estilo de vivienda rural productiva, con terreno amplio 
+para realizar las actividades agrícolas y jardinería, con 
+una vivienda que cumple con unos requerimientos más 
+específicos, que apoya y da más confort a la familia
+Su
+estructura
+se
+crea a partir de una
+base
+rectangular
+con
+pequeñas
+sustracciones
+que
+rompen
+con
+la
+ortogonalidad, a la
+cual se le hace una
+adición
+de
+un
+módulo
+cuadrado
+en la parte lateral,
+la
+cual
+funciona
+como
+vestidor o
+recibidor,
+sin
+embargo, tampoco
+permite
+la
+realización
+de
+actividades sociales
+de
+la
+familia
+en
+este
+espacio
+de
+transición
+Terminación en arquitrabe 
+sobre el cual reposa la 
+estructura de la cubierta que 
+crea un ático en su interior
+Ventanas de 
+vidrios pequeños 
+y barrotes
+Elementos 
+estructurales a la 
+vista
+1.Zona de aproximación    2.Vestíbulo  3.Espacio jerárquico 
+sala-comedor   4.Espacio de conexión central    
+5.Habitaciones pequeñas   6.Lavadero externo   7.Uso 
+compartido cocina   8. Despensa   
+9.Cuarto para herramientas
+10.Huerta   11.Corral
+PROGRAMA 
+ARQUITECTÓNICO
+:
+• 2 Habitaciones
+• Vestíbulo
+• Sala 
+• Comedor
+• Baño
+• Cocina
+• Despensa
+• Cuarto de 
+herramientas
+• Lavadero
+• Huerta 
+• Corral
+aumento de 
+nivel sencillo
+1
+2
+3
+4
+5
+6
+7
+5
+8
+9
+Arcos
+Chimenea para 
+flujo de humo del 
+fogón
+Espacio de transición interior-exterior
+1
+0
+1
+1
+ANÁLISIS VIVIENDAS LIBRO ARQUITECTURA ALDEANA Y RURAL (COLOMBIA, 1935)
+Gonzalo Restrepo Álvarez
+CONVERGENCIA
+ACCESIBILIDAD
+0
+1
+2
+3
+4
+8
+5
+7
+6
+9
+1
+0
+1
+1
+1
+2
+1
+4
+1
+5
+1
+3
+0
+1
+2
+9
+3
+1
+4
+5
+4
+6
+1
+5
+1
+0
+1
+2
+1
+3
+7
+8
+1
+1
+PROGRAMA 
+ARQUITECTÓNICO
+:
+• Ante sala
+• Sala
+• Comedor
+• 5 habitaciones
+• Cocina
+• 2 baños
+• Zona de lavado 
+y servicios
+• Almacén
+VIVIENDA RURAL 3
+Jardín, Antioquia
+Análisis viviendas premio corona pro hábitat vivienda rural (Colombia, 2015)
+Consta de 2 edificaciones adosadas, conformada por corredores internos y externos que
+ofrecen una mejor experiencia, con más habitaciones donde se pasó de 2 a 5 alcobas,
+mejorando la problemática de hacinamiento, donde además se añade un baño extra y la
+creación de un área de la vivienda exclusiva para servicios de lavado
+0
+1
+2
+3
+4
+6
+5
+7
+8
+1
+0
+9
+1
+1
+1
+2
+1
+3
+1
+4
+1
+5
+0
+1
+2
+3
+5
+4
+6
+7
+1
+1
+8
+1
+0
+9
+1
+2
+1
+3
+1
+4
+1
+5
+Doble acceso
+Habitaciones 
+conectada
+Uso de 
+baldosín
+
+=== Página 14 ===
+Materialidad:
+
+Muros en caña 
+brava
+
+Barro
+
+Fibras vegetales
+
+Madera
+
+Pañete
+
+Pintura
+
+Hojas de palma
+Programa 
+arquitectónico:
+• Módulo con 2 
+Habitaciones y sala 
+con piso de tierra
+• Módulo con 
+habitación principal
+• Módulo para el Porche 
+social-Cobertizo
+• Módulo cocina
+• Tanque
+PROYECTO 1
+Toluviejo, Sucre
+ANÁLISIS VIVIENDAS PREMIO CORONA PRO HÁBITAT VIVIENDA RURAL (COLOMBIA, 2015)
+Vivienda representativa de la tradición vernacular en la
+llanura
+del
+caribe,
+que
+se
+conforma
+por
+cuatro
+edificaciones con usos diferenciados, construidos con
+materiales del entorno
+Techo a dos aguas
+Estructura en 
+madera
+Estructura y 
+cerramiento en 
+madera 
+Porche abierto, solo 
+cubierta
+Techo en zinc cubierto con 
+palma
+Las edificaciones que conservan el 
+uso habitacional, están 
+construidas en bahereque, para 
+generar más seguridad y confort
+El sistema constructivo de los muros de la 
+edificación de la cocina es conocido como 
+“vara parada”, es una forma propia de esta 
+región. Las construcciones para uso 
+habitacional se ensamblan sobre una 
+estructura de maderas rollizas se apoyan de 
+varas o cañas verticales, atadas con fibras, 
+que luego se recubren con barro, se 
+enlucen y ocasionalmente se pintan de 
+color. Las cubiertas inclinadas a cuatro 
+aguas se hacen en estructura de madera y 
+se cubren en hojas de palma, no tienen 
+pendientes muy pronunciadas
+CONVERGENCIA
+0
+1
+2
+3
+5
+4
+6
+7
+ACCESIBILIDAD
+VISIBILIDAD
+0
+1
+2
+3
+4
+5
+6
+7
+Porche social
+La cocina es el 
+espacio central 
+Se utiliza un mejor 
+sistema constructivo 
+para la vivienda, con 
+acabado pintado
+Construida con un 
+sistema práctico
+La habitación principal 
+está separada de los 
+hijos
+Deben sacar el agua de 
+la tierra, el  tanque 
+queda cercano a las 
+habitaciones
+Modulo para dos 
+habitaciones y un 
+espacio que funciona 
+como sala o estancia 
+para ellos
+
+=== Página 15 ===
+M AT R I Z  D E  C O N C L U S I O N E S
+En esta matriz se comparan las características que com-
+ponen las viviendas representativas y se busca compi-
+larlas en un modelo que reúna todas las características, 
+el cual sería el resultado de la evolución y recolección de 
+todas estas modificaciones que se han dado con el paso 
+del tiempo en la vivienda rural tradicional en algunos 
+sectores de Colombia. Estos principios serán aplicados 
+en la propuesta, generando una forma que mantenga la 
+tradición y conceptos vernaculares. 
+En el análisis de la arquitectura profunda, se ha encon-
+trando que las viviendas manejan un ordenamiento 
+agrupado disperso, conformandose por construcciones 
+contiguas que pueden ser halladas como unidad a tra-
+vés de la tensión espacial que generan los volumenes, 
+y por sus rasgos comunes en morfología y materialidad. 
+RICAURTE
+MELGAR
+TOLOVIEJO
+ACCESIBILIDAD
+VISIBILIDAD
+CONVERGENCIA
+
+=== Página 16 ===
+DISEÑO PARTICIPATIVO
+DISEÑO PARTICIPATIVO
+2
+El diseño participativo es una estrategia que permite entrar en contacto di-
+recto con la población objetivo, en este caso, con la familia que la va a ha-
+bitar. Este proceso se considera imprescindible en este proyecto, pues es a 
+ellos a quien va dirigida la vivienda, y trabajar a la par con ellos, permite dar 
+una respuesta tanto al contexto de hábitat rural - natural, como al hábitat 
+patrimonial, donde se identifican grandes valores tradicionales de la cultura 
+llanera, y siendo una familia tradicional, se busca conservar de la mejor ma-
+nera las caracteristicas de la vivienda llanera, asegurando una apropiación 
+por parte de la familia. 
+Trabajar con el usuario permite vincularlo en el proceso de diseño y construc-
+ción, implementando procesos concertados que representen sus valores, 
+costumbres y solucione de manera acertada a sus necesidades, mantenien-
+do las ténicas y valores tradicionales de su cultura, lo cual armoniza con el 
+paisaje cultural del territorio y no perjudica su relación con el entorno natu-
+ral. Generar un vinculo con la familia objetivo, crea una retroalimentación 
+a través de la tradición oral y expresión gráfica, ayudando con la construc-
+ción social y espacial del paisaje cultural. Lograr que la familia se adapte y se 
+apropie de la vivienda es el principal objetivo, buscando que al modificarla se 
+genere el confort que les faltaba, complementado con los modos de vida y 
+tradición que quieren mantener,  esperando evitar eventuales modificacio-
+nes generadas por la familia.
+Para realizar una vivienda rural, es necesario contar con unos lineamientos 
+claros que se han mantenido durante décadas y esos mismos lineamientos 
+son los que pueden ser analizados para saber si se ha logrado interpretar el 
+contexto cultural campesino.
+Algunas de las características que debe tener la vivienda rural para que po-
+sean una idiosincrasia del lugar y se logre la interacción de quien habita el 
+espacio, se pueden traducir en la relación con su entorno, las tipologías tra-
+dicionales al basarse en las relaciones espaciales, las técnicas, materialidad 
+y construcción
+
+=== Página 17 ===
+ETNOGRAFÍAS
+La etnografía se realiza con el fin de poder acercarse a 
+la comunidad y recolectar información de primera mano 
+que permita comprender de una manera más acertada la 
+situación cultural y brindar una mejor solución a las nece-
+sidades planteadas. Además, permite generar un vinculo 
+cercano con los beneficiarios del proyecto, logrando una 
+mejor comunicación a lo largo de las etapas de desarro-
+llo, para que sea más fácil el poder entenderse entre sí 
+al llegar a la etapa de capacitación y construcción del 
+proyecto, donde puede o no acompañarse a la familia. 
+ETNOGRAFÍA TAME RURAL, SECTOR LA ISLA 
+INFORMACIÓN PRIMARIA
+Se realizó un ejercicio de itinerario en el sector de la Isla, en 
+cinco viviendas rurales cercanas a la Finca el Arbolito, bus-
+cando observar detalladamente su morfología, función, 
+técnica constructiva y modos de vida generados a partir 
+de su característica rural productiva, buscando además, 
+aquellos rasgos de la vivienda tradicional con herencia in-
+dígena y más importante aún, su arquitectura profunda.
+Se visitaron 5 viviendas, de las cuales solo se expondrá el 
+ejercicio completo de la vivienda a intervenir, y una mues-
+tra de las demás viviendas, esto para demostrar la forma 
+en que se realizó el ejercicio. Se visitó la vivienda objetivo, 
+haciendo cuatro (4) visitas en un periodo de cuatro (4) 
+meses, la primera fue para hacer contacto, charlar sobre 
+aspectos generales, conocer la finca, la casa, saber sobre 
+su contexto, los riesgos, las necesidades, itinerarios, ex-
+pectativas y las posibilidades que se tenían. La segunda 
+visita fue para charlas sobre el diseño, modelos y carac-
+terísticas que se plantearon en un borrador, el cual ellos 
+ayudaron a dibujar y realizar un recorrido. La tercera visita 
+fue para debatir sobre el modelo planteado, los espacios 
+nuevos y modificaciones realizadas, así como los acaba-
+dos en material vegetal y los inconvenientes que podrían 
+presentarse en el proceso. La cuarta visita, fue para mos-
+trarles el resultado final y hablar sobre la viabilidad y facti-
+bilidad del proyecto, repartiéndolo en las posibles etapas.
+
+=== Página 18 ===
+Para realizar esta metodología es importante hablar en términos que la comunidad, en este caso, la familia objetivo, pue-
+dan entender, manejando conceptos básicos y del lugar, para poder explicar de manera clara y sincera, la realidad del 
+proyecto, proponer los tiempos reales de ejecusión, describir los pasos a seguir en cada etapa, problemas que pueden 
+suceder y cómo lograr solucionarlos.
+Se diseña una vivienda rural para la Familia Reuto, quie-
+nes viven y producen en su finca desde hace 15 años, 
+esta finca les fue heredada y han implementado algunos 
+nuevos usos para generar más ingresos. Debido a las 
+malas condiciones en las que se encuentra la vivienda, 
+decicieron buscar alternativas que les pudiesen ofrecer 
+una mejor calidad de vida y seguridad para sus hijas, que 
+han sufrido enfermedades debido a la humedad que se 
+conserva en el interior.
+ITINERARIO MADRE
+ITINERARIO HIJOS
+ITINERARIO PADRE
+ESPACIOS ACTUALES CONSERVADOS
+ESPACIO PRODUCTIVO 
+CABALLERIZA
+PORCHE
+La familia tiene 2 niñas de 3 y 4 años, 
+su itinerario comienza en la cocina 
+para el desayuno, se alistan para el 
+colegio y cuando están en casa juegan 
+en el patio, MH y el MC
+El padre despierta y se alista para su 
+jornada de trabajo, desayuna, sale a 
+la zona productiva pecuaria, realiza 
+labores de ganadería, vuelve a almor-
+zar, revisa los cultivos cruzando la ca-
+rretera, regresa a la vivienda a cenar y 
+a descansar con su familia
+El itinerario de la madre comienza en 
+la cocina, madrugando para tener listo 
+el desayuno de su esposo y los traba-
+jadores a las 4a.m, realiza labores de 
+aseo en el patio y la casa y regresa a 
+cocina durante el día a preparar cada 
+comida, hasta que llega la noche.
+
+=== Página 19 ===
+MODULOS A RENOVAR
+HABITACIONAL
+COCINA
+Foto en la visita 1, de aproximación al lugar
+ESPACIOS PRODUCTIVOS
+RECONOCIMIENTO DEL LUGAR
+Dentro de la primera visita, se realizaron mapas dibujados conjunto a la familia en los cuales me mostraron su rutina dia-
+ria, mostrada en los esquemas de itinerarios, en donde se puede observar las actividades y espacios que ocupa cada uno 
+durante el día. De igual manera, me aproximé a conocer de mejor manera el lugar, entendiendo y mapeando las zonas 
+de mayor riesgo que ells consideraban y que han observado a lo largo de los años.
+
+=== Página 20 ===
+VIVIENDA 1
+VIVIENDA 2
+
+=== Página 21 ===
+SEGUNDA 
+PARTE
+RESUMEN
+ 
+Se presentará la triada PROBLEMA - DIAGNÓSTICO - CONCEPTUALIZACIÓN, para al final poder llegar a 
+una PROPUESTA que, basada en la información recolectada y las problemáticas a solucionar, se pue-
+dan desenvolver bajo un concepto que permita a la familia conservar sus tradiciones y modos de vida, 
+creando un modelo que use nuevas técnicas de construcción o equipos especializados, utilizando ma-
+teriales que se trabajan en la región, generando una arquitectura neovernacular que no es falso histó-
+rico, sino que busca conservar los rasgos culturales más importantes, a la vez que se mejora la calidad 
+de vida de la familia, el confort en su hogar y se proyecta a crear una finca productiva circular donde se 
+aprovecha cada residuo para generar un progreso en la producción agropecuaria. 
+PALABRAS CLAVE:
+PALABRAS CLAVE: Vivienda rural; Vernacular; Tradicion; Conservar; Paisaje Cultural
+ABSTRACT
+The triad PROBLEM - DIAGNOSIS - CONCEPTUALIZATION will be presented, in order to arri-
+ve at a proposal that, based on the information collected and the problems to be solved, can be 
+developed under a concept that allows the family to preserve their traditions and way of life, 
+creating a model that uses new construction techniques or specialized equipment, using ma-
+terials that are worked in the region, generating a neovernacular architecture that is not fal-
+se historical, but seeks to preserve the most important cultural features, while improving 
+the quality of life of the family, the comfort in their home and is projected to create a circu-
+lar productive farm where each residue is used to generate progress in agricultural production. 
+ 
+KEYWORDS: 
+Rural 
+housing; 
+Vernacular; 
+Tradition; 
+Conserve; 
+Cultural 
+Landscape. 
+
+=== Página 22 ===
+PROBLEMA /  DIAGNÓSTICO
+PROBLEMA /  DIAGNÓSTICO
+3
+Realizando los análisis posteriores a la realización de la etno-
+grafía, una de las conclusiones más fuertes al recorres las vi-
+viendas de estas familias, es la innegable realidad del campo 
+en Tame-Arauca, deben a costumbrarse a vivir en una vivienda 
+con materiales de baja calidad estructural que no ofrece segu-
+ridad ni confort, y que en épocas de lluvia, queda sumergida en 
+el agua por no tener suficiente altura en su cimentación, lo cual 
+debilita la madera y crea un ambiente húmedo debido a la des-
+composición de esta, permitiendo albergar no solo zancudos, 
+sino bacterias, alcanzando condiciones que con el tiempo pue-
+den llegar a causar enfermedades. Es así, como describen vivir 
+en la ruralidad, sobreviviendo, no solo a las difíciles condiciones 
+ambientales o económicas,  sino también, sobreviviendo al ol-
+vido del gobierno, en zonas sin redes de luz, agua, acueducto 
+o alcantarillado, de igual manera, al olvido del pueblo que no 
+apoya el campo. Es evidente la falta de estrategias y diseños de 
+vivienda solventen esta inminente necesidad desde propues-
+tas del gobierno como de infraestructura del sector privado, 
+las cuales no responden al paisaje cultural y requieren de gran-
+des inversiones de capital moneitario.
+
+=== Página 23 ===
+-Ausencia de proyectos de mejoramiento integral de 
+las familias y su calidad de vida por parte del estado.
+-Territorio con víctimas del conflicto armado.
+-Fuertes cambios en el ambiente debido al uso de 
+químico en los cultivos.
+-Ausencia de sistema de recolección de basuras.
+-Déficit en redes de acueducto y alcantarillado.
+-Déficit de redes de agua potable.
+-Desconocimiento o temor de visitar el municipio de-
+bido a su pasado con alta presencia de grupos arma-
+dos
+DEBILIDADES
+-La finca dispone de una amplia extención para el de-
+sarrollo de las actividades productivas
+-La finca se localiza en un sector benéfico para los ci-
+clos de culivos, contando con variación de la conición 
+climática y suelos fértiles ricos en nutrientes
+-Creación de un sistema circular que permita el apro-
+vechamiento de los recursos y sus desperdicios
+-Conexión con el corredor del llano, la vía que conec-
+ta el comercio de la región con el interior del país.
+-El municipio de tame se encuentra en desarrollo 
+como capital turística de Arauca, posibilitando que la 
+finca el arbolito aproveche su potencial ecoturístico.
+OPORTUNIDADES
+D
+O
+-Riesgo por inundación debido a la presencia del río.
+-Riesgo de incendio en épocas de sequía.
+-Se encuentra expuesto al conflicto armado.
+-Riesgo de aumento de enfermedades en epocas de 
+lluvia.
+-Contaminación de las fuentes hídricas debido al mal 
+uso y depósito de desechos de la producción en este.
+-Intoxicación del ganado y debilitamiento de los culti-
+vos debido al fumigo con agentes químicos peligrosos 
+en fincas vecinas.
+-Relación vecina con algunas comunidades indígenas.
+ 
+AMENAZAS
+-Existe cobertura de red eléctrica en la finca, la cual 
+no presenta interferencias regulares
+-Existe cobertura de Internet, para poder permane-
+cer conectados con el mundo exterior y llevar sus ne-
+gocios de manera más práctica
+-Cercanía y facil conección con el casco urbano de 
+tame
+-Ubicada paralela a la vía intermunicipal del departa-
+mento
+-La finca se encuentra rodeada por el río cravo norte 
+y un paso del caño negro
+-Zona code gran biodiversidad en planas y animales, 
+especialmente aves y reptles
+-Fortalecimiento y mejoramiento de las asociaciones 
+ganaderas y agrícolas
+FORTALEZAS
+F
+A
+
+=== Página 24 ===
+“El acto que precede a la conservación de algo, es su valoración: reconocimiento 
+de atributosfísicos - tangibles - y de atributos no materiales - intangibles - que 
+hacen valioso ese algo (...) protegemos del deterioro aquellos objetos o bienes, 
+que no son cercanos, significatvos. (...) Protegemos actuando sobre pequeños o 
+grandes deterioros, de manera específica - física - intentndo mantener, prolongar 
+su existencia. Y protegemos, generando las condiciones para que dichos objetos 
+prolonguen su vida útil.”
+-María Isabel Tello F. 
+Directora Grupo Colombia A-RSF
+
+=== Página 25 ===
+CONCEPTUALIZACIÓN
+CONCEPTUALIZACIÓN
+4
+Para este trabajo se determinará el concepto de PAISAJE CULTURAL, que fun-
+ciona como eje de vertebración hacia cada aspecto a desarrollar, permitiendo la 
+cohesión social y sentido de pertenencia de la familia objetivo con el suscrito pro-
+yecto. El paisaje se constituye de dos temas, muestra la realidad objetiva del es-
+pacio, permitiendo al observador admirar las características físicas del lugar, y por 
+otro lado, muestra al espacio lleno de signos, significados y tradiciones de sus ha-
+bitantes. De forma consecuente, el Paisaje Cultural logra convertirse en una luz en 
+defensa del patrimonio tradicional del territorio, la identidad llanera y diversidad 
+cultura indígena, lo cual se pone como un creciente desafío frente a los riesgos de 
+homogenización que llegaron con la modernidad y se han incrementado con la 
+globalización actual.  
+Valorar el paisaje en un marco panorámico, abarcando aspectos olvidados o in-
+visibilizados, beneficia tanto a las poblaciones como al ambiente mismo, encon-
+trando los cabos sueltos donde la relación se veía afectada, hallando solución a 
+problemáticas de índole sostenible, mejorando las condiciones del entorno natu-
+ral, se mejora directamente proporcional la calidad de vida de las poblaciones que 
+habitan en él. El mejoramiento de sus condiciones, proyecta una buena perspecti-
+va donde no solo se sobrevive sino que se generan procesos cíclicos que ayudan 
+a la conservación del ecosistema, aprovechando los recursos naturales, permite 
+mejorar las condiciones del paisaje mientras que estos procesos mejoran la pro-
+ducción agrícola, y mantienen en funcionamiento los servicios domésticos de la 
+vivienda. 
+Los procesos planteados, funcionarán siempre que los recursos naturales sean 
+gestionados de manera sostenible, con acuerdos que mantengan el criterio social 
+y participativo por parte de la comunidad que habita el paisaje
+“El paisaje cultural desempeña un papel importante, de interés general, en los campos cul-
+tural, ecológico, mediambiental y social, y constituye un recurso favorable para laactividad 
+económica. Su protección, gestión y ordenación pueden contribuir a la creación de empleo y 
+a la formación y refuerzo de las culturas locales”
+María Isabel Tello, Libro de Memorias pg 29
+
+=== Página 26 ===
+PAISAJE CULTURAL DE TAME
+En la región de la Orinoquia, encontramos la cultura llanera, que se caracteriza por su trabajo de llano característico, 
+haciendolo un trabajo único en el país, debido al paso de ganado por las sabanas inundables, o a través de sabanas 
+secas distantes. Acompañando a esta labor de arrear al ganado, se realizan cantos de trabajo de llano, los cuales han 
+sido nombrados como patrimonio de la humanidad por la Unesco. 
+https://www.youtube.com/watch?v=Zml6zggS9xs&ab_channel=TvAgro
+HERENCIA 
+INDÍGENA
+VIDEO SOBRE LA CULTURA LLANERA:
+
+=== Página 27 ===
+“Conceptos como paisaje cultural e Itinerarios culturales, se han conver-
+tido en apuestas concretas, para dimensionar el papel del patrimonio 
+cultural en cuanto a su esencia misma, pero sobretodo, en cuanto a lo 
+que representa de manera concreta en la planeación para el desarrollo 
+humano, integral y sustentable.” 
+-María Isabel Tello F. 
+Directora Grupo Colombia A-RSF
+Para encontrar la escencia de esta vivienda se busca conservar frag-
+mentos de las características morfológicas, técnicas, materiales, y 
+conceptuales, teniendo en cuenta que es una familia tradicional llane-
+ra, arraigada a las costumbres de la región, que vive en el campo y se 
+dedica al mono cultivo masivo para su comercialización, por lo cual se 
+requieren espacios complementarios necesarios para la realización de 
+las actividades productivas y pecuarias.
+El proyecto se convierte en la representación de fragmentos vivos de 
+la casa tradicional llanera, que reconocen el pasado como memoria de 
+la identidad regional, simbolizando valores fundamentales para la so-
+ciedad actual, agregandole una simbiosis que conmemore la tradición 
+indígena que rodea la finca y que hace parte de la historia de Tame, 
+esto se logra añadiendo tejidos en fibra vegetal con calceta de platano 
+y bejuco, materiales sacados de la platanera de la finca.  
+El estudio del paisaje debe comprender la forma en que cada cultura 
+ha logrado componer su porpio paisaje, para así, poder responder a 
+la propia evolución del territorio con las intervenciones que le apor-
+ten al paisaje compuesto. 
+
+=== Página 28 ===
+Los paisajes culturales deben trabajarse tanto para co-
+sas simples como la definición, así como para su manejo 
+y salvaguardia, desde la exploración del propio territo-
+rio, teniendo un diálogo con los mismos grupos socia-
+les que lo habitan y le dan significado, lo apropian y lo 
+viven cada día. Sin la activa participación de sus propios 
+actores (animal - vegetal - humano), no tendría sentido 
+estudiarlos. Al realizar estudio de los paisajes culturales, 
+se debe tener en cuente que las comunidades y su en-
+torno se articulan como fuente de conocimiento, ana-
+lizando además, cómo estos grupos de personas que 
+habitan allí, diseñan estrategias propias pensadas para 
+reconocer, clasificar, valorar y salvaguardar espacios u 
+objetos que consideran importantes dentro de su pai-
+saje, por su utilidad, su cohesión social o significado. 
+
+=== Página 29 ===
+PROPUESTA
+PROPUESTA
+5
+Colombia es un país que se dedica a la producción agrícola, pero 
+se enfoca más como sector económico, en la producción de ma-
+terias primas, alzando el café o el cacao como algunos de los pro-
+ductos más reconocidos en el mundo. Teniendo esto en cuenta, 
+se pensaría que dentro del país se generan políticas o ayudas que 
+apoyen el desarrollo del campo y de su gente, sin embargo,  ser 
+parte del sector productivo como cultivador, no siempre conlle-
+va jugosas ganancias, lo cual se debe a varios factores, entre los 
+cuales están: 
+El cambio de valorización de los cultivos por la Oferta / Demanda, 
+la falta de ayudas y programas eficientes por parte del estado, el 
+ahogo de los bancos con los créditos agrícolas, y se debe agregar 
+el hecho de que desde hace décadas han estado presente grupos 
+armados, perjudicando la vida de muchas familias del campo con 
+agresiones donde pueden estar quitándoles dinero, tranquilidad, 
+sus tierras o la vida. A esta innegable realidad se debe sumar el 
+abandono por parte del estado, que no ha solucionado muchos 
+casos de desplazamiento y violencia, dejando a estas familias en 
+la calle, con pocas oportunidades. 
+
+=== Página 30 ===
+Se busca conservar las características más representativas y útiles, para que la familia se sienta cómoda a la vez que res-
+ponde a sus necesidades y estilo de vida. Cada decisión tomada antes y durante el proceso de diseño, tiene en cuenta 
+a la familia, decidiendo conjuntamente las mejoras requeridas como elevarla en pilastras de concreto debido a las inun-
+daciones, un sistema constructivo que fuese sismo resistente pero que consideraran fácil de construir, o la implementa-
+ción de un biodigestor que aunque fuese algo novedoso, sería una adaptación que estaban dispuestos a hacer por las 
+grandes mejoras en la producción, entre otras que detallaremos en la descripción de propuesta. 
+Se busca que el proyecto sea eficiente y sostenible, requiriendo la menor cantidad de gastos y recursos desde su cons-
+trucción, uso y mantenimiento
+Se concibe una arquitectura neovernacular, la cual surge como respuesta a una serie de condiciones sociales, económi-
+cas, tradicionales y culturales, que tienen bastante influencia en el lugar de emplazamiento. Cada una de estas condicio-
+nes es decisiva para la recolección de características morfológicas, estéticas, funcionales o que conservan un significado 
+simbólico, que generan un conjunto de condiciones óptimas para solucionar unas problemáticas planteadas 
+PRINCIPIOS DE LA PROPUESTA: 
+-Conservar la lógica de implantación y conoci-
+miento cultural
+-Planta rectangular con las habitaciones conec-
+tadas entre sí y un espacio social exterior
+-Cubierta en cerchas de madera con terminación 
+en zinc
+-Sistema constructivo económico y sencillo que 
+sea viable 
+-Autoconstrucción
+-Orden de implantación de los módulos
+-Mejoramiento de la higiene, salubridad y confort
+GENERACIÓN DE 
+ESPACIOS PARA 
+UNA FAMILIA DE 
+PADRE, MADRE
+ Y 2 HIJOS
+
+=== Página 31 ===
+La circulación dentro de la finca se puede resumir en tres palabras:
+ATRAVESAR  -  PASAR  -  REMATAR
+La circulación dentro de la vivienda comienza ingresando por la Caballeriza, atravesandolo de manera dia-
+gonal para acceder dentro de los límites cercados que aislan la vivienda del ingreso de los animales. frente 
+a la Caballeriza, se puede conectar hacia dos ingresos, el primero conecta directamente con la vivienda, 
+pasando por un camino de adoquines de concreto conexo a la rampa de subida hacia el Módulo Habitacio-
+nal, el cual por la plataforma conecta hacia el Suroccidente con el baño y hacia el Nororiente con el porche, 
+atravesando este espacio a lo largo para poder llegar hasta el Módulo de Cocina; con esta disposición en 
+planta, se genera un patio central sin cubierta, el cual debe ser atravesado para llegar al baño de servicio. El 
+segundo camino se realiza pasando linealmente por el jardín, con una confirguración del recorrido flexible 
+hacia cualquier espacio antes mencionado, y rematando en la parte final del lote con la zona productiva, 
+donde se encuentra la zona de animales, la huerta y el sistema de biodigestor. 
+ATRAVESAR
+PASAR
+REMATAR
+
+=== Página 32 ===
+IMPLANTACIÓN
+GENERAL 
+EN PLANTA
+
+=== Página 33 ===
+“El estudio de la vivienda rural en Colombia, muestra la predo-
+minancia o la desaparición de formas culturales de la habita-
+ción del hombre del campo en regiones particulares, de a cuer-
+do con el grado de penetración cultural urbana, y del arraigo 
+del campesino por sus tierras, tradiciones y costumbres” 	
+Hogares Juveniles Campesinos, Biblioteca del campo
+
+=== Página 34 ===
+TÉCNICA Y 
+TECNOLOGÍA
+Sacado de: Norma NSR-10
+Las técnicas vernaculares usan tecnología rudimentaria 
+para generar la construcción de las viviendas y estruc-
+turas complementarias para la producción animal o de 
+cultivos, usando los materiales disponibles en el entor-
+no natural inmediato del contexto para la edificación y 
+acabados de la vivienda. Se debe manifestar el predomi-
+nio de esta utilización de recursos autóctonos, que son 
+nativos y por lo tanto varían su disponibilidad de acuer-
+do a cada región, buscando reducir en gran medida la 
+aparición de elementos de origen industrial.  
+Para este proyecto se buscó implementar un sistema 
+constructivo liviano con columnas compuestas o como 
+lo denominan en la NSR-10: Columnas armadas. Las cua-
+les se caracterizan por estar conformadas por varias pie-
+zas de madera maciza, en este caso estará conformado 
+por piezas de medidas 7cmx7cmx3,5m, unidas entre sí 
+por piezas de refuerzo en madera en su parte interna, 
+las cuales son atravesadas por pernos para asegurar el 
+ajuste.
+
+=== Página 35 ===
+CIMENTACIÓN
+Para solucionar la problemática de las constantes inundaciones en temporada de lluvia entre los meses de noviembre y 
+marzo, se genera una propuesta de vivienda elevada en pilastras de concreto, las cuales conservan la madera estructural 
+alejada del suelo y del agua, logrando que esta mantenga su condición normal y no absorba humedad directa, la cual 
+modifica y descompone su fibra natural, haciendo que se debilite con el paso del tiempo.   Se genera una red de 41 pilas-
+tras de 25 x 25 cm, para el MH, que se elevan 60cm del suelo. Para el MC se generan 12 pilastras que sobresaren 15cm .
+ ESTRUCTURA
+Sobre la cimentacion se imprementa un sistema de vigas estructurales  en madera, que se encuentran cruzadas inter-
+namente dentro del sistema de unas columnas armadas o compuestas, que se componen por 4 piezas de madera de 
+7x7cm, haciendo que se trabajen como una unidad a través de uniones pernadas, y dando una altura de 3,5m a la vivien-
+da, y una culminación final en cercha con altura de 4,16m,
+
+=== Página 36 ===
+CUBIERTA
+Las viviendas tradicionales de la región se caracterizaron durante años por usar cubiertas en palma nativa o morichal, 
+debido a su fácil acceso en el entorno natural, las cuales eran obtenidas por medio de procesos de tala indiscriminada, 
+lo que años después causó que tuviese que regularse estas actividades descontroladas que perjudican el micro y macro 
+ecosistema nativo, así como sus climas y disposiciones de recursos naturales, modificando además el paisaje cultural. 
+ 
+Después de dicha prohibición los hacendados optaron por materiales de fácil acceso y bajo costo como lo son las tejas 
+de Zinc o fibrocemento. Para el MH y el MC, se escoge la lámina arquitectónica termoacústica, consecuente con sus pro-
+piedades de reducción de la sensación térmica y acústica, aumentando sus propiedades reflectivas al elegir una lámina 
+plástica calibre 30 en color blanco; Lo cual posibilita generar espacios con mayor confort que los ofrecidos anteriormen-
+te en teja de Zinc, que se ha usado por años en la finca. 
+Los materiales se escogen según:
+FÁCIL INSTALACIÓN
+CONFORT INTERNO
+DURABILIDAD
+DISEÑO
+Refuerzos
+Vista superior
+Pilastra 
+en concreto
+Soporte 
+metálico
+Espacio para vigas-
+viguetas-refuerzos
+Pernos
+COLUMNAS
+
+=== Página 37 ===
+MODULO HABITACIONAL
+1. La vivienda mantiene una planta rectangular con techo  a dos aguas
+2. Se implementa un sistema constructivo de fácil ensamble, que permite 
+facilidad en autoconstrucción
+3. Se crea un sistema de cerramineto que permite permear el espacio inte-
+rior-exterior, al tiempo que memora la tradición indígena
+4. Se deja el baño en el exterior debido a la costumbre de higiene
+ACCESIBILIDAD
+APERTURA
+RELACIÓN INTERIOR - EXTERIOR
+CONEXIÓN
+PERMEABILIDAD
+8,8m
+9,1m
+11,1m
+3,8m
+5,3m
+3m
+3,8m
+11,1m
+El modulo habitacional se construye con Madera, asi:
+Estructura Columnas
+Roble o Punta de lanza
+Refuerzo Columnas
+Roble o Yopo
+Cerchas
+Yopo-Eucalipto
+2,3m
+0,3m
+0,03m
+
+=== Página 38 ===
+CERRAMIENTOS MH
+INFERIOR
+MEDIO
+SUPERIOR
+SISTEMA DE CERRAMIENTO TABLEADO
+SISTEMA DE CERRAMIENTO PANELES HERENCIA INDÍGENA
+PANELES CORREDIZOS TEJIDOS
+PANELES ABATIBLES 
+EN GUADUA RAJADA
+
+=== Página 39 ===
+ZOOM DETALLE MATERIAL
+DETALLE PANELES ABATIBLES
+
+=== Página 40 ===
+MODULO COCINA
+1. El MC conserva la división en dos parte de la planta, una mitad donde funciona la cocina y otra donde se encuen-
+tra el fogón de leña y el comedor común
+2. Se utiliza como cerramiento entre las dos zonas dos muros de tableado, para evitar que se infiltre el humo del 
+fogón y se permita crear un espacio más seguro y privado
+3. La cubierta se crea con un desnivel intermedio que permita el flujo del aire
+MODULO PRODUCTIVO
+1. El MP consta de una infraestructura para producción de cerdos 
+2. Se busca que se maneje la rotación y separación por espacies de cerdo
+3. Se implementan pisos perforados para una fácil recolección de las heces de los animales
+
+=== Página 41 ===
+IMPLANTACIÓN ALZADOS
+Caballeriza y Vivienda
+Zona productiva menor
+Corte Módulo Cocina con contexto
+Corte Módulo Agrícola con contexto
+
+=== Página 42 ===
+PLANIMETRÍA
+DE LA 
+PROPUESTA
+
+=== Página 43 ===
+D
+E
+F
+3
+4
+5
+6
+12'
+11'
+10'
+9'
+J'
+K'
+L'
+J
+K
+L
+12
+11
+10
+9
+G
+H
+I
+2'
+1'
+2
+1
+7
+8
+G
+H
+I
+A
+B
+C
+A'
+B'
+C'
+3'
+4'
+5'
+D'
+E'
+F'
+7'
+8'
+1
+2
+3
+BIODIGESTOR
+N.F + 0.00
+A-A'
+CL
+A-A'
+CL
+B-B'
+CT
+B-B'
+CT
+PENDIENTE 19 %
+PENDIENTE 19 %
+PENDIENTE 24 %
+PENDIENTE 24 %
+PENDIENTE 18 %
+PENDIENTE 11 %
+PENDIENTE 10 %
+PROYECTO:
+PROFESOR:
+ESTUDIANTE:
+CONTENIDO:
+OBSERVACIONES:
+FECHA:
+ESCALA:
+PLANO No:
+ASIGNATURA:
+VIVIENDA RURAL
+NEOVERNACULAR
+TRADICIONAL PARA SABANA
+SEMI-INUNDABLE
+ANGELA LILIANA
+ESPINEL SOLANO
+70171007
+ARQ. JAIRO HUMBERTO
+AGUDELO
+PROYECTO FINAL
+06/12/21
+1:100
+UBICACIÓN
+TAME-ARAUCA
+Vereda la Isla
+IBAGUÉ - TOLIMA
+1/14
+AÑO:
+5
+PLANTA CUBIERTAS
+Plano general
+D
+E
+F
+3
+4
+5
+6
+SALA DE ESTAR
+N.F + 0.63
+BODEGA
+N.F + 0.63
+HABITACIÓN
+N.F + 0.63
+HABITACIÓN
+N.F + 0.63
+12'
+11'
+10'
+9'
+J'
+K'
+L'
+J
+K
+L
+12
+11
+10
+9
+COCINA
+N.F + 0.10
+COMEDOR
+N.F + 0.10
+G
+H
+I
+ESTUFA EN LADRILLO
+RECICLADO
+N.F + 0.10
+PORCHE
+N.F + 0.10
+2'
+1'
+2
+1
+7
+8
+G
+H
+I
+A
+B
+C
+A'
+B'
+C'
+3'
+4'
+5'
+6'
+D'
+E'
+F'
+7'
+8'
+1
+2
+3
+BIODIGESTOR
+N.F + 0.00
+A-A'
+CL
+A-A'
+CL
+B-B'
+CT
+B-B'
+CT
+PROYECTO:
+PROFESOR:
+ESTUDIANTE:
+CONTENIDO:
+OBSERVACIONES:
+FECHA:
+ESCALA:
+PLANO No:
+ASIGNATURA:
+VIVIENDA RURAL
+NEOVERNACULAR
+TRADICIONAL PARA SABANA
+SEMI-INUNDABLE
+ANGELA LILIANA
+ESPINEL SOLANO
+70171007
+ARQ. JAIRO HUMBERTO
+AGUDELO
+PROYECTO FINAL
+06/12/21
+1:100
+UBICACIÓN
+TAME-ARAUCA
+Vereda la Isla
+IBAGUÉ - TOLIMA
+2/14
+AÑO:
+5
+PLANTA PRIMER PISO
+Plano general
+
+=== Página 44 ===
+D
+E
+F
+3
+4
+5
+6
+SALA DE ESTAR
+N.F + 0.63
+BODEGA
+N.F + 0.63
+HABITACIÓN
+N.F + 0.63
+HABITACIÓN
+N.F + 0.63
+2'
+1'
+2
+1
+A
+B
+C
+A'
+B'
+C'
+3'
+4'
+5'
+D'
+E'
+F'
+1
+2
+3
+A-A'
+CL
+B-B'
+CT
+B-B'
+CT
+6
+MODULO HABITACIONAL
+PROYECTO:
+PROFESOR:
+ESTUDIANTE:
+CONTENIDO:
+OBSERVACIONES:
+FECHA:
+ESCALA:
+PLANO No:
+ASIGNATURA:
+VIVIENDA RURAL
+NEOVERNACULAR
+TRADICIONAL PARA SABANA
+SEMI-INUNDABLE
+ANGELA LILIANA
+ESPINEL SOLANO
+70171007
+ARQ. JAIRO HUMBERTO
+AGUDELO
+PROYECTO FINAL
+06/12/21
+1:40
+UBICACIÓN
+TAME-ARAUCA
+Vereda la Isla
+IBAGUÉ - TOLIMA
+AÑO:
+5
+PLANTA MODULO
+HABITACIONAL
+Plano aislado MH
+3/14
+12'
+11'
+10'
+9'
+J'
+K'
+L'
+J
+K
+L
+12
+11
+10
+9
+COCINA
+N.F + 0.10
+COMEDOR
+N.F + 0.10
+ESTUFA EN LADRILLO
+RECICLADO
+N.F + 0.10
+A-A'
+CL
+MODULO COCINA
+PROYECTO:
+PROFESOR:
+ESTUDIANTE:
+CONTENIDO:
+OBSERVACIONES:
+FECHA:
+ESCALA:
+PLANO No:
+ASIGNATURA:
+VIVIENDA RURAL
+NEOVERNACULAR
+TRADICIONAL PARA SABANA
+SEMI-INUNDABLE
+ANGELA LILIANA
+ESPINEL SOLANO
+70171007
+ARQ. JAIRO HUMBERTO
+AGUDELO
+PROYECTO FINAL
+06/12/21
+1:30
+UBICACIÓN
+TAME-ARAUCA
+Vereda la Isla
+IBAGUÉ - TOLIMA
+AÑO:
+5
+PLANTA MODULO
+COCINA
+Plano aislado MC
+4/14
+
+=== Página 45 ===
+BIODIGESTOR
+N.F + 0.00
+MODULO PRODUCTIVO
+PROYECTO:
+PROFESOR:
+ESTUDIANTE:
+CONTENIDO:
+OBSERVACIONES:
+FECHA:
+ESCALA:
+PLANO No:
+ASIGNATURA:
+VIVIENDA RURAL
+NEOVERNACULAR
+TRADICIONAL PARA SABANA
+SEMI-INUNDABLE
+ANGELA LILIANA
+ESPINEL SOLANO
+70171007
+ARQ. JAIRO HUMBERTO
+AGUDELO
+PROYECTO FINAL
+06/12/21
+1:75
+UBICACIÓN
+TAME-ARAUCA
+Vereda la Isla
+IBAGUÉ - TOLIMA
+AÑO:
+5
+PLANTA MODULO
+PRODUCTIVO
+Plano aislado MP
+5/14
+J'
+K'
+L'
+G
+H
+I
+A
+C
+D'
+E'
+F'
+N.P.A. +  0.63
+N.P.A. +/- 0.00
+N.P.A. +  3.61
+N.P.A. +  4.42
+B-B'
+CL
+FACHADA PRINCIPAL
+PROYECTO:
+PROFESOR:
+ESTUDIANTE:
+CONTENIDO:
+OBSERVACIONES:
+FECHA:
+ESCALA:
+PLANO No:
+ASIGNATURA:
+VIVIENDA RURAL
+NEOVERNACULAR
+TRADICIONAL PARA SABANA
+SEMI-INUNDABLE
+ANGELA LILIANA
+ESPINEL SOLANO
+70171007
+ARQ. JAIRO HUMBERTO
+AGUDELO
+PROYECTO FINAL
+06/12/21
+1:75
+UBICACIÓN
+TAME-ARAUCA
+Vereda la Isla
+IBAGUÉ - TOLIMA
+AÑO:
+5
+FACHADA PRINCIPAL
+Plano alzado fachada frontal
+6/14
+
+=== Página 46 ===
+3
+4
+5
+6
+A-A'
+CL
+N.P.A. +  0.63
+N.P.A. +/- 0.00
+N.P.A. +  3.63
+N.P.A. +  4.42
+FACHADA LATERAL 1
+PROYECTO:
+PROFESOR:
+ESTUDIANTE:
+CONTENIDO:
+OBSERVACIONES:
+FECHA:
+ESCALA:
+PLANO No:
+ASIGNATURA:
+VIVIENDA RURAL
+NEOVERNACULAR
+TRADICIONAL PARA SABANA
+SEMI-INUNDABLE
+ANGELA LILIANA
+ESPINEL SOLANO
+70171007
+ARQ. JAIRO HUMBERTO
+AGUDELO
+PROYECTO FINAL
+06/12/21
+1:50
+UBICACIÓN
+TAME-ARAUCA
+Vereda la Isla
+IBAGUÉ - TOLIMA
+AÑO:
+5
+FACHADA LATERAL 1
+Plano alzado fachada lateral izquierda
+7/14
+N.P.A. +  0.63
+N.P.A. +/- 0.00
+N.P.A. +  3.63
+N.P.A. +  4.42
+D'
+E'
+F'
+J'
+K'
+L'
+G
+N.P.A. +  4.06
+N.P.A. +  3.76
+N.P.A. +  3.30
+N.P.A. +/-  0.00
+B-B'
+CL
+FACHADA POSTERIOR
+PROYECTO:
+PROFESOR:
+ESTUDIANTE:
+CONTENIDO:
+OBSERVACIONES:
+FECHA:
+ESCALA:
+PLANO No:
+ASIGNATURA:
+VIVIENDA RURAL
+NEOVERNACULAR
+TRADICIONAL PARA SABANA
+SEMI-INUNDABLE
+ANGELA LILIANA
+ESPINEL SOLANO
+70171007
+ARQ. JAIRO HUMBERTO
+AGUDELO
+PROYECTO FINAL
+06/12/21
+1:75
+UBICACIÓN
+TAME-ARAUCA
+Vereda la Isla
+IBAGUÉ - TOLIMA
+AÑO:
+5
+FACHADA POSTERIOR
+Plano alzado fachada  posterior
+9/14
+
+=== Página 47 ===
+RENDERS
+
+=== Página 48 ===
+
+=== Página 49 ===
+
+=== Página 50 ===
+
+=== Página 51 ===
+6
+SOSTENIBILIDAD 
+SOSTENIBILIDAD 
+Y GESTIÓN
+Y GESTIÓN
+La necesidad de una propuesta de sostenibilidad en el sector ru-
+ral es un tema de suma importancia, ya que son ellos quienes se 
+benefician directamente de estos modelos, esto debido a que al 
+comprender y aplicar sistemas cíclicos de recolección de aguas 
+y tratamiento desechos sanitarios, domésticos y  de sus recur-
+sos agrícolas o pecuarios; se comprende que cada materia den-
+tro del sistema tiene la capacidad de continuar su camino aún 
+después de ser catalogada como desecho y presentar una utili-
+dad o servicio para satisfacer necesidades dentro de la vivienda. 
+ 
+ 
+
+=== Página 52 ===
+ 
+Después de un analisis previo de multiples alternativas sostenibles se 
+optó por mecanismos de recolección de agua de lluvia, la implemen-
+tación de un baño seco y un sistema de biodigestor,  esto debido a su 
+gran versatilidad  y beneficio económico, sanitario, ambiental y social. 
+ 
+El biodigestor utilizado será uno con sistema tipo Taiwanes o de flujo continuo, 
+esto debido al bajo costo de elaboración y que su sistema es ideal para zonas de 
+riesgo sísmico, además de la facil instalación, este representa muchos servicios 
+para la misma finca, como lo es la produccion de biogas, el cual se genera apar-
+tir de la degradación bacteriana (bacterias metanogénicas) de los componentes 
+orgánicos que entran al biodigestor, estos en su mayoría son excretas animales 
+o humanas, las cuales presentan un nivel considerable de gases como metano, 
+pero tambien se puede optar por desechos de cocinas como lo son los desper-
+dicios de las comidas, los cuales presentan una fuente de alimento para las bac-
+terias del biodigestor que se encargan de la fermentación y como producto de 
+esta la generación de gases; este biogas puede prestar utilidad para zonas como 
+la cocina en funciones de sus fogones, calefacción por medio de quemadores y/o 
+calefactores a combustion, y energía eléctrica por medio de plantas de combus-
+tión a gas, ya sea propano o metano (biogas). Además del biogas, este biodiges-
+tor tambien cuenta con trampas de recolección de solidos  y lixiviados, los cuales 
+pueden ser utilizados como abonos orgánicos para cultivos agrícolas, riegos de 
+potreros y mejoramiento de las paraderas de los sectores pecuarios; todo esto a 
+fin de beneficiar las condiciones tanto físicas como quimicas del suelo y así, tener 
+un aumento productivo en el ambito agropecuario
+SISTEMAS SOSTENIBLES
+Al generarse todos estos procesos de recolección de excretas de las producciones animales, se contribuye al manejo 
+adecuado de los gases de efecto invernadero, cosa que permitirá a los productos derivados de las mismas, como lo son: 
+Carnes, leche, huevos y  cultivos, sean bajos en huella de carbono, producidos en un ambiente sostenible y que insentive 
+a los demas productores de la localidad a implementar este tipo de sistemas amigables que le dan un valor agregado a 
+los productos finales por su ciclo de vida y la reducción en sus gases de efecto invernadero.
+CONDUCCIÓN 
+DEL BIOGAS
+RECOLECCIÓN 
+DE DESECHOS
+BIODIGESTOR
+
+=== Página 53 ===
+Con los solidos resultantes del biodigestor, se puede hacer una mezcla con los recolectados en el baño seco, pasan-
+dolos mediante un mezclado y paso por lombrices para oxigenar la tierra y poder utilizarla apropiadamente, logrando 
+mejorar el suelo, y con ello, la producción de la finca.
+BAÑO SECO
+Almacenamiento para 
+arena fina con cal
+Líquido
+Sólido
+Reserva
+fecal
+Reserva
+orina
+Tapa para la 
+arena-cal
+-Capacitación a la familia para comprender cómo funciona 
+el sistema y cómo utilizarlo.
+-Adaptamiento al uso de los sistemas sostenibles.
+-El biodigestor debe cuidarse mucho para que no presente 
+fugas ni se disminuya la actividad bacteriana por la altera-
+ción de la temperatura dentro del tanque de fermentación 
+(A partir de los 34° comienza la reducción de la producción 
+bacteriana).
+- Costo adicional de considerable inversión.
+- Debe mantenerse una buena higiene de los tanques, 
+para evitar riesgos sanitarios.
+-Los lixiviados deben tratarse con mucho cuidado, ya que 
+si llegan puros al entorno natural, pueden resultar tóxicos 
+por su alto contenido microbiológico y mineraldebido a su 
+alta concentración. 
+-Mantenimiento constante a toda la infraestructura
+- Se genera un sistema que retribuye su inversión por me-
+dio de prestación de servicios a la vivienda rural
+- Creación de un sistema cíclico
+- Convierte el problema de los desechos en un beneficio
+- Más higiene y salubridad dentro de la vivienda
+- Trae un cambio dentro de su entorno 
+- El sistema de recolección de agua reduce el uso de fuen-
+tes hídricas o subterráneas para el uso doméstico y pro-
+ductivo.
+- Logra tomar cartas en el asunto respecto al uso profe-
+sional y etico de los recursos 
+- Llevar buenas prácticas productivas.
+- La recolección de agua permite mantener una reserva 
+para los días de sequía o necesarias para usos no pota-
+bles.
+- El baño seco reduce el gasto de agua y contaminación.
+- El baño seco permite un mejor manejo de las heces hu-
+manas, transformándolas en abono y no dejándolas lle-
+gar completamente al ambiente con alta contaminación.
+- Todo el sistema sostenible mejora la calidad de vida de 
+lafamilia, ofreciendo seguridad, higiene, sanidad, sosteni-
+bilidad, y generación de mejores ganancias económicas 
+VENTAJAS
+CONTRAINDICACIONES
+
+=== Página 54 ===
+BIOCLIMÁTICA
+Mapas tomados a partir de informacion de geo-
+meteorología del municipio de tame
+Humedad 
+relativa 70%
+Horas de sol: 
+10 horas
+vientos
+36nudos 
+Temperatura 
+mínima 10°C 
+Temperatura 
+máxima 28°C 
+
+=== Página 55 ===
+3,2m
+0,6m
+1m
+ASOLEACIÓN-VIENTO MH
+3m
+4m
+ASOLEACIÓN-VIENTO PORCHE
+1,7m
+0,50m
+
+=== Página 56 ===
+0,13m
+ASOLEACIÓN-VIENTO MC
+Evacuación humo del 
+fogón de leña
+MURO VERDE
+CUBRIMIENTO EN PANEL PERFORADO
+Permite el ingreso de ventilación y luz natural, a
+la vez que permite encajar repisas o cajas que
+conserven plantas, creando un muro verde que
+también funcione como barrera ante el calor y
+los fuertes vientos nocturnos
+Ejemplo:
+
+=== Página 57 ===
+TABLEROS DE OSB PARA CERRAMIENTO 
+CERRAMIENTO CONTRA EL VIENTO
+Resistente a la humedad
+Flexibilidad de uso
+Material económico
+Baja huella ecológica
+https://i2.wp.com/icasasecologicas.com/wp-content/uploads/2011/03/Foto-
+cortes%C3%ADa-de-tecnopanel.jpg?fit=639%2C480&ssl=1
+Referente:
+PUERTA CORREDIZA
+Referente:
+http://ventanasinfo.com/wp-content/uploads/2015/03/puertas-
+correderas-rusticas.jpg
+
+=== Página 58 ===
+ASOCIACIONES CLAVES
+-Proveedores de 
+materia prima y 
+materiales tratados
+-Entidades y empresas 
+del sector público 
+relacionadas
+-Inversionistas
+-Patrocinadores
+-Comunidad para diseño 
+participativo
+-Voluntarios que 
+quieran aprender 
+técnicas de 
+construcción y ayuden 
+con la causa
+ESTRUCTURA DE COSTOS
+-Diseño 
+-Gestión y logística
+-Materiales y equipos
+-Transporte
+-Comidas
+FUENTES DE INGRESO
+-Venta del diseño
+-Patrocinadores
+-Inversionistas
+-Materias primas cultivadas
+-Asociación Público Privada (APP)
+ACTIVIDADES CLAVE
+-Estudio del territorio y su 
+contexto
+-Diseño participativo
+-Creación de viviendas 
+acorde a cada región
+-Forjar identidad regional
+RECURSOS CLAVE
+-Equipo interdisciplinar
+-BIM
+-Estudio etnográfico previo
+-Acompañamiento de la 
+población
+-Materias primas propias 
+de la región
+-Estructuras metálicas y 
+madera cortada
+-Recurso humano
+-Recurso económico
+PROPUESTA DE VALOR
+Creación de viviendas 
+rurales modulares 
+sostenibles, que 
+permitan su fácil 
+construcción y 
+transporte para poder 
+llegar a zonas remotas 
+de difícil acceso y 
+solucionar sus 
+necesidades a pesar de 
+la ausencia de redes de 
+servicios públicos
+SEGMENTO DE 
+MERCADO
+-Familias que vivan en el 
+campo y se dediquen a 
+la producción 
+agropecuaria, 
+principalmente en la 
+región de la Orinoquía 
+en Colombia
+RELACIÓN CON LOS 
+CLIENTES
+-Se incluye a la población 
+beneficiada en el proceso 
+de diseño para poder 
+responder con información 
+de primera mano a sus 
+necesidades y se les 
+capacita para que puedan 
+participar en la 
+autoconstrucción de la 
+vivienda
+CANALES
+-Páginas web
+-Teléfonos
+-Comunicado público
+-Convocatorias
+MODELO CANVA
+FINANCIACIÓN
+El proyecto se realiza para una familia que requiere de remodelación de vivienda, donde en primera instancia será finan-
+ciado por el capital de la misma, utilizando los ahorros que han recolectado durante 10 años realizando las actividades de 
+compra y venta de ganado, alquiler de lotes, actividades agrícolas y varias. De esta manera, la vivienda será construida 
+por etapas, buscando repartir de la mejor manera la inversión, para poder seguir construyendo la casa, por ello, se vidi-
+virá de la siguiente manera las etapas:
+
+=== Página 59 ===
+1. Romero Sánchez, Susana. “La historia olvidada de la arquitectura en Colombia: La vivienda 
+rural y la modernización durante la República Liberal”. Dearq nº. 29 (2021): 28-39. DOI: https://doi.
+org/10.18389/dearq29.2021.04
+2. Ramírez Nieto, Jorge. “Instituto de Crédito Territorial”. Revista Credencial (enero de 2019). http://
+www.revistacredencial.com/credencial/historia/temas/instituto-de-credito-territorial
+3. Restrepo Álvarez, Gonzalo. Arquitectura aldeana y rural. Bogotá: Biblioteca Aldeana de Colom-
+bia, 1935.
+4. Romero Sánchez, Susana. “Ruralizing Urbanization: Credit, Housing, and Modernization in Co-
+lombia, 1920-1948”. PhD Dissertation in History, Cornell University, Ithaca, US, 2015.
+5. Saldarriaga, Alberto et al. Estado ciudad y vivienda: Urbanismo y arquitectura de la vivienda 
+estatal en Colombia, 1918-1990. Bogotá: Corporación Colegio de Villa de Leyva e Inurbe, 1996.
+6. Wills Ferro, Alberto y Gustavo Maldonado. Cartilla de construcciones rurales. Bogotá: Instituto 
+de Crédito Territorial, 1946.
+7. Monclus Fraga, Francisco y Oyon, Jose L. Ciudad y territorio: Revista de ciencia urbana, ISSN 
+0210-0487, Nº 57-58, 1983, págs. 67-84
+8. HÁBITAT RURAL VIVIENDA, MOBILIARIO Y SISTEMAS DE INGENIERÍA, 2013
+9. ICT. Una política de vivienda para Colombia. Primer Seminario Nacional de Vivienda, 1955. Bo-
+gotá, Editor Jaime Mendoza, 1956.
+BIBLIOGRAFÍA - REFERENCIAS
+10. Arango, Jorge y Martínez, Carlos. Arquitectura en Colombia. Bogotá, Ediciones Proa, 1951.
+11. Saldarriaga, Alberto. La arquitectura de la vivienda rural en Colombia, 1983. ISSN 0325-6448
+12. F. J. Monclús, J. L. Oyón. “Colonización agraria y urbanismo rural en el siglo XX”. 
+13. Bermejo, T. (2009). Leyendo los espacios: una aproximación crítica a la sintaxis espacial como 
+herramienta de análisis arqueológico.   Instituto de Historia. 
+14. Arango , G. (1984). MANUAL DE DISEÑOS PARA MADERAS DEL GRUPO ANDINO . Colombia : 
+CARVAJAL S.A
+15. Ramos , H. (2012). Métodologia para diagnosticar la habilidad en vivienda social . Bogotá, 
+D.C - COlombia : Universidad de la Salle 
+ 
+16. Tello, M; Correal, O.. (2008). PAISAJES E INTINERARIOS CULTURALES COMO ESTRATEGIAS PARA 
+EL DESAROLLO . Bogota, Colombia : Universidad de La Salle y Sociedad Colombiana de arqui-
+tectos 
+ 
+17. Ordoñes, I. (2014). San Antonio de Guajui . Bogota, Colombia : Universidad Piloto de Colom-
+bia
+18. Secretaria Distrital de la Nacion , Universidad Nacional de Colombia . (2015). Guia de linea-
+mientos sostenibles para el ámbito Rural Bogota D.C. Bogota, Colombia : ALCALDÍA MAYOR DE 
+BOGOTÁ
+19. PBOT municipio de Tame - Arauca
+20. Video de Youtube sobre el paisaje cultural llanero: 
+https://www.youtube.com/watch?v=Zml6zggS9xs&ab_channel=TvAgro
+
+=== Página 60 ===
+
