@@ -20,6 +20,9 @@ Referencia-vivienda-rural/
 # Huérfano del flujo previo
 docs/F7-Candidatos_revision.html
 
+# Documentos archivados — no van a producción ni al VPS
+docs/DESCARTADOS/
+
 # Outputs derivables de scripts
 resultados/
 CO-resultados/
