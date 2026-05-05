@@ -185,7 +185,18 @@ Define cada columna de M2: significado, valores permitidos, ejemplos y reglas de
 - Solo funciona cuando la app corre en local (no en VPS)
 **Ejemplos:** `Vivienda-Nueva-Rural.pdf`, `Habitat-Para-La-Paz.pdf`.
 
-### 23. `Tipo_fuente`
+### 23. `URL_fuente`
+**Definición:** URL pública del documento fuente (PDF en repositorio universitario, DOI de revista, link de descarga oficial). Permite acceder al documento desde la versión web de la app sin necesidad del PDF local.
+**Formato:** URL completa que empieza con `http://` o `https://`. Vacío si no hay URL pública.
+**Reglas:**
+- Debe responder con un PDF, una página de catálogo del repositorio, o un DOI válido
+- No usar enlaces de Google Scholar (búsqueda, no documento)
+- En la app se renderiza como botón **🔗 Abrir en navegador** que abre en nueva pestaña
+- Funciona en local **y** en VPS (a diferencia del botón "📄 Abrir PDF" que solo funciona en local)
+- Editable en la app para casos pendientes
+**Ejemplos:** `https://repositorio.ucp.edu.co/handle/10785/12345`, `https://doi.org/10.18389/dearq30.2023.04`.
+
+### 24. `Tipo_fuente`
 **Definición:** tipo de fuente que documenta el caso.
 **Valores permitidos:**
 - `premio` — Bienal Colombiana, SCA, CAF
@@ -197,16 +208,16 @@ Define cada columna de M2: significado, valores permitidos, ejemplos y reglas de
 - `libro`
 - `documento_proyecto` — uno de los PDFs ya en `Referencias-proyecto/`
 
-### 24. `Lecciones_aprendidas`
+### 25. `Lecciones_aprendidas`
 **Definición:** qué replicar y qué evitar del caso. Insumo directo para el Producto 2.
 **Formato:** texto libre, 1–4 frases.
 **Ejemplo:** `"Replicar: orientación E-O minimiza ganancia solar; alero protege tapia de lluvia. Evitar: humedad por capilaridad sin sobrecimiento de piedra"`.
 
-### 25. `Observaciones`
+### 26. `Observaciones`
 **Definición:** campo libre para cualquier información que no encaja en otra columna.
 **Formato:** texto libre.
 
-### 26. `Estado_validacion`
+### 27. `Estado_validacion`
 **Definición:** estado del caso en el flujo de validación del equipo.
 **Valores permitidos:**
 - `pendiente_revision` — extraído automáticamente o agregado manualmente; aún no revisado
@@ -215,18 +226,18 @@ Define cada columna de M2: significado, valores permitidos, ejemplos y reglas de
 
 **Regla:** se modifica vía botones de la app (`✓ Validar` / `✗ Descartar`). Al cambiar de estado, la app autocompleta `Fecha_validacion` y `Validado_por`.
 
-### 27. `Motivo_descarte`
+### 28. `Motivo_descarte`
 **Definición:** razón por la cual el caso fue descartado. Solo se llena si `Estado_validacion = descartado`.
 **Formato:** texto libre breve.
 **Ejemplos:** `"sin estrategia identificable"`, `"urbano, no rural"`, `"duplicado de CAS-008"`, `"solo conceptual no construido"`.
 **Reglas:** se permite blanco si `Estado_validacion ≠ descartado`.
 
-### 28. `Fecha_validacion`
+### 29. `Fecha_validacion`
 **Definición:** fecha en que se cambió `Estado_validacion` por última vez.
 **Formato:** ISO `YYYY-MM-DD`.
 **Reglas:** autocompletada por la app al hacer click en validar/descartar/reactivar. No editar a mano salvo correcciones.
 
-### 29. `Validado_por`
+### 30. `Validado_por`
 **Definición:** persona que tomó la decisión de validación.
 **Formato:** texto libre, recomendado iniciales o nombre corto (ej. `Ana`, `Philippe`, `AM`, `PB`).
 **Reglas:** la app pide al inicio de cada sesión "¿Quién valida hoy?" y guarda el nombre en `st.session_state`. Se autocompleta al hacer click en validar/descartar.
@@ -254,3 +265,4 @@ Define cada columna de M2: significado, valores permitidos, ejemplos y reglas de
 | 0.2 | 2026-05-01 | +5 columnas: Pagina_referencia, Estado_validacion, Motivo_descarte, Fecha_validacion, Validado_por. Soporte multiusuario Nivel 1 (lock + auditoría) |
 | 0.3 | 2026-05-01 | +1 columna: Subsistemas (cimentacion/estructura/envolvente/cubierta/instalaciones/integral). Total 29 cols |
 | 0.4 | 2026-05-01 | -1 Pagina_referencia (página va en Fuente_principal); +1 Archivo_fuente (PDF en FUENTES/, abrible desde la app). Total 29 cols |
+| 0.5 | 2026-05-03 | +1 URL_fuente (link público al documento — repositorio universitario / DOI / sitio oficial). Total 30 cols |

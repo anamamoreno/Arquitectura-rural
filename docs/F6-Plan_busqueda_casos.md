@@ -74,7 +74,8 @@ Genero_inclusion       │ texto si aplica
 Estado                 │ construido / en_operacion / abandonado / desconocido
 Verificable            │ foto / publicacion / visita / referencia_indirecta
 Fuente_principal       │ cita corta + página opcional (ej: "Hábitat Para La Paz, p. 45") o URL
-Archivo_fuente         │ nombre del PDF en FUENTES/ (la app lo abre con la app por defecto del sistema)
+Archivo_fuente         │ nombre del PDF en FUENTES/ (la app lo abre con la app por defecto del sistema, solo en local)
+URL_fuente             │ URL pública (repositorio / DOI / sitio oficial); abre en pestaña nueva, funciona local y VPS
 Tipo_fuente            │ premio / bienal / revista / tesis / ONG / oficial / libro / documento_proyecto
 Lecciones_aprendidas   │ qué replicar, qué evitar
 Observaciones          │ libre

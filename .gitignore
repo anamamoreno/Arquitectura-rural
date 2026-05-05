@@ -1,11 +1,15 @@
 # PDFs y archivos pesados — viven en local; usar Git LFS si se requiere compartir
-FUENTES/*.pdf
+FUENTES/**/*.pdf
 Referencias-proyecto/*.pdf
 Referencias-proyecto/*.docx
 Referencias-proyecto/*.doc
 Referencias-otros/
 Referencias-estandares/
+Referencias-descartadas/
 Referencia-vivienda-rural/
+
+# PDFs sueltos en raíz (TdR, exports, etc.)
+/*.pdf
 
 # Exports PDF generados desde los .md (los .md son la fuente de verdad)
 *.md.pdf

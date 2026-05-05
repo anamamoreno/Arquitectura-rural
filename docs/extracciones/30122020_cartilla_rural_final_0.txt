@@ -1,0 +1,926 @@
+# Fuente: 30122020 CARTILLA RURAL FINAL_0.pdf
+# Total paginas: 16
+
+=== Pagina 1 ===
+Viviend     Rural
+
+=== Pagina 2 ===
+Nadya Milena Rangel Rada
+Secretaria del Hábitat
+José Antonio Velandia Clavijo
+Subsecretario de Coordinación Operativa
+César Augusto Marín Clavijo
+Subdirector de Operaciones
+John Marlon Rodríguez García
+Jefe de Oﬁcina Asesora de Comunicaciones
+Juan Manuel Castañeda Vega
+Erick Sebastián Alvarado Rodríguez
+Equipo de Dirección Editorial, Redacción y Contenidos
+Yuly Tatiana Silva
+Wilder Centeno Beltrán
+Equipo de Revisión de Estilo
+Maria Camila Pinzón Cabrera
+Ammy Julieth Parrales
+Equipo de Diseño, Gráﬁcos y Diagramación
+Ángela Rojas Murcia
+Camilo Gómez Cárdenas
+Equipo de Comunicaciones
+SECRETARÍA DISTRITAL DEL HÁBITAT  
+Para un diseño participativo
+Bogotá DC. 
+Secretaría Distrital del Hábitat
+Subsecretaría de Coordinación Operativa 
+Subdirección de Operaciones
+
+=== Pagina 3 ===
+5
+Introducción......................................................................................................
+Contexto..............................................................................................................
+Situación rural en Bogotá.............................................................................
+Concepto vivenda rural.................................................................................
+¿Qué debe incluir la vivienda rural?..........................................................
+Lineamientos de diseño de la vivienda rural.......................................
+Relación con el entorno.............................................................................
+Tipología arquitectónica.............................................................................
+Técnica, materialidad y construcción....................................................
+Bioclimática.....................................................................................................
+Vivienda eﬁciente..........................................................................................
+Estrategia de intervención.......................................................................
+Conclusiones..................................................................................................
+5
+6
+8
+10
+11
+13
+14
+16
+18
+20
+22
+24
+26
+Esta cartilla, es una herramienta de trabajo que brinda información y facilita técnicas para mejorar las 
+condiciones de habitabilidad en los territorios rurales de Bogotá. Podremos reconocer la vivienda rural de 
+una manera digna, productiva y sostenible y tendremos la oportunidad de rediseñarla de modo 
+participativo, creando un entorno saludable y placentero para habitar, respetando la identidad del 
+territorio y aportando así a la planiﬁcación conjunta a la gestión autónoma de las poblaciones rurales de 
+Bogotá. 
+Dentro del Plan de Desarrollo Distrital 2020-2024, Un Nuevo Contrato Social y Ambiental para el Siglo XXI, 
+la Secretaría Distrital del Hábitat adopta la Meta 126 denominada “Diseñar e implementar 
+intervenciones de mejoramiento integral rural y de bordes urbanos“ se busca así, poner en marcha 
+acciones en el área rural que contribuyan a la reducción del déﬁcit habitacional en términos 
+cuantitativos y cualitativos. Este proceso está enfocado en entregar herramientas que permitan: una 
+mayor adaptabilidad al cambio climático, adoptar prácticas sostenibles en intervenciones rurales, 
+disminuir el hacinamiento habitacional y reconocer las formas históricas de producción, tomando como 
+referencia la Guía de Vivienda Rural, desarrollada en el año 2019 por la Secretaría Distrital de 
+Planeación.
+
+=== Pagina 4 ===
+7
+6
+Antecedentes del 
+desarrollo rural 
+en el Distrito:
+2014
+2018
+2019
+2020
+Mejoramientos:
+la Secretaría Distrital del Hábitat y 
+la Caja de la Vivienda Popular, 
+realizaron intervenciones en las 
+zonas rurales de Bogotá 
+(Sumapaz, Usme y Ciudad 
+Bolívar) llevando a cabo 241 
+mejoramientos de vivienda 
+en la modalidad de 
+habitabilidad.
+Concurso: 
+se realizó el concurso público 
+de ideas para el diseño de 
+prototipos de unidades habitacionales 
+sostenibles y productivas para la 
+ruralidad en Bogotá D.C. ejecutado 
+por la Secretaría Distrital de 
+Planeación con el apoyo de la 
+Sociedad Colombiana de 
+Arquitectos Bogotá y 
+Cundinamarca - 
+SCABC.
+2020
+Proyecto:
+a través de la meta 126, la 
+Secretaría Distrital del 
+Hábitat, inicia el desarrollo 
+del proyecto de inversión 
+para el mejoramiento y la 
+adopción de prototipos de 
+viviendas rurales (nuevas y 
+antiguas). 
+Guía: 
+producto del concurso, se 
+elabora la Guía de Vivienda 
+Rural para Bogotá D.C., la cual 
+compila y destaca los princi-
+pales insumos técnicos, 
+lineamientos y parámetros de 
+diseño y construcción de 
+Viviendas de Interés Social 
+Rural – VISR.
+Normativa:
+se toma como referente el 
+marco normativo Nacional y 
+Distrital con el ﬁn de 
+implementar soluciones 
+habitacionales mediante 
+subsidios que permitan 
+mejorar el entorno de 
+vivienda rural.
+
+=== Pagina 5 ===
+72%
+Dentro de las problemáticas más evidentes 
+en la zona rural del Distrito, se encuentran:
+Vivienda 
+en déﬁcit
+Déﬁcit 
+total
+Déﬁcit 
+cualitativo
+Déﬁcit 
+cuantitativo
+Déﬁcit habitacional
+Déﬁcit habitacional
+viviendas para 
+mejoramiento 
+viviendas 
+nuevas 
+2.553
+43,62%
+8,54%
+52,16%
+¿Sabías que
+¿Sabías que 
+cuenta con el 72% 
+de territorio rural?
+cuenta con el 72% 
+de terrirorio rural?
+Centros poblados
+Nodos de equipamientos 
+Asentamientos menores 
+Centros poblados
+Nodos de equipamientos 
+Asentamientos menores 
+E
+A
+C
+El territorio rural de la ciudad de 
+Bogotá a través del Decreto 
+Distrital 190 de 2004, en el cual 
+se determinan como Unidades de 
+Planeamiento Rural - UPR.
+A lo largo de este 
+extenso territorio, se 
+ha consolidado una 
+red de espacios 
+socioeconómicos 
+que corresponden a:
+9
+8
+C
+C
+C
+C
+C
+C
+C
+C
+C
+E
+E
+E
+E
+E
+E
+E
+E
+E
+C
+E
+A
+A
+A
+A
+Rural Norte
+(Decreto 543 de 2015. 
+Alcaldía Mayor de 
+Bogota D.C) 
+(Resolución 1766 de 2016 del 
+Ministerio de Ambiente y 
+Desarrollo Sostenible) 
+(Decreto 553 de 2015. Alcaldía 
+Mayor de Bogota D.C)  
+(Decreto 553 de 2015. Alcaldía 
+Mayor de Bogota D.C)  
+1 IDEM
+1
+4
+5
+bajo acceso 
+al agua 
+potable.
+Carencia de 
+sistemas de 
+saneamiento y 
+alcantarillado.
+Mal manejo 
+y disposición 
+de residuos.
+Alto número 
+de hogares que 
+habitan una 
+sola vivienda.
+Pobreza en 
+los hogares - baja 
+capacidad de 
+productividad 
+autosostenible a 
+nivel familiar.
+Procesos de 
+ocupación del 
+territorio e 
+informalidad en la 
+tenencia de la 
+tierra.
+Déﬁcit a nivel 
+habitacional 
+y de su 
+entorno 
+inmediato.
+2
+Las problemáticas inciden socialmente en:
+Disminución de 
+la calidad de vida 
+de los habitantes 
+de los territorios 
+rurales.
+Las viviendas 
+rurales no responden 
+a las necesidades 
+particulares de sus 
+habitantes.
+Bajas 
+condiciones de 
+habitabilidad 
+rural.
+2 Esta información da cuenta de la división censal, en el marco geoestadístico nacional, con base en la cartografía del DANE
+3 Página web: https://www.dane.gov.co/index.php/estadisticas-por-tema/demo-
+graﬁa-y-poblacion/censo-nacional-de-poblacion-y-vivenda-2018. Última consulta realizada el 30 de agosto de 2020. 
+4 Página web: https://www.dane.gov.co/index.php/estadisticas-por-tema/demo-
+graﬁa-y-poblacion/censo-nacional-de-poblacion-y-vivenda-2018. Última consulta realizada el 30 de agosto de 2020. 
+5 Páginaweb:https://www.dane.gov.co/index.php/estadisti-
+cas-por-tema/demograﬁa-y-poblacion/censo-nacional-de-poblacion-y-vivenda-
+2018. Última consulta realizada el 30 de agosto de 2020. 
+Cerros Orientales
+Cuenca media y alta del río Tunjuelo
+Cuenca del río Blanco
+Cuenca del río Sumapaz
+3
+
+=== Pagina 6 ===
+Asentamientos rurales:
+Tipos de vivienda:
+Centros poblados 
+Centros de equipamientos 
+y servicios
+Vivienda dispersa
+1
+2
+3
+Una vivienda rural se entiende como la ediﬁcación
+ localizada en el campo, dedicada a la producción 
+agrícola o pecuaria, de manera familiar para su
+comercialización o autoconsumo. 
+Son viviendas que se encuentran aisladas, por lo general carecen de 
+acceso a servicios públicos, están ligadas a la labranza de la tierra y 
+las actividades propias del sector agrícola y producción pecuaria. 
+Están construidas de manera agrupada que conforman 
+asentamientos humanos o centros poblados, presentan pequeños 
+puntos de acopio, zonas de comercio de producción agropecuaria, 
+ventas de víveres y algunos servicios y equipamientos básicos.  
+10
+Desde la perspectiva de la productividad, se 
+entiende que las familias que habitan las 
+viviendas rurales se dedican a una multiplicidad 
+de actividades que complementan el desarrollo 
+tradicional agropecuario. 
+Entre estas actividades se encuentran la 
+protección y restauración ecológica, actividades 
+de turismo especialmente las que tienen enfoque 
+ecológico y/o a tener empleos más 
+convencionales, entre otras. 
+La vivienda digna  se asocia al espacio habitable,  
+con acceso a servicios básicos y con condiciones 
+de infraestructura óptimas. Es un derecho de 
+todos   tener un lugar donde se pueda vivir 
+seguro, en paz y dignamente.
+9
+9 Pacto Internacional de Derechos Económicos, 
+Sociales y Culturales.  (PIDESC), Ginebra, 1991.
+10 Constitución Política de Colombia, Artículo 51 , 1991.
+Principalmente cumplir 
+con tres cualidades 
+fundamentales: ser digna, 
+productiva y sostenible.
+Este tipo de vivienda está compuesta por una 
+o varias ediﬁcaciones y/o áreas asociadas al 
+predio que incorpora actividades productivas, 
+de interacción y hábitat, pueden estar dispersas 
+o concentradas. Así mismo prevalece 
+culturalmente una forma de vivir de 
+acuerdo con el entorno, clima y topografía 
+generando así condiciones de adaptabilidad 
+productivas y sostenibles.  
+CONCENTRADA
+6
+7
+8
+Estos conceptos fueron construidos de manera colectiva por la 
+Subdirecciones de Operaciones
+Alcaldía mayor de Bogotá. 2019.  Guía de vivienda rural para Bogotá
+Alcaldía mayor de Bogotá. 2019.  Guía de vivienda rural para Bogotá
+6
+7
+8
+Algunos tipos de asentamientos son: 
+11
+11 Alcaldía mayor de Bogotá. 2019.  Guía de vivienda 
+rural para Bogotá
+11
+DISPERSA
+10
+
+=== Pagina 7 ===
+13
+Es aquella que incorpora estrategias, prácticas e innovadoras enfocadas 
+en el uso eﬁciente de los servicios básicos (agua y energía), se adapta a su 
+contexto natural en procura de garantizar el cuidado de los recursos 
+naturales, la adecuada disposición ﬁnal de sus residuos sólidos y garantiza 
+unos mínimos estándares de confort para sus habitantes.
+Comprende las acciones que se 
+desarrollan para disminuir el 
+consumo de agua, energía y  la 
+adecuada gestión de los residuos.
+Establecido por las condiciones 
+aceptables del espacio habitable 
+para que las personas puedan 
+desarrollar de manera óptima sus 
+actividades cotidianas. Al menos, 
+se deben tener en cuenta las 
+condiciones de temperatura, 
+iluminación, humedad y calidad 
+de aire.
+Entendido como el acceso y 
+manejo apropiado del agua 
+potable, el alcantarillado y los
+residuos sólidos.
+SANEAMIENTO BÁSICO
+MANEJO DE LOS RECURSOS
+CONFORT AMBIENTAL
+1
+2
+3
+12
+12 ONU Hábitat. 2018. Vivienda y mejoramiento de asentamientos precarios
+13  Alcaldía mayor de Bogotá. 2019.  Guía de vivienda rural para Bogotá
+14  Alcaldía mayor de Bogotá. 2019.  Guía de vivienda rural para Bogotá
+15  Alcaldía mayor de Bogotá. 2019.  Guía de vivienda rural para Bogotá
+13
+14
+15
+10
+12
+Tomando como referencia los contenidos de la Guía de Vivienda Rural,  
+a continuación se desglosan, a manera de resumen, los conceptos 
+técnicos pertenecientes a  los capítulos más relevantes que se deben 
+considerar a la hora de diseñar y construir una vivienda rural. 
+La Guía de Vivienda Rural propone algunos lineamientos de diseño:
+- Relación con el entorno.
+- Tipología arquitectónica.
+- Técnica, materialidad y construcción.
+- Bioclimática.
+- Vivienda eﬁciente.
+16
+16  Alcaldía mayor de Bogotá. 2019.  Guía de vivienda rural para Bogotá
+13
+
+=== Pagina 8 ===
+Para la vivienda rural nueva, se deberá 
+planear de manera estratégica la forma de 
+ocupar el territorio, teniendo en cuenta los 
+usos del suelo, el cuidado de los escenarios 
+de importancia ambiental, el acceso al 
+predios, entre otros aspectos. Estos son 
+algunos de los factores más importantes a 
+considerar para tener en cuenta para tener 
+una correcta relación con el entorno.
+Inserción 
+en el 
+predio:
+6
+observación y adaptación del módulo de  
+vivienda con base en las dinámicas del lote. 
+(Topografía, entorno, prácticas productivas 
+viables)
+se debe pensar 
+en la relación 
+que tiene la 
+construcción 
+con el terreno 
+y su inclinación.
+Topografía:
+Manejo del 
+paisaje:
+Redes y 
+conectividad:
+la implantación debe vislumbrar la conexión con 
+las redes de servicios públicos, vías o caminos de 
+acceso para productividad y acueductos veredales, 
+según cada caso.
+Organización 
+colectiva:
+las familias se pueden aglomerar en 
+comunidades o caseríos de varias 
+viviendas, generando agrupaciones. 
+14
+15
+17
+17  Alcaldía mayor de Bogotá. 2019.  Guía de vivienda rural para Bogotá
+coexistencia entre lo 
+natural y lo construido.
+
+=== Pagina 9 ===
+Existen varias tipologías de vivienda modular según las condiciones 
+mencionadas anteriormente:
+16
+ALARGADA
+EN L
+COMPACTA
+EN T
+DISPERSA
+18 Alcaldía mayor de Bogotá. 2019.  Guía de vivienda rural para Bogotá
+19 Alcaldía mayor de Bogotá. 2019.  Guía de vivienda rural para Bogotá
+La vivienda rural debería hacerse 
+progresivamente,buscando atender la relación 
+adecuada entre las necesidades tradicionales de la 
+vivienda y las actividades productivas que 
+desarrollan las familias que la habitan.  Para esto, es 
+necesario tener en cuenta elementos como:  plan de 
+desarrollo de la vivienda, distribución funcional, 
+desarrollo progresivo y productividad.
+18
+Habitación
+Baño
+Cocina
+Sala Comedor
+CRECIMIENTO EXTERIOR
+El tamaño estándar manejado para 
+una vivienda es entre 50 y 55 
+metros cuadrados  (unidad básica) 
+existiendo la posibilidad de seguir 
+construyendo la vivienda 
+progresivamente (hasta a 100 
+metros cuadrados), sin afectar las 
+relaciones espaciales que se 
+generan al interior de la unidad 
+habitacional.
+Área de 
+futura
+expansión
+Área de 
+futura
+expansión
+Área de
+futura
+expansión
+Área de 
+futura
+expansión
+1
+2
+3
+4
+Es necesario reconocer el contexto 
+cultural, las costumbres de la ruralidad. 
+La construcción de vivienda se tiene que 
+basar en el modo de habitar de la 
+comunidad. Es preciso entender la 
+simbología de cada espacio y como 
+las personas interactúan con él.
+17
+Elementos de 
+progresividad 
+adaptables a la 
+necesidad 
+familiar.
+Corredor 
+como eje 
+conector de 
+cada espacio.
+Baño distante 
+a áreas 
+privadas, 
+productivas y 
+de servicio.
+Desde el diseño de la unidad básica se deberán proyectar los elementos más 
+costosos (cimentación y partes estructurales), de este modo, la vivienda 
+podrá crecer de manera planiﬁcada, la construcción de dicha progresividad 
+será más fácil y eﬁciente, ya que la familia podrá ediﬁcar posteriormente de 
+acuerdo a sus posibilidades y necesidades. 
+Cocina como 
+espacio de 
+interacción y 
+recibo.
+Patio como 
+elemento 
+articulador de la 
+vivienda y 
+costumbres de la 
+familia.
+Relación 
+espacial entre 
+el interior y el 
+exterior.
+19
+20
+20 Alcaldía mayor de Bogotá. 2019.  Guía de vivienda rural para Bogotá
+Relación del 
+espacio productivo 
+con suelos 
+destinados a la 
+producción.
+
+=== Pagina 10 ===
+El manejo de materiales deberá ser acorde al 
+contexto territorial, para facilitar el acceso a 
+los mismos y que generen el menor impacto 
+posible al ambiente. Existen aspectos 
+importantes a tener en cuenta:
+Es de suma 
+importancia contemplar 
+la mano de obra y 
+cantidad de personas 
+necesarias dentro de 
+los costos de 
+ejecución.
+Se deben 
+considerar implementar 
+materiales asociados a 
+técnicas de construcción 
+tradicional, lo que 
+permite involucrar a la 
+comunidad y pensar en 
+autoconstrucción.
+Los elementos 
+especíﬁcos a tener en 
+cuenta para estructurar la 
+vivienda son: cimentación, 
+elementos estructurales, 
+muros, fachadas, 
+cubiertas y elementos 
+interiores.
+Es fundamental 
+tener en cuenta el 
+transporte y tipo de 
+materiales autóctonos a 
+utilizar, ya que la forma 
+de llevar los materiales 
+toman gran importancia 
+por su costo.  
+Los elementos 
+especíﬁcos a tener 
+en cuenta para 
+estructurar la 
+vivienda son: 
+3
+COLUMNAS, VIGAS Y 
+VIGUETAS MAMPOSTERÍA 
+ESTRUCTURAL 
+Son elementos 
+verticales que transmiten 
+las cargas a la 
+cimentación,  son rígidas 
+y su longitud deﬁne la 
+altura de los espacios 
+interiores.
+La materialidad 
+debe responder positivamente 
+a las condiciones climáticas 
+del territorio, se deben 
+incorporar materiales que 
+tengan pocas pérdidas 
+caloríﬁcas.
+Las viviendas mostradas en la presente cartilla son 
+esquematicas y no son el producto ﬁnal a desarrollar
+4
+CUBIERTA 
+O TECHO
+1
+CIMENTACIÓN 
+Este factor  
+garantiza la estabilidad 
+de los elementos 
+estructurales y su tipo 
+debe responder a las 
+condiciones físicas 
+del suelo.
+2
+PLACAS DE 
+CONTRAPISO Y 
+ENTREPISO 
+Son superﬁcies 
+horizontales en 
+primer piso que se 
+soportan en las vigas 
+y viguetas.
+1
+2
+3
+4
+5
+18
+19
+5
+MUROS DE 
+CERRAMIENTO 
+Y ACABADOS
+Aísla a 
+los ocupantes de las 
+condiciones climáticas 
+exteriores, en esta fase se 
+deﬁnen, puertas, ventanas, 
+aislantes térmicos y los 
+acabados al interior y 
+exterior de la 
+vivienda.
+Es el elemento 
+que ofrece protección 
+a la ediﬁcación frente 
+a las condiciones 
+ambientales 
+externas.
+
+=== Pagina 11 ===
+*
+*
+1
+Aplicar un diseño al interior de las 
+ediﬁcaciones, que mitigue los efectos 
+negativos de la contaminación por ruido 
+exterior.  
+2
+Formular diseños que promuevan la 
+iluminación natural y la mayor captación 
+de luz solar al interior de las viviendas. 
+  
+3
+4
+ Promover diseños que favorezcan la 
+apropiada ventilación al interior y técnicas 
+para cortar fuertes vientos al exterior.
+5
+Implementar condiciones que beneﬁcien 
+al confort térmico, cuando la humedad, 
+temperatura y movimiento del aire son 
+agradables al interior de la vivienda.
+Incentivar el uso de materiales de 
+construcción con baja emisión de 
+contaminantes o materiales de 
+recubrimiento de base acuosa en 
+interiores. 
+Está relacionado con el confort al interior de la 
+vivienda, logrado mediante técnicas para 
+garantizar un equilibrio climático (frío o calor), 
+control al exceso de ruido, iluminación natural y 
+una adecuada ventilación. Entre los múltiples 
+factores que se deben analizar para lograr 
+óptimas condiciones bioclimáticas y de confort 
+al momento de diseñar y ediﬁcar se destacan  :  
+ 
+- Temperatura, 
+ 
+- Rango de confort
+ 
+- Humedad
+ 
+- Precipitación media
+ 
+- Vientos (dirección, velocidad)
+ 
+- Radiación solar  (estudio de trayectoria)
+ 
+20
+Algunas estrategias son:
+21
+21 Según lo estimado por la Sociedad colombiana de Arquitectos (SCABC), de acuerdo con las 
+condiciones climáticas, en la vivienda deberán implementarse estrategias arquitectónicas 
+bioclimáticas.
+21
+Confort y bioclimática
+
+=== Pagina 12 ===
+22
+23
+El principal enfoque del desarrollo de la vivienda rural es que esta sea sostenible, 
+reﬁriéndose al uso eﬁciente y al aprovechamiento de los recursos. 
+Mediante soluciones arquitectónicas, se pueden aplicar ciertas 
+técnicas de aprovechamiento de agua lluvia, mejorar los sistemas 
+de saneamiento básico o diseñar alternativas para brindar acceso al 
+agua potable, así como, la optimización del consumo energético 
+mediante la aplicación de tecnologías eﬁcientes, también, realizar un 
+mejor manejo de los residuos sólidos. La Guía de Vivienda Rural para Bogotá, 
+prioriza el manejo de medidas y técnicas especíﬁcas:  
+1
+2
+Diseñar sistemas que  permitan  retener y/o 
+almacenar agua para su 
+aprovechamiento (especialmente  para usos 
+no potables)
+- Tanques para la recolección de agua lluvia 
+- Atrapaniebla
+Algunas estrategias son:
+Promover el uso y la adaptación de 
+aparatos de consumo eﬁciente, 
+lavamanos, sanitarios, duchas, 
+grifería de cocina:
+- Instalar sanitarios ahorradores
+- Adaptar válvulas reguladoras de agua 
+LAVADERO
+POZO 
+SÉPTICO
+APARATOS 
+AHORRADORES
+Eﬁciencia en manejo de residuos y materiales
+1
+2
+3
+Optimizar el uso de materiales locales, 
+reduciendo costos de transporte y 
+fomentando la producción local, 
+reduciendo las emisiones de Co2.
+Incentivar la reutilización de los residuos 
+de construcción y demolición (RCD). 
+Promover el uso de materiales de 
+construcción con certiﬁcaciones 
+ambientales. 
+Utilizar materiales reciclados 
+Optimizar el uso de materiales locales, 
+reduciendo costos de transporte y 
+fomentando la producción local, 
+reduciendo las emisiones de Co2.
+1
+Fomentar el uso de la energía 
+fotovoltaica (producida por el sol) 
+o eólica (producida por el viento) 
+para iluminación y/o calentamiento 
+de agua, fomentando el acceso a 
+este servicio y el ahorro energético.
+4
+Proponer ediﬁcaciones que optimicen 
+variables de asoleamiento e iluminación natural.
+5
+Utilizar materiales con mejores propiedades 
+térmicas, acústicas y lumínicas (*). 
+2
+Implementar tecnologías eﬁcientes en el 
+diseño de iluminación de espacios, 
+especialmente con tecnologías tipo LED 
+para disminuir el consumo de energía y 
+evitar la contaminación lumínica.
+3
+ Integrar redes inteligentes,  actualizar 
+cableado o sistemas de medición.
+Ahorro y eﬁciencia energética
+Algunas técnicas ejemplares son:
+Uso eﬁciente del agua
+Algunas técnicas ejemplares son:
+5
+4
+Aprovechar los residuos orgánicos de 
+manera que estos sirvan de abono,  
+alimento o combustible a manera de 
+biodigestor.
+6
+22
+22Alcaldía mayor de Bogotá. 2019.  Guía de vivienda rural para Bogotá
+24
+25
+23A través de soluciones arquitectónicas, La Guía de Vivienda Rural aborda alternativas y 
+respuestas de arquitectura sostenible innovadoras que puedan cumplir con el 
+aprovechamiento de los recursos en una vivienda rural.
+24A través de soluciones arquitectónicas, la Guía de Vivienda Rural aborda alternativas y respuestas de arquitectura 
+sostenible innovadoras que puedan cumplir con el aprovechamiento de los recursos en una vivienda rural.
+A través de soluciones arquitectónicas, la Guía de Vivienda Rural aborda alternativas y respuestas de arquitectura 
+sostenible innovadoras que puedan cumplir con el aprovechamiento de los recursos en una vivienda rural.
+25
+23
+Vivienda rural eﬁciente-
+Uso eﬁciente del agua-
+Ahorro y eﬁciencia energética-
+Confort y Bioclimática-
+Eﬁciencia en manejo de- 
+residuos y materiales
+
+=== Pagina 13 ===
+Estrategia de 
+Poner en marcha las estrategias de 
+divulgación dispuestas para que la 
+comunidad conozca el proyecto, 
+con el ﬁn de llevar acabo procesos 
+de concertación y construcción 
+conjunta.
+Acercamiento a los territorios 
+Como abordar la vivienda rural desde el 
+diseño participativo 
+Con la comunidad se identiﬁcaran las 
+necesidades más importantes en 
+cuanto al mejoramiento  de vivienda 
+rural, así como las prácticas sostenibles 
+adecuadas para la incorporación en los 
+territorios. 
+Reconocer el territorio y búsqueda de 
+información, por medio de visitas, 
+encuentros con las comunidades y 
+recorridos, con el ﬁn de generar un 
+diagnóstico para priorizar los lugares 
+de intervención. 
+Realizar el intercambio de saberes 
+entre la comunidad y las entidades 
+desde un diseño conjunto para 
+co-crear y aterrizar las ideas con 
+relación a la vivienda rural. 
+Con el entendimiento del uso, manejo y 
+aprovechamiento de las prácticas sostenibles, 
+se busca con esta fase que las comunidades y 
+actores se conviertan en embajadores del 
+programa y junto a ellos incidir en otros 
+territorios rurales. 
+En esta fase se propone realizar el 
+seguimiento y mantenimiento de los 
+mejoramientos de vivienda, realizados 
+en los territorios rurales, para que 
+pueda sostenerse en el tiempo. 
+23
+24
+25
+
+=== Pagina 14 ===
+13
+13
+Vivienda rural 
+nueva 
+Para el cuatrienio (2020 - 2024) la Secretaría Distrital del Hábitat, en el marco del cumplimiento de la meta 126, 
+“Diseñar e implementar intervenciones de mejoramiento integral rural y de bordes urbanos”, lidera el proyecto de 
+inversión en el territorio rural, el cual se enfoca en la vivienda rural, pensado desde cinco dimensiones: 
+Mejoramiento 
+habitacional 
+rural
+Mejoramiento 
+de entornos
+Seguridad 
+estructural 
+Mejoramiento 
+productivo
+26
+27
+Este proyecto, plantea la construcción de vivienda rural, mejoramientos de vivienda (concentrada y 
+dispersa) y el acompañamiento a las comunidades beneﬁciarias, durante el proceso, razón por la 
+cual, se propone adelantar el diseño participativo para deﬁnir los lineamientos técnicos y las 
+necesidades de las comunidades basadas en las realidades de los territorios. 
+Durante todo el proceso de planeación, diseño y ejecución del proyecto, las comunidades y 
+familias podrán aportar a la construcción y desarrollo conjunto, según sea el caso, cumpliendo con 
+la normatividad vigente de cada territorio e incorporando prácticas sostenibles. 
+1
+2
+3
+4
+5
+
+=== Pagina 15 ===
+La información contenida en el presente documento puede ser utilizada mientras se cite la fuente.
+Se prohibe la reproducción total o parcial de esta obra - incluido diseño y portada -, sea cual fuere el medio, 
+electrónico o mecánico, sin consentimiento o por escrito de la Secretaría Distrital del Hábitat.
+Todos los derechos son reservados.
+Está prohibida su venta.
+
+=== Pagina 16 ===
+Secretaría Distrital del Hábitat
+Carrera 13 # 52 - 25, Bogotá D.C.
+Teléfonos: 358 16 00. Extensión: 3008. Línea 195 opción 6
+Página web: https://www.habitatbogota.gov.co/
+Redes sociaIes:
+Instagram @habitat_bogota 
+Twitter @habitatbogota 
+Facebook @secretariahabitat
+

@@ -1,0 +1,4121 @@
+# Fuente: UPME_Guia_implementacion_PGEE_EE.pdf
+# Total paginas: 72
+
+=== Pagina 1 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Guía para la formulación e implementación de Planes de Gestión 
+Eficiente de la Energía en Entidades Públicas, PGEE - EP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Colombia, 2018 
+ 
+ 
+ 
+
+=== Pagina 2 ===
+ 
+ 
+GUÍA PARA LA IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA ENERGÍA EN 
+ENTIDADES PÚBLICAS 
+ 
+ 
+ 
+ 
+2 de 72 
+ 
+ 
+ 
+Proyecto de Normalización y Etiquetado de Eficiencia Energética 
+ 
+El etiquetado energético es una iniciativa estatal liderada por el Ministerio de Minas 
+y Energía de Colombia, que busca proteger al consumidor colombiano 
+proporcionándole datos sobre determinados equipos de uso final de energía, con el 
+fin de que pueda tomar decisiones informadas de compra, y fomentar el uso de 
+equipos más eficientes en el país. 
+ 
+Esta publicación hace parte de los estudios técnicos realizados por la Unidad de 
+Planeación Minero Energética (UPME) a través del proyecto de Normalización y 
+Etiquetado Energético para apoyar dicha iniciativa, estableciendo las bases para 
+una correcta implementación del Reglamento Técnico de Etiquetado en Colombia.  
+ 
+ 
+ 
+ 
+© 2018. Unidad de Planeación Minero Energética (UPME). Programa de las Naciones Unidas 
+para el Desarrollo (PNUD). 
+ 
+Aviso legal  
+Este documento es producto del proyecto 76979 GEF/PNUD/UPME, Normalización y Etiquetado de 
+Eficiencia 
+Energética en Colombia, y posible gracias a recursos donados por el Fondo Mundial para el Medio 
+Ambiente (GEF, por sus siglas en inglés), y administrados por el Programa de las Naciones Unidas 
+para el Desarrollo (PNUD). Las opiniones aquí expresadas son exclusiva responsabilidad de su autor 
+intelectual, y no comprometen al PNUD y su Junta Directiva. 
+ 
+Derechos y permisos 
+Todos los derechos de esta publicación quedan reservados. Se permite la reproducción parcial o 
+total del documento para efectos no comerciales, siempre y cuando se cite la fuente, y se prohíbe la 
+traducción; adaptación, arreglo o cualquier otra transformación sin autorización de la UPME y el 
+PNUD. 
+ 
+ISBN 
+
+=== Pagina 3 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+3 de 72 
+ 
+ 
+ 
+ÍNDICE DE CONTENIDOS 
+ 
+1. 
+ANTECEDENTES ........................................................................................................................... 7 
+1.1. 
+Unidad de Planeación Minero Energética ................................................................................ 7 
+1.2. 
+Proyecto de Normalización y Etiquetado de Eficiencia Energética en Colombia ...................... 7 
+GUÍA PARA LA FORMULACIÓN E IMPLEMENTACIÓN DE PGEE - EP Y LOS MECANISMOS DE 
+APOYO PARA SU ADOPCIÓN ............................................................................................................. 9 
+G1. OBJETO DE LA GUÍA .................................................................................................................... 9 
+G2. ¿CÓMO USAR ESTA GUÍA?.......................................................................................................... 9 
+G3. INTRODUCCIÓN .......................................................................................................................... 11 
+G3.1. Uso racional de la energía ..................................................................................................... 12 
+G3.2. Contexto de política y normatividad ....................................................................................... 12 
+G3.2.1. 
+Ley 697 de 2001 ......................................................................................................... 12 
+G3.2.2. 
+Ley 1715 de 2014 ....................................................................................................... 13 
+G3.2.3. 
+PAI PROURE 2017 – 2022 ......................................................................................... 14 
+G3.2.4. 
+Norma Técnica de Calidad en la Gestión Pública – NTC GP 1000 ............................. 15 
+G3.2.5. 
+Reglamento Técnico de Instalaciones Eléctricas ........................................................ 17 
+G3.2.6. 
+Reglamento Técnico de Instalaciones de Iluminación y Alumbrado Público ................ 19 
+G3.2.7. 
+Reglamento Técnico de etiquetado (RETIQ) ............................................................... 20 
+G3.3. Sistema de Gestión de la Energía – NTC/ISO 50001 ............................................................ 22 
+G4. FORMULACIÓN E IMPLEMENTACIÓN DE PLANES DE GESTIÓN EFICIENTE DE LA ENERGÍA 
+……………………………………………………………………………………………………………………..24 
+PLAN DE GESTIÓN EFICIENTE DE LA ENERGÍA EN ENTIDADES PÚBLICAS………………………27 
+P1. DIAGNÓSTICO DE GESTIÓN ENERGÉTICA DE LA ENTIDAD .................................................. 27 
+P1.1. Gestión administrativa ........................................................................................................... 27 
+P1.1.1. 
+Estructura organizacional y centros de costos ............................................................ 27 
+P1.1.2. 
+Costos energéticos ..................................................................................................... 29 
+P1.1.3. 
+Compras y contratos ................................................................................................... 30 
+P1.1.4. 
+Sistemas de gestión .................................................................................................... 31 
+
+=== Pagina 4 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+4 de 72 
+ 
+ 
+P1.1.5. 
+Comunicación externa ................................................................................................ 32 
+P1.1.6. 
+Financiación de proyectos de eficiencia energética..................................................... 33 
+P1.2. Gestión de personal ............................................................................................................... 33 
+P1.2.1. 
+Estructura de personal ................................................................................................ 33 
+P1.2.2. 
+Capacitación, formación y sensibilización ................................................................... 34 
+P1.2.3. 
+Comunicación interna ................................................................................................. 35 
+P1.3. Gestión operativa .................................................................................................................. 36 
+P1.3.1. 
+Aspectos de edificación .............................................................................................. 36 
+P1.3.1.1. Ubicación y entorno de la edificación....................................................................... 36 
+P1.3.1.2. Características de la edificación .............................................................................. 37 
+P1.3.1.3. Uso del edificio ........................................................................................................ 39 
+P1.3.2. 
+Suministro y consumo de energía ............................................................................... 40 
+P1.3.2.1. Energéticos utilizados .............................................................................................. 40 
+P1.3.2.2. Características técnicas de los suministros ............................................................. 42 
+P1.3.2.3. Históricos de consumo y línea base ........................................................................ 42 
+P1.3.3. 
+Sistemas y equipos de consumo final de energía ....................................................... 45 
+P1.3.3.1. Generalidades sobre el levantamiento de información ............................................ 47 
+P1.3.3.2. Iluminación interior .................................................................................................. 48 
+P1.3.3.3. Alumbrado exterior .................................................................................................. 48 
+P1.3.3.4. Climatización ........................................................................................................... 49 
+P1.3.3.5. Equipos informáticos y asimilables a domésticos .................................................... 50 
+P1.3.3.6. Otros equipos .......................................................................................................... 50 
+P1.3.4. 
+Potencial de Eficiencia Energética .............................................................................. 50 
+P1.3.4.1. Identificación de oportunidades ............................................................................... 50 
+P1.3.4.2. Toma de decisión en proyectos de eficiencia energética ......................................... 52 
+P1.3.4.3. Indicadores de desempeño energético .................................................................... 53 
+P2. PLANIFICACIÓN .......................................................................................................................... 55 
+P2.1. Política energética ................................................................................................................. 55 
+P2.2. Cumplimiento de normativa ................................................................................................... 56 
+P2.3. Objetivos y metas energéticas ............................................................................................... 56 
+P2.4. Comunicación interna y externa............................................................................................. 58 
+
+=== Pagina 5 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+5 de 72 
+ 
+ 
+P2.5. Procedimientos e instructivos ................................................................................................ 59 
+P2.6. Financiación de proyectos ..................................................................................................... 59 
+P3. IMPLEMENTACIÓN ..................................................................................................................... 64 
+P3.1. Buenas prácticas ................................................................................................................... 64 
+P3.2. Compras públicas sostenibles ............................................................................................... 64 
+P3.3. Mejoras operacionales ........................................................................................................... 65 
+P3.4. Sensibilización y capacitación ............................................................................................... 65 
+P3.5. Mejoras organizacionales ...................................................................................................... 66 
+P4. SEGUIMIENTO Y MONITOREO .................................................................................................. 67 
+P4.1. Revisión del PGEE por la dirección ....................................................................................... 67 
+P4.2. Revisión de indicadores ......................................................................................................... 67 
+P4.3. Revisión de planes de acción ................................................................................................ 67 
+A1.1. Iluminación ............................................................................................................................ 68 
+A1.2. Climatización ......................................................................................................................... 68 
+A1.3. Agua Caliente Sanitaria (ACS) .............................................................................................. 69 
+A1.4. Equipos ................................................................................................................................. 69 
+A2.1. Iluminación ............................................................................................................................ 71 
+A2.2. Climatización ......................................................................................................................... 71 
+A2.3. Agua Caliente Sanitaria (ACS) .............................................................................................. 72 
+A2.4. Equipos ................................................................................................................................. 72 
+ 
+ÍNDICE DE TABLAS 
+Tabla 1. Metas de ahorro PROURE 2017-2022 por sectores económicos ........................................... 14 
+Tabla 2. Acciones sectoriales PROURE 2017-2022 ............................................................................ 15 
+Tabla 3. Estructura de la NTC GP 1000 ............................................................................................... 17 
+Tabla 4. Modificaciones por Resolución al RETILAP ........................................................................... 19 
+Tabla 5. Costos de suministro eléctrico – Resumen anual ................................................................... 29 
+Tabla 6. Ejemplo de características climatológicas (Fuente: IDEAM) ................................................... 36 
+Tabla 7. Ejemplo de valores de conductividad térmica......................................................................... 38 
+Tabla 8. Ejemplo de horario de edificio ................................................................................................ 39 
+Tabla 9. Ejemplo de ocupación mensual del edificio por tipo de colaborador ....................................... 39 
+
+=== Pagina 6 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+6 de 72 
+ 
+ 
+Tabla 10. Ejemplo de características técnicas de suministro de electricidad ........................................ 42 
+Tabla 11. Ejemplo de identificación de oportunidades de mejora de desempeño energético ............... 51 
+Tabla 12. Ejemplo de criterios de valoración para priorización de medidas de mejora ......................... 52 
+Tabla 13. Ejemplo de valoración de medidas de mejora ...................................................................... 53 
+Tabla 14. Ejemplo de IDEs .................................................................................................................. 54 
+Tabla 15. Ejemplo de Plan de mejora del desempeño energético ........................................................ 57 
+Tabla 16. Ejemplo de Plan de comunicación sobre URE ..................................................................... 58 
+ 
+ÍNDICE DE ILUSTRACIONES 
+Ilustración 1. Guía para la formulación e implementación de PGEE-EE (Fuente: Creara) ................... 10 
+Ilustración 2. Descripción de etiqueta de eficiencia energética (Fuente: Reglamento Técnico de 
+Etiquetado - RETIQ) ............................................................................................................................ 21 
+Ilustración 3. Modelo de SGE propuesto por NTC-ISO 50001 (Fuente: ISO) ....................................... 23 
+Ilustración 4. Pasos previos para formulación e implementación de PGEE .......................................... 24 
+Ilustración 5. Estructura de los ítems del PGEE descritos en la Guía .................................................. 25 
+Ilustración 6. Uso de Guía y herramienta del PGEE para la implementación ....................................... 25 
+Ilustración 7. Ejemplo de límites del PGEE .......................................................................................... 28 
+Ilustración 8. Ejemplo de diagrama de orientación de edificio .............................................................. 37 
+Ilustración 9. Ejemplo de gráfico de distribución anual de consumos por energéticos ......................... 41 
+Ilustración 10. Ejemplo de gráfica de consumo histórico comparado con rigor climático ...................... 43 
+Ilustración 11. Ejemplo de gráfico de dispersión .................................................................................. 44 
+Ilustración 12. Ejemplo de distribución por usos de la energía ............................................................. 46 
+ 
+ 
+ 
+
+=== Pagina 7 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+7 de 72 
+ 
+ 
+1. ANTECEDENTES 
+ 
+1.1. 
+Unidad de Planeación Minero Energética 
+La Unidad de Planeación Minero Energética – en adelante UPME – es una Unidad Administrativa 
+Especial del orden Nacional, de carácter técnico, adscrita al Ministerio de Minas y Energía, regida por la 
+Ley 143 de 1994 y por el Decreto número 1258 de Junio 17 de 2013. 
+La UPME tiene por misión planear de manera integral el desarrollo minero energético, apoyar la 
+formulación de política pública y coordinar la información sectorial con los agentes y partes interesadas. 
+A continuación, se muestra la formulación de la visión de la UPME: 
+“Consolidarnos como un referente internacional de innovación para la planificación integral del desarrollo 
+y aprovechamiento de los recursos minero energéticos, a través de estudios, análisis y proyecciones, 
+brindando información de alto valor agregado para la formulación de políticas públicas y la toma de 
+decisiones de sus grupos de interés, con criterios de sostenibilidad económica, social y ambiental”. 
+La UPME integra los principios contenidos en la Constitución Política de igualdad, moralidad, eficacia, 
+economía, imparcialidad y buena fe; lo plasmado en Resolución Interna 0548 de 2007 los valores 
+institucionales de calidad, efectividad, responsabilidad, transparencia y servicio, así como también los 
+valores individuales de honestidad, respeto, confianza, lealtad y compromiso.  
+La UPME tiene por objeto planear en forma integral, indicativa, permanente y coordinada con los agentes 
+del sector minero energético, el desarrollo y aprovechamiento de los recursos mineros y energéticos; 
+producir y divulgar la información requerida para la formulación de política y toma de decisiones; y apoyar 
+al Ministerio de Minas y Energía en el logro de sus objetivos y metas. 
+1.2. 
+Proyecto de Normalización y Etiquetado de Eficiencia Energética en Colombia 
+La presente guía ha sido elaborada en desarrollo del Proyecto GEF/PNUD/COL 76979 “Normalización 
+y Etiquetado de Eficiencia Energética en Colombia”, el cual apoya la iniciativa del Gobierno nacional en 
+torno al etiquetado de eficiencia energética, a través de la eliminación de barreras para la 
+comercialización masiva de electrodomésticos eficientes energéticamente en el país, y busca, desde el 
+Plan Estratégico Ambiental y de Desarrollo Sostenible del PNUD, fortalecer capacidades nacionales que 
+permitan priorizar las preocupaciones medioambientales y el uso eficiente de la energía en los planes 
+de desarrollo de la nación. 
+Específicamente en etiquetado de eficiencia energética, el proyecto realizó aportes al país en las 
+siguientes líneas de acción: 
+ 
+Fortalecimiento de las capacidades de actores públicos y privados: 
+ 
+Transformación del mercado e implementación 
+ 
+Fortalecimiento del marco legal y regulatorio 
+
+=== Pagina 8 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+8 de 72 
+ 
+ 
+Uno de los resultados más destacados el proyecto fue el despliegue de la información en torno a la 
+temática de etiquetado en toda la cadena de agentes involucrados, principalmente en fuerzas de ventas 
+y en usuarios finales (compradores de equipos). Lo anterior ha permitido tener un mejor y mayor 
+entendimiento de este instrumento y ha facilitado la aplicación del Reglamento Técnico de Etiquetado – 
+RETIQ en todo el territorio nacional. 
+De otro lado, en lo que respecta a los lineamientos de compras públicas eficientes y sostenibles y los 
+mecanismos de seguimiento y monitoreo, se destaca que el Proyecto GEF/PNUD/COL 76979, promovió 
+el desarrollo de productos tales como herramientas informáticas interactivas para el cálculo de consumo 
+energético, así como para la calificación de proveedores de equipos de uso final de energía, en donde 
+se plantea un esquema de valoración de criterios de sostenibilidad para bienes y/o equipos de uso final 
+de energía incluidos en el RETIQ. 
+Además, partiendo de los resultados obtenidos en el marco de la consultoría “Realizar acompañamiento 
+a entidades públicas  para la implementación de medidas de eficiencia energética en edificaciones a 
+través de la promoción de buenas prácticas, adecuaciones arquitectónicas y reconversión tecnológica 
+con criterios de etiquetado” se ha buscado promover la aplicación de planes de seguimiento y monitoreo 
+para verificar la implementación de medidas recomendadas y así apoyar el desarrollo de reportes de 
+avance autónomos al interior de las entidades, los cuales se articulen con los PGEE - EP. 
+En este marco de acciones se promoverá la validación de las buenas prácticas en el uso de la energía 
+así como el mejoramiento del desempeño energético de las entidades públicas de acuerdo con su 
+naturaleza, fomentando la adopción de los PGEE - EP e incluyendo los criterios establecidos en el 
+Reglamento de Etiquetado de Eficiencia Energética –RETIQ, así como continuar con las acciones de 
+sensibilización de los usuarios sobre la selección de equipos con mejores rendimientos energéticos a 
+través de la consulta del etiquetado energético. 
+El presente documento se desarrolló en el marco de las actividades de la consultoría “Desarrollar y 
+validar una guía para la formulación e implementación de planes de gestión eficiente de la energía para 
+entidades públicas – PGEE-EP”, ejecutada por la firma Creara Consultores SL y bajo la supervisión del 
+Proyecto Normalización y Etiquetado de Eficiencia Energética GEF/PNUD/COL 76979 y la Unidad de 
+Planeación Minero Energética. 
+Para el desarrollo de la guía se han tenido en cuenta características propias de las entidades públicas, 
+tales como su naturaleza, estructura organizacional, régimen contractual, definición de la edificación en 
+términos de infraestructura, equipos y cualidades arquitectónicas, así como las dinámicas de operación 
+en cuanto al personal y el orden laboral.  
+La Guía para la formulación e implementación de PGEE - EP comprende un paso a paso para la 
+adopción de Planes de Gestión Eficiente de la Energía. En este sentido incluye los componentes 
+estructurales de un plan y los mecanismos de seguimiento y monitoreo que garanticen el análisis de 
+resultados y la toma de decisiones por los responsables que llevaran a cabo dichos planes en las 
+entidades públicas. Dicha guía pretende facilitar el entendimiento de las fases necesarias para la 
+adopción de PGEE – EP de manera didáctica y práctica en las organizaciones. 
+
+=== Pagina 9 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+9 de 72 
+ 
+ 
+ 
+GUÍA PARA LA FORMULACIÓN E IMPLEMENTACIÓN 
+DE PGEE - EP Y LOS MECANISMOS DE APOYO 
+PARA SU ADOPCIÓN 
+ 
+G1. 
+OBJETO DE LA GUÍA 
+El Artículo 32 de la Ley 1715 de 2014 (Diario Oficial nº 49.150 de 13 de mayo de 2014) por medio de la 
+cual se regula la integración de las energías renovables no convencionales al Sistema Energético 
+Nacional, indica explícitamente: 
+“El Gobierno Nacional, y el resto de administraciones públicas, en el ámbito de sus respectivas 
+competencias adoptarán planes de gestión eficiente de la energía, que incluirán acciones en 
+eficiencia energética y mecanismos de respuesta de la demanda. Las administraciones públicas, 
+en sus ámbitos territoriales, adoptarán planes de gestión eficiente de la energía, así como de la 
+utilización de FNCE para los edificios y equipos consumidores de energía de titularidad pública 
+con análogos objetivos al del Gobierno Nacional.” 
+Con el fin de facilitar el cumplimiento de lo dispuesto en el artículo anteriormente mencionado, se pone 
+a disposición de los responsables de las entidades públicas este documento, que permita la 
+implementación de Planes de Gestión Eficiente de la Energía. 
+ 
+G2. 
+¿CÓMO USAR ESTA GUÍA? 
+La “Guía para la formulación e implementación de Planes de Gestión Eficiente de la Energía y los 
+mecanismos de apoyo para su adopción” consta de tres partes principales, tal y como se muestra en la 
+siguiente ilustración, una introducción a la temática de gestión energética, una descripción metodológica 
+y el propio contenido del PGEE. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Pagina 10 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+10 de 72 
+ 
+ 
+ 
+Ilustración 1. Guía para la formulación e implementación de PGEE-EE (Fuente: Creara) 
+ 
+Tal y como se ha mostrado anteriormente, en esta Guía se propone una estructura de Plan de Gestión 
+Eficiente de la Energía en Entidades Públicas (PGEE-EP) basada en los siguientes apartados: 
+ 
+Diagnóstico de gestión energética 
+ 
+Planificación 
+ 
+Implementación 
+ 
+Seguimiento y monitoreo 
+La intención de realizar un diagnóstico de gestión energética en la entidad es levantar toda la información 
+que está relacionada con el uso de la energía por parte de la organización, de manera que sirva de base 
+sobre la que construir una planificación energética y ésta impulse la implementación de acciones 
+conducentes a la mejora del desempeño energético. Evidentemente, ha de existir un sistema de 
+seguimiento y monitoreo que permita asegurar que el resultado de las acciones ejecutadas corresponde 
+con lo previsto. 
+En cada uno de los ítems del PGEE indicados en esta Guía se pueden encontrar tres apartados: 
+ 
+Texto introductorio 
+ 
+Ejemplo ilustrativo 
+
+=== Pagina 11 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+11 de 72 
+ 
+ 
+ 
+Recomendaciones para la implementación 
+Así, los responsables de la implementación del PGEE en una Entidad Pública pueden ir avanzando paso 
+a paso por cada uno de los ítems propuestos, adaptando los contenidos a las particularidades de su 
+caso. 
+ 
+G3. 
+INTRODUCCIÓN 
+Un Plan de Gestión Eficiente de la Energía debe ser, más allá de un documento que materialice el 
+cumplimento de la ley, un instrumento que permita conocer cómo se usa la energía en la entidad y aporte 
+un enfoque organizado y sistemático para mejorar el comportamiento de las instalaciones y las personas 
+en materia energética. 
+El modelo de Plan de Gestión Eficiente de la Energía propuesto en esta Guía consta de 4 fases, tal y 
+como se ha mostrado anteriormente: Diagnóstico, Planificación, Implementación y Seguimiento y 
+monitoreo. Esta estructura está inspirada en el ciclo de mejora continua “Planificar – Hacer – Verificar – 
+Actuar” (PHVA) y muestra una clara orientación al cumplimiento de metas de eficiencia energética. 
+Es preciso recordar que la implementación de un PGEE aporta ventajas adicionales. Evidentemente, el 
+consumo energético resulta ser también un costo económico, por lo que al gestionarlo de forma eficiente 
+será posible identificar oportunidades de reducción de costos en procesos de apoyo (edificios de 
+oficinas, vehículos) que pudieran permitir cierta transferencia de fondos hacia presupuestos dedicados 
+a procesos misionales de la entidad. 
+La implementación y mantenimiento de un Plan de Gestión Eficiente de la Energía es además una 
+herramienta que permite reportar resultados medibles a los gestores de las entidades, demostrando con 
+datos duros los frutos de los esfuerzos realizados en relación al uso eficiente de los recursos, en concreto 
+de la energía. 
+Dado que la energía es uno de los principales actores involucrados en la emisión de contaminantes 
+atmosféricos y gases de efecto invernadero, la adecuada gestión del consumo de energía permite 
+contribuir a las metas nacionales ambientales y a otros compromisos nacionales orientados al ingreso 
+en la OCDE. 
+A continuación, para completar el capítulo introductorio, se detallarán conceptos agrupados en tres 
+categorías: 
+ 
+Uso Racional de la Energía 
+ 
+Contexto de política y normatividad 
+ 
+Sistema de Gestión de la Energía 
+ 
+ 
+
+=== Pagina 12 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+12 de 72 
+ 
+ 
+G3.1. Uso racional de la energía 
+La energía es uno de los pilares sobre los que se sustenta el desarrollo de las sociedades. Al ser la 
+energía un recurso finito, debe cuidarse especialmente su uso. No se puede tratar el tema energético 
+sin tener en cuenta tres aspectos fundamentales: el económico, el ambiental y el de seguridad de 
+suministro. 
+Tanto las materias primas como las tecnologías implicadas en la cadena de valor de la energía tienen 
+un costo. Es por esto que el Uso Racional de la Energía permite reducir los costos energéticos y, en su 
+caso, derivar los excedentes económicos a otros usos que reporten mayores beneficios 
+socioeconómicos. 
+Gran parte de las emisiones de gases de efecto invernadero – causantes del calentamiento global – 
+están vinculadas al uso de la energía. El Uso Racional de la Energía es una de las estrategias que 
+permiten reducir las emisiones y contribuir a reducir el impacto del cambio climático. En la misma línea, 
+a través del Uso Racional de la Energía se puede reducir la presencia de contaminantes atmosféricos, 
+obteniéndose importantes beneficios para la salud de los ciudadanos. 
+En cuanto al aspecto de seguridad de suministro, el Uso Racional de la Energía permite incrementar las 
+reservas y afrontar con más solvencia periodos de carencia energética. 
+ 
+G3.2. Contexto de política y normatividad 
+Durante los últimos años, en Colombia se han dado pasos importantes en materia de políticas públicas 
+orientadas al desarrollo económico sostenible, la reducción de emisiones de gases de efecto invernadero 
+y la mejora de la seguridad del abastecimiento energético. 
+En este marco, cabe mencionar la Ley 697 de 2001, la Ley 1715 de 2014, el Plan de Acción Indicativo 
+PROURE 2017 – 2022, la Norma Técnica de Calidad en la Gestión Pública y los Reglamentos Técnicos 
+de Instalaciones Eléctricas (RETIE), Iluminación y Alumbrado público (RETILAP) y de Etiquetado 
+(RETIQ). 
+A continuación, en los siguientes puntos, se muestra con más detalle cada una de estas iniciativas. 
+ 
+G3.2.1. 
+Ley 697 de 2001 
+En el año 2001 se promulgó la Ley 697, por medio de la cual el Ministerio de Minas y Energía de 
+Colombia declara el Uso Racional y Eficiente de Energía (URE) y demás formas de energía no 
+convencionales. 
+Con esta Ley se pretende poner el foco en mejorar la eficiencia energética, de manera sostenible con el 
+medio ambiente y los recursos naturales, con el objetivo de asegurar: 
+ 
+El abastecimiento energético pleno y oportuno 
+
+=== Pagina 13 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+13 de 72 
+ 
+ 
+ 
+La competitividad de la economía 
+ 
+La protección del consumidor 
+ 
+La promoción de fuentes de energía no convencionales 
+El Plan de Acción correspondiente, permitió el lanzamiento de campañas como “Ahorrar paga” o 
+“Guardianes del ahorro”. Estas campañas buscaban obtener ahorros - de al menos un 5% - en el 
+consumo eléctrico base utilizado en Colombia. 
+En el marco de la Ley 697, se generaron diferentes estímulos al Uso Racional y Eficiente de Energía 
+(URE), como es el caso de: 
+ 
+Los programas de investigación en URE, creados por el Gobierno Nacional a través de 
+Colciencias 
+ 
+Los préstamos de Icetex para estudiantes de carreras o postgrados específicos en el campo del 
+URE 
+ 
+Las distinciones del Gobierno Nacional a empresas destacadas a nivel nacional en el área de 
+aplicaciones del programa URE 
+También existen incentivos a empresas importadoras o productoras de productos o tecnologías que 
+beneficien al uso de energías renovables no convencionales (calentadores, paneles solares, 
+generadores de biogás, aerogeneradores) 
+En cuanto a la divulgación de los principales conceptos relacionados con el URE, las empresas de 
+servicios públicos que presten servicios de energía eléctrica y gas, deben imprimir en la carátula de sus 
+recibos de factura o cobro, mensajes con relación al Uso Racional y Eficiente de Energía y sus beneficios 
+medio ambientales. 
+ 
+G3.2.2. 
+Ley 1715 de 2014 
+La Ley 1715 fue promulgada en el año 2014 y por medio de ella se regula la integración de las energías 
+renovables no convencionales al sistema energético nacional. 
+La finalidad de esta Ley es establecer el marco legal y los instrumentos para la promoción del 
+aprovechamiento de las fuentes no convencionales de energía, principalmente aquellas de carácter 
+renovable, lo mismo que para el fomento de la inversión, investigación y desarrollo de tecnologías limpias 
+para producción de energía, la eficiencia energética y la respuesta de la demanda, en el marco de la 
+política energética nacional. 
+Igualmente, tiene por objeto establecer líneas de acción para el cumplimento de compromisos asumidos 
+por Colombia en materia de energías renovables, gestión eficiente de la energía y reducción de 
+emisiones de gases de efecto invernadero, 
+
+=== Pagina 14 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+14 de 72 
+ 
+ 
+Entre otros aspectos, cabe destacar un conjunto de beneficios tributarios y financieros, como son: 
+ 
+Deducción de impuestos sobre la renta. Se reduce anualmente el impuesto a la renta durante los 
+5 años consecutivos desde el momento que se realice la inversión, desarrollo e inversión en el 
+ámbito de la producción y uso de energías renovables no convencionales y la gestión de sistemas 
+energéticos eficientes.  
+ 
+Exclusión de IVA, a los equipos, elementos, maquinaria y servicios nacionales o importados que 
+tenga como fin la pre inversión e inversión de la producción y uso de energía a partir de las 
+fuentes no convencionales. 
+ 
+Exención de aranceles. 
+ 
+Tasa de depreciación anual será de hasta un 20% con tasa global anual, aplicable a las 
+maquinarias, equipos y obras civiles necesarias para la pre-inversión, inversión y operación de 
+generación de fuentes no convencionales de energía. 
+Un punto de la Ley 1715 que afecta específicamente a las entidades públicas es el Artículo 32, ya que 
+indica expresamente que tanto el Gobierno Nacional como el resto de administraciones públicas deben 
+adoptar Planes de Gestión Eficiente de la Energía. Estos planes deben incluir acciones en eficiencia 
+energética y mecanismos de respuesta de la demanda. 
+ 
+G3.2.3. 
+PAI PROURE 2017 – 2022 
+El Programa de Uso Racional y Eficiente de la Energía – PROURE – se está desarrollando por medio 
+de un Plan de Acción Indicativo adoptado por Resolución 41286 del Ministerio de Minas y Energía el 30 
+de diciembre de 2016. 
+El plan estará vigente desde año 2017 al 2022 y tiene como meta un ahorro global del 9,05% a su 
+finalización. Para lograr el cumplimiento de la meta global se proponen metas de ahorro para los 
+diferentes sectores económicos. 
+ 
+Tabla 1. Metas de ahorro PROURE 2017-2022 por sectores económicos 
+SECTOR 
+METAS DE AHORRO 
+(%) 
+Transporte 
+5,49 
+Industria 
+1,71 
+Terciario 
+1,13 
+Residencial 
+0,73 
+ 
+ 
+
+=== Pagina 15 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+15 de 72 
+ 
+ 
+Las estrategias a seguir incluyen: 
+ 
+Definición de metas indicativas de eficiencia energética costo-efectivas. 
+ 
+Construcción de condiciones económicas, técnicas, regulatorias y de información, que permitan 
+impulsar un mercado de bienes y servicios energéticos eficientes en Colombia. 
+ 
+Fortalecimiento de las instituciones e impulso al desarrollo de proyectos a partir de la iniciativa 
+privada, mixta o de capital social. 
+ 
+Fomento de incentivos, incluidos los tributarios. 
+ 
+Consolidación cultural del manejo eficiente de los recursos energéticos. 
+ 
+Alineación con los compromisos internacionales adquiridos por el país. 
+Algunas acciones consideradas en el PROURE: 
+Tabla 2. Acciones sectoriales PROURE 2017-2022 
+SECTOR 
+ACCIONES 
+Transporte 
+ GNV en transporte público de pasajeros 
+ Uso de electricidad en las flotas sector oficial y transporte público 
+ Estándares de eficiencia energética en el sector y etiquetado para los vehículos 
+ Impulsar la diversificación de la canasta energética del sector 
+Industria 
+ Medidas de eficiencia energética en energía eléctrica 
+ Medidas de eficiencia energética en combustibles sólidos para calor directo e indirecto 
+ Medidas de eficiencia energética en gas natural para calor directo e indirecto 
+ Diseño e implementación de Sistemas de Gestión de la Energía 
+Terciario 
+ Medidas de eficiencia energética en energía eléctrica 
+ Mejora en el diseño, la construcción y la adecuación arquitectónica de edificaciones 
+ Evaluación e Implementación de distritos térmicos 
+ Implementación de sistemas de medición inteligente 
+ Mejoramiento de la eficiencia energética en entidades públicas 
+ Adopción de reglamento de instalaciones térmicas 
+ Implementación de Sistemas de Gestión de la Energía 
+Residencial 
+ Medidas de eficiencia energética en energía eléctrica 
+ Mejoramiento de eficiencia energética en edificaciones 
+ Sustitución de duchas eléctricas por Sistemas Solares Térmicos 
+ Implementación de Sistemas Solares Fotovoltaicos 
+ Reducción de consumo por Stand-by 
+ Implementación de estufas mejoradas de leña y uso de GLP 
+ 
+G3.2.4. 
+Norma Técnica de Calidad en la Gestión Pública – NTC GP 1000 
+La NTC GP 1000 especifica los requisitos para la implementación de un sistema de calidad aplicable al 
+sector público. Esta norma se establece mediante el Artículo 6 de la Ley 872 de 2003. 
+
+=== Pagina 16 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+16 de 72 
+ 
+ 
+La norma tiene como alcance demostrar la capacidad de la organización para proveer consistentemente 
+un producto o servicio que cumpla con los requisitos del cliente y de los requisitos regulatorios aplicables 
+y obtener la satisfacción del cliente a través de la efectiva aplicación del sistema incluyendo los procesos 
+para la mejora continua del sistema y el aseguramiento de la conformidad con los requisitos del cliente 
+y los requisitos reglamentarios que le sean aplicables. 
+Un Sistema de Gestión de Calidad se basa en las siguientes premisas: 
+ 
+Comprensión y cumplimiento de los requisitos 
+ 
+Necesidad de considerar los procesos en término que aportan valor 
+ 
+Obtención de resultados del desempeño y la eficacia del proceso 
+ 
+Mejora continua de los procesos, con base en mediciones objetivas 
+Para cumplir con lo anterior, se toma el enfoque basado en procesos, basado conceptualmente en que 
+para alcanzar determinados resultados de manera más eficiente se han de considerar las actividades 
+que lleva a cabo la organización agrupadas entre sí en procesos. Como exigencia previa, las actividades 
+identificadas deben permitir la transformación de entradas en salidas, aportando valor en dicha 
+transformación. 
+La implementación y funcionamiento de un Sistema de Gestión de Calidad implica realizar las siguientes 
+actividades: 
+ 
+Identificar procesos. 
+ 
+Determinar la secuencia e interacción con los procesos. 
+ 
+Determinar criterios y métodos de operación y control de los procesos para que sean eficaces y 
+eficientes. 
+ 
+Asegurar disponibilidad de recursos e información para apoyar la operación y seguimiento de los 
+procesos. 
+ 
+Realizar seguimiento, medición y análisis. 
+ 
+Implementar acciones necesarias para alcanzar los resultados y la mejora continua. 
+ 
+Identificar y diseñar con la participación de todos, los puntos de control sobre los riesgos de 
+mayor probabilidad o que generen impacto. 
+ 
+Controlar procesos externos que afecten la calidad. 
+ 
+ 
+ 
+
+=== Pagina 17 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+17 de 72 
+ 
+ 
+La estructura de la NTC GP 1000 se muestra en la siguiente tabla: 
+Tabla 3. Estructura de la NTC GP 1000 
+ÍTEM 
+CONTENIDO 
+Introducción 
+Generalidades, principios, compatibilidad y aclaraciones 
+Objeto y campo de 
+aplicación 
+Objeto y aplicación 
+Términos y definiciones 
+57 conceptos entre términos y definiciones, utilizados en la norma 
+Sistema de gestión de la 
+calidad 
+Requisitos generales y gestión documental (Manual de calidad, documentos y 
+registros) 
+Responsabilidad de la 
+dirección 
+Compromisos de la dirección, enfoque al cliente, política de calidad, 
+planificación, responsabilidad y comunicación 
+Gestión de recursos 
+Provisión de recursos, talento humano, infraestructura y ambiente de trabajo 
+Realización del producto o 
+prestación de servicio 
+Planificación del producto o servicio, procesos relacionados con el cliente, 
+diseño y desarrollo, adquisición de bienes y servicio, producción y prestación 
+de servicio y control de dispositivos. 
+Medición, análisis y mejora 
+Generalidades, seguimientos y mediciones, control, de producto y servicios, 
+análisis de datos y mejora (auditorias) 
+ 
+G3.2.5. 
+Reglamento Técnico de Instalaciones Eléctricas 
+Tal y como se indica en la Constitución Política, corresponde a las Autoridades de la República la 
+protección de todas las personas residentes en Colombia, por lo que en lo que atañe a instalaciones 
+eléctricas se dispone del Reglamento Técnico de Instalaciones Eléctricas – RETIE – creado por el 
+Decreto 18039 de 2004 emitido por el Ministerio de Minas y Energía. 
+A través del RETIE – que es de obligatorio cumplimiento – se trata de garantizar que los equipos e 
+instalaciones eléctricas cumplan con los siguientes aspectos: 
+ 
+Protección de la salud y la vida humana. 
+ 
+Protección de la vida animal y vegetal. 
+ 
+Preservación del medio ambiente. 
+ 
+Prevención de prácticas que puedan inducir en error al usuario 
+Los principales objetivos del RETIE se muestran a continuación: 
+ 
+Determinar las condiciones necesarias para evitar: 
+o Accidentes por contactos eléctricos 
+o Incendios de origen eléctrico 
+o La quema de árboles por proximidad a las líneas de energía 
+o La muerte de animales provocada por cercados eléctricos 
+
+=== Pagina 18 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+18 de 72 
+ 
+ 
+o Los daños por sobre corrientes y sobretensiones 
+ 
+Normalizar las formas de expresión verbal y gráfica en el ámbito de la electrotecnia 
+ 
+Minimizar las deficiencias en las instalaciones eléctricas 
+ 
+Establecer claramente los requisitos y responsabilidades que deben cumplir los diseñadores, 
+constructores, operadores, propietarios y usuarios de instalaciones eléctricas, además de los 
+fabricantes, distribuidores o importadores de materiales o equipos eléctricos 
+ 
+Unificar las características esenciales de seguridad de productos eléctricos de mayor utilización, 
+para asegurar más confiabilidad en su funcionamiento 
+ 
+Prevenir los actos que puedan inducir al error a los usuarios, tales como la utilización o difusión 
+de indicaciones incorrectas, falsas o la omisión de datos verdaderos que no cumplen con las 
+exigencias del RETIE 
+ 
+Exigir compatibilidad y confiabilidad de los productos y equipos eléctricos mencionados 
+expresamente 
+De acuerdo a lo estipulado en el propio RETIE, las modificaciones, ampliaciones, reformas y demás 
+actividades que se adelanten en las instalaciones deben someterse a un proceso obligatorio de 
+certificación periódica, con el fin de garantizar su conformidad. Aquellas instalaciones que no cumplan 
+los requisitos y prescripciones establecidos en el RETIE serán objeto de sanción 
+El RETIE adopta parcialmente la norma NTC 2050 (Código Eléctrico Colombiano), tomando los 
+siguientes capítulos: 
+ 
+Definiciones y requisitos generales de las instalaciones eléctricas 
+ 
+Requisitos de alambrado y protecciones 
+ 
+Métodos y materiales de las instalaciones 
+ 
+Requisitos de instalación para equipos y elementos de uso general 
+ 
+Requisitos para ambientes especiales 
+ 
+Requisitos para equipos especiales 
+ 
+Condiciones especiales de las instalaciones 
+El campo de aplicación del RETIE alcanza a las instalaciones eléctricas, tanto públicas como privadas, 
+con los siguientes niveles de tensión: 
+ 
+Corriente continua (c.c): tensión nominal mayor o igual a 24 V 
+ 
+Corriente alterna (c.a.): tensión nominal mayor de 25 V, con frecuencia de servicio nominal 
+inferior a 1000 Hz. 
+
+=== Pagina 19 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+19 de 72 
+ 
+ 
+El RETIE indica también las excepciones en cuanto a su aplicación en instalaciones: 
+ 
+Instalaciones propias de vehículos (automotores, trenes, barcos, navíos, aeronaves). Siempre 
+que estos no estén destinados a vivienda, comercio o vehículos de recreo. 
+ 
+Instalaciones propias de los siguientes equipos: electro medicina, señales de radio, señales de 
+TV, señales de telecomunicaciones, señales de sonido y señales de sistemas de control. 
+ 
+Instalaciones que utilizan menos de 24 voltios o denominadas de “muy baja tensión”, siempre 
+que no estén destinadas a suplir las necesidades eléctricas de edificaciones o lugares donde se 
+concentren personas, sus corrientes no puedan causar alto riesgo o peligro inminente de incendio 
+o explosión por arcos o cortocircuitos. 
+ 
+Instalaciones propias de electrodomésticos, máquinas y herramientas, siempre que el equipo, 
+máquina o sistema no se clasifique como instalación especial en la NTC 2050 Primera 
+Actualización, o en el propio RETIE. 
+ 
+G3.2.6. 
+Reglamento Técnico de Instalaciones de Iluminación y Alumbrado Público 
+Desde abril de 2010 rige el Reglamento Técnico de Iluminación y Alumbrado Público – RETILAP – que 
+aplica a cada una de las empresas que hacen parte en el sector. 
+Este reglamento tiene como objetivo establecer los requisitos y medidas que se deben cumplir en los 
+sistemas de iluminación y alumbrado público garantizando: 
+ 
+Los niveles y calidades de la energía lumínica requerida en la actividad visual 
+ 
+La seguridad en el abastecimiento energético 
+ 
+La protección del consumidor 
+ 
+La preservación del medio ambiente 
+El RETILAP aplica a toda instalación de iluminación o alumbrado público y privado construida, ampliada 
+o remodelada a partir de su entrada en vigencia. 
+El reglamento desde su publicación original ha sufrido determinados cambios, que se mencionan a 
+continuación: 
+Tabla 4. Modificaciones por Resolución al RETILAP 
+RESOLUCIÓN 
+ÁMBITO DE LA MODIFICACIÓN 
+Resolución 180540 de 30 de marzo de 2010 
+Requisitos de eficacia mínima y vida útil de fuentes 
+lumínicas 
+Resolución 181568 de 1 de septiembre de 2010 
+Alcance a productos destinados a iluminación 
+decorativa y eficacias lumínicas 
+
+=== Pagina 20 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+20 de 72 
+ 
+ 
+Resolución 182544 de 29 de diciembre de 2010 
+Transitoriedad sobre requisitos para bombillas 
+incandescentes y la eficacia mínima para tubos 
+fluorescentes T8 
+Resolución 180173 de 14 de febrero de 2011 
+Transitoriedad sobre bombillas incandescentes 
+Resolución 91872 de 28 de diciembre de 2012 
+Requisito de máximo contenido de mercurio y 
+plomo en fuentes de iluminación y algunos 
+requisitos generales de balastos 
+Resolución 90980 de 15 de noviembre de 2013 
+Aspectos relevantes del Estatuto del Consumidor y 
+requisitos aplicables a luminarias decorativas y de 
+balastos 
+Resolución 40122 de 8 de febrero de 2016 
+Definiciones aplicables a lámparas y luminarias que 
+usan tecnología LED, disponibilidad y acceso a 
+información mínima de productos, extensión de 
+plazo para el uso de tecnología incandescente 
+halógena y flexibilización de requisitos aplicables a 
+luminarias decorativas 
+ 
+G3.2.7. 
+Reglamento Técnico de etiquetado (RETIQ) 
+El Reglamento Técnico de Etiquetado Energético – RETIQ – fue expedido por el Ministerio de Minas y 
+Energía el 18 de septiembre de 2015, entrando en vigencia a partir del 31 de agosto de 2016. 
+El RETIQ tiene como objeto establecer medidas tendientes a fomentar el Uso Racional y Eficiente de la 
+Energía – URE – en productos que usan energía eléctrica y gas combustible, mediante el 
+establecimiento y uso obligatorio de etiquetas que informen sobre el desempeño de los equipos en 
+términos de consumo energético e indicadores de eficiencia. 
+El principal beneficio es el de la prevención de prácticas que puedan inducir a error a los consumidores, 
+ya que se les facilita información relacionada con el desempeño energético de los equipos de uso final 
+de energía que pretendan adquirir. 
+El etiquetado energético permite impulsar la utilización de tecnología eficiente en el país y orientar la 
+preferencia de los usuarios hacia equipos de mejor desempeño energético. 
+Los productos que deben exhibir las etiquetas son: 
+ 
+ 
+Equipos de refrigeración doméstica y comercial 
+ 
+Acondicionadores de aire 
+ 
+Motores monofásicos y trifásicos de inducción 
+ 
+Balastos para iluminación fluorescente 
+ 
+Lavadoras de ropa 
+ 
+Calentadores de agua  
+o Eléctricos (tipo acumulación) 
+
+=== Pagina 21 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+21 de 72 
+ 
+ 
+o A gas (tipo acumulación y de paso) 
+ 
+Gasodomésticos para cocción de alimentos  
+ 
+En la siguiente ilustración se muestra un ejemplo de la etiqueta de eficiencia energética adoptada 
+mediante el RETIQ: 
+ 
+Ilustración 2. Descripción de etiqueta de eficiencia energética (Fuente: Reglamento Técnico de Etiquetado - RETIQ) 
+ 
+ 
+ 
+
+=== Pagina 22 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+22 de 72 
+ 
+ 
+ 
+G3.3. Sistema de Gestión de la Energía – NTC/ISO 50001 
+La tendencia a nivel internacional en gestión de la energía se dirige hacia la implementación en las 
+organizaciones de sistemas de gestión centrados en su aspecto energético. Siguiendo el modelo exitoso 
+de la gestión de la calidad, ambiente o seguridad laboral, las organizaciones punteras en la mejora 
+continua de sus procesos vienen implementando en los últimos años sistemas que les ayuden a conocer 
+su desempeño energético y planificar y monitorear la mejora del mismo. 
+Un Sistema de Gestión de la Energía se define como un conjunto de elementos que permiten establecer 
+una política y objetivos energéticos, además de los procesos y procedimientos necesarios para alcanzar 
+esos objetivos. 
+En función de las características de las organizaciones, se pueden implementar sistemas específicos 
+para la gestión de la energía o integrar el aspecto energético junto a otros aspectos relevantes como los 
+antes mencionados (calidad, ambiente o seguridad laboral) 
+Con el fin de estandarizar los sistemas y facilitar la integración con otros sistemas de gestión 
+ampliamente difundidos, la International Organization for Standarization (ISO) publicó el 15 de junio de 
+2011 la Norma Internacional ISO 50001 Energy Management Systems. El 30 de noviembre de 2011, el 
+Consejo Directivo del Instituto Colombiano de Normas Técnicas y Certificación (ICONTEC) ratificó la 
+norma NTC-ISO 50001. 
+La norma NTC-ISO 50001se basa en el ciclo de mejora continua Planificar – Hacer – Verificar – Actuar 
+(PHVA) e incorpora la gestión de la energía a las prácticas habituales de la organización. 
+En este sentido, el modelo de SGE propuesto por la NTC-ISO 50001 considera que – partiendo de una 
+política energética asumida por la organización – la fase de planificación implica realizar una revisión 
+energética y establecer tanto la línea de base y los indicadores de desempeño energético, como los 
+objetivos, las metas y los planes de acción conducentes a la mejora del desempeño energético. 
+La fase “Hacer” consiste en la implementación de los planes de acción previamente establecidos, 
+mientras que se entiende por “Verificar” la realización del seguimiento y la medición de características 
+vinculadas al desempeño energético, así como la información de los resultados. 
+Finalmente, la fase “Actuar” implica la toma de decisiones orientada al mantenimiento del SGE y a la 
+mejora continua del desempeño energético. 
+En la Ilustración 3 se muestra un diagrama típico para el sistema de gestión. 
+
+=== Pagina 23 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+23 de 72 
+ 
+ 
+ 
+Ilustración 3. Modelo de SGE propuesto por NTC-ISO 50001 (Fuente: ISO) 
+ 
+ 
+ 
+
+=== Pagina 24 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+24 de 72 
+ 
+ 
+G4. 
+FORMULACIÓN E IMPLEMENTACIÓN DE PLANES DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA 
+Esta Guía nace con el propósito de ayudar a las entidades públicas, sin importar su estructura o recursos 
+disponibles, a formular e implementar un Plan de Gestión Eficiente de la Energía (PGEE). 
+En este sentido se propone a continuación una serie de pasos previos a seguir para formular e 
+implementar el PGEE: 
+1. Compromiso de la dirección: antes de todo, es necesario que exista un compromiso formal y 
+manifiesto por parte de la dirección de la entidad para poner en marcha el PGEE. 
+2. Selección del equipo de trabajo: la dirección de la entidad debe elegir un grupo de personas – 
+ya sean funcionarios o contratistas específicos para esta tarea – que se responsabilice de la 
+formulación e implementación del PGEE. Este equipo de trabajo no tiene por qué ser 
+necesariamente el mismo equipo que se encargue de mantener vigente y operativo el PGEE 
+durante el tiempo. 
+3. Documentación y registro: todas las acciones que se desarrollen en el marco de la formulación 
+e implementación del PGEE deben quedar documentadas y registradas. Se levantarán actas de 
+todas las reuniones y las decisiones se respaldarán con un documento explicativo. Asimismo, se 
+mantendrá un registro de control de los documentos que se vayan generando. 
+ 
+Ilustración 4. Pasos previos para formulación e implementación de PGEE 
+ 
+A continuación, se propone avanzar siguiendo el índice del Plan de Gestión Eficiente de la Energía que 
+se incluye en esta misma Guía bajo el numeral precedido por la letra P. 
+Cada uno de los ítems principales del PGEE descritos en esta Guía se estructura según se muestra en 
+la siguiente imagen: 
+Compromiso de la 
+dirección
+Selección de 
+equipo de trabajo
+Documentación y 
+registro
+
+=== Pagina 25 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+25 de 72 
+ 
+ 
+ 
+Ilustración 5. Estructura de los ítems del PGEE descritos en la Guía 
+ 
+Así, para cada ítem relevante del PGEE, la Guía presenta un texto explicativo, un ejemplo ilustrativo 
+relacionado con la realidad de las entidades públicas, y unas recomendaciones para la implementación. 
+En paralelo al texto de la Guía, se entrega una herramienta que permite ir introduciendo datos de forma 
+ordenada y coherente con los contenidos del PGEE. 
+ 
+Ilustración 6. Uso de Guía y herramienta del PGEE para la implementación 
+Esta herramienta se ofrece como opción para aquellas entidades con menor desarrollo en materia de 
+sistemas de gestión, de manera que no tengan que partir de cero para desarrollar los documentos de 
+apoyo mínimos que requiere el PGEE. Aquellas entidades con más bagaje en sistemas de gestión 
+
+=== Pagina 26 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+26 de 72 
+ 
+ 
+pueden tomar esta herramienta como inspiración para generar – a medida de la entidad – los 
+documentos del PGEE de manera alineada con las especificaciones existentes. 
+
+=== Pagina 27 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+27 de 72 
+ 
+ 
+PLAN DE GESTIÓN EFICIENTE DE LA ENERGÍA 
+EN ENTIDADES PÚBLICAS 
+ 
+P1. 
+DIAGNÓSTICO DE GESTIÓN ENERGÉTICA DE LA ENTIDAD 
+La fase de diagnóstico del PGEE debe contemplar el levantamiento de información relevante para 
+caracterizar la entidad en sus diversos ámbitos de gestión, incluidos los administrativos, de personal y 
+operativos y de manera transversal la gestión energética de la entidad. 
+ 
+P1.1. Gestión administrativa 
+El aspecto de gestión administrativa, incluido en el diagnóstico de gestión energética, trata de identificar 
+aquellas características orgánicas de la entidad que tienen influencia en el uso de la energía. 
+ 
+P1.1.1. 
+Estructura organizacional y centros de costos 
+Es importante identificar cómo está armada la estructura organizacional de la entidad en la que se está 
+implantando un PGEE. Es habitual que las entidades públicas, sobre todo las más complejas, tengan 
+varias sedes y/o varias actividades que son físicamente independientes, incluso con administración 
+económica con cierto nivel de autonomía. 
+En este sentido, un aspecto delicado que debe considerarse desde los primeros pasos de la 
+implementación es la definición del alcance y los límites a ser cubiertos por el PGEE, debiendo quedar 
+éstos claramente establecidos cuanto antes. 
+Se consideran las siguientes definiciones: 
+ 
+Límites del PGEE: límites físicos o de emplazamiento y/o límites organizacionales tal y como los 
+define la organización 
+ 
+Alcance del PGEE: extensión de actividades, instalaciones y decisiones cubiertas por la 
+organización a través del PGEE, que puede incluir varios límites 
+ 
+Ejemplo ilustrativo 
+Una entidad dispone de varios edificios a su servicio. La sede central está ubicada en la capital del 
+departamento, el laboratorio a las afueras de la ciudad y las delegaciones al Norte, Sur y Oeste del 
+departamento. 
+El PGEE de la entidad contempla: 
+
+=== Pagina 28 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+28 de 72 
+ 
+ 
+ 
+Como límites: las cuatro sedes (edificios administrativos) y el laboratorio 
+ 
+Como alcance: todas las actividades realizadas en las dependencias de la entidad, incluyendo 
+desplazamientos con vehículos. 
+ 
+Ilustración 7. Ejemplo de límites del PGEE 
+ 
+Recomendaciones para la implementación 
+Es conveniente que en el PGEE aparezca una descripción detallada de los emplazamientos, 
+edificaciones y actividades dependientes de la entidad, acompañada en lo posible por un gráfico. 
+En el PGEE deben quedar claramente identificados tanto el límite como el alcance del mismo. 
+Se han de identificar las excepciones, esto es, aquellos edificios y/o actividades que, pese a contribuir 
+al consumo energético de la entidad, no están incluidos en el PGEE, indicando el criterio utilizado para 
+la exclusión. 
+No es posible gestionar el uso de la energía sin medir su consumo. Si se da el caso de que determinadas 
+dependencias o instalaciones no disponen de medición energética, el primer paso es instalar 
+instrumentación a tal efecto. 
+Conviene analizar la situación de servicios concesionados en cuanto al uso de la energía. 
+En el caso de darse la cesión de instalaciones de la entidad a otras organizaciones, puede ser razonable 
+estudiar una asignación de costos energéticos. 
+
+=== Pagina 29 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+29 de 72 
+ 
+ 
+En ocasiones puede ser conveniente excluir del alcance del PGEE determinadas ubicaciones o 
+actividades de cierta entidad, por ser más adecuado que estos elementos excluidos cuenten con su 
+propio PGEE. 
+ 
+P1.1.2. 
+Costos energéticos 
+Un aspecto especialmente relevante del consumo de energía es su costo. Toda entidad debe conocer 
+cuál es el costo que corresponde al consumo de los diferentes energéticos y la estructura de costos que 
+aplican los proveedores de energía. 
+Hay que tener en cuenta que, especialmente en el caso del suministro de electricidad, la factura del 
+consumo eléctrico no es sencilla. En ella suelen aparecer conceptos variables, asociados al consumo 
+de energía y conceptos fijos, asociados a la potencia contratada o máxima consumida, además de 
+penalizaciones e impuestos. 
+ 
+Ejemplo ilustrativo 
+Una entidad recopila los datos de las facturas de suministro eléctrico en unas planillas resumen que 
+permiten registrar en un único documento toda la información relevante en cuanto al costo de la energía 
+consumida mes a mes. 
+Tabla 5. Costos de suministro eléctrico – Resumen anual 
+Periodo 
+Consumo 
+Energía 
+Activa 
+(kWh) 
+Cargo No 
+Regulado 
+($/kWh) 
+Cargo 
+Regulado 
+($/kWh) 
+Contribución 
+($/kWh) 
+Valor 
+Unitario 
+Activa 
+($/kWh) 
+Valor Activa  
+($) 
+Exceso 
+Energía  
+Reactiva 
+(kVarh) 
+Valor Exceso 
+Energía 
+Reactiva 
+($) 
+1
+-
+2016
+ 
+58.479,71 
+175,76 
+144,92 
+0,00 
+$ 320,68 18.753.440,48 
+62,27 
+$ 6.155,00 
+2
+-
+2016
+ 
+60.389,00 
+177,21 
+152,98 
+0,00 
+$ 330,19 19.939.722,11 
+80,14 
+$ 8.507,00 
+3
+-
+2016
+ 
+51.509,59 
+176,48 
+153,56 
+0,00 
+$ 330,04 17.000.328,36 
+527,68 
+$ 56.424,00 
+4
+-
+2016
+ 
+57.111,55 
+175,91 
+149,13 
+0,00 
+$ 325,04 18.563.326,50 
+419,68 
+$ 44.684,00 
+5
+-
+2016
+ 
+53.510,29 
+176,95 
+156,59 
+0,00 
+$ 333,54 17.847.690,22 
+280,49 
+$ 29.343,00 
+6
+-
+2016
+ 
+56.661,73 
+178,00 
+157,67 
+0,00 
+$ 335,67 19.019.695,15 
+283,60 
+$ 29.685,00 
+7
+-
+2016
+ 
+55.945,94 
+177,95 
+161,95 
+0,00 
+$ 339,90 19.015.884,36 
+304,61 
+$ 32.651,00 
+8
+-
+2016
+ 
+154.013,08 
+176,04 
+159,12 
+0,00 
+$ 335,16 51.619.251,68 
+24,37 
+$ 2.645,00 
+9
+-
+2016
+ 
+164.274,43 
+175,46 
+163,09 
+0,00 
+$ 338,55 55.615.754,37 
+8,51 
+$ 913,00 
+10
+-
+2016
+ 
+65.900,00 
+175,59 
+160,58 
+0,00 
+$ 336,17 22.153.700,14 
+197,73 
+$ 21.445,00 
+11
+-
+2016
+ 
+73.947,55 
+177,40 
+168,96 
+0,00 
+$ 346,36 25.612.787,77 
+435,21 
+$ 48.232,00 
+12
+-
+2016
+ 
+55.097,46 
+176,67 
+172,60 
+0,00 
+$ 349,27 19.244.162,64 
+748,83 
+$ 81.943,00 
+
+=== Pagina 30 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+30 de 72 
+ 
+ 
+ 
+En la tabla anterior se puede observar: 
+ 
+Cantidad de energía eléctrica consumida 
+ 
+Precios unitarios de la electricidad (tanto la parte regulada como la no regulada) 
+ 
+Valor económico de la energía eléctrica consumida 
+ 
+Exceso de energía reactiva 
+ 
+Penalización económica por exceso de energía reactiva 
+ 
+Recomendaciones para la implementación 
+Se debe completar una planilla en la que mes a mes (o con la periodicidad que corresponda) se transfiera 
+el contenido de las facturas de suministro energético. 
+Se debe calcular un indicador de costo energético que considere todos los términos de la factura 
+(términos fijos, variables e impuestos) y otro que tan solo contemple el término de consumo de energía. 
+La herramienta que acompaña a la Guía de implementación de PGEE-EP puede facilitar esta tarea. 
+Es conveniente capacitar a las personas que tramitan las facturas de suministro energético para que 
+comprendan los conceptos energéticos básicos que contienen y los transfieran correctamente a las 
+planillas resumen. 
+En el caso de entidades que manejen altos volúmenes de facturas de suministros energéticos, puede 
+ser conveniente acordar con las compañías el intercambio de información mediante archivos 
+electrónicos que permitan capturar la información automáticamente. 
+ 
+P1.1.3. 
+Compras y contratos 
+Una oportunidad de mejora del desempeño energético es la adquisición de productos y servicios más 
+eficientes. De esta manera también se puede actuar sobre la cadena de suministros, ejerciendo un 
+efecto tractor sobre su comportamiento energético. 
+Es conveniente establecer criterios de evaluación relacionados con la eficiencia energética al adquirir 
+equipos que tengan o puedan tener un impacto en el uso de la energía a lo largo de su vida operativa. 
+Los proveedores deberían ser informados por la entidad sobre la incorporación al proceso de evaluación 
+de criterios relacionados con el desempeño energético. 
+ 
+
+=== Pagina 31 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+31 de 72 
+ 
+ 
+Ejemplo ilustrativo 
+Una entidad incorpora como criterio técnico de compra la clase energética de los productos de acuerdo 
+al etiquetado de eficiencia energética, en aquellos productos que estén sometidos al RETIQ. 
+ 
+Recomendaciones para la implementación 
+En el PGEE se deben describir: 
+ 
+Los términos contractuales considerados en materia energética en los procesos de adquisición 
+de bienes y servicios 
+ 
+Los mecanismos existentes para la adquisición de equipos de uso final de energía y sistemas 
+especiales 
+ 
+Los mecanismos existentes para la adquisición de vehículos y sus combustibles 
+ 
+Los lineamientos considerados en materia energética para la elaboración de pliegos y 
+procedimientos de compras 
+ 
+Las restricciones existentes en cuanto a inversiones para la eficiencia energética (equipos y 
+estudios) debido a la naturaleza de los recursos públicos, así como con los procedimientos 
+contractuales 
+En muchas ocasiones son los propios técnicos de la entidad los que incorporan criterios de uso racional 
+de la energía en la descripción de los equipos a adquirir. Sería conveniente recopilar estos criterios y 
+tratar de formalizarlos. 
+ 
+P1.1.4. 
+Sistemas de gestión 
+De acuerdo a la Ley 872 de 2003, por la cual se crea el sistema de gestión de la calidad en la Rama 
+Ejecutiva del Poder Público y en otras entidades prestadoras de servicios, las entidades públicas están 
+dotadas de sistemas de gestión de calidad. 
+Además, ciertas entidades públicas tienen implementados otros sistemas de gestión, entre los que los 
+más habituales son: 
+ 
+Sistema de Gestión Ambiental 
+ 
+Sistema de Gestión de Seguridad y Salud en el Trabajo 
+Cuando se dan en una misma entidad dos o más sistemas de gestión, lo más habitual es que éstos sean 
+integrados en un solo sistema de gestión. La estrategia de integración de sistemas permite mejorar la 
+operación de los mismos frente a la opción de mantener sistemas de gestión independientes. 
+
+=== Pagina 32 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+32 de 72 
+ 
+ 
+Ante la implementación de un Plan de Gestión Eficiente de la Energía, se ha de reflexionar sobre la 
+interacción que este plan pueda tener sobre los sistemas de gestión existentes. En cualquier caso, es 
+conveniente que el plan sea coherente con lo ya implementado y se adapte a las especificaciones y 
+lineamientos marcados por los mencionados sistemas de gestión. 
+ 
+Ejemplo ilustrativo 
+Ante la implementación de un PGEE, una entidad que dispone de un Sistema Integrado de Gestión – 
+que incorpora tanto la gestión de la calidad, ambiental y de Seguridad y Salud en el trabajo –actualiza 
+su política (incorporando el aspecto energético) y genera toda la documentación del PGEE de acuerdo 
+a los procedimientos “Elaboración de documentos” y “Control de documentos”. 
+ 
+Recomendaciones para la implementación 
+Respetar los lineamientos generales del sistema de calidad (control de documentos y control de 
+registros). 
+Actualizar documentos existentes (política, normogramas, matriz de requisitos, procedimientos de 
+capacitación) de acuerdo al procedimiento correspondiente. 
+Incorporar nuevos documentos al listado maestro. 
+Hacer referencias a procedimientos o registros ya existentes, con el fin de evitar duplicar documentos. 
+ 
+P1.1.5. 
+Comunicación externa 
+Las entidades públicas están sometidas a la Ley de Transparencia y del Derecho de Acceso a la 
+Información Pública Nacional (Ley 1712 de 2014), en la que se indican, entre otros, los principios de 
+transparencia y de divulgación proactiva de la información. 
+La comunicación externa de los consumos energéticos, indicadores de desempeño y objetivos y metas 
+estarían alineados con la mencionada ley. Adicionalmente, la comunicación externa en materia de 
+gestión energética por parte de entidades púbicas entrega una clara señal al conjunto de la sociedad, y 
+un ejemplo a seguir, acerca de la importancia del uso racional de la energía. 
+ 
+Ejemplo ilustrativo 
+Una entidad viene publicando a través de su página web sus consumos energéticos mensuales y los 
+principales indicadores de desempeño energético. 
+ 
+
+=== Pagina 33 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+33 de 72 
+ 
+ 
+Recomendaciones para la implementación 
+Describir qué información energética y a través que qué medios se está comunicando externamente, 
+indicando quiénes son los responsables de la elaboración de la información. 
+ 
+P1.1.6. 
+Financiación de proyectos de eficiencia energética 
+A la hora de ejecutar proyectos de mejora del desempeño energético es fundamental contar con una 
+fuente de inversión, ya sea por apropiación de recursos vía PGN, regalías, recursos de cooperación 
+internacional, u otros. 
+En el punto P2.6 “Financiación de proyectos”, se puede encontrar información adicional sobre formas de 
+financiar futuros proyectos de mejora del desempeño energético. 
+ 
+Ejemplo ilustrativo 
+Una entidad ejecutó un proyecto de renovación de la iluminación interior con fondos propios, adquiriendo 
+tubos de tecnología LED (más eficientes) en lugar de tubos convencionales para sustituir los elementos 
+que agotaban su vida útil. 
+ 
+Recomendaciones para la implementación 
+Identificar qué mecanismos de financiación se vienen utilizando para los proyectos de eficiencia 
+energética o ERNC, o para otros proyectos que fueran asimilables a los mencionados. 
+Registrar un listado de proyectos ejecutados, incluyendo las partes implicadas, los montos financiados 
+y, en su caso, las condiciones de la financiación. 
+ 
+P1.2. Gestión de personal 
+El aspecto de gestión de personal, incluido en el diagnóstico de gestión energética, trata de identificar 
+aquellas características relacionadas con el componente humano de la entidad que tienen influencia en 
+el uso de la energía. 
+ 
+P1.2.1. 
+Estructura de personal 
+En general es recomendable que exista formalmente un Equipo de Gestión de la Energía, que se 
+responsabilice de mantener operativo el PGEE. 
+
+=== Pagina 34 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+34 de 72 
+ 
+ 
+En entidades complejas, la creación de un equipo interdisciplinario se muestra como una solución eficaz 
+para comprometer las diferentes partes de la entidad en la planificación e implementación del sistema. 
+En entidades de tamaño reducido puede ser suficiente una sola persona. 
+ 
+Ejemplo ilustrativo 
+En una entidad que cuenta con un Sistema de Gestión Ambiental, ya opera un Equipo de Gestión 
+Ambiental Interna que tiene como tareas asignadas: 
+ 
+La coordinación de la implementación de los planes, programas y proyectos formulados para la 
+gestión ambiental de la entidad 
+ 
+La revisión y actualización de las directrices ambientales establecidas 
+ 
+La realización del seguimiento sobre los controles establecidos 
+ 
+Adelantar los procesos de sensibilización y educación ambiental de los programas de gestión 
+ambiental definidos 
+ 
+Informar del desempeño ambiental interno de la entidad a la Alta Dirección. 
+El mismo equipo asume el aspecto energético para implementar y mantener el PGEE. 
+ 
+Recomendaciones para la implementación 
+En el caso de que no exista, se ha de definir la estructura del equipo que lidere la implementación y 
+mantenimiento del PGEE. Es conveniente que en dicho equipo participen: 
+ 
+Representantes de las áreas de la entidad más implicadas en el uso de la energía (operaciones, 
+logística, mantenimiento, servicios generales) 
+ 
+Representantes de los equipos de otros sistemas de gestión (calidad, seguridad laboral, 
+ambiente), si aplica 
+ 
+Representantes de áreas de comunicación 
+Es muy relevante conseguir que el equipo disponga del soporte de la dirección de la entidad, de manera 
+que, aunque las personas asignadas no tengan una alta posición jerárquica, si tengan la autoridad 
+necesaria para implementar y mantener el PGEE. 
+P1.2.2. 
+Capacitación, formación y sensibilización 
+Es determinante para el correcto desarrollo del PGEE asegurar que todos los funcionarios de la entidad 
+sean conscientes de la importancia de la mejora del desempeño energético. Las necesidades de las 
+
+=== Pagina 35 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+35 de 72 
+ 
+ 
+personas que asumen los diferentes roles de relevancia en el marco del PGEE deben ser monitoreadas 
+con el fin de entregar el apoyo necesario en cada caso. 
+ 
+Ejemplo ilustrativo 
+El profesional asignado para liderar el aspecto energético en el Comité de Gestión de una entidad pública 
+no disponía de las herramientas necesarias para realizar correctamente sus tareas y necesitaba una 
+actualización de conocimientos, por lo que recibió una capacitación en materia de gestión de la energía. 
+ 
+Recomendaciones para la implementación 
+Asignar a cada uno de los miembros de la entidad un rol en relación a su implicación con el PGEE. 
+Realizar periódicamente una identificación de necesidades de formación para cada uno de los roles 
+presentes en la entidad. 
+ 
+P1.2.3. 
+Comunicación interna 
+El comportamiento de los usuarios es fundamental para el éxito de un PGEE. En este sentido es 
+relevante establecer canales de información a los funcionarios, contratistas y visitantes de la entidad 
+para facilitar contenidos relacionados con el uso racional de la energía, tratando de motivar 
+comportamientos positivos. Asimismo, es importante facilitar la retroalimentación. 
+ 
+Ejemplo ilustrativo 
+Con el fin de llamar la atención sobre el uso racional de la energía y motivar a los funcionarios de una 
+entidad, el equipo de comunicación puso en marcha una campaña para fomentar el apagado de 
+iluminación y computadores al final de la jornada laboral. Cada departamento recibía “ecopuntos” en 
+función del número de equipos apagados, entrando en competencia por un premio al final del mes. 
+ 
+Recomendaciones para la implementación 
+En cualquier caso, todo empleado debe conocer, al menos, la política energética, los objetivos y metas 
+establecidas, el plan energético y las acciones emprendidas. Esto se puede asegurar, por ejemplo, a 
+través de la exposición de carteles alusivos en áreas de acceso, de campañas de difusión de un 
+documento resumen o de un boletín energético periódico. 
+Del mismo modo, deberá facilitar un mecanismo por el cual todo funcionario o contratista pueda hacer 
+comentarios o sugerencias para la mejora del desempeño energético. 
+
+=== Pagina 36 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+36 de 72 
+ 
+ 
+ 
+P1.3. Gestión operativa 
+El aspecto de gestión operativa, incluido en el diagnóstico de gestión energética, trata de identificar 
+aquellas características relacionadas con el propio uso de la energía de la entidad. 
+ 
+P1.3.1. 
+Aspectos de edificación 
+El PGEE debe tener en cuenta cómo es el edificio, dónde está ubicado y de qué modo se utiliza. De esta 
+manera se tendrá una visión ajustada a la realidad de su demanda energética y del potencial de mejora. 
+ 
+P1.3.1.1. 
+Ubicación y entorno de la edificación 
+La demanda energética de un edificio está muy vinculada a la climatología de su ubicación. El consumo 
+en climatización de unas oficinas depende en gran parte de las condiciones termohigrométricas del aire 
+y de la orientación de sus fachadas. 
+Aquí radica la importancia de conocer la ubicación y el entorno de la edificación que contempla el PGEE. 
+ 
+Ejemplo ilustrativo 
+Para una ubicación en Norte de Santander se recopilan los datos climáticos en una tabla como la 
+siguiente: 
+Tabla 6. Ejemplo de características climatológicas (Fuente: IDEAM) 
+Mes 
+Temp. Mín. 
+(ºC) 
+Temp. Prom. 
+(ºC) 
+Temp. Máx. 
+(ºC) 
+Precipitación 
+(mm) 
+Humedad relativa 
+(%) 
+Horas de 
+sol 
+Ene 
+20,0 
+24,2 
+28,3 
+36,1 
+75 
+208,2 
+Feb 
+21,5 
+26,2 
+30,8 
+34,9 
+73 
+170,2 
+Mar 
+22,1 
+26,7 
+31,0 
+66,9 
+74 
+159,9 
+Abr 
+22,6 
+26,9 
+31,3 
+101,3 
+75 
+141,0 
+May 
+23,2 
+27,6 
+32,5 
+81,9 
+71 
+179,6 
+Jun 
+23,8 
+27,9 
+32,5 
+39,6 
+63 
+171,7 
+Jul 
+23,5 
+27,8 
+32,6 
+37,8 
+62 
+199,7 
+Ago 
+23,5 
+28,2 
+34,5 
+40,9 
+62 
+210,7 
+Sep 
+23,1 
+28,1 
+35,6 
+84,1 
+65 
+198,3 
+Oct 
+22,4 
+27,1 
+32,3 
+147,7 
+73 
+192,6 
+Nov 
+21,2 
+26,3 
+30,9 
+119,8 
+78 
+190,0 
+Dic 
+20,4 
+24,5 
+28,7 
+72,3 
+79 
+191,3 
+ 
+ 
+
+=== Pagina 37 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+37 de 72 
+ 
+ 
+Recomendaciones para la implementación 
+Se ha de completar una ficha en la que se identifiquen las características de ubicación y entorno de la 
+edificación: zona climática, altura sobre el nivel del mar, datos de temperatura, precipitaciones, humedad 
+relativa e insolación a lo largo del año. En la página web del Instituto de Hidrología, Meteorología y 
+Estudios Ambientales (IDEAM) hay datos históricos disponibles. 
+Además de los datos promedio históricos, se han de recopilar los datos del año en curso, de manera 
+que se pueda verificar la influencia de las variables climatológicas en el consumo energético del edificio 
+y generar líneas base e indicadores de desempeño específicos. 
+Se ha de confeccionar un diagrama en el que se identifiquen las fachadas principales del edificio y su 
+orientación, así como la proyección de sombras de elementos (edificios, arboledas) cercanos. 
+ 
+Ilustración 8. Ejemplo de diagrama de orientación de edificio 
+ 
+P1.3.1.2. 
+Características de la edificación 
+Al igual que ocurre con la climatología, las características de la edificación están muy relacionadas con 
+su consumo energético. En función de los materiales utilizados en los cerramientos, las dimensiones de 
+los vidrios y la posibilidad de limitar la incidencia de la radiación solar, entre otras características, será 
+necesario aportar más o menos energía al sistema de climatización del edificio. 
+En esta parte del PGEE se ha de recopilar toda la información disponible sobre las características de la 
+edificación. 
+ 
+ 
+
+=== Pagina 38 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+38 de 72 
+ 
+ 
+Ejemplo ilustrativo 
+Una entidad dispone de un estudio técnico sobre las características térmicas de la envolvente del 
+edificio. Se han identificado los cerramientos tipo, su composición y características técnicas 
+(conductividad térmica, espesor). 
+Tabla 7. Ejemplo de valores de conductividad térmica 
+Cerramiento 
+Composición 
+Conductividad térmica 
+W/(m·K) 
+Espesor 
+mm 
+Valor U de la pared 
+W/m²·K 
+Muro exterior 1 
+Mortero 
+1,3 
+20 
+2,58 
+Ladrillo perforado 
+0,8 
+150 
+ 
+Mortero 
+1,3 
+20 
+ 
+Muro exterior 2 
+Mortero 
+1,3 
+20 
+1,46 
+Ladrillo perforado 
+0,8 
+120 
+ 
+Cámara de aire 
+1,09 
+200 
+ 
+Ladrillo perforado 
+0,8 
+120 
+ 
+Mortero 
+1,3 
+20 
+ 
+Muro exterior 3 
+Mortero 
+1,3 
+20 
+1,95 
+Ladrillo perforado 
+0,8 
+250 
+ 
+Mortero 
+1,3 
+20 
+ 
+Muro interno 1 
+Mortero 
+1,3 
+20 
+3,07 
+Ladrillo perforado 
+0,8 
+100 
+ 
+Mortero 
+1,3 
+20 
+ 
+Techo losa 
+Losa de concreto 
+1,75 
+200 
+1,71 
+Cámara de aire 
+1,52 
+350 
+ 
+Panel Yeso 
+0,325 
+10 
+ 
+Losa piso 
+Baldosa de concreto pulido 
+2 
+25 
+2,74 
+Losa de concreto 
+1,75 
+250 
+ 
+Carpintería 
+Ventana simple acristalamiento 
+ 
+6 
+5,7 
+Ventana doble acristalamiento 
+ 
+4/16/4 
+2,8 
+Marco de aluminio 
+ 
+- 
+7 
+Puerta de vidrio 
+ 
+- 
+4 
+ 
+Conocidos los valores de conductividad térmica se puede tener una visión general de cuán térmicamente 
+aislado está el edificio. Se debe perseguir reducir los valores de U (transmitancia térmica), ya sea 
+aumentado los grosores de material o utilizando materiales con mejores propiedades (menor 
+conductividad) 
+ 
+ 
+
+=== Pagina 39 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+39 de 72 
+ 
+ 
+Recomendaciones para la implementación 
+Se ha de identificar la información técnica (planos, memorias de arquitectura) en la que se especifiquen 
+las características de la edificación (estructurales, constructivas, arquitectónicas, años de uso y vida útil) 
+Asimismo, se han de identificar las modificaciones que haya sufrido el edificio, esto es reformas 
+constructivas en la envolvente del edificio o arquitectónicas, evaluando el impacto en la funcionalidad 
+del edificio y en el desempeño energético de la edificación. 
+ 
+P1.3.1.3. 
+Uso del edificio 
+El tercer aspecto de la edificación a considerar es el uso que recibe el edificio. La demanda energética 
+del edificio depende del tiempo que se encuentre operativo, por lo que es importante conocer los horarios 
+de actividad, cuándo está cerrado y si se dan variaciones importantes en la ocupación a lo largo del año. 
+ 
+Ejemplo ilustrativo 
+Un edificio ocupado por una entidad tiene el siguiente horario de apertura: 
+Tabla 8. Ejemplo de horario de edificio 
+Horario 
+De 8h00 a 12h y de 14h a 18h 
+De lunes a viernes (excepto festivos) 
+Aseo durante las horas de apertura 
+ 
+Los usuarios del edificio son los diferentes colaboradores de la entidad, que no mantienen un número 
+constante a lo largo del año, lo que podría influir directamente en el consumo energético de algunos 
+usos (como equipos informáticos) 
+Tabla 9. Ejemplo de ocupación mensual del edificio por tipo de colaborador 
+Tipo 
+Ene. Feb. Mar. Abr. May. Jun. Jul. Ago. Sep. Oct. Nov. Dic. 
+Funcionarios 
+112 
+112 
+116 
+117 
+117 
+115 
+115 115 
+116 
+116 
+117 
+117 
+Contratistas 
+15 
+15 
+15 
+15 
+15 
+15 
+15 
+15 
+15 
+26 
+26 
+26 
+Supernumerario 
+0 
+7 
+7 
+7 
+7 
+0 
+0 
+7 
+7 
+7 
+7 
+7 
+Pasantes  
+13 
+23 
+35 
+39 
+34 
+28 
+28 
+46 
+46 
+47 
+40 
+40 
+Total 
+140 
+157 
+173 
+178 
+173 
+158 
+158 183 
+184 
+196 
+190 
+190 
+ 
+ 
+ 
+
+=== Pagina 40 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+40 de 72 
+ 
+ 
+Recomendaciones para la implementación 
+Se ha de identificar el calendario de uso del edificio, considerando fines de semana, vacaciones y 
+festivos, si es de aplicación. 
+Se ha de identificar el horario de uso del edificio, considerando diferentes actividades (por ejemplo, 
+horario de operación convencional, diferente al horario de aseo) 
+Se ha de registrar, en la medida de lo posible, la ocupación por áreas a lo largo del año, incluyendo tanto 
+funcionarios como contratistas u otros usuarios (visitas, estudiantes) 
+ 
+P1.3.2. 
+Suministro y consumo de energía 
+En el PGEE de la entidad deben quedar identificados los suministros energéticos y un histórico 
+de los valores de consumo de cada uno de ellos. 
+Además, se debe construir la línea base de consumo energético, esto es, el consumo energético 
+de referencia contra el que compararse para monitorear la evolución del desempeño energético 
+de la entidad. 
+ 
+P1.3.2.1. 
+Energéticos utilizados 
+Como punto de partida se deben identificar las fuentes de energía empleadas en la entidad. Las fuentes 
+de energía más habituales son: 
+ 
+Electricidad 
+ 
+Combustibles líquidos (gasolina, gasóleo, fuel) 
+ 
+Combustibles gaseosos (GLP, gas natural) 
+ 
+Combustibles sólidos (carbón, leña) 
+Una vez identificadas las fuentes, es necesario recopilar los consumos de cada una de ellas. 
+ 
+Ejemplo ilustrativo 
+El edificio principal de una entidad ha recopilado su consumo energético, cuya distribución anual se 
+representa en el siguiente gráfico. 
+
+=== Pagina 41 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+41 de 72 
+ 
+ 
+ 
+Ilustración 9. Ejemplo de gráfico de distribución anual de consumos por energéticos 
+ 
+Se puede apreciar que la entidad consume principalmente electricidad para alimentar los sistemas de 
+climatización, iluminación, equipos informáticos y otros aparatos. 
+En segundo lugar, se observa el consumo de gas natural para calefacción y agua caliente sanitaria. 
+Se ha identificado un consumo menor de GLP utilizado en la cocina de una pequeña cafetería 
+concesionada. 
+Finalmente, existe un consumo residual de ACPM que permite el funcionamiento del grupo electrógeno 
+de emergencia. 
+ 
+Recomendaciones para la implementación 
+Se ha de recopilar en una planilla resumen el consumo energético mensual de cada uno de los 
+energéticos utilizados. 
+Un detalle a tener en cuenta es que las diferentes fuentes de energía pueden tener diferentes unidades 
+de medida, siendo usual medir la electricidad en kWh, los combustibles en litros o m3, los combustibles 
+sólidos en kilogramos o toneladas, etc. Es por esto que es necesario normalizar a una unidad energética 
+común como el kWh o el MJ. 
+La herramienta que acompaña a la Guía de implementación de PGEE-EP puede facilitar esta tarea. 
+ 
+59.8%
+35.0%
+4.0%
+1.2%
+Distribución energéticos 2016
+Electricidad
+Gas natural
+GLP
+ACPM
+
+=== Pagina 42 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+42 de 72 
+ 
+ 
+P1.3.2.2. 
+Características técnicas de los suministros 
+Cada uno de los suministros energéticos tiene unas especificaciones técnicas que conviene conocer. 
+En el marco del PGEE se deben recopilar todos los documentos técnicos (diagramas unifilares, 
+esquemas de principio, memorias) que tengan relación con los suministros energéticos. 
+ 
+Ejemplo ilustrativo 
+El edificio administrativo de una entidad pública dispone de un suministro de electricidad a una tensión 
+de 13,2 kV, que da servicio a 4 transformadores de 400 kVA, dos con relación de transformación 13,2kV 
+/ 440V (que alimentan los sistemas de climatización y ascensores) y dos más con relación de 
+transformación 13,2kV / 220V (que alimentan el resto de sistemas eléctricos) 
+La potencia contratada con la compañía eléctrica es de 1.500 kW. 
+Tabla 10. Ejemplo de características técnicas de suministro de electricidad 
+Tensión de suministro 
+13,2 kV 
+Potencia contratada 
+1.500 kW 
+ 
+Recomendaciones para la implementación 
+Se ha de identificar la información técnica (diagramas unifilares, esquemas de principio, memorias) 
+relativa a los suministros de electricidad (acometidas y circuitos de distribución) o combustibles, 
+incluyendo plantas de emergencia. 
+Se han de identificar las condiciones de suministro de cada energético, esto es tensión de alimentación 
+y potencia contratada en el caso de electricidad, presión de alimentación de gas natural o volumen de 
+almacenamiento de combustibles líquidos o sólidos. 
+En el caso de suministros no continuos, que requieren recarga de depósitos, se indicará el criterio de 
+lanzamiento de pedido (periódico, al alcanzar un mínimo) 
+ 
+P1.3.2.3. 
+Históricos de consumo y línea base 
+Como elemento fundamental en materia de gestión de la energía, se debe conocer la cantidad de 
+energía que se consume en la entidad. Es por esto que se debe registrar el consumo de cada energético 
+cada mes (o cada periodo de tiempo que se considere adecuado). Esta información será fundamental 
+para evaluar el desempeño energético de la entidad y construir una línea base de consumo energético. 
+
+=== Pagina 43 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+43 de 72 
+ 
+ 
+La línea base energética es la representación del comportamiento energético de referencia de la entidad 
+y se toma como elemento de comparación una vez se implementan mejoras, con el fin de evaluar los 
+avances o retrocesos de la entidad en materia de desempeño energético. 
+En definitiva, se trata de comparar el escenario real con el comportamiento de la entidad en el caso 
+hipotético de que no se hubiera realizado ningún cambio. 
+Generalmente la línea base se construye obteniendo una ecuación que entregue el consumo energético 
+en base a una variable externa (temperatura exterior, nivel de ocupación, horas de funcionamiento) 
+Los ahorros energéticos conseguidos tras la implementación de una mejora no se pueden medir con un 
+instrumento, es por ello que se debe utilizar una referencia para comparar consumos presentes con 
+consumos pasados. Utilizando la línea base se pueden calcular los ahorros energéticos de acuerdo a la 
+siguiente expresión: 
+Ahorro = Consumo de línea base - Consumo real 
+La línea base energética deberá registrarse y mantenerse. La línea base debe ajustarse o recalcularse 
+siempre que los Indicadores de Desempeño Energético ya no reflejen el uso y consumo de energía de 
+la entidad, o se den cambios relevantes en los sistemas, modos de uso o fuentes de energía. 
+ 
+Ejemplo ilustrativo 
+Una entidad registra durante el año 2016 sus consumos eléctricos. Simultáneamente va registrando una 
+variable de rigor climático llamada “Cooling Degree Days” (CDD), que indica cómo de intenso es el calor 
+en cada mes. Todo ello se refleja en la siguiente gráfica: 
+ 
+Ilustración 10. Ejemplo de gráfica de consumo histórico comparado con rigor climático 
+ 
+0
+50
+100
+150
+200
+250
+0
+100,000
+200,000
+300,000
+400,000
+500,000
+600,000
+CDD_18
+kWh
+Consumo eléctrico y rigor climático
+CDD_18
+Consumo eléctrico
+
+=== Pagina 44 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+44 de 72 
+ 
+ 
+Se observa una correlación entre el consumo de electricidad y los CDD, lo que parece razonable ya que 
+cuanto más calor hace, más electricidad consume el sistema de climatización. Sin embargo, esta 
+observación debe corroborarse con un estudio sencillo de regresión lineal. 
+Efectivamente, al mostrar los datos en forma de diagrama de dispersión y obtener la ecuación lineal de 
+regresión, se tiene que hay una alta correlación (valor de R2 próximo a 1) entre el consumo de 
+electricidad y el rigor climático. 
+ 
+Ilustración 11. Ejemplo de gráfico de dispersión 
+ 
+Tomando la ecuación de regresión se obtiene la línea base: 
+Consumo de electricidad (kWh) = 822,34 x CDD + 401.126 
+Este modelo matemático del comportamiento energético del edificio ha quedado obsoleto, ya que en 
+2017 se ha completado la conexión a un distrito térmico, recibiendo agua helada de producción 
+centralizada, dejando de utilizar las máquinas enfriadoras, con la consecuente reducción de consumo 
+eléctrico. 
+Así, conocido el valor de CDD de un mes del año 2017, es posible estimar el consumo energético que 
+le hubiera correspondido antes de la conexión al distrito térmico, de manera que se puede calcular el 
+ahorro en electricidad. 
+Cabe mencionar que durante el año 2017 se debe contabilizar también el consumo de energía en forma 
+de agua fría que está siendo suministrada al edificio. 
+ 
+ 
+y = 822.34x + 401126
+R² = 0.8267
+0
+100,000
+200,000
+300,000
+400,000
+500,000
+600,000
+0
+50
+100
+150
+200
+250
+kWh
+CDD_18
+Correlación Consumo - Rigor climático
+
+=== Pagina 45 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+45 de 72 
+ 
+ 
+Recomendaciones para la implementación 
+Con el fin de trabajar con cierta solidez estadística, es conveniente recopilar datos históricos con la 
+mayor amplitud posible. Si bien un ciclo de un año puede considerarse representativo, es recomendable 
+rescatar datos de los tres últimos años para levantar una línea base. 
+Un punto delicado es la adecuada selección del periodo de tiempo (normalmente un año completo) de 
+referencia para tomar la línea base. Se ha de cuidar que no sea un período atípico por factores 
+ambientales (p. ej. eventos climáticos excepcionales), organizativos (p.ej. huelga de funcionarios) o de 
+uso de las instalaciones (p.ej. cierre de una planta durante dos meses por obras de remodelación) 
+En ocasiones no se obtiene un valor suficientemente alto de correlación (usualmente R2 superior a 0,75) 
+entre el consumo energético y la variable seleccionada. Puede deberse a la presencia de datos erróneos 
+o meses atípicos. También puede deberse al protagonismo de dos variables sobre el comportamiento 
+energético del edificio (p.ej. rigor climático y nivel de ocupación o radiación solar) 
+Los datos de rigor climático “Heating Degree Days” (HDD) y “Cooling Degree Days” (CDD) pueden 
+calcularse a partir de los datos de temperatura diaria u obtenerse en la web www.degreedays.net 
+ 
+P1.3.3. 
+Sistemas y equipos de consumo final de energía 
+Una vez conocidos los consumos de las diferentes fuentes de energía (ver apartado anterior), se procede 
+a estudiar los usos de la energía, esto es, la energía destinada a iluminación, climatización, equipos 
+informáticos, etc. 
+En el ejemplo siguiente se observa gráficamente la distribución de consumos por usos en un edificio 
+administrativo, donde el 58,4% del consumo corresponde al sistema de climatización, el 22,4% se 
+atribuye al sistema de iluminación, respondiendo el 15,6% del consumo al uso de computadores y 
+servidores. Finalmente se observan dos consumos menores al 2% cada uno de ellos, equipos 
+asimilables a domésticos (frigoríficos, microondas y hervidores) y otros equipos (sistemas de vigilancia, 
+comunicaciones y pequeños equipos no identificados o de uso informal) 
+ 
+
+=== Pagina 46 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+46 de 72 
+ 
+ 
+ 
+Ilustración 12. Ejemplo de distribución por usos de la energía 
+ 
+Según lo descrito anteriormente se dispondría del consumo de los diferentes usos de energía, que se 
+debe contrastar (en el mismo periodo de tiempo) con el consumo reflejado en las facturas de los 
+proveedores de energía. De esta manera se verifica que el desglose realizado es correcto. En definitiva, 
+el valor de energía reportado a través de las facturas debe ser similar al estimado por medio del estudio 
+de equipos consumidores de energía. Si se dan discrepancias importantes (por ejemplo, superiores al 
+10%) puede deberse a errores de los suministradores de energía (medición o facturación incorrecta), 
+errores en el inventario de equipos consumidores de energía (equipos mal identificados, usos diferentes 
+a los reconocidos) o incluso situaciones anómalas (suministro de energía no identificados a otros 
+servicios, robo de energía). 
+Una vez conocidos los usos y consumos energéticos de la entidad, hay que definir cuáles de estos usos 
+son significativos. La definición de uso significativo es la siguiente: 
+“Uso de la energía que ocasiona un consumo sustancial de energía y/o que ofrece un potencial 
+considerable para la mejora del desempeño energético” 
+Cada entidad podrá decidir los criterios para determinar cuáles de los usos energéticos identificados 
+resultan significativos y cuáles no. Estos criterios deberían ser documentados en un procedimiento. 
+Algunos ejemplos de criterios utilizados para considerar un uso de energía como significativo se 
+muestran a continuación: 
+ 
+Tomar como significativos aquellos usos que sumen el 80% del total del consumo energético de 
+la entidad 
+ 
+Tomar como significativos aquellos usos equipados con tecnología obsoleta 
+22.4%
+58.4%
+15.6%
+1.6%
+1.9%
+Iluminación
+Climatización
+Informática
+Doméstico
+Otros
+
+=== Pagina 47 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+47 de 72 
+ 
+ 
+Identificar un uso como significativo implica que se le debe prestar una atención especial, al menos 
+monitoreando su desempeño. 
+ 
+P1.3.3.1. 
+Generalidades sobre el levantamiento de información 
+Es conveniente definir algunos conceptos: 
+ 
+Uso de la energía: forma o tipo de aplicación de la energía (iluminación, calefacción, 
+refrigeración, etc.) 
+ 
+Consumo de energía: cantidad de energía utilizada 
+ 
+Eficiencia energética: relación cuantitativa entre la salida o resultado de un proceso y la cantidad 
+de energía empleada 
+Normalmente no se dispone de un sistema masivo de medición directa, que permita conocer por medio 
+de un instrumento cuánta energía se consume en un determinado equipo. Es posible que sea necesario 
+combinar la medición directa de grandes equipos (como la electricidad de un sistema centralizado de 
+climatización) con la estimación del consumo en base al inventario de equipos (incluyendo el valor de la 
+potencia) y el tiempo de funcionamiento de los mismos. 
+El proceso parte por recopilar y analizar los datos generales de consumo de la entidad. Como 
+información de partida sería conveniente disponer de: 
+ 
+Inventario de los principales equipos consumidores de energía 
+ 
+Medición y/o estimación del tiempo de funcionamiento de cada equipo identificado 
+ 
+Registros de medición y monitoreo 
+La herramienta que acompaña a la Guía de implementación de PGEE-EP puede facilitar esta tarea. 
+Una vez recopilada la información, podrá comenzarse el cálculo, que básicamente utiliza la siguiente 
+ecuación: 
+Energía (kWh) = Potencia (kW) x Tiempo (h) x Factor de carga 
+Así, aunque no se disponga de medición directa, se puede estimar el consumo eléctrico de cualquier 
+equipo del que se conozca – con la mayor certeza posible – la potencia consumida y el tiempo de 
+funcionamiento. 
+En general, y en la medida de lo posible, el inventario de equipos debe contener la siguiente información: 
+ 
+Fabricante 
+ 
+Año de fabricación 
+ 
+Características técnicas generales (capacidad, tensión, velocidad, presión) 
+
+=== Pagina 48 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+48 de 72 
+ 
+ 
+ 
+Características de consumo energético (potencia, rendimiento nominal) 
+ 
+Ubicación 
+ 
+Tiempo de funcionamiento 
+En los siguientes apartados se indican particularidades para cada tipo de equipo. 
+Es conveniente actualizar este proceso periódicamente, o en todo caso, siempre que se dé un cambio 
+relevante en las instalaciones, equipamiento o modos de utilización que pueda suponer una modificación 
+en el uso y consumo de la energía en la entidad. 
+ 
+P1.3.3.2. 
+Iluminación interior 
+Se debe describir con la mayor precisión posible el sistema de iluminación interior, esto es, indicar: 
+ 
+Características de los espacios iluminados 
+o Dimensiones 
+o Tiempo de funcionamiento 
+o Tipo de accionamiento y control 
+o Mediciones de nivel de iluminación y comparación con el nivel exigido por la 
+reglamentación legal vigente 
+ 
+Características de los equipos de iluminación 
+o Tipo 
+o Número 
+o Distribución 
+o Altura de techo 
+o Ubicación 
+o Tecnología de las fuentes luminosas (incandescente, fluorescente, LED, otros) y 
+características técnicas (potencia, eficacia luminosa, temperatura de color) 
+o En su caso, tecnología de equipos auxiliares (balastos) y potencia 
+ 
+P1.3.3.3. 
+Alumbrado exterior 
+Se debe describir con la mayor precisión posible el sistema de iluminación exterior, esto es, indicar: 
+
+=== Pagina 49 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+49 de 72 
+ 
+ 
+ 
+Características de las áreas iluminadas (incluyendo fachadas) 
+o Dimensiones 
+o Tiempo de funcionamiento 
+o Tipo de accionamiento y control 
+o Mediciones de nivel de iluminación y comparación con el nivel exigido por la 
+reglamentación legal vigente 
+ 
+Características de los equipos de iluminación 
+o Tipo 
+o Número 
+o Distribución 
+o Altura 
+o Ubicación 
+o Tecnología de las fuentes luminosas (descarga, fluorescente, LED, otros) y 
+características técnicas (potencia, eficacia luminosa, temperatura de color) 
+o En su caso, tecnología de equipos auxiliares (balastos) y potencia 
+ 
+P1.3.3.4. 
+Climatización 
+Se debe describir con la mayor precisión posible el sistema de climatización, esto es, indicar: 
+ 
+Características de los espacios climatizados 
+o Dimensiones 
+o Tiempo de funcionamiento 
+o Tipo de accionamiento y control 
+o Mediciones de temperatura y humedad 
+ 
+Características de los equipos de climatización 
+o Tipo (caldera, radiador, split, chiller) 
+o Número 
+o Ubicación 
+
+=== Pagina 50 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+50 de 72 
+ 
+ 
+o Tecnología y características técnicas (potencia, rendimiento) 
+ 
+P1.3.3.5. 
+Equipos informáticos y asimilables a domésticos 
+Se debe describir con la mayor precisión posible el conjunto de equipos informáticos y asimilables a 
+domésticos, esto es, indicar: 
+ 
+Características de los equipos 
+o Tipo (computador, impresora, televisor, hervidor, microondas) 
+o Número 
+o Ubicación 
+o Tecnología y características técnicas (potencia, rendimiento) 
+o Tiempo de funcionamiento 
+ 
+P1.3.3.6. 
+Otros equipos 
+En caso en que en la entidad se desarrollen actividades diferentes a labores administrativas de oficina, 
+se tendrán en cuenta aquellos otros equipos especiales que sean determinantes en el consumo de 
+energía. 
+ 
+P1.3.4. 
+Potencial de Eficiencia Energética 
+El fin último de implementar un PGEE en una entidad pública es tratar de mejorar su desempeño 
+energético. 
+Para ello se ha de determinar cuál es el potencial de eficiencia energética, identificando las 
+oportunidades de mejora del desempeño energético, estableciendo criterios de priorización de dichas 
+oportunidades y definiendo indicadores que permitan verificar los resultados. 
+ 
+P1.3.4.1. 
+Identificación de oportunidades 
+A la hora de identificar oportunidades de mejora del desempeño energético existen diversas alternativas: 
+ 
+Estudios técnicos (auditorías energéticas) 
+
+=== Pagina 51 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+51 de 72 
+ 
+ 
+ 
+Propuestas de los funcionarios: es posible captar estas propuestas por medio de herramientas 
+de participación (buzones de sugerencias, concursos de ideas, etc.) o talleres dedicados. Las 
+propuestas recopiladas deben ser filtradas y estudiadas por un profesional capacitado para ello 
+ 
+Estándares de equipamiento: existen estándares o etiquetados de equipos relacionados con el 
+desempeño energético 
+ 
+Mejores Prácticas/Técnicas Disponibles 
+En general, las oportunidades de mejora del desempeño energético pueden clasificarse en dos grandes 
+grupos: 
+ 
+Blandas: no conllevan gasto alguno (cambio de hábitos de consumo, regulación y programación, 
+mantenimiento, etc.) o una inversión reducida 
+ 
+Duras: sí necesitan una inversión inicial relevante (sustitución de equipos, etc.). 
+ 
+Ejemplo ilustrativo 
+Una entidad pública, tras la realización de una auditoría energética, ha levantado una serie de 
+oportunidades de mejora del desempeño energético, que se muestran a continuación en forma de tabla. 
+Tabla 11. Ejemplo de identificación de oportunidades de mejora de desempeño energético 
+Tipo de uso 
+afectado 
+Descripción de la medida 
+Tipo de 
+oportunidad 
+Ahorro 
+energético 
+anual 
+(kWh) 
+Ahorro 
+económico 
+anual ($) 
+Inversión 
+necesaria 
+($) 
+PRS 
+(años) 
+Climatización 
+Sustitución de enfriadora 
+Dura 
+59.900 
+22.163.000 190.000.000 
+8,6 
+Iluminación 
+Sustitución de alumbrado de parqueadero 
+por LED 
+Dura 
+15.200 
+5.624.000 
+23.620.800 
+4,2 
+Informática 
+Campaña de concienciación para el 
+apagado de computadores 
+Blanda 
+12.000 
+4.440.000 
+2.000.000 
+0,4 
+ 
+Junto con la mención a la medida, se indican los ahorros (energéticos y económicos), así como el monto 
+de inversión necesario para ejecutar la medida y el periodo de retorno de la inversión en base a los 
+ahorros generados. 
+ 
+Recomendaciones para la implementación 
+Las oportunidades de mejora del desempeño energético deben documentarse al menos en un registro, 
+que será ocupado en el momento de fijar los objetivos y las metas energéticas de la entidad. 
+Algunos datos que deberían reflejarse en el registro de oportunidades de mejora del desempeño 
+energético son: 
+
+=== Pagina 52 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+52 de 72 
+ 
+ 
+ 
+Uso energético 
+ 
+Descripción de la medida 
+ 
+Tipo de oportunidad 
+ 
+Ahorro energético anual 
+ 
+Ahorro económico anual 
+ 
+Inversión necesaria 
+ 
+Periodo de retorno de la inversión 
+Para cada propuesta se debe calcular la inversión necesaria y su rentabilidad económica en base al 
+ahorro energético que entregan (periodo de retorno de la inversión). 
+ 
+P1.3.4.2. 
+Toma de decisión en proyectos de eficiencia energética 
+En muchas ocasiones, no se dispone de la disponibilidad o de los recursos suficientes para ejecutar 
+todas las medidas que permiten mejorar el desempeño energético de una entidad. 
+En este sentido se han de establecer criterios de priorización que ayuden a la dirección de la entidad a 
+tomar decisiones. 
+ 
+Ejemplo ilustrativo 
+Una entidad ha identificado una serie de medidas de mejora y para decidir cuáles ejecutar, lleva a cabo 
+una valoración de las mismas, asignado puntajes de acuerdo a dos criterios y ordenando las medidas 
+en función de su puntaje final. 
+Los criterios de valoración son los siguientes: 
+Tabla 12. Ejemplo de criterios de valoración para priorización de medidas de mejora 
+Criterio 
+Valoración 
+#0 PRS > vida útil 
+Excluyente 
+#1 Menor PRS 
+<1: 10 
+1>PRS>3: 6 
+>5: 3 
+#2 Factibilidad 
+Sencillo: 10 
+Intermedio: 6 
+Complicado: 3 
+ 
+
+=== Pagina 53 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+53 de 72 
+ 
+ 
+Un criterio básico indica que toda medida que entregue un resultado de Periodo de Retorno Simple de 
+la inversión superior a la vida útil del equipo, debe ser desestimada. 
+El primer criterio apunta a asignar mejores puntajes a los proyectos con retorno de la inversión más 
+corto. 
+El segundo criterio trata de evaluar cuán complicada es la materialización de la medida en estudio. 
+Así, el resultado de la valoración de medidas se expresa en la siguiente tabla: 
+ 
+Tabla 13. Ejemplo de valoración de medidas de mejora 
+Descripción de la medida 
+Valoración 
+Criterio 1 
+Valoración 
+Criterio 2 
+Valoración 
+Final 
+Sustitución de enfriadora 
+3 
+3 
+6 
+Sustitución de alumbrado de parqueadero por LED 
+3 
+6 
+9 
+Campaña de concienciación para el apagado de 
+computadores 
+10 
+10 
+20 
+ 
+Por lo tanto, de acuerdo a los criterios indicados, se aconsejó iniciar inmediatamente la campaña de 
+concienciación para el apagado de computadores, para seguir con el proyecto de sustitución de 
+alumbrado de parqueadero por LED y finalmente afrontar la sustitución de la máquina enfriadora. 
+ 
+Recomendaciones para la implementación 
+Al establecer los criterios de priorización, se ha de verificar: 
+ 
+Que los criterios están alineados con las directrices generales de inversión de la entidad 
+ 
+Que los criterios son objetivos y están orientados a la mejora del desempeño energético de la 
+entidad 
+ 
+Que los criterios permiten efectivamente cumplir su cometido, que es facilitar la toma de decisión 
+a la dirección de la entidad 
+Los criterios de priorización, y en su caso los procesos de valoración, han de ser documentados. 
+ 
+P1.3.4.3. 
+Indicadores de desempeño energético 
+Un PGEE debe permitir el seguimiento y medición del desempeño energético de la entidad. Para ello se 
+ha de dotar al sistema de unos indicadores adecuados. Por lo tanto, la entidad debe identificar los 
+
+=== Pagina 54 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+54 de 72 
+ 
+ 
+Indicadores de Desempeño Energético (IDEs) apropiados para realizar el seguimiento y la medición de 
+su desempeño energético. 
+De acuerdo a sus características y naturaleza, cada entidad debe elegir los IDEs que informen del 
+desempeño energético de su operación, y deberá actualizarlos cuando se produzcan cambios relevantes 
+que afecten al uso de la energía. 
+Como ventaja adicional, disponer de IDEs permite realizar estudios comparativos de desempeño 
+energético entre entidades de características similares. 
+ 
+Ejemplo ilustrativo 
+En una entidad se dispone del dato de consumo eléctrico del sistema de iluminación, además de conocer 
+la superficie del edificio y el número de días laborables en el periodo de medición. 
+Por otro lado, para el sistema de climatización, se dispone de la medición del consumo de la máquina 
+enfriadora y de un valor de rigor climático conocido como CDD (“Cooling Degree-Days” o Grados-día de 
+enfriamiento). A mayor valor de CDD, más caluroso ha sido el mes. 
+De esta manera se pueden obtener los indicadores que se muestran a continuación. 
+Tabla 14. Ejemplo de IDEs 
+Uso o consumo energético 
+identificado 
+Indicador 
+Unidades 
+Consumo de electricidad para 
+iluminación 
+Consumo eléctrico por unidad 
+de superficie y día laborable 
+kWh/(m2·día) 
+Consumo de electricidad para 
+climatización 
+Consumo eléctrico por CDD 
+kWh/CDD 
+ 
+Se destaca que el indicador puede ser monitoreado mensualmente, recuperando en el mismo periodo 
+de tiempo el consumo energético y la correspondiente variable de actividad (número de días laborables 
+o Grados-día de enfriamiento), que van variando de un mes a otro. 
+ 
+Recomendaciones para la implementación 
+Antes de definir un indicador es conveniente reflexionar sobre los siguientes aspectos: 
+ 
+¿Es posible levantar la información que exige el indicador? ¿Es fiable? 
+ 
+¿Cómo sería el comportamiento del indicador una vez implementado? 
+ 
+¿Realmente va a tener utilidad? 
+
+=== Pagina 55 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+55 de 72 
+ 
+ 
+No se debe olvidar que el sentido fundamental de los indicadores es permitir el seguimiento y medición 
+del desempeño energético. Si se construye un indicador basado en estimaciones groseras en lugar de 
+mediciones, quizá no sea un gran aporte. Lo mismo ocurre si el indicador resulta tener un 
+comportamiento errático. En estos casos, el resultado final suele ser que no se da importancia al 
+indicador o incluso deja de seguirse. 
+Otro punto a considerar es la cantidad de indicadores a utilizar. No es aconsejable comenzar un PGEE 
+manejando una cantidad demasiado grande de indicadores, sobre todo si los recursos para monitoreo 
+son escasos. 
+ 
+P2. 
+PLANIFICACIÓN 
+La etapa de planificación tiene por objetivo final el diseño de objetivos y el establecimiento de metas e 
+indicadores que permitan de manera posterior hacer el monitoreo a su cumplimiento, todo ello alineado 
+con una política energética. 
+ 
+P2.1. Política energética 
+La política energética es la declaración de intenciones en relación al uso de la energía en una entidad. 
+La política ha de ejercer como impulsor de la implementación del PGEE, debe ser definida por la 
+dirección de la entidad y comunicada, al menos, a todos sus funcionarios. 
+La política energética debe estar alineada con el resto de políticas y objetivos de la entidad, así como 
+con los sistemas de gestión y procedimientos administrativos preexistentes que, de alguna manera, 
+tengan relación con el desempeño energético de la entidad. 
+Asimismo, la política energética ha de estar alineada con las metas del sector público en cuanto a la 
+reducción del consumo energético y la reducción de emisiones de CO₂ debidas a un uso eficiente de la 
+energía. 
+Ejemplo de política energética: 
+La entidad, consciente de la importancia de la eficiencia energética pretende impulsar como política 
+interna la mejora del desempeño energético y contribuir así al desacople entre crecimiento económico y 
+demanda energética. 
+Con la finalidad de ser una organización proactiva y de ejemplo para otras organizaciones del entorno 
+en materia de eficiencia energética, ha apostado por la implantación de un Plan de Gestión Eficiente de 
+la Energía (PGEE) en sus instalaciones con el fin de mejorar la gestión de los recursos energéticos y 
+reducir las emisiones de Gases de Efecto Invernadero (GEI), adquiriendo los siguientes compromisos: 
+1. Mejorar el desempeño energético. 
+
+=== Pagina 56 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+56 de 72 
+ 
+ 
+2. Fomentar el uso racional de la energía y el ahorro energético mediante el empleo de técnicas de 
+ahorro en sus instalaciones 
+3. Mejorar los hábitos de consumo de energía entre los funcionarios, contratistas y cualquiera de las 
+personas ajenas a la entidad que empleen sus instalaciones 
+4. Fomentar el empleo en la medida de lo posible de energías renovables. 
+5. Contribuir mediante las acciones anteriormente mencionadas a la reducción de las emisiones de 
+gases de efecto invernadero (GEI) en línea con los compromisos nacionales existentes. 
+6. Apoyar la compra de productos energéticamente eficientes. 
+7. Cumplir con los requisitos legales y otros requisitos relacionados con el uso y consumo de energía 
+ 
+P2.2. Cumplimiento de normativa 
+Todas las acciones emprendidas por la entidad deben estar de acuerdo a la normatividad actual en 
+general, y específicamente en lo relacionado con la eficiencia energética, la contratación pública y los 
+procedimientos de compras. 
+En este sentido, se mantendrá actualizado un registro de leyes, programas, normas y reglamentos, en 
+materia de energía, a los que esté sometida la entidad. 
+Dicho registro se revisará y actualizará periódicamente. 
+ 
+P2.3. Objetivos y metas energéticas 
+La implementación de un PGEE implica que la entidad deberá establecer objetivos y metas energéticas 
+con la finalidad de mejorar su desempeño energético. 
+Los objetivos deberán ser documentados y, además, contar con el detalle necesario para asegurar que 
+sean cumplidos a intervalos definidos. 
+Estos objetivos deberán ser cuantificables y coherentes con la política energética definida previamente, 
+del mismo modo que las metas deberán serlo con los objetivos.  
+ 
+ 
+ 
+ 
+Ejemplo ilustrativo 
+
+=== Pagina 57 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+57 de 72 
+ 
+ 
+ 
+Tabla 15. Ejemplo de Plan de mejora del desempeño energético 
+Objetivo 
+Meta 
+Medios 
+necesarios 
+Responsable 
+Plazo 
+Método de 
+verificación 
+de la mejora 
+del 
+desempeño 
+Método de 
+verificación 
+del 
+resultado 
+Reducir el 
+consumo de 
+electricidad 
+del edificio en 
+un 8% 
+respecto al 
+2016 
+Concienciar al 
+100% de los 
+funcionarios 
+sobre el 
+apagado de 
+computadores 
+Campaña de 
+concienciación 
+Departamento 
+de 
+comunicación 
+Junio 2017 
+Seguimiento 
+de 
+computadores 
+encendidos 
+Respaldo de 
+la realización 
+de la 
+campaña 
+Sustituir el 
+sistema de 
+iluminación del 
+parqueadero 
+por LED 
+Licitación del 
+proyecto 
+Departamentos 
+de Servicios 
+generales y 
+Compras 
+Septiembre 
+2017 
+Mediciones 
+eléctricas 
+antes y 
+después de la 
+sustitución 
+Acta de 
+verificación 
+de la 
+instalación 
+ 
+Recomendaciones para la implementación 
+De manera general, puede decirse que los objetivos deberán cumplir con los criterios SMART, es decir: 
+ 
+Ser específicos (S) 
+ 
+Medibles (M) 
+ 
+Acotados en el espacio (A) 
+ 
+Alcanzables (R) 
+ 
+Acotados en el tiempo (T) 
+Se recomienda comenzar con objetivos muy razonables, fáciles y rápidos de lograr, con el fin de 
+mantener motivada a la organización. 
+Para el establecimiento de los objetivos, la entidad deberá tener en cuenta varios aspectos. 
+ 
+Los requisitos legales y otros requisitos de aplicación identificados 
+ 
+Los usos y consumos significativos 
+ 
+Las oportunidades de mejora del desempeño energético 
+ 
+Las condiciones financieras, operacionales y comerciales de la organización y su entorno 
+ 
+Las opciones tecnológicas 
+
+=== Pagina 58 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+58 de 72 
+ 
+ 
+ 
+Las opiniones de las partes interesadas 
+ 
+Cualquier otra consideración que la propia organización considere oportuna 
+Con el fin de permitir el seguimiento y monitoreo a los objetivos y metas definidas, la organización debe 
+implementar y mantener planes de acción que deberán ser documentados y actualizados a intervalos 
+definidos. 
+La herramienta que acompaña a la Guía de implementación de PGEE-EP puede facilitar esta tarea. 
+El Contenido mínimo que deben presentar dichos planes es: 
+ 
+Designación de responsabilidades 
+ 
+Medios y plazos previstos para lograr las metas individuales 
+ 
+Declaración del método mediante el cual debe verificarse la mejora del desempeño energético 
+ 
+Declaración del método de verificación de resultados 
+ 
+P2.4. Comunicación interna y externa 
+Las tareas de comunicación – interna y externa – relacionadas con el uso racional de la energía son 
+fundamentales para conseguir la participación de los miembros de la entidad y proyectar los resultados 
+al entorno. 
+ 
+Ejemplo ilustrativo 
+En base a los hallazgos identificados en la etapa de diagnóstico, el equipo de comunicación de una 
+entidad ha previsto la siguiente planificación de comunicación en materia de Uso Racional de la Energía. 
+Tabla 16. Ejemplo de Plan de comunicación sobre URE 
+Campaña 
+Público objetivo 
+Contenido 
+Medio 
+Periodicidad 
+Campañas básicas 
+Política energética 
+Todos los 
+empleados 
+Texto de la política 
+energética 
+Formato oficial con 
+confirmación de 
+lectura 
+Cada vez que se 
+incorpora un 
+empleado 
+Objetivos y metas 
+Todos los 
+empleados 
+Objetivos y metas 
+como mensajes 
+cortos 
+Cartelería en 
+espacios afectados 
+por las metas 
+Anual 
+
+=== Pagina 59 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+59 de 72 
+ 
+ 
+Plan energético 
+Todos los 
+empleados 
+Texto explicativo y 
+gráficos 
+Cartelería en 
+espacios comunes 
+Anual 
+Acciones 
+emprendidas 
+Todos los 
+empleados 
+Acciones, desarrollo 
+y resultados 
+Boletín interno 
+Semestral 
+Campañas específicas 
+Conducción eficiente 
+Conductores 
+Mensajes directos 
+(consejos) 
+Adhesivos 
+informativos en los 
+vehículos 
+Mensual 
+ 
+Recomendaciones para la implementación 
+Se puede distinguir entre: 
+ 
+Campañas básicas, orientadas a que todo funcionario o contratista conozca, al menos, la política 
+energética, los objetivos y metas establecidas, el plan energético y las acciones emprendidas. 
+ 
+Campañas específicas, orientadas a enfrentar problemáticas concretas, como uso de la 
+iluminación, apagado de computadores o conducción eficiente. 
+No se ha de olvidar la disposición de un mecanismo para recibir retroalimentación, usualmente a través 
+de un buzón de sugerencias o concursos de ideas. 
+ 
+P2.5. Procedimientos e instructivos 
+En todo sistema de gestión es importante documentar las actividades que deben realizarse para 
+mantenerlo operativo. El PGEE no debiera ser una excepción, por lo que es conveniente que se redacten 
+procedimientos e instructivos sobre aquellas tareas específicas que así lo exijan. 
+En aquellas entidades que disponen de un sistema de gestión en funcionamiento (habitualmente un 
+sistema de gestión de la calidad), se recomienda seguir los lineamientos descritos en el procedimiento 
+“Elaboración de procedimientos”, o equivalente. 
+La intención final de los procedimientos e instructivos es facilitar la operación del PGEE, de manera que 
+las personas que tienen que realizar tareas vinculadas al Plan tengan un documento de referencia que 
+indique qué hacer, cómo y cuándo hacerlo, quién es el responsable de la tarea y, en la medida de lo 
+posible, un gráfico explicativo o una tabla. 
+ 
+P2.6. Financiación de proyectos 
+Tal y como queda indicado en el punto P1.1.6 “Financiación de proyectos de eficiencia energética”, se 
+debe mantener un registro de los mecanismos de financiación empleados en los proyectos de mejora 
+del desempeño energético que se van ejecutando. 
+
+=== Pagina 60 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+60 de 72 
+ 
+ 
+En paralelo, se ha de prestar atención a las diferentes alternativas que las entidades públicas pueden 
+tomar en consideración en cada momento para financiar los proyectos. En este sentido, se muestra a 
+continuación una serie de tablas descriptivas relativas a las diferentes opciones identificadas a la fecha: 
+ 
+Recursos Propios 
+ 
+Sistema General de Regalías 
+ 
+Fondo de Compensación Ambiental 
+ 
+Fondo Nacional Ambiental 
+ 
+Cooperación Internacional 
+ 
+Banca Comercial 
+ 
+Modelo ESCO 
+ 
+Conversión a Servicios 
+ 
+Recursos Propios 
+Aplica a: 
+Cualquier entidad pública 
+Descripción: 
+Se pueden utilizar recursos propios considerando los proyectos de 
+mejora en la fase de formulación del presupuesto de la entidad. 
+De acuerdo al programa de gobierno y con base a los planes 
+correspondientes, se concretan los programas a ejecutar y se 
+determinan las metas a obtener en cada programa. 
+Los responsables de la entidad precisarán los objetivos y volúmenes 
+de trabajo, necesidad de recursos humanos, materiales y 
+financieros, además, localizarán en el tiempo sus actividades a 
+través de un cronograma. 
+Barreras: 
+Limitaciones presupuestarias. 
+Ausencia de compromiso explícito en materia de uso racional de la 
+energía en el programa de gobierno. 
+Recomendaciones: 
+Respaldar la coherencia del proyecto con el programa de gobierno. 
+Estructurar los proyectos por fases, de manera que puedan ser 
+ejecutados razonablemente en el periodo de aplicación del 
+presupuesto. 
+Destacar los beneficios del proyecto (reducción de gastos de 
+funcionamiento en posteriores anualidades para ser destinados a 
+otros usos) 
+Información adicional 
+- 
+ 
+ 
+
+=== Pagina 61 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+61 de 72 
+ 
+ 
+Fondo de Energías No Convencionales y Gestión Eficiente de la Energía (FENOGE) 
+Aplica a: 
+Actores públicos y privados 
+Descripción: 
+Fondo creado mediante el artículo 10 de la Ley 1715 de 2014 para 
+financiar inversiones en eficiencia energética y FNCE. Tiene como 
+fuente principal $0.40 por cada kWh transado en el Mercado de 
+Energía Mayorista – MEM, lo cual representa alrededor de $ 28.0000 
+millones al año. 
+ 
+El FENOGE puede financiar principalmente: 
+ 
+ 
+Planes, programas o proyectos destinados a la implementación 
+de medidas de gestión eficiente de la energía, dirigidos, entre 
+otros, a los sectores público, comercial, de servicios, de 
+transporte, industrial, y sector residencial estratos 1, 2 y 3. 
+ 
+ 
+Planes, programas o proyectos destinados a la implementación 
+de soluciones de generación, cogeneración o autogeneración, 
+basados en Fuentes No Convencionales de Energía, dirigidos a 
+los sectores público, comercial, de servicios, industrial, y sector 
+residencial estratos 1, 2 y 3. 
+ 
+Barreras: 
+El Fondo debería tener la posibilidad de capturar recursos de 
+diversas fuentes. No obstante, se debe aclarar el marco legal para 
+hacer efectiva esta opción. 
+Recomendaciones: 
+Justificar muy bien el proyecto a financiar, dando el contexto que 
+corresponda y relevando los impactos en los diversos niveles, 
+incluidos los sociales y los ambientales. 
+Información adicional 
+Fondo de Energías No Convencionales y Gestión Eficiente de la 
+Energía (FENOGE) 
+https://www.minenergia.gov.co/fenoge 
+ 
+Fondo de Compensación Ambiental 
+Aplica a: 
+Las 15 Corporaciones de menor presupuesto total vigente, 
+incluyendo las 7 Corporaciones de Desarrollo Sostenible (CDA, 
+Corpoamazonia, Corpomojana, Corpourabá, Coralina, Codechocó, 
+Cormacarena) 
+Descripción: 
+Los recursos del Fondo de Compensación Ambiental se destinan a 
+la financiación de gastos de funcionamiento, de inversión y del 
+servicio de la deuda de las Corporaciones beneficiarias. 
+Se financiarán solicitudes de funcionamiento siempre y cuando 
+exista déficit en la cuenta de gastos de personal, en la cuenta de 
+gastos generales o en la cuenta de transferencias. 
+Barreras: 
+Para el FCA es prioritario apoyar a las Corporaciones en el 
+cubrimiento de sus necesidades fundamentales. 
+
+=== Pagina 62 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+62 de 72 
+ 
+ 
+Requiere esfuerzo de preparación y seguimiento del proyecto. 
+Recomendaciones: 
+Revisar la metodología del FCA 
+Formular adecuadamente el proyecto: destacar la coherencia con el 
+Plan Nacional de Desarrollo, el Plan de Gestión Ambiental Regional 
+y el Plan de Acción de la Corporación, describir claramente la 
+problemática y, en la medida de lo posible, aportar antecedentes 
+exitosos relacionados con el proyecto en la Corporación. 
+Información adicional: 
+Guía Metodológica del Fondo de Compensación Ambiental 
+http://www.minambiente.gov.co/images/planeacion-y-
+seguimiento/pdf/Fondo_De_Compensaci%C3%B3n_Ambiental_-
+FCA/guia-metodologica.pdf 
+ 
+Fondo Nacional Ambiental 
+Aplica a: 
+Proyectos presentados por las entidades que hacen parte del 
+Sistema Nacional Ambiental (SINA) 
+Descripción: 
+A través de este fondo se financian actividades, estudios, 
+investigaciones, planes, programas y proyectos, de utilidad pública 
+e interés social, encaminados al fortalecimiento de la gestión 
+ambiental; la preservación, conservación, protección, mejoramiento 
+y recuperación del medio ambiente; y al manejo adecuado de los 
+recursos naturales renovables y de desarrollo sostenible 
+Barreras: 
+Los proyectos deben estar enmarcados en las prioridades 
+establecidas en el Plan de Gestión Regional y el Plan de Acción de 
+las Corporaciones Autónomas Regionales. 
+Criterio de ingreso per cápita de las poblaciones beneficiarias. 
+Recomendaciones: 
+ 
+Información adicional: 
+http://www.minambiente.gov.co/index.php/normativa/54-
+planeacion-y-seguimiento/planeacion-y-seguimiento-articulos/544-
+plantilla-areas-planeacion-y-seguimiento-30 
+ 
+Cooperación Internacional 
+Aplica a: 
+Entidades 
+públicas 
+de 
+los 
+diferentes 
+niveles 
+(nacional, 
+departamental y municipal) 
+Descripción: 
+La Ayuda Oficial al Desarrollo (AOD) es proporcionada por 
+organismos oficiales (incluidos gobiernos estatales y locales, o por 
+sus organismos ejecutivos) y se administra con el principal objetivo 
+de promover el desarrollo y el bienestar económico de los países en 
+desarrollo. 
+Barreras: 
+ 
+Recomendaciones: 
+A través del Manual de Acceso a la Cooperación Internacional (en 
+proceso de actualización) se orienta a los usuarios de los servicios 
+que presta APC-Colombia sobre las posibilidades existentes para 
+acceder a la Cooperación Internacional de la Ayuda Oficial al 
+
+=== Pagina 63 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+63 de 72 
+ 
+ 
+Desarrollo (AOD), en sus diferentes líneas o programas, de acuerdo 
+con los criterios y procedimientos de las fuentes cooperantes. 
+Conforme el Decreto 4152 de 2011 y la Directiva Presidencial 02 de 
+2012, APC-Colombia deberá estar informada de todas las 
+actividades que impliquen la gestión de cooperación internacional 
+con los cooperantes, los países socios y los diferentes actores de 
+oferta y demanda de cooperación de Colombia, con el fin de que 
+pueda coordinar, priorizar y canalizar las iniciativas, así como 
+acompañar la formulación, presentación, negociación y seguimiento 
+de planes, programas, proyectos y actividades de cooperación 
+internacional. 
+Información adicional: 
+https://www.apccolombia.gov.co/ 
+ 
+Banca Comercial (deuda o leasing) 
+Aplica a: 
+Cualquier entidad pública 
+Descripción: 
+Oferta de recursos económicos, por parte de la banca comercial, a 
+tasas y condiciones vigentes del mercado. 
+Barreras: 
+Cupo de endeudamiento, de acuerdo a la legislación vigente 
+Recomendaciones: 
+ 
+Información adicional: 
+Manual de Operaciones de Crédito Público (Departamento Nacional 
+de Planeación) 
+ 
+Modelo ESCO 
+Aplica a: 
+Cualquier entidad pública 
+Descripción: 
+Una empresa especializada en ejecución de proyectos de eficiencia 
+energética, lo desarrolla, financia, instala y mantiene, asumiendo gran 
+parte de los riesgos del mismo. La empresa (ESCO) recibe en pago los 
+ahorros generados por el proyecto (total o parcialmente) 
+Barreras: 
+Típicamente, periodos de contrato superiores al periodo de gobierno. 
+Recomendaciones: 
+Valorar proyectos ESCO de periodo de retorno muy rápido 
+Información adicional: 
+http://www.upme.gov.co/eventos/ure_2011/carlos_antonio_alvarez.pdf 
+ 
+Conversión a servicios 
+Aplica a: 
+Cualquier entidad pública 
+Descripción: 
+Convertir un suministro de energía convencional (electricidad, gas) 
+dedicado a generar agua caliente de calefacción o agua helada para 
+aire acondicionado en equipos propios (calderas, enfriadoras), por 
+un suministro directo de agua caliente o agua helada generada por 
+los equipos (renovados y más eficientes) del proveedor de energía. 
+Barreras: 
+Falta de experiencia por parte de los proveedores de energía. 
+Recomendaciones: 
+Valorar con las compañías proveedoras de energía la posibilidad de 
+entregar un servicio de energía alternativo (agua caliente, agua 
+
+=== Pagina 64 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+64 de 72 
+ 
+ 
+helada) en sustitución del consumo de energía convencional 
+(electricidad, gas) 
+Información adicional: 
+Caso de Distrito Térmico de Medellín 
+ 
+ 
+P3. 
+IMPLEMENTACIÓN 
+Una vez se han identificado todos los aspectos descritos en la fase de diagnóstico y se han dispuesto 
+las bases del Plan de acuerdo a lo expuesto en el apartado anterior, corresponde poner efectivamente 
+en marcha el PGEE, con la vista puesta en la mejora del desempeño energético de la entidad. 
+ 
+P3.1. Buenas prácticas 
+La mejora del desempeño energético de una entidad no siempre debe vincularse a costosas iniciativas 
+de inversión en equipos más eficientes desde el punto de vista energético. 
+Es habitual observar reducciones sensibles del consumo energético de edificios cuyos responsables han 
+definido lineamientos para fomentar el uso racional de la energía en los procesos de la entidad mediante 
+programas de buenas prácticas. 
+En el Anexo 1 Buenas Prácticas de esta Guía se puede encontrar un listado de acciones orientadas a 
+lograr mejoras en el desempeño energético a un costo bajo, o incluso nulo. Muchas de estas acciones 
+pueden parecer elementales, pero conviene revisarlas con el fin de verificar que dichas buenas prácticas 
+se llevan a cabo actualmente, o tomarlas como inspiración de otras buenas prácticas que puedan 
+adoptarse en la entidad. 
+ 
+P3.2. Compras públicas sostenibles 
+Los procesos de contratación de la administración pública deben incorporar criterios de sostenibilidad, 
+esto es, entre otros, criterios de respeto por el medio ambiente y generación de oportunidades a los 
+grupos sociales menos favorecidos. Por medio de la Ley 80 de 1993, la Ley 1150 de 2007 y sus Decretos 
+reglamentarios, se responde a esta responsabilidad de la administración pública en la defensa del interés 
+general y a la obligación de mostrar su rol de liderazgo ejemplarizante. 
+Es importante destacar que la puesta en marcha de mecanismos basados en una política de contratación 
+pública que contemple criterios de sostenibilidad es completamente viable. 
+En Colombia se ha desarrollado, por parte del Ministerio de Ambiente y Desarrollo Sostenible con apoyo 
+del Centro Nacional de Producción más limpia, una Guía de Compras Públicas Sostenibles. 
+
+=== Pagina 65 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+65 de 72 
+ 
+ 
+Es importante destacar la aportación práctica de las fichas de sostenibilidad presentadas en la guía, que 
+contemplan diversos productos de adquisición habitual por parte de las entidades públicas, entre las que 
+indican a continuación las más relevantes desde el punto de vista de consumo energético: 
+ 
+Bombillas 
+ 
+Combustibles como: gasolina, diésel, ACPM y gas natural 
+ 
+Computadores de escritorio 
+ 
+Impresoras laser 
+ 
+Mouse 
+ 
+Vehículos de gasolina 
+Las fichas de sostenibilidad tienen en cuenta los lineamientos de las Normas Técnicas Colombianas 
+existentes para la obtención del Sello Ambiental Colombiano (Etiqueta ambiental tipo I), con el fin de 
+apoyar y crear criterios unificados. 
+En el apartado G.3.2.7 se puede encontrar más información sobre el Reglamento Técnico de Etiquetado 
+ 
+P3.3. Mejoras operacionales 
+Tal y como se ha indicado en el apartado dedicado a “Buenas prácticas”, no todas las medidas de mejora 
+del desempeño energético pasan por realizar costosas inversiones. 
+Otra estrategia disponible consiste en destacar acciones orientadas al mejoramiento de la infraestructura 
+a través del mantenimiento o renovación, que impacten en el desempleo energético del edificio. 
+En el Anexo 2 Mejoras de Gestión Operacional en Edificios se muestra una serie de medidas 
+relevantes en materia de mantenimiento y operación de las instalaciones más habituales. 
+También se puede tomar como referencia la Norma Técnica Colombiana 6112 “Etiquetas Ambientales 
+Tipo I. Sello Ambiental Colombiano (SAC) Criterios Ambientales para Diseño y Construcción de 
+Edificaciones Sostenibles con uso diferente a vivienda”, publicada en marzo de 2016. 
+ 
+P3.4. Sensibilización y capacitación 
+En el apartado P1.2.2 se tratan los temas de sensibilización y capacitación en la fase de diagnóstico. 
+Desde el punto de vista de la fase de implementación, se proponen acciones de comunicación, 
+capacitación y formación y acciones de acompañamiento al personal para el cumplimiento de objetivos 
+de la entidad. 
+
+=== Pagina 66 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+66 de 72 
+ 
+ 
+Siguiendo la consigna de hacer que la implementación del PGEE se integre en la forma de operar 
+existente en la organización, se recomienda utilizar los mecanismos de sensibilización y capacitación 
+habituales. 
+Así puede resultar conveniente recurrir a la dinámica de inducciones (para los nuevos empleados) y 
+reinducciones anuales (para todo el personal), para incluir en dichas actividades los contenidos 
+relacionados con el Plan de Gestión Eficiente de la Energía. En este sentido, toda aquella información 
+básica, que debe conocer el conjunto de los integrantes de la entidad, como la propia existencia de un 
+PGEE, la política energética, los objetivos y metas o algunos detalles de las acciones emprendidas 
+anteriormente, deberían presentarse en las inducciones y reinducciones de forma rutinaria. 
+Otras campañas más específicas (por ejemplo, "Uso de la iluminación" o "técnicas de conducción 
+eficiente") pueden dirigirse a grupos de usuarios más concretos a través del área de comunicación (o 
+gestión humana) de la entidad. De esta manera, los contenidos sobre uso racional de la energía pasan 
+a formar parte de los temas a considerar por el área que desarrolla las campañas de comunicación 
+interna. 
+En cuanto a la capacitación, se ha de tener en cuenta que en muchas ocasiones el plan de formación y 
+capacitación de las entidades se configura a demanda, esto es, son los propios funcionarios los que 
+solicitan la capacitación que les permite cubrir sus necesidades. Al ocurrir esto, es necesario mantener 
+un ambiente proactivo, de manera que las carencias en materia de uso racional de la energía afloren y 
+se pueda ofrecer una solución por la vía de la capacitación. 
+ 
+P3.5. Mejoras organizacionales 
+En el apartado P2.6 “Financiación de proyectos”, se muestran las alternativas de financiación 
+identificadas con sus principales características. Observando las dificultades particulares que se 
+presenten en cada entidad para adoptar estas alternativas, se podrá analizar qué soluciones en cuanto 
+a instrumentos de programación y presupuesto sería necesario mejorar para tener acceso a tales fuentes 
+de financiación. 
+En cuanto a los procedimientos de contratación, es conveniente seguir las indicaciones de la Guía de 
+Compras Públicas Sostenibles, tal y como se muestra en el apartado P3.2 de este mismo documento. 
+Otras restricciones que pueden afectar a las inversiones en eficiencia energética son: 
+ 
+La ausencia de compromiso explícito en materia de uso racional de la energía en el programa de 
+gobierno de la entidad. 
+ 
+La falta de recursos no económicos (especialmente asignación de tiempo a personal cualificado) 
+disponibles para el desarrollo, tramitación y seguimiento de proyectos de eficiencia energética. 
+ 
+ 
+
+=== Pagina 67 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+67 de 72 
+ 
+ 
+P4. 
+SEGUIMIENTO Y MONITOREO 
+El Plan de Gestión Eficiente de la Energía, para que se mantenga vigente y operativo a lo largo del 
+tiempo, debe ser sometido a un seguimiento y monitoreo. 
+Esta etapa debe alcanzar tanto a los aspectos más estructurales como a los operativos. En este sentido 
+se propone una estructura que desde lo general a lo concreto permita la revisión del PGEE. 
+ 
+P4.1. Revisión del PGEE por la dirección 
+Con una periodicidad anual, la dirección de la entidad debe revisar la estructura misma y todos los 
+aspectos tratados por el PGEE, evaluar el buen funcionamiento de lo dispuesto en el PGEE y tomar 
+decisiones al respecto, manteniendo, modificando, eliminando o creando ítems. 
+Las reuniones de revisión por parte de la dirección deben ser documentadas, de manera que se genere 
+un acta en la que se reflejen los datos básicos de la reunión (fecha, participantes) y los detalles de las 
+decisiones tomadas. 
+ 
+P4.2. Revisión de indicadores 
+Entrando al detalle del funcionamiento del PGEE, la dirección debe revistar también los indicadores que 
+se estén utilizando hasta el momento para realizar el seguimiento del desempeño energético de la 
+entidad. 
+Puede ocurrir que, por cambios en un edificio o su uso, los indicadores originalmente diseñados queden 
+obsoletos, por lo que la dirección debe analizarlos y tomar la decisión de mantener, modificar, eliminar 
+o crear indicadores de desempeño energético. 
+Evidentemente, las deliberaciones al respecto deben estar respaldadas por informes de los 
+responsables del PGEE y las decisiones tomadas deben ser argumentadas y documentadas en las 
+correspondientes actas. 
+ 
+P4.3. Revisión de planes de acción 
+Anualmente se deben revisar los planes de acción. Cada una de las acciones definidas debe ser 
+sometidas a análisis, observar su comportamiento y resultado, para finalmente decidir si quedan 
+aprobadas o reprobadas. 
+En el caso de que una acción sea reprobada se deben analizar las causas que han llevado a su fracaso. 
+Finalmente se ha de alimentar un documento de lecciones aprendidas en el transcurso de los diferentes 
+planes de acción, de manera que sea una fuente de referencia para los responsables de desarrollar 
+nuevos planes en el futuro. 
+
+=== Pagina 68 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+68 de 72 
+ 
+ 
+ANEXO 1. 
+BUENAS PRÁCTICAS  
+Además de las inversiones en equipos más eficientes y de las medidas de gestión operacional (ver 
+Anexo 2), la aplicación de buenas prácticas puede suponer importantes ahorros energéticos. Estas 
+recomendaciones permiten ahorrar energía y mejorar el confort ambiental interior del edificio de la 
+entidad mediante un uso racional de la energía. 
+ 
+A1.1. Iluminación 
+ 
+Aprovechamiento de la luz natural: para aprovechar la luz natural se recomienda abrir cortinas y 
+persianas siempre que no se produzcan reflejos o insolación excesiva y reubicar aquellos puestos 
+de trabajo que no estén bien orientados para recibir luz directa de ventanas el mayor tiempo posible. 
+Para garantizar una correcta cantidad de luz natural conviene comprobar periódicamente el nivel de 
+limpieza de las ventanas, aumentando la frecuencia si fuera necesario, evitar interponer elementos 
+que interfieran en la luz natural, entre otras acciones. 
+ 
+Apagar las luces en estancias vacías: mantener zonas iluminadas que no están siendo utilizadas 
+es un malgasto de energía y dinero. Establecer un procedimiento mediante el cual la última persona 
+en ocupar las salas apague la luz o coordinar con los servicios de limpieza y vigilancia para que se 
+asegure el apagado de los sistemas de iluminación puede suponer un gran ahorro energético. Es 
+especialmente importante que esta acción se transmita al personal de limpieza o seguridad ya que, 
+habitualmente, son las ultimas en abandonar los edificios. 
+ 
+Mantenimiento periódico de la iluminación: la limpieza periódica de los equipos de iluminación, 
+difusores y lámparas permite mantener una cantidad correcta de luz emitida, lo que puede propiciar 
+que no sea necesario el encendido de otros puntos de luz. 
+ 
+A1.2. Climatización 
+ 
+Comprobación del estado de las ventanas: es necesario asegurarse que las ventanas se 
+encuentren cerradas cuando los equipos de climatización se encuentran en funcionamiento. Esta 
+simple acción puede suponer una gran diferencia, pues una abertura puede provocar una pérdida 
+importante del aire climatizado, lo que supone un incremento de la demanda de climatización para 
+compensar la pérdida y, por ende, un aumento del consumo de energía. 
+Esta acción es aplicable tanto para la reducción del consumo energético en forma de combustible 
+(generalmente cuando el edificio se halla en modo de calefacción) como a la reducción del consumo 
+de electricidad (más habitual para la producción de aire frío). 
+ 
+Mantenimiento periódico de equipos de climatización: el correcto mantenimiento de los equipos 
+de clima supone una gran diferencia, ya que un equipo estropeado o mal mantenido puede aumentar 
+el consumo de energía. Esta medida es aplicable a la disminución de consumo de combustible y de 
+electricidad. 
+
+=== Pagina 69 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+69 de 72 
+ 
+ 
+ 
+Ajustar las temperaturas de consigna: se recomienda ajustar la temperatura de consigna del 
+termostato del sistema de climatización en función del modo en el que esté operando. 
+- 
+Así, en modo de enfriamiento, se recomienda establecer una temperatura de consigna de 25ºC. 
+- 
+En modo calefacción se recomienda establecer una temperatura de 21ºC. El aumento de 1ºC 
+en la temperatura de calefacción puede llegar a incrementar el consumo de energía en un 7% 
+ 
+A1.3. Agua Caliente Sanitaria (ACS) 
+ 
+Uso racional del agua caliente sanitaria: Una medida básica de ahorro energético en el sistema 
+de agua caliente sanitaria se basa en usar únicamente el agua caliente que sea necesaria y prestar 
+atención al correcto cierre de llaves de grifos y duchas. Una buena práctica consiste en la instalación 
+de aireadores en los grifos, lo que permite reducir el flujo de agua manteniendo la misma sensación 
+del chorro de agua. 
+ 
+Mantenimiento periódico de equipos ACS: el correcto mantenimiento de las instalaciones de 
+distribución y los equipos de ACS es necesario para evitar consumos energéticos innecesarios 
+asociados a los mismos. En este sentido, es conveniente realizar con carácter periódico una 
+verificación de la inexistencia de fugas en los sistemas de distribución. 
+ 
+A1.4. Equipos 
+ 
+Comprobar la configuración de los ordenadores, impresoras y fotocopiadoras: se recomienda 
+comprobar la configuración de los ordenadores, ya que la elección del modo “Ahorro de energía” o 
+similar permite emplear menos energía para la realización de cada tarea. 
+En el caso de impresoras y fotocopiadoras es muy importante que dispongan de una configuración 
+de “Ahorro de energía” puesto que este tipo de equipos pasan gran parte del día en modo espera. 
+Además, estos equipos deberían apagarse completamente cuando no van a ser utilizados en un 
+periodo de tiempo prologando, por ejemplo, al finalizar la jornada de trabajo. De esta manera se 
+reducirá su consumo. 
+La selección de salva pantallas sin imágenes (negro) en las pantallas de los computadores puede 
+alcanzar un ahorro energético de 7,5 W en comparación con el consumo habitual de la misma 
+pantalla con otros salvapantallas. 
+ 
+Apagado del stand-by de los equipos: el consumo “fantasma” por los sistemas de stand-by de 
+determinados equipos (por ejemplo, televisores) supone un importante gasto energético y 
+económico. Es conveniente verificar el consumo de equipos que aparentemente están apagados, 
+pero siguen consumiendo energía en modo stand-by. En ciertos casos, lo más conveniente es 
+desconectar totalmente el equipo cuando no se está utilizando. 
+
+=== Pagina 70 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+70 de 72 
+ 
+ 
+ 
+Impresión de documentos: aunque parezca una obviedad, hay que recordar que cada vez que se 
+realiza una fotocopia, se consume energía. En general debe evitarse la impresión de documentos 
+innecesarios, consiguiendo así sumar la reducción del gasto energético al menor gasto de papel. 
+Es recomendable imprimir o fotocopiar varios archivos a la vez, ya supone menos consumo que el 
+generado al imprimir o fotocopiar los mismos archivos de forma separada. 
+ 
+ 
+ 
+
+=== Pagina 71 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+71 de 72 
+ 
+ 
+ANEXO 2. 
+MEJORAS DE GESTIÓN OPERACIONAL EN EDIFICIOS 
+A continuación, se muestran las medidas de gestión orientadas a la eficiencia energética más relevantes 
+en las instalaciones habituales en los edificios administrativos. 
+A2.1. Iluminación 
+ 
+Reducción del número de lámparas en la sala: una vez analizado el nivel de iluminación de la 
+sala, en el caso de que éste supere los niveles recomendados, se podrá ajustar a la baja el número 
+de lámparas, reduciendo así la potencia instalada y por tanto el consumo energético. Se ha de 
+destacar que la reducción del número de lámparas se ha de hacer considerando el mantenimiento 
+de un nivel adecuado de uniformidad en la iluminación. 
+ 
+Instalación de interruptores temporales en baños y detectores de presencia en pasillos y 
+zonas de paso: el empleo de dispositivos reguladores puede conseguir un ahorro considerable en 
+zonas de paso poco frecuentadas, tales como baños, archivos o pasillos. Ciertos sistemas de 
+iluminación actualmente disponibles en el mercado disponen de regulación del nivel de iluminación 
+en función de la presencia de usuarios, lo que permite mantener un nivel de iluminación bajo (de 
+seguridad), sin llegar a apagarse, mientras no hay presencia de usuarios, y otro nivel de iluminación 
+cuando alguien transita por la zona. 
+ 
+Control automático de iluminación: el objetivo de esta medida es la reducción del consumo 
+eléctrico de iluminación mediante la instalación de sistemas de control del encendido y apagado de 
+la iluminación interior en base a horarios predefinidos. Cualquier medida orientada a reducir las 
+horas en las que la iluminación permanece encendida de manera innecesaria producirá un ahorro 
+energético. 
+ 
+A2.2. Climatización 
+ 
+Instalación de recuperadores de calor en las unidades de tratamiento de aire: este sistema 
+permite el aprovechamiento de la energía contenida en el aire extraído (viciado) para transmitirla al 
+aire impulsado (fresco), aumentando el rendimiento total del sistema. 
+ 
+Control de la temperatura de funcionamiento de las calderas: esta medida consiste en ajustar 
+la temperatura de impulsión de calefacción en base a la temperatura exterior, especialmente en 
+épocas climáticas suaves, cuando las necesidades de calefacción son menores y se puede reducir 
+la temperatura del agua que circula por los radiadores. 
+ 
+Instalación de válvulas termostáticas: se trata de dispositivos mecánicos que facilitan al usuario 
+mantener las salas a una temperatura determinada, controlando de este modo, la demanda de 
+climatización. 
+ 
+Instalación de bajopuertas y burletes: la aplicación de burletes o cintas selladoras, que son tiras 
+de un material flexible que se coloca en el canto de las hojas de puertas o ventanas para que cierren 
+
+=== Pagina 72 ===
+ 
+GUÍA PARA LA 
+IMPLEMENTACIÓN DE PLANES 
+DE GESTIÓN EFICIENTE DE LA 
+ENERGÍA EN ENTIDADES 
+PÚBLICAS 
+ 
+ 
+ 
+ 
+72 de 72 
+ 
+ 
+herméticamente, evitan las infiltraciones de aire del exterior y por tanto, reducen el consumo 
+energético necesario para mantener una dependencia a la temperatura confort. 
+ 
+A2.3. Agua Caliente Sanitaria (ACS) 
+ 
+Regulación de la temperatura de acumulación de ACS: es conveniente adecuar la temperatura 
+de la instalación de acumulación de ACS a la definida por los criterios higiénicos-sanitarios. Si bien 
+en ocasiones es necesario realizar un tratamiento de desinfección por choque térmico (por ejemplo, 
+para el tratamiento y prevención de legionelosis), mantener el agua acumulada a alta temperatura 
+más allá del tiempo necesario solamente genera un sobreconsumo energético. 
+ 
+A2.4. Equipos 
+ 
+Instalación de multitomas programables: permiten la desconexión total de los equipos y así evitar 
+los consumos “vampiro”. A continuación, se describen las tres tipologías existentes: 
+- 
+Multitomas convencionales: se accionan de modo manual y, por tanto, debe ser el usuario el 
+encargado de desconectar y conectar los equipos cuando corresponda. 
+- 
+Multitomas programables: se programa un horario de encendido y apagado, sin que el usuario 
+tenga que apagar y encender. 
+- 
+Multitomas eliminadoras del stand-by: miden la corriente de los aparatos cuando están 
+encendidos. De esta forma detectan el modo stand-by y cortan por completo el paso de la 
+corriente, permitiendo su paso cuando el equipo de nuevo demande potencia. Estas multitomas 
+pueden actuar de forma individual sobre cada equipo o a nivel de red. 
+ 
+Definir una política de compras de equipos eficientes: una importante medida de ahorro se basa 
+en la incorporación de criterios de eficiencia energética en la compra de equipos. Ver el apartado 
+“Compras Públicas Sostenibles” en esta misma Guía. 
+ 
+Instalación de variadores de frecuencia en ascensores: de esta forma los ascensores arrancan 
+y frenan progresivamente reduciendo el máximo de consumo del motor. Pueden proporcionar 
+ahorros entre un 3% y un 35%. Cabe mencionar que es habitual que estas mejoras deban ser 
+implementadas por parte del propio fabricante de los ascensores. 
+ 
+

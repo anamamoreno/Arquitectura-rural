@@ -1,0 +1,1642 @@
+# Fuente: Cartilla_GEE.pdf
+# Total paginas: 33
+
+=== Pagina 1 ===
+
+=== Pagina 2 ===
+Cartilla Guía de Planes de Gestión 
+Eﬁciente de la Energía para 
+Entidades Públicas
+Primera edición Bogotá D.C. 
+diciembre de 2020
+ISBN  978-958-58880-2-9
+Hecho en Colombia
+Derechos reservados 
+Unidad de Planeación Minero 
+Energética – UPME
+Unidad de Planeación Minero 
+Energética – UPME
+Christian Jaramillo Herrera
+Director General
+Lina Patricia Escobar Rangel
+Subdirectora de Demanda
+Olga Victoria Gonzalez Gonzalez
+Asesora Subdirección de Demanda
+Guía desarrollada por la 
+Corporación para al Energía y el 
+Medio Ambiente - Corpoema para 
+la Unidad de Planeación Minero 
+Energética – UPME
+Fabio González Benítez
+Dirección
+Humberto Rodríguez Murcia
+Asesor técnico
+Oscar Giovanni Ramírez
+Asesor jurídico
+Jorge Eliecer Ramírez Murillo
+Asesor económico
+Edgar Darío Mayorga Ladino
+Laura Viviana Hortúa Torres
+David Ernesto Cortés González
+Daniela Sayago Porras
+Grupo de trabajo CORPOEMA
+Laura Antonella Salleg Sánchez 
+Eduardo Andrés Montenegro Bula 
+Diseño y Diagramación
+
+=== Pagina 3 ===
+El propósito de esta cartilla es orientar a las entidades públicas en el diseño e 
+implementación de Planes de Gestión Eﬁciente de la Energía (PGEE), para lograr el 
+cumplimiento de lo estipulado en el PAI PROURE y en el Plan Nacional de Desarrollo, 
+generando una reducción de los consumos de energía en estas entidades, con su 
+respectiva reducción de emisiones de GEI. La implementación de un PGEE es 
+factible para todo tipo de entidad pública, y toma en consideración sus condiciones 
+geográﬁcas y sociales particulares.
+La cartilla contiene cuatro módulos que agrupan los aspectos claves que deben 
+revisarse y que, en conjunto, permiten estructurar el Plan de Gestión Eﬁciente de la 
+Energía (PGEE) con las medidas de eﬁciencia energética identiﬁcadas y los plazos 
+deﬁnidos para su implementación.
+RESUMEN
+CARTILLA  DE PLANES DE GESTIÓN EFICIENTE DE LA ENERGÍA PARA ENTIDADES PÚBLICAS
+1
+ALCANCE
+DIRIGIDO A:
+MÓDULO
+Alta Dirección y 
+Toma de 
+Decisiones
+Gerencia, junta 
+directiva y 
+tomadores de 
+decisión.
+Motivaciones para adelantar el 
+proceso de un Plan de Gestión 
+Eﬁciente de la Energía, las 
+etapas que se debe recorrer, y 
+los requerimientos de la 
+entidad.
+1
+Aspectos Técnicos - 
+Diagnóstico 
+Energético.
+Grupo técnico, 
+arquitecros, 
+ingenieros, 
+personal de 
+mantenimiento, 
+operadores de 
+sistemas.
+Identiﬁcación de medidas 
+pasivas y activas que deben 
+considerarse en el PGEE. 
+Establece el camino para 
+realizar el diagnóstico 
+energético, la valoración 
+económica de las medidas y la 
+deﬁnición de indicadores.
+2
+Aspectos Jurídicos y 
+Esquemas 
+Finanacieros
+Secretaría 
+General de la 
+institución, 
+presupuesto y 
+ordenador del 
+gasto. 
+Esquemas de ﬁnanciación 
+que responden a las 
+características de funcionami-
+ento de las entidades 
+públicas.
+3
+Monitoreo y 
+Seguimiento.
+Gestor 
+Energético.
+Lineamientos para realizar la 
+evaluación de resultados y la 
+generación de los reportes 
+necesarios para realizar el 
+monitoreo.
+4
+
+=== Pagina 4 ===
+¿Por qué implementar el PGEE?
+La gestión del consumo de energía permite reducir las emisiones de GEI.
+El PGEE es una herramienta que facilita el funcionamiento de un programa de 
+mejora continua y respuesta rápida, su implementación conlleva mejorar el 
+desempeño energético y, en consecuencia, a reducir costos y mitigar el cambio 
+climático. 
+¿Dónde implementar un PGEE? 
+En cualquier entidad pública
+Durante los últimos años, en Colombia se ha avanzado de manera importante en 
+materia de políticas públicas orientadas al desarrollo económico sostenible, la 
+reducción de emisiones de gases de efecto invernadero y la mejora de la seguridad 
+del abastecimiento energético.
+Modulo 1: Alta Dirección y Toma De
+Decisiones
+Normatividad asociada con el PGEE 
+en entidades públicas
+¿Qué pasos debo a seguir para estructurar el PGEE?
+El proceso para la estructuración, implementación y monitoreo del PGEE es un 
+proceso de mejora continua
+CARTILLA  DE PLANES DE GESTIÓN EFICIENTE DE LA ENERGÍA PARA ENTIDADES PÚBLICAS
+2
+Ley 1715 de 2014
+Plan de Acción 
+Indicativo del PROURE 
+2017-2022 (Resolución 
+41286 de 2016 del 
+Ministerio de Minas y 
+Energía)
+Resolución 0549 del 10 
+de julio de 2015 de 
+Ministerio de Vivienda, 
+Ciudad y Territorio
+Plan Energético 
+Nacional de Colombia: 
+Ideario Energético 
+2050
+Conpes 3919 - Política 
+Nacional de 
+Ediﬁcaciones 
+Sostenibles
+Resolución UPME 196 
+de 2020
+Resolución UPME 203 
+de 2020
+Conpes 3934 – Política 
+de Crecimiento Verde
+Plan Nacional de 
+Desarrollo 2018-2022 
+(Ley 1955 de 2019)
+Objetivos de 
+Desarrollo Sostenible
+
+=== Pagina 5 ===
+Es el marco en el que se engloban las pautas, procesos, modelos de toma de 
+decisiones y herramientas para llevar a cabo el plan de gestión eﬁciente de la 
+energía. Por un lado, se debe establecer una política energética que proporcione el 
+marco para ﬁjar y revisar las metas energéticas, que incluya el compromiso de 
+asegurar la disponibilidad de información y recursos para lograr las metas que se 
+propongan, apoyar la adquisición de bienes y servicios de eﬁciencia energética para 
+la mejora del desempeño energético. Por otro lado, se debe seleccionar un gestor 
+energético que esté al frente del proceso de estructuración e implementación del 
+Plan.
+Toma de 
+decisión
+Diagnóstico 
+energético
+Formulación
+ del Plan
+Selección 
+de proyecto(s)
+Implementar
+Modelo 
+ﬁnanciero
+ y contractual
+Monitoreo, 
+reporte y
+ veriﬁcación)
+Proceso del Plan de Gestión Eﬁciente de la Energía - PGEE
+Gobernanza del PGEE
+Gobernanza del PGEE
+Política 
+Energética
+Declaración de intenciones y 
+compromiso sobre el uso de la 
+energía en una entidad, alineada 
+con sus políticas y objetivos.
+Debe ponerse a disposición de 
+todos los actores que se ven 
+afectados por sus lineamientos.
+Lidera el proceso de estructuración e 
+implementación del PGEE. 
+Idealmente tiene conocimientos 
+técnicos, al menos básicos, sobre el 
+funcionamiento de los consumos 
+energéticos.
+Es el pundo de comunicación 
+directa con la adminsitración, está al 
+frente del diagnóstice energético, 
+estructura la matriz de seguimiento 
+al Plan.
+Gestor 
+Energético
+CARTILLA  DE PLANES DE GESTIÓN EFICIENTE DE LA ENERGÍA PARA ENTIDADES PÚBLICAS
+3
+
+=== Pagina 6 ===
+Envolvente de las ediﬁcaciones
+Medidas pasivas de
+eﬁciencia energética
+Resistencia térmica de muros, techos, 
+ventanas, orientación, planos 
+arquitectónicos, eléctricos etc.
+Desde el punto de vista técnico, el objetivo general del PGEE es satisfacer 
+eﬁcientemente las necesidades energéticas de la institución, procurando bienestar 
+y confort a los usuarios y visitantes. 
+El diagnóstico o auditoría energética de la institución constituye la herramienta 
+básica para saber cuánta energía se consume mensualmente, y con qué eﬁciencia, 
+cuáles son los principales equipos consumidores, cómo se usan, y dónde están 
+localizados. 
+Para identiﬁcar los potenciales de ahorro energético y económico, y deﬁnir los 
+posibles proyectos de mejora de la eﬁciencia energética.
+Se analiza la envolvente de la ediﬁcación, y los energéticos utilizados en su 
+funcionamiento, para determinar las medidas de eﬁciencia energética viables en 
+cada caso.
+Módulo 2: Aspectos Técnicos
+1
+CARTILLA  DE PLANES DE GESTIÓN EFICIENTE DE LA ENERGÍA PARA ENTIDADES PÚBLICAS
+4
+¿Para qué sirve un diagnóstico energético?
+¿Cómo se realiza un diagnóstico energético?
+¿Qué es un diagnóstico energético?
+Diagrama del análisis de la envolvente
+
+=== Pagina 7 ===
+CARTILLA  DE PLANES DE GESTIÓN EFICIENTE DE LA ENERGÍA PARA ENTIDADES PÚBLICAS
+5 
+Diagrama del análisis de energéticos
+A
+B
+C
+D
+E
+F
+G
+Análisis de energéticos utilizados
+Caracterización energética
+de los equipos consumidores
+(iluminación, climatización,
+fuerza, calor, etc)
+Balance energético de la(s)
+ediﬁcación(es). Diagrama de
+Sankey
+Medidas activas de eﬁciencia
+energética y buenas
+prácticas
+Acometidas eléctricas y
+consumo de combustibles,
+análisis tarifario.
+Análisis de los consumos
+mensuales de energía en los
+últimos tres años.
+Análisis de la envolvente
+Medidas de eﬁciencia
+energética a implementar,
+tanto pasivas como activas
+Evaluación técnica,
+económica, social y
+ambiental de las medidas
+Análisis de los
+energéticos utilizados
+
+=== Pagina 8 ===
+CARTILLA  DE PLANES DE GESTIÓN EFICIENTE DE LA ENERGÍA PARA ENTIDADES PÚBLICAS
+6 
+Medidas de
+Eﬁciencia
+Pasivas
+Activas
+Buenas
+Prácticas
+Aprovechamiento de 
+condiciones ambientales 
+del entorno.
+Sustitución de equipos y 
+sistemas de control. 
+Hábitos en uso de equipos 
+consumidores de energía.
+Una vez caracterizada
+energéticamente
+la institución,
+se identiﬁcan
+cuáles serán las medidas
+de eﬁciencia energética
+que se implementarán
+con el propósito
+de reducir
+de energía
+y el gasto asociado
+con este consumo.
+el consumo
+
+=== Pagina 9 ===
+Incluye ventilación cruzada y ventilación para enfriamiento 
+pasivo. 
+Medidas de Eﬁciencia Energética
+Sombreado
+Horizontal
+Vertical
+Combinado
+Techo
+Muro
+Ventana
+Muro
+Techo
+Valor U 
+envolvente
+Deslumbramiento
+Reﬂectividad
+Ventilación
+natural
+Iluminación
+natural
+Fuente: Corporación Financiera Internacional, 2018.
+CARTILLA  DE PLANES DE GESTIÓN EFICIENTE DE LA ENERGÍA PARA ENTIDADES PÚBLICAS
+7 
+Ventilación:
+Estas 
+medidas 
+de 
+eﬁciencia 
+energética relacionan el diseño 
+arquitectónico de la ediﬁcación 
+con el aprovechamiento de las 
+condiciones 
+ambientales 
+del 
+entorno; esto permite maximizar el 
+uso del control térmico, ventilación 
+e iluminación naturales para crear 
+condiciones de confort sin el uso de 
+sistemas mecánicos o eléctricos. 
+Están divididos en tres grupos 
+principales:
+Medidas Pasivas
+Reduce el consumo de energía debido al uso de la luz de día, 
+puede reducir la carga de enfriamiento de la ediﬁcación.
+Iluminación:
+Superﬁcie 
+envolvente, 
+“membrana” 
+o 
+“piel” 
+de 
+la 
+construcción que se encuentra en contacto con el aire 
+exterior. Los diseños deben apuntar a aumentar la 
+resistencia de la envolvente a las condiciones externas 
+(temperatura y humedad). Se puede balancear áreas 
+opacas y vidriadas, aumentar los niveles de aislamiento, 
+reducir el área de fachada, reducir la inﬁltración, entre otros.
+Envolvente:
+
+=== Pagina 10 ===
+Sombreado combinado
+Consiste en la instalación de aleros o 
+parales para el control solar externo, se 
+ubican en la fachada del ediﬁcio cerca 
+de ventanas y puertas de vidrio, para 
+evitar el deslumbramiento, la radiación 
+solar directa y con ella la ganancia de 
+calor en climas donde es necesario 
+disminuir la temperatura interna de la 
+ediﬁcación. Se utilizan tres tipos básicos 
+de 
+dispositivos 
+de 
+control 
+solar: 
+horizontales, verticales y combinados.
+Deslumbramiento en ventanas
+Valor U de vidrio,
+muro, techo
+Si se quiere ganar calor por radiación solar 
+mientras se evita el deslumbramiento en 
+horas de la mañana y al atardecer, conviene 
+usar cortinas o persianas. Este método es 
+recomendado para climas fríos. En caso de 
+no querer el ingreso de radiación y evitar el 
+deslumbramiento, se recomienda el uso de 
+persianas 
+o 
+cortinas 
+externas 
+con 
+programación 
+automática, 
+para 
+que 
+a 
+medida que avanza el día permitan el 
+ingreso de iluminación natural sin afectar el 
+confort térmico y visual al interior de la 
+ediﬁcación. 
+Conocido como transmitancia térmica de 
+vidrio, muro y techo, representa el nivel 
+de aislamiento que impide salida (clima 
+frío) o entrada (clima cálido) de calor a 
+través de la envolvente de la ediﬁcación. 
+A menor nivel de conductividad térmica, 
+mayor es el nivel de aislamiento. Para 
+lograr 
+disminuir 
+la 
+conductividad, 
+debemos veriﬁcar el valor U y el espesor 
+de cada tipo de material usado en la 
+envolvente. 
+CARTILLA  DE PLANES DE GESTIÓN EFICIENTE DE LA ENERGÍA PARA ENTIDADES PÚBLICAS
+8
+Sombreado combinado
+
+=== Pagina 11 ===
+Los factores clave para decidir la estrategia 
+de ventilación adecuada son el tamaño de la 
+habitación (profundidad, ancho y altura), así 
+como el número y la ubicación de las 
+aberturas. EdgeBuilding y eQuest ofrecen 
+calculadoras para estimar los impactos en el 
+consumo energético de dichas aberturas en 
+los sistemas de ventilación, calefacción y aire 
+acondicionado (HVAC).
+Consiste 
+en 
+controlar 
+los 
+niveles 
+de 
+iluminación artiﬁcial cuando la iluminación 
+natural ingresa a la ediﬁcación, siguiendo 
+los requisitos de la normatividad RETILAP 
+vigente. 
+Las 
+tecnologías 
+usadas 
+son 
+sensores de ocupación, temporizadores o 
+sensores de luz que apagan o dimerizan la 
+iluminación artiﬁcial cuando los niveles de 
+iluminación 
+natural 
+corresponden 
+al 
+mínimo indicado para la actividad.
+Ventilación natural
+Iluminación natural
+CARTILLA  DE PLANES DE GESTIÓN EFICIENTE DE LA ENERGÍA PARA ENTIDADES PÚBLICAS
+9
+Para impedir el ingreso de calor externo se 
+debe aplicar pintura reﬂectiva en los muros y 
+techos de la ediﬁcación, el parámetro para 
+medir la capacidad de reﬂejar la radiación 
+solar se le denomina reﬂectividad solar o 
+albedo, un acabado reﬂectante para el muro o 
+techo puede reducir la carga de refrigeración 
+en los espacios con aire acondicionado y 
+mejorar el confort térmico en los espacios sin 
+necesidad de usar aire acondicionado.
+Reﬂectividad de
+muro y techo
+Reﬂectividad muro y techo
+
+=== Pagina 12 ===
+Iluminación
+Oﬁmáticos
+Coeﬁciente 
+desempeño
+Economizador
+Interna
+Externa
+Densidad de 
+potencia
+HVAC
+Iluminación
+La 
+eﬁciencia 
+energética 
+de 
+una 
+instalación de iluminación en una 
+zona, 
+se 
+evaluará 
+mediante 
+el 
+indicador denominado Densidad de 
+potencia de luz o Valor de Eﬁciencia 
+Energética de la instalación VEEI del 
+RETILAP, ambos expresados en (W/m2) 
+por cada 100 luxes, como se ve en la 
+siguiente ecuación.
+Densidad de potencia de luz
+Las entidades como hospitales, educación y de 
+oﬁcinas, tienen equipos de cómputo que según 
+la tecnología y nivel de eﬁciencia (al igual que las 
+luminarias) pueden ser susceptibles de cambio 
+para aumentar la eﬁciencia energética en la 
+ediﬁcación.
+Densidad de potencia de equipos de oﬁcina
+Las entidades como hospitales, educación y de 
+oﬁcinas, tienen equipos de ventilación y aire 
+acondicionado que según la tecnología y 
+coeﬁciente de desempeño (COP), pueden ser 
+susceptibles de cambio para aumentar la 
+eﬁciencia energética en la ediﬁcación. 
+Coeﬁciente de desempeño HVAC
+Entidad
+Hospital
+Educación
+Oﬁcina
+Valor de línea base
+Valor mejorado
+16,1 W/m2
+10,3 W/m2
+10,8 W/m2
+6,7 W/m2
+8,8 W/m2
+6,6 W/m2
+Densidad de potencia de luz
+Entidad
+Valor de línea base
+Valor mejorado
+9,1 W/m2
+Hospital, Educación
+ y Oﬁcina
+2,4 W/m2
+Densidad de potencia oﬁmáticos
+Entidad
+Valor de línea base
+Valor mejorado
+3,5 COP
+Hospital, Educación
+ y Oﬁcina
+5,3 COP
+Tabla 4. Coeﬁciente de desempeño HVAC.
+CARTILLA  DE PLANES DE GESTIÓN EFICIENTE DE LA ENERGÍA PARA ENTIDADES PÚBLICAS
+10
+Cuando no son suﬁcientes las medidas 
+pasivas para lograr el confort, se 
+requieren 
+medidas 
+artiﬁciales 
+complementarias para la iluminación, 
+la ventilación, y la climatización. La 
+operación 
+de 
+los 
+equipos 
+complementarios y los de trabajo 
+(oﬁmáticos, bombas, ascensores, etc.) 
+debe consumir la menor cantidad de 
+energía posible, es decir, deben ser 
+eﬁcientes.
+En Colombia, las medidas pasivas y 
+activas son diferentes en cada zona 
+climática y tienen diferente impacto.
+Medidas Activas
+
+=== Pagina 13 ===
+Controles de iluminación
+exterior
+La medida tiene que ver con instalación de 
+sensores 
+de 
+ocupación 
+en 
+corredores, 
+escaleras y demás espacios externos de la 
+ediﬁcación. Esto se acompaña con una 
+evaluación 
+del 
+cumplimiento 
+de 
+la 
+normatividad, como RETILAP, para veriﬁcar 
+que no haya demasiadas luminarias en una 
+misma área y con esto más iluminación de la 
+requerida.
+Otras medidas
+Buenas prácticas
+Autogeneración
+Programas
+de gestión
+Capacitación
+Además de las medidas activas y 
+pasivas de eﬁciencia energética, se 
+deben considerar las buenas prácticas, 
+que son acciones orientadas a mejorar 
+los hábitos en el uso de los equipos de 
+consumo 
+energético, 
+tienen 
+bajos 
+costos de inversión y se pueden 
+implementar 
+de 
+manera 
+independiente 
+a 
+la 
+actualización 
+tecnológica 
+y 
+las 
+adecuaciones 
+arquitectónicas.
+Buenas Prácticas
+MEDIDAS PASIVAS Y ACTIVAS RECOMENDADAS
+POR ZONA CLIMÁTICA
+Para comenzar adoptamos la clasiﬁcación de las cuatro zonas climáticas para el país 
+establecidas en la Resolución 0549 del 10 de julio de 2015 de MinVivienda con datos 
+e información del IDEAM: frío, templado, cálido seco y cálido húmedo. Es importante 
+considerar que el 47% de la población colombiana vive en las zonas de clima cálido 
+seco y cálido húmedo.
+Zonas Climáticas de Colombia
+CARTILLA  DE PLANES DE GESTIÓN EFICIENTE DE LA ENERGÍA PARA ENTIDADES PÚBLICAS
+11
+Controles de iluminación
+
+=== Pagina 14 ===
+Caracterización de las zonas climátic
+Fuente: Anexo 1 - Resolución 0549 del 10 de julio de 2015 de Min Vivienda.
+Zona Climática 
+(ZC)
+ZC1
+ZC2
+ZC3
+ZC4
+Tipo de clima
+Temperatura 
+(°C)
+Altitud
+(msnm)
+Humedad 
+relativa (%)
+Ciudad 
+representativa
+(msnm)
+Frío
+Templado
+Cálido seco
+Cálido húmedo
+12-18
+18-24
+>24
+>24
+2.000-2.999
+Bogotá (2625 m)
+Medellín (1495 m)
+Cali (997 m)
+Barranquilla (18 m)
+1.000-1999
+<1.000
+<1.000
+< 75%
+≥ 75%
+Confort en cada Zona Climática
+Zona Climática 1: Clima Frío
+Se recomendarán medidas pasivas y activas de eﬁciencia energética, según la zona 
+climática en la cual se encuentre la ediﬁcación. Los rangos de porcentajes de ahorro 
+energético fueron calculados mediante tres métodos: 
+1. Resultados de auditorías energéticas realizadas desde el 2012 en entidades 
+públicas del país.
+2. Simulaciones de ediﬁcaciones públicas (Educativo, Salud y Oﬁcinas) en el 
+software EdgeBuilding.
+3. Simulaciones de ediﬁcaciones públicas (Educativo, Salud y Oﬁcinas) en el 
+software eQuest. 
+Medidas pasivas
+Medidas pasivas
+Medidas activas
+La fachada principal de una ediﬁcación en clima frío 
+debería estar orientada de tal manera que se maximice la 
+captación de luz y energía solar.
+La envolvente debería constar de grandes ventanas o 
+aperturas en techos como claraboyas para permitir la 
+ganancia de calor solar e iluminación natural. 
+Para evitar el deslumbramiento en sitios de trabajo se usan 
+las persianas o cortinas translucidas, con el ﬁn de atenuar la 
+iluminación sin evitar la entrada de calor en la mañana y 
+bloqueándola en las horas de la tarde. 
+La vestimenta abrigada es la indicada para el clima 
+ambiente. 
+Los pisos y los techos deberían ser de materiales con bajo 
+coeﬁciente de transferencia de calor para evitar la pérdida 
+del calor ganado por las ventanas. 
+Iluminación eﬁciente, tipo 
+LED, oﬁmáticos eﬁcientes y 
+equipos de aire 
+acondicionado eﬁcientes en 
+las salas de comunicaciones y 
+equipos de cómputo. 
+Sistemas de renovación de 
+aire en las zonas de alta 
+densidad de usuarios, salas 
+de reuniones, y en las zonas 
+en donde el sol ingresa en las 
+horas de la tarde, controlando 
+la ventilación natural, porque 
+puede reducir la temperatura 
+interior.
+CARTILLA  DE PLANES DE GESTIÓN EFICIENTE DE LA ENERGÍA PARA ENTIDADES PÚBLICAS
+12
+
+=== Pagina 15 ===
+Zona Climática 2: Clima Templado
+Medidas pasivas
+Medidas pasivas
+Medidas activas
+La fachada principal de una ediﬁcación debería 
+estar orientada de tal forma que se maximice la 
+iluminación natural, sin que ingrese demasiada 
+radiación solar y aumente la temperatura interior.
+En los centros educativos se recomienda 
+ventilación natural.
+Iluminación eﬁciente, tipo LED, 
+oﬁmáticos eﬁcientes y equipos de aire 
+acondicionado eﬁcientes en las salas de 
+comunicaciones y equipos de cómputo. 
+En la fachada se recomienda pinturas claras y 
+reﬂectivas, vidrios de baja emisividad y cortinas o 
+persianas especiales que permitan el control del 
+deslumbramiento para las oﬁcinas, centros 
+educativos y hospitales. 
+La vestimenta ligera con camisa y 
+eventualmente suéter en la noche y 
+días lluviosos es la indicada para el 
+clima ambiente o dentro de las 
+ediﬁcaciones.
+Sistemas de renovación de aire en las 
+zonas de alta densidad de usuarios, 
+salas de reuniones, y en las zonas en 
+donde el sol ingresa en las horas de la 
+tarde, logrando una renovación de aire 
+con ventilación natural a las horas de 
+temperatura media y control a las horas 
+de alta temperatura. 
+CARTILLA  DE PLANES DE GESTIÓN EFICIENTE DE LA ENERGÍA PARA ENTIDADES PÚBLICAS
+13
+Activas
+Pasivas
+10%-13%
+3%-5%
+12%-19%
+2%-25%
+Iluminación 
+natural
+Densidad 
+de potencia 
+iluminación
+Autogeneración
+Valor U 
+techo
+Medidas pasivas y activas para ZC1
+Activas
+Pasivas
+5%-14%
+9%-10%
+6%-25%
+2%-25%
+Valor U 
+techo
+Densidad 
+de potencia 
+iluminación
+Autogeneración
+Ventilación
+Natural
+Medidas pasivas y activas para ZC2
+
+=== Pagina 16 ===
+Zona Climática 3 y 4: Clima Cálido Seco
+y Cálido Humedo
+Medidas pasivas
+Medidas pasivas
+Medidas activas
+Se debe permitir la ganancia de iluminación natural 
+indirecta evitando la entrada de radiación que pueda 
+aumentar la temperatura interior. 
+Iluminación eﬁciente tipo LED, 
+oﬁmáticos eﬁcientes y equipos de aire 
+acondicionado eﬁcientes en los 
+espacios que lo requieran para alcanzar 
+el confort. 
+En ediﬁcios de oﬁcinas no se recomiendan altas 
+relaciones de ventana pared, máximo 30 a 40%. 
+El suelo y techo debería ser de materiales con bajo 
+coeﬁciente de transferencia de calor para evitar la 
+ganancia de calor del ambiente. 
+Se recomienda en la fachada y techos pintura blanca y 
+reﬂectiva, además de aislamientos térmicos en techos y 
+muros, vidrios de baja emisividad y aleros, parales o 
+parasoles para sombrear las ventanas y no permitir el 
+ingreso de radiación solar directa, además de cortinas o 
+películas especiales que permitan el control del 
+deslumbramiento. 
+La vestimenta ligera con camisa es la 
+indicada para el clima ambiente y 
+dentro de la oﬁcina.
+La vestimenta ligera con camisa es la 
+indicada para el clima ambiente y 
+dentro de la oﬁcina.
+Las ﬁguras resumen las medidas 
+pasivas y activas recomendadas para las 
+zonas climáticas 3 y 4, teniendo en 
+cuenta los valores mejorados para 
+obtener un ahorro energético en el 
+consumo global de la ediﬁcación o del 
+sistema de calefacción, 
+Ventilación y aire acondicionado (HVAC 
+por sus siglas en inglés).
+En los centros educativos se recomienda 
+aumentar la altura piso-techo y aprovechar las 
+corrientes de viento para la ventilación cruzada o 
+ventilación natural.
+CARTILLA  DE PLANES DE GESTIÓN EFICIENTE DE LA ENERGÍA PARA ENTIDADES PÚBLICAS
+14
+Activas
+Pasivas
+5%-14%
+9%-10%
+4%-20%
+5%-25%
+Ventilación 
+natural
+Sombreado
+COP HVAC
+Autogeneración
+Activas
+Pasivas
+6%-13%
+|
+8%-16%
+4%-31%
+25%-27%
+Ventilación 
+natural
+Sombreado
+COP HVAC
+Autogeneración
+Medidas pasivas y activas para ZC3
+Medidas pasivas y activas para ZC4
+
+=== Pagina 17 ===
+CARTILLA  DE PLANES DE GESTIÓN EFICIENTE DE LA ENERGÍA PARA ENTIDADES PÚBLICAS
+15
+Evaluación Técnico-Económica
+de las Medidas
+Para llegar a una priorización de medidas y construir así el Plan de Gestión Eﬁciente 
+de la Energía, se presentan algunos elementos a tener en cuenta para hacer una 
+evaluación económica de las alternativas encontradas.
+Análisis de costos del ciclo de vida
+Medidas pasivas
+Análisis costo-beneﬁcio
+El análisis del Life-Cycle Costing (LCC), que se 
+puede traducir como el análisis de costos del ciclo 
+de vida, es un método de análisis económico de 
+todos los costes asignables a un producto o servicio 
+hasta el ﬁnal de su vida útil.
+Costos de capital: Costos de adquisición, costos de 
+reemplazo, valor residual.
+Costos operativos: servicios públicos, operación, 
+mantenimiento y reparación.
+Beneﬁcio: Potencial de ahorro energético 
+en términos monetarios
+Costos: Valor de la inversión y costos 
+operativos (mantenimiento y operación).
+Es una técnica importante dentro del 
+ámbito de la teoría de la decisión. El 
+objetivo de este análisis es encontrar la 
+relación entre los beneﬁcios generados por 
+la implementación de un proyecto, con 
+respecto a sus costos.
+Para tener un análisis completo se deben considerar otros indicadores como el Valor 
+Presente Neto del proyecto (VPN) y su Tasa Interna de Retorno (TIR), los cuales se 
+calculan también a partir del ﬂujo de caja.
+Estimar costos y 
+tiempos de cada 
+alternativa
+Identiﬁcar tanto los 
+costos como los 
+beneﬁcios de un 
+proyecto durante su 
+vida útil.
+Llevar los datos a valor 
+presente
+Construir el ﬂujo de 
+caja del proyecto 
+según la expectativa 
+temporal del proyecto
+Estimar el indicador 
+B/C, cuando es mayor 
+a 1 se considera 
+rentable 
+Descontar los costos 
+futuros a valor 
+presente
+Calcular y comparar 
+LCC para cada 
+alternativa
+Cálculo Costos del 
+Ciclo de Vida
+Cálculo Costo -
+Beneﬁcio
+
+=== Pagina 18 ===
+CARTILLA  DE PLANES DE GESTIÓN EFICIENTE DE LA ENERGÍA PARA ENTIDADES PÚBLICAS
+16
+Para conocer la reducción en las emisiones que se logra al implementar una medida 
+de eﬁciencia energética, es necesario comparar el consumo actual de energía 
+(producto del diagnóstico energético) con el consumo de energía esperado como 
+resultado al implementar cada alternativa.
+Implementar medidas de eﬁciencia energética se traduce en la reducción de 
+emisiones de gases de efecto invernadero (GEI) y en una disminución de la presión 
+sobre los recursos naturales. El consumo energético generalmente estará dado en 
+una unidad de medida correspondiente al energético (toneladas, kg, kWh, kJ, etc.), 
+el factor de emisión en kilogramos o toneladas de CO2 equivalentes por unidad 
+energética (tonCO2/MWh, kgCO2/kg, etc.), y el resultado en una medida de 
+emisiones de CO2 equivalentes. Los factores de emisión son sujetos a actualización 
+y se pueden consultar en las páginas oﬁciales del Ministerio de Minas y Energía y la 
+UPME.
+Cálculo de Emisiones de GEI Evitadas
+Consumo
+ energético
+Factor 
+de emisión
+Emisiones
+ de GEI
+x
+=
+Cálculo de las emisiones de GEI
+
+=== Pagina 19 ===
+A
+B
+C
+Tipo
+Alternativas consideradas
+Medidas de buenas prácticas operativas, administrativas y de gestión. Su inversión se 
+recupera en menos de un año.
+Medidas pasivas con gran potencial de ahorro, medidas activas de sustitución de equipos 
+de iluminación y aire acondicionado. Su inversión se recupera entre uno y tres años.
+Medidas más ambiciosas en cuanto a sustitución de equipos de AA por centrales de 
+chiller, variadores de velocidad en motores, sistemas de autogeneración fotovoltaicos, 
+entre otros. Su inversión se recupera en más de tres años.
+Tipos de medidas de eﬁciencia energética
+CARTILLA  DE PLANES DE GESTIÓN EFICIENTE DE LA ENERGÍA PARA ENTIDADES PÚBLICAS
+17
+Formulación de un Plan de Gestión
+Eﬁciente de la Energía
+Priorización y Clasiﬁcación de las Medidas
+El Plan de gestión Eﬁciente de la Energía es la carta de navegación de la entidad en 
+términos energéticos, por lo que debe incluir la política energética institucional y la 
+gobernanza del plan. 
+Algunas variables que se pueden considerar para la priorización de las medidas son: 
+el tipo de medida a partir de la inversión que se requiere realizar, el costo del ciclo de 
+vida, el costo-beneﬁcio, la TIR, el Valor presente Neto de la inversión, y el periodo de 
+retorno de la inversión, entre otras.
+Resultados del diagnóstico 
+energético. Medidas de eﬁciencia 
+energética con potencial de ahorro
+Planes de acción con etapas y ﬁnes, 
+funciones y recursos
+Implementación, ejecución de los 
+planes
+Plan de monitoreo y veriﬁcación
+Priorización y clasiﬁcación de las 
+medidas, análisis de barreras 
+Establecimiento de escenarios con 
+objetivos y metas en energía
+Diagrama Formulación del PGEE
+
+=== Pagina 20 ===
+El gráﬁco de dispersión es ideal para visualizar la priorización de medidas, 
+identiﬁcando, por un lado, los costos de la alternativa en su ciclo de vida, y por el otro, 
+la rentabilidad de la inversión, representada en su TIR. Para obtener esta información 
+se puede partir del ﬂujo de caja elaborado por cada alternativa, o de los softwares de 
+simulación de la implementación de medidas de eﬁciencia energética, como el 
+eQuest.
+Se presenta un ejemplo de la zona climática 3 (clima cálido seco), evaluado por 
+costos en el ciclo de vida y rentabilidad (TIR). El cuadrante 1 (inferior derecho) es el de 
+mayor prioridad ya que es donde se tienen menores costos y mayor rentabilidad. 
+Según el caso simulado en eQuest, las medidas prioritarias para implementar en la 
+ediﬁcación en clima cálido seco, son: la implementación de controles de iluminación 
+interna y el coeﬁciente de desempeño de HVAC; mientras que medidas como el 
+valor U del muro, serían las últimas en ser implementadas, debido a sus altos costos 
+y menor rentabilidad con respecto a otras medidas.
+Clasiﬁcar las alternativas 
+y obtener información 
+de sus costos en el ciclo 
+de vida (LCC) y su TIR
+Incluir todas las 
+alternativas viables 
+técnicamente en un 
+gráﬁco de dispersión
+Determinar los 
+proyectos más viables a 
+implementar de 
+acuerdo con lo 
+visualizado en el gráﬁco
+CARTILLA  DE PLANES DE GESTIÓN EFICIENTE DE LA ENERGÍA PARA ENTIDADES PÚBLICAS
+18
+MÓDULO 1
+Gráﬁco de priorización - Zona climática 3: clima cálido seco
+
+=== Pagina 21 ===
+Es útil para la toma de decisiones ya que organiza 
+información existente en un número limitado de futuros 
+posibles. Cada escenario es una historia sobre cómo 
+diferentes variables interactúan entre sí bajo diversas 
+circunstancias. Con base en los resultados anteriores se 
+pueden conﬁgurar escenarios a 1, 3, 5 y 10 años.
+Los objetivos y metas son desarrollados por el gestor energético o el equipo de 
+gestión de la energía en consenso con la alta dirección.
+ 
+Los objetivos deben estar relacionados con los indicadores energéticos, que 
+servirán para hacer seguimiento a los objetivos establecidos. 
+Es recomendable que los objetivos y metas sean: especíﬁcos, medibles, 
+apropiados, realistas y con un tiempo deﬁnido. Los objetivos son reconocidos 
+por la alta dirección como una misión para toda la organización. 
+El plan de acción es una herramienta de planiﬁcación empleada para la gestión y 
+control de tareas o proyectos. De acuerdo con las medidas de eﬁciencia energética 
+que se decida que conformen el PGEE, y los plazos deﬁnidos, se deberá considerar 
+cada medida a implementar como un proyecto. En este sentido, se dará la 
+planiﬁcación, implementación y monitoreo de una sucesión de proyectos, que 
+alimentarán el desarrollo del PGEE. En la planiﬁcación de los proyectos es 
+importante considerar: Su alcance, los tiempos y los recursos que se requieren
+Establecimiento de Escenarios
+Planes de Acción
+CARTILLA  DE PLANES DE GESTIÓN EFICIENTE DE LA ENERGÍA PARA ENTIDADES PÚBLICAS
+19
+
+=== Pagina 22 ===
+Módulo 3: Aspectos Jurídicos
+y Esquemas Fnancieros
+Colombia compra eﬁciente
+HERRAMIENTAS DESARROLLADAS POR COLOMBIA COMPRA EFICIENTE
+Presenta esquemas ﬁnancieros innovadores que pueden ser utilizados por las 
+entidades públicas para la implementación de proyectos de eﬁciencia energética y 
+el desarrollo de su PGEE. Estos esquemas consideran las etapas de los proyectos: 
+auditoria energética, formulación del proyecto de inversión, realización de estudios 
+previos 
+y 
+medidas 
+inmediatas 
+de 
+eﬁciencia 
+energética 
+con 
+gastos 
+de 
+funcionamiento. Para mayor detalle en los esquemas, revisar la Guía de PGEE.
+Es una entidad descentralizada de la rama ejecutiva del orden nacional, adscrita 
+al Departamento Nacional de Planeación (DNP) que desarrolló la guía de 
+compras públicas sostenibles con el medio ambiente, y el manual de compras 
+públicas sostenibles; instrumentos impactan los manuales de contratación de las 
+entidades públicas.
+CARTILLA  DE PLANES DE GESTIÓN EFICIENTE DE LA ENERGÍA PARA ENTIDADES PÚBLICAS
+20
+
+=== Pagina 23 ===
+Manual de compras sostenibles
+Brinda conocimientos y herramientas que resultan óptimas 
+para la planeación de la eﬁciencia energética, donde se ﬁjan 
+los criterios bajo los cuales los proyectos en los cuales la 
+adquisición de un bien o servicio resulta de menor costo pero 
+es menos eﬁciente, lo que implica un mayor costo oculto
+También se profundiza en el “valor por dinero”, que permite 
+ahorrar en gastos y energía en el mediano plazo, y formular 
+proyectos en los cuales la fuente de ﬁnanciación sea el 
+ahorro generado. En el caso del ahorro generado, la 
+eﬁciencia energética puede llegar a ser la fuente de pago, 
+teniendo como uno de los beneﬁcios directos el ahorro a 
+mediano y largo plazo con la adquisición de equipos de 
+ahorro energético.
+CARTILLA  DE PLANES DE GESTIÓN EFICIENTE DE LA ENERGÍA PARA ENTIDADES PÚBLICAS
+21
+ESQUEMAS FINANCIEROS INNOVADORES
+CON LOS QUE SE PODRÍA ALCANZAR
+LAS METAS DE EFICIENCIA ENERGÉTICA
+Las entidades públicas, independientemente del modelo ﬁnanciero y 
+contractual que elijan, deben iniciar el ciclo de maduración del proyecto 
+con el desarrollo de una auditoria energética de conformidad con el 
+artículo 30 de la Ley 1715 de 2014, reformado por el artículo 292 del Plan 
+Nacional de Desarrollo 2018-2022. Para el desarrollo de la auditoria 
+energética se pueden considerar dos tipos de gastos:
+- Gastos por funcionamiento: gastos generales de funcionamiento de la 
+entidad, 
+destinados 
+al 
+mantenimiento 
+y 
+mejoramiento 
+de 
+la 
+infraestructura.
+- Gastos por inversión: se debe realizar el correspondiente banco de 
+proyectos que tiene como objetivo el desarrollo de la auditoria energética.
+AUDITORÍA
+ENERGÉTICA
+
+=== Pagina 24 ===
+Las entidades que ejecutan el presupuesto general de la Nación 
+deben seguir los siguientes pasos:
+Cuando se compran bienes que se adquieren de forma ordinaria se 
+habla de las medidas de eﬁciencia energética ﬁnanciadas contra 
+gastos de funcionamiento y se aplican criterios de compras públicas 
+sostenibles y los criterios que arroje como resultado la auditoria 
+energética. Se genera eﬁciencia energética con gastos de funciona-
+miento cuando se genera una política al interior de la entidad frente 
+al arrendamiento de bienes inmuebles que cumplan criterios de 
+eﬁciencia energética, o exigiendo a los arrendadores el cumplimien-
+to de medidas de eﬁciencia para la continuidad de los contratos.
+MEDIDAS 
+INMEDIATAS DE 
+EFICIENCIA 
+ENERGÉTICA CON 
+GASTOS DE 
+FUNCIONAMIENTO
+En el planteamiento del proyecto y sus estudios deben quedar 
+explícitos:
+- Los beneﬁcios esperados desde el punto de vista energético, econó-
+mico, social y ambiental
+- El análisis de los precios de mercado y de los productos existentes 
+en el mercado.
+- El análisis del ciclo de vida de los activos existentes y si su cambio 
+genera más beneﬁcios que mantenerlo hasta que su vida útil termi-
+ne, evaluándolo desde el punto de vista económico, ambiental y 
+social.
+Auditoría 
+energética
+Formular un 
+banco de 
+proyectos
+Proyección de 
+ahorros
+CARTILLA  DE PLANES DE GESTIÓN EFICIENTE DE LA ENERGÍA PARA ENTIDADES PÚBLICAS
+22
+FORMULACIÓN
+ DEL PROYECTO 
+DE INVERSIÓN
+ESTUDIOS
+PREVIOS
+
+=== Pagina 25 ===
+Modelos ﬁnancieros:
+A. Operaciones de crédito público (leasing y crédito proveedor).
+B. Contratos por servicios (renting, arrendamiento).
+C. Alianzas público-privadas (APP).
+D. Contrato por desempeño energético.
+CARTILLA  DE PLANES DE GESTIÓN EFICIENTE DE LA ENERGÍA PARA ENTIDADES PÚBLICAS
+23
+Esquemas Jurídicos
+y Financieros
+Para establecer cómo los modelos ﬁnancieros resultan aplicables a las entidades 
+públicas y que caminos pueden seguir los ordenadores del gasto para 
+implementarlos, se expondrán dos escenarios: 
+La 
+entidad 
+cuenta 
+con 
+los 
+recursos 
+suﬁcientes: 
+debe 
+implementar las medidas que le 
+arroje 
+la 
+auditoria 
+energética 
+contra su presupuesto o contra el 
+presupuesto general de la nación 
+y obtendrá el retorno de esta 
+inversión de conformidad como lo 
+establecido en el correspondiente 
+banco de proyectos
+La entidad no cuenta con los 
+recursos suﬁcientes: En especial 
+en el orden territorial, es necesario 
+acudir a modelos que permitan 
+ﬁnanciar 
+su 
+implementación 
+contra el ahorro energético que 
+generan
+
+=== Pagina 26 ===
+A. Operaciones de crédito público
+Satisfacen la necesidad de la administración de equipos o modernización de 
+infraestructura y permiten su ﬁnanciación.
+Permite una adquisición inmediata de equipos, sin generar inventario 
+dado que los mismos permanecen bajo la propiedad de la entidad 
+ﬁnanciera, quien se puede encargar de asegurarlos, pero además 
+permite realizar modelos ﬁnancieros de largo plazo, que tengan en 
+cuenta los ahorros generados por la eﬁciencia energética, ya que la ley 
+no ﬁja un plazo máximo para las operaciones de crédito publico. En 
+este contrato la administración pública actúa como arrendatario 
+(locatario) de un bien que puede ser mueble o inmueble dependiendo 
+del tipo de leasing, que le es arrendado por una entidad ﬁnanciera 
+transﬁriéndole un activo para su uso y goce a cambio de un canon 
+periódico durante un plazo pactado por las partes.
+La operación de crédito público se realiza directamente con el 
+proveedor del bien o por un tercero que genera el modelo ﬁnanciero. 
+No hay desembolso de recursos, sino que se entrega una especie que 
+se ﬁnancia en el tiempo por su propio proveedor. Se desarrolla para la 
+adquisición de bienes muebles, aunque la norma provee que también 
+puede ser adquirido para la ﬁnanciación de servicios, lo que implica 
+desde el punto de vista tributario que le son aplicables los impuestos 
+para las operaciones de crédito público, con la ventaja que los equipos 
+serían desde el comienzo de propiedad de la entidad pública. Los 
+beneﬁcios de este tipo de operación de crédito público, son: el bien se 
+paga aplazado directamente con el proveedor, y el proyecto se modela 
+como operación de crédito público sin restricción en el plazo y 
+pudiendo ser aprobado en el último año de gobierno.
+En los últimos años FINDETER Y BANCOLDEX ha desarrollado líneas 
+de crédito especíﬁcas para la eﬁciencia energética que pueden ser 
+utilizadas tanto por las administraciones públicas como por las 
+empresas interesadas en ofrecer servicios y productos al sector 
+público bajo un modelo de retorno basado en la eﬁciencia energética. 
+Así mismo la banca privada ha generado líneas de crédito, a nivel de 
+leasing y leasing de infraestructura, a las que pueden acceder las 
+administraciones públicas de los distintos órdenes para ﬁnanciar los 
+proyectos.
+CARTILLA  DE PLANES DE GESTIÓN EFICIENTE DE LA ENERGÍA PARA ENTIDADES PÚBLICAS
+24
+Leasing
+ﬁnanciero
+Crédito
+proveedor
+Líneas de
+crédito
+Este fondo fue creado como un patrimonio 
+autónomo mediante el artículo 10 de la ley 1715 de 
+2014, está regido por el decreto 1073 de 2015 
+adicionado por el decreto 1543 de 2017 para 
+ﬁnanciar inversiones en eﬁciencia energética. Para 
+conocer más sobre los alcances y requisitos del 
+FENOGE, es importante remitirse directamente a 
+su Reglamento y Manual Operativo.
+Fondo de energías
+no convencionales
+y gestión eﬁciente
+de la energía – FENOGE
+
+=== Pagina 27 ===
+Contratos que implican la prestación de servicios a través de equipos que pueden 
+servir a las administraciones para el desarrollo de proyectos de eﬁciencia energética. 
+B. Contratos de
+Servicios 
+Consiste en el arrendamiento de bienes en el cual el arrendador no es el fabricante 
+del bien, se trata de un contrato de naturaleza civil. La ﬁnalidad de este tipo de 
+contrato es ﬁnanciar un bien para poder usarlo y tener disposición permanente del 
+bien sin perseguir su propiedad y teniendo a disposición servicios como operación, 
+mantenimiento, seguros, etc.
+Este contrato no afecta el marco ﬁscal de mediano plazo ni la situación de fondos, ni 
+la capacidad de endeudamiento, salvo en el caso en el que se tramiten vigencias 
+futuras, y se paga con el ﬂujo de caja la mayor parte de las veces generado por los 
+bienes arrendados. 
+Renting 
+¿Cuánto dura el contrato 
+de Renting?
+En 
+general, 
+tienen 
+una 
+duración equivalente a la vida 
+útil de los bienes pactándose 
+un 
+precio 
+o 
+canon 
+de 
+arrendamiento en cuotas que 
+retribuyen la prestación de los 
+servicios de uso del bien y el 
+mantenimiento y reparación de 
+este. Al término del contrato se 
+tiene la opción de sustituir los 
+equipos o renovar el contrato 
+por 
+un 
+nuevo 
+periodo 
+a 
+determinar, o incluso ﬁjar un 
+periodo más largo que la vida 
+útil de los activos.
+¿Cuánto dura el contrato 
+de Renting?
+Normalmente será un bien 
+mueble. No podrán serlo los 
+bienes muebles fungibles que 
+se 
+consumen 
+con 
+el 
+uso 
+porque, en ese caso, se estaría 
+ante 
+un 
+préstamo 
+con 
+la 
+obligación de devolver otro 
+tanto de la misma especie y 
+calidad, 
+como 
+ocurre 
+por 
+ejemplo con los bombillos, o 
+bienes que se consumen con el 
+paso del tiempo, tal exclusión 
+se reﬁere a los bienes que se 
+consumen por un primer uso y 
+no a los bienes de consumo 
+duradero
+¿Cuánto dura el contrato 
+de Renting?
+Para la selección del contratista 
+debe utilizarse la modalidad de 
+selección 
+objetiva 
+de 
+conformidad con el estudio 
+previo y el presupuesto ﬁjado 
+por la entidad, no es posible 
+acudir a la contratación directa.
+Para efectos de la planeación 
+ﬁnanciera se puede hacer un 
+contrato de largo plazo con 
+cargo a vigencias ordinarias o 
+extraordinarias, 
+o 
+generar 
+encargo ﬁduciario para el pago.
+Los contratos deben ser de 
+largo plazo para soportar la 
+inversión del contratista en 
+suministro de los equipos que 
+pone 
+a 
+disposición 
+de 
+la 
+administración, 
+por 
+lo 
+cual 
+debe acudirse a mecanismo de 
+vigencias 
+futuras 
+para 
+su 
+estructuración. 
+CARTILLA  DE PLANES DE GESTIÓN EFICIENTE DE LA ENERGÍA PARA ENTIDADES PÚBLICAS
+25
+
+=== Pagina 28 ===
+D. Contratos de
+Desempeño Energético
+Pueden ser un buen esquema para ﬁnanciar las medidas de eﬁciencia energética 
+cuanto estas implican grandes inversiones en construcción o modernización de 
+infraestructuras asociadas a la prestación de un servicio público que es 
+responsabilidad del Estado o como parte de una operación urbana integral que 
+implique la trasformación de un sector a partir de la modernización de la 
+infraestructura pública. para la provisión de un servicio público (educación, salud).
+También se pueden modelar proyectos de APP donde la fuente de pago no sea el 
+servicio prestado, sino el pago destinado al servicio de energía, en donde se pude 
+mantener el mismo pago del servicio en el tiempo, pero consumiendo menos 
+energía, teniendo como obligación el privado de suministrar la energía, y el 
+recambio tecnológico a cambio de una compra de energía de largo plazo con 
+cambio de tecnología, en donde los ahorros que genere son del privado, o 
+dependiendo de modelo ﬁnanciero se pueden generar un modelo de ahorros 
+compartidos. 
+En este tipo de proyectos la modernización de una infraestructura pública bajo 
+esquema de APP, el sector privado tradicionalmente ﬁnancia, diseña, construye o 
+reconstruye la infraestructura necesaria y a cambio el estado paga por proveer el 
+servicio de largo plazo. 
+Es una persona física o jurídica que proporciona servicios energéticos o de mejora de 
+la eﬁciencia energética en las instalaciones o locales de un usuario y afronta cierto 
+grado de riesgo económico al hacerlo. El pago de los servicios prestados se basa en 
+la obtención de mejoras de eﬁciencia energética y en el cumplimiento de los demás 
+requisitos de rendimiento convenidos. Este tipo de empresas tienen como modelo 
+de negocio el desarrollo de contratos de desempeño energético, los cuales pueden 
+ser ﬁjos o variables, los principios que rigen una ESCO según el Banco 
+Interamericano de Desarrollo son: 
+1. Ofrece a sus clientes servicios integrales desde la identiﬁcación de las 
+oportunidades de ahorro.
+2. Ofrece compartir el riesgo técnico a través de los contratos 
+3. Proporciona apoyo para los acuerdos de ﬁnanciamiento de los proyectos de 
+inversión.
+Se toma como línea base el consumo actual de energía, el contratista se 
+compromete a implementar medidas de eﬁciencia energética las cuales garantiza a 
+su propio riesgo o mediante una póliza de seguros de nominada seguro de 
+cumplimiento de eﬁciencia energética. Los excedentes generados con estas 
+medidas permiten ﬁnanciar la. Estos proyectos generalmente son de largo plazo.
+CARTILLA  DE PLANES DE GESTIÓN EFICIENTE DE LA ENERGÍA PARA ENTIDADES PÚBLICAS
+26
+C. Alianzas Público 
+Privadas (APP) 
+
+=== Pagina 29 ===
+Durante el tiempo del proyecto se continúa realizando el pago de la energía de 
+acuerdo a los valores históricos y a los ajustes del mercado energético, por lo que los 
+contratos pueden ﬁjar cláusulas de estabilización o amparar mediante póliza las 
+eﬁciencias energéticas esperadas. La inversión y la ganancia las recupera el 
+proveedor con los ahorros generados en el consumo de energía.
+Crédito público
+Cuando se utiliza un ﬁnanciador pueden resultar optimas las 
+operaciones de crédito público en las cuales el Banco 
+apalanca la inversión. El operador se selecciona de 
+conformidad con el estatuto de contratación, y este se 
+encarga de realizar la inversión con el compromiso de niveles 
+de eﬁciencia energética, las cuales debe mantener durante 
+todo el tiempo del pago del crédito, para lo cual se pueden 
+consignar los valores de energía a una ﬁducia la cual será la 
+encargada del pago del crédito, o se pueden pagar 
+directamente como pago del servicio a la deuda, con la 
+eﬁciencia generada.
+Modelo APP pública de
+iniciativa privada
+El contratista puede incluso desarrollar a su riesgo 
+la auditoria energética para luego proponer su 
+implementación cumpliendo los requisitos de 
+APP, de igual forma se puede desarrollar este 
+modelo cumpliendo los requisitos de iniciativa 
+pública de APP. 
+Vigencias futuras
+Pueden ser vigencias futuras ordinarias o excepcionales, que 
+permitan la garantía de largo plazo al operador para 
+garantizar el retorno de las inversiones que el realiza bajo su 
+cuenta y riesgo.
+Una posibilidad con que cuentan las entidades es la estructuración de proyectos en 
+los cuales se puedan unir dos componentes de la prestación como son el suministro 
+de energía, y el suministro de equipos para la eﬁciencia energética. 
+CARTILLA  DE PLANES DE GESTIÓN EFICIENTE DE LA ENERGÍA PARA ENTIDADES PÚBLICAS
+27
+Modalidades de contratación
+
+=== Pagina 30 ===
+GESTIÓN DE SEDES ADMINISTRATIVAS
+Una estrategia que puede servir a los ﬁnes de la implementación de medidas de 
+eﬁciencia energética es concentrar en una sola entidad de la administración pública 
+la administración de ediﬁcaciones. Ello permite una mejor gerencia de los recursos 
+y contar con planes estratégicos destinados a la modernización de ediﬁcaciones. 
+Esto además permite modelar con mayor fortaleza ﬁnanciera estrategias de 
+operaciones de crédito público, APP, contratos con el operador de energía y generar 
+estrategias que permitan la gobernanza energética del territorio, en términos de 
+política pública sobre la administración de ediﬁcaciones. 
+Son una alternativa de planeación presupuestal, en donde el bien o servicio no se 
+recibe en una misma vigencia y el compromiso presupuestal puede corresponder a 
+presupuestos de distintas vigencias. Cuando las vigencias no se extienden más allá 
+del periodo de gobierno reciben el nombre de vigencias ordinarias, y cuando se 
+extienden más allá del periodo de gobierno reciben el nombre de vigencias 
+extraordinarias o excepcionales. 
+Instrumentos de
+Planeación Financiera
+Vigencias Futuras
+Vigencias futuras ordinarias de la nación
+ El Conﬁs podrá autorizarlas dependiendo 
+de: monto máximo de vigencias futuras, 
+plazo y condiciones; tener apropiación 
+como mínimo del 15% de las vigencias 
+futuras solicitadas en la vigencia ﬁscal en 
+que sean autorizadas; cuando se trate de 
+proyectos de inversión nacional deberá 
+obtenerse el concepto previo y favorable 
+del DNP y del Ministerio del ramo. 
+Vigencias futuras ordinarias a nivel 
+territorial
+Las entidades territoriales se encuentran 
+facultadas para el desarrollo de proyectos 
+con cargo a vigencias futuras ordinarias.
+ 
+Algunos requisitos son: Autorizaciones de 
+asamblea o concejo respectivo; ser 
+aprobadas por el CONFIS territorial; metas 
+plurianuales del Marco Fiscal de Mediano 
+Plazo; apropiación del 15%; proyecto 
+incorporado en el plan de desarrollo; no 
+exceder la capacidad de endeudamiento 
+de la entidad; prohibidas en el último año 
+de Gobierno.
+Vigencias futuras excepcionales  a nivel 
+territorial
+ Superan el periodo de Gobierno y se 
+utilizan para proyectos de energía e 
+infraestructura, entre otros.
+ Algunos requisitos son: aprobación 
+Consejo o Asamblea; aprobación del 
+Conﬁs; no es necesaria apropiación inicial 
+de presupuesto; metas plurianuales y el 
+marco ﬁscal de mediano plazo; proyecto 
+incorporado en el plan de desarrollo y plan 
+de inversiones; declaratoria de importancia 
+estratégica; inscritas en el banco de 
+proyectos; estudios técnicos aprobados.
+Vigencias futuras excepcionales de la 
+nación
+ 
+Son aquellas que superan el periodo del 
+gobierno, se encuentran reservadas para 
+ser usadas en proyectos declarados de 
+importancia estratégica. Pueden ser 
+usadas en proyectos de infraestructura y 
+energía.
+CARTILLA  DE PLANES DE GESTIÓN EFICIENTE DE LA ENERGÍA PARA ENTIDADES PÚBLICAS
+28
+
+=== Pagina 31 ===
+Sistema General de Regalías
+Buenas Prácticas
+Busca garantizar la descentralización y autonomía de los territorios. Los recursos el 
+sistema general de regalías solo pueden ﬁnanciar proyectos de inversión, y pueden 
+ﬁnanciar la estructuración de proyectos. Los proyectos susceptibles de ser 
+ﬁnanciados con los recursos del Sistema General de Regalías deben estar en 
+concordancia con el Plan Nacional de Desarrollo y los planes de desarrollo de las 
+entidades territoriales, así como cumplir con el principio de Buen Gobierno y con las 
+siguientes características: pertinencia, viabilidad, sostenibilidad, impacto, y 
+articulación con planes y políticas nacionales de las entidades territoriales, de las 
+comunidades, etc. En la aprobación de los proyectos de inversión con regalías se 
+priorizan aquellos que buscan:
+Extensión, ampliación y utilización de energía no convencionales.
+En las zonas no interconectadas del país tendrán especial consideración los 
+proyectos de energización.
+Las buenas prácticas constituyen una forma de ﬁnanciación de la eﬁciencia 
+energética sostenible en el tiempo, asignando los recursos que de ordinario se 
+utilizan, pero bajo una cultura de la eﬁciencia energética. 
+Incorpore en su manual de contratación la guía de compras verdes, compras 
+sostenibles y la presente guía.
+Incluya requisitos en el arrendamiento, compra de inmuebles y modernización 
+de ediﬁcaciones publicas los criterios de esta guía. 
+Destine recursos de capacitación de sus funcionarios al cambio de cultura 
+organizacional, que permita que el personal en sus actividades diarias se 
+eﬁciente energéticamente. 
+La concesión de un determinado servicio público permite que el particular 
+realice inversiones para la mejora en su prestación del servicio público, por lo 
+cual se puede exigir al concesionario que las nuevas ediﬁcaciones o 
+modernizaciones cuenten con medidas de eﬁciencia energética.
+En la contratación:
+CARTILLA  DE PLANES DE GESTIÓN EFICIENTE DE LA ENERGÍA PARA ENTIDADES PÚBLICAS
+29
+
+=== Pagina 32 ===
+Módulo 4: Monitoreo, Reporte
+y Veriﬁcación
+El plan de Gestión Eﬁciente de la Energía debe mantener un constante monitoreo 
+del desarrollo de los proyectos y del Plan, con el ﬁn de documentar e identiﬁcar las 
+oportunidades de mejora que puedan darse. 
+La evaluación de resultados del PGEE hace 
+referencia a la revisión de la evolución de los 
+indicadores de resultado y a los indicadores 
+de gestión. Los indicadores de resultados se 
+reﬁeren a lo logrado con las medidas, tanto 
+activas como pasivas, que se plantean en el 
+PGEE, y los indicadores de gestión son los 
+relacionados a temas administrativos y 
+operativos a que haya lugar
+Como responsable del seguimiento del PGEE, el 
+gestor energético deberá documentar de forma 
+mensual las observaciones a que haya lugar con 
+relación al desarrollo del PGEE. La adecuada 
+documentación de estas reuniones permitirá la 
+actualización del PGEE en la entidad pública. La alta 
+dirección de la entidad pública se debe reunir 
+anualmente para revisar en conjunto con el Gestor 
+Energético la estructura del PGEE, con el objetivo de 
+identiﬁcar y evaluar la funcionalidad del plan 
+diseñado, a partir de estas reuniones deben 
+generarse las modiﬁcaciones al PGEE que se 
+consideran pertinentes.
+CARTILLA  DE PLANES DE GESTIÓN EFICIENTE DE LA ENERGÍA PARA ENTIDADES PÚBLICAS
+30
+EVALUACIÓN DE RESULTADOS
+REVISIÓN DEL PGEE
+
+=== Pagina 33 ===
+Los indicadores y la especiﬁcidad de la documentación varían, ajustándose a cada 
+entidad pública y a cada proyecto especíﬁco. A partir de los encuentros anuales 
+entre el área de Dirección y el Gestor Energético, se deben registrar como mínimo:
+Anualmente debe presentarse informe de seguimiento del PGEE a la UPME. Dicho 
+informe debe incluir un Formato de evaluación de seguimiento PGEE y una Matriz 
+de reporte de evolución de indicadores del PGEE. 
+La claridad en las actividades de monitoreo, facilitará la construcción del plan de 
+Monitoreo, Reporte y veriﬁcación (MRV), y asegurará que se prevean los 
+requerimientos de seguimiento que se deben realizar con frecuencia tanto al Plan 
+de Gestión Eﬁciente de la Energía como a los proyectos que se implementen en su 
+marco.
+En el Formato de evaluación de seguimiento PGEE se deben consignar y evaluar: 
+las generalidades de la estructura del PGEE (política energética de la entidad, los 
+objetivos, etc.) y la matriz de planiﬁcación (cada problemática identiﬁcada con su 
+respectiva descripción, ﬁnalidad del proyecto, mecanismos de seguimiento, 
+riesgos y cronograma de actividades).
+En la Matriz de reporte de evolución de indicadores del PGEE, se deben presentar 
+los indicadores deﬁnidos con el PGEE y se debe evaluar su cumplimiento. Estos 
+indicadores están divididos en indicadores de gestión, indicadores de resultado 
+(energéticos), e indicadores de impacto. 
+Acta de reunión (incluir datos de fecha y participantes, así como relación de 
+los detalles de las decisiones tomadas).
+Evaluación de la matriz de planiﬁcación elaborada por el gestor energético 
+en la etapa de diseño y deﬁnición del PGEE de la entidad pública. 
+Informe detallado de la evolución de los indicadores de impacto 
+seleccionados en la fase de estructuración del PGEE.PGEE actualizado en 
+relación con las oportunidades de mejora identiﬁcadas en el desarrollo de 
+este.
+Reporte de cumplimiento del PGEE a la Unidad de Planeación 
+Minero-Energética UPME.
+CARTILLA  DE PLANES DE GESTIÓN EFICIENTE DE LA ENERGÍA PARA ENTIDADES PÚBLICAS
+31
+

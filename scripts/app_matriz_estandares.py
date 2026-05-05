@@ -19,7 +19,7 @@ from datetime import date
 # --- Configuración ---
 st.set_page_config(
     page_title="Matrices Sostenibilidad — Vivienda Rural",
-    page_icon="🏠",
+    page_icon=None,
     layout="wide"
 )
 
@@ -88,6 +88,7 @@ def cargar_m1():
         "Nivel_cumplimiento": "Nivel de cumplimiento",
         "Parametro_indicador": "Parámetro/Indicador",
         "Correspondencia_cruzada": "Correspondencia cruzada",
+        "URL_fuente": "URL fuente",
     })
     return df
 
@@ -130,7 +131,7 @@ def captura_edits(row, prefix: str) -> dict:
     edits = {}
     cid = row["ID"]
     for campo in ["Estandares_ref", "Cumplimiento_observado", "Genero_inclusion",
-                  "Fuente_principal", "Subsistemas"]:
+                  "Fuente_principal", "URL_fuente", "Subsistemas"]:
         k = f"{prefix}_{cid}_{campo}"
         if k in st.session_state:
             val = st.session_state[k]
@@ -148,13 +149,10 @@ if "validador" not in st.session_state:
 st.title("Matrices del Producto 1 — Sostenibilidad Vivienda Rural")
 st.caption("Guía técnica · Res. 0194/2025 · 4 climas de Colombia")
 
-tab_m1, tab_m2 = st.tabs(["📋 M1 · Estándares de sostenibilidad", "📍 M2 · Casos de éxito"])
-
-
 # ============================================================
-# TAB M1 — Estándares
+# PÁGINA M1 — Estándares
 # ============================================================
-with tab_m1:
+def page_m1():
     df = cargar_m1()
     st.subheader(f"Matriz M1 — {len(df)} criterios de {df['Referencia'].nunique()} fuentes normativas")
     st.divider()
@@ -238,25 +236,30 @@ with tab_m1:
     with col4:
         st.metric("Fuentes", filtrado["Referencia"].nunique())
 
-    cols_default = ["ID", "Referencia", "Criterio/Medida", "Tipo",
+    cols_default = ["ID", "Referencia", "URL fuente", "Criterio/Medida", "Tipo",
                     "E1 Bioclimática", "E2 Energía", "E3 Agua", "E4 Materiales",
                     "Clima", "Aplica vivienda rural", "Carácter legal", "Ref_Ley2462"]
     cols_mostrar = st.multiselect("Columnas a mostrar", df.columns.tolist(), default=cols_default)
     if cols_mostrar:
-        st.dataframe(filtrado[cols_mostrar], width='stretch', height=500)
+        col_cfg = {}
+        if "URL fuente" in cols_mostrar:
+            col_cfg["URL fuente"] = st.column_config.LinkColumn(
+                "URL fuente", display_text="abrir", help="Abre el documento original en una pestaña nueva"
+            )
+        st.dataframe(filtrado[cols_mostrar], width='stretch', height=500, column_config=col_cfg)
 
 
 # ============================================================
-# TAB M2 — Casos de éxito
+# PÁGINA M2 — Casos de éxito
 # ============================================================
-with tab_m2:
+def page_m2():
     df_m2 = cargar_m2()
     df_m1 = cargar_m1()
 
     st.subheader(f"Matriz M2 — {len(df_m2)} casos compilados")
 
     if READ_ONLY:
-        st.info("🔒 Modo solo lectura. La validación/descarte de casos se hace en el entorno local de la responsable del Producto 1.")
+        st.info("Modo solo lectura. La validación/descarte de casos se hace en el entorno local de la responsable del Producto 1.")
     else:
         # Identificación del validador
         st.session_state.validador = st.text_input(
@@ -272,12 +275,12 @@ with tab_m2:
     n_desc = len(df_m2[df_m2["Estado_validacion"] == "descartado"])
 
     m1, m2, m3 = st.columns(3)
-    m1.metric("⏳ Pendientes", n_pend)
-    m2.metric("✅ Aceptados", n_acep)
-    m3.metric("❌ Descartados", n_desc)
+    m1.metric("Pendientes", n_pend)
+    m2.metric("Aceptados", n_acep)
+    m3.metric("Descartados", n_desc)
 
     # Heatmap cobertura
-    with st.expander("📊 Cobertura clima × sistema (solo aceptados)", expanded=False):
+    with st.expander("Cobertura clima × sistema (solo aceptados)", expanded=False):
         aceptados = df_m2[df_m2["Estado_validacion"] == "aceptado"]
         if len(aceptados) == 0:
             st.info("Aún no hay casos aceptados.")
@@ -290,8 +293,8 @@ with tab_m2:
 
     # Filtros en sidebar (aplican solo al tab M2)
     with st.sidebar:
-        st.markdown("### 🎚 Filtros · Casos M2")
-        st.caption("Aplican solo cuando estás en el tab M2.")
+        st.markdown("### Filtros · Casos M2")
+        st.caption("Aplican solo en esta página.")
 
         estado_filtro = st.radio(
             "Estado",
@@ -309,9 +312,23 @@ with tab_m2:
         sis_filt = st.multiselect("Sistema constructivo", sistemas_unicos, default=[])
 
         st.markdown("---")
-        st.markdown("**📚 Archivo fuente**")
+        st.markdown("**Archivo fuente**")
         st.caption("Marca/desmarca para mostrar/ocultar.")
         archivos_unicos = sorted([a for a in df_m2["Archivo_fuente"].unique() if a])
+
+        # Atajos (van ANTES de los checkboxes — usan callbacks para evitar race condition)
+        def _set_all_archivos(val: bool):
+            for a in archivos_unicos:
+                st.session_state[f"archivo_{a}"] = val
+
+        col_a, col_b = st.columns(2)
+        with col_a:
+            st.button("Todas", key="archivo_all", width='stretch',
+                      on_click=_set_all_archivos, args=(True,))
+        with col_b:
+            st.button("Ninguna", key="archivo_none", width='stretch',
+                      on_click=_set_all_archivos, args=(False,))
+
         archivo_filt = []
         for a in archivos_unicos:
             # nombre corto sin .pdf y con conteo
@@ -319,19 +336,6 @@ with tab_m2:
             label = f"{a.replace('.pdf', '')}  ·  {n_casos}"
             if st.checkbox(label, value=True, key=f"archivo_{a}"):
                 archivo_filt.append(a)
-
-        # Atajos
-        col_a, col_b = st.columns(2)
-        with col_a:
-            if st.button("Todas", key="archivo_all", width='stretch'):
-                for a in archivos_unicos:
-                    st.session_state[f"archivo_{a}"] = True
-                st.rerun()
-        with col_b:
-            if st.button("Ninguna", key="archivo_none", width='stretch'):
-                for a in archivos_unicos:
-                    st.session_state[f"archivo_{a}"] = False
-                st.rerun()
 
     # Aplicar filtros
     f = df_m2.copy()
@@ -360,7 +364,7 @@ with tab_m2:
         # Tarjetas
         for _, row in f.iterrows():
             estado = row["Estado_validacion"]
-            icono = {"pendiente_revision": "⏳", "aceptado": "✅", "descartado": "❌"}.get(estado, "❓")
+            icono = {"pendiente_revision": "[Pend]", "aceptado": "[OK]", "descartado": "[X]"}.get(estado, "")
             es_pendiente = estado == "pendiente_revision"
             es_editable = es_pendiente and not READ_ONLY
             cid = row["ID"]
@@ -386,16 +390,15 @@ with tab_m2:
                 clima_c = CLIMA_COLOR.get(clima, "#9E9E9E")
                 tipo = row["Tipo"] or "desconocido"
                 tipo_c = TIPO_COLOR.get(tipo, "#9E9E9E")
-                tipo_icono = {"vernaculo": "🏛️", "contemporaneo": "🏗️", "mixto": "🔀"}.get(tipo, "•")
                 koppen = f" ({row['Subtipo_Koppen']})" if row['Subtipo_Koppen'] else ""
                 badge_html = (
                     f'<div style="display:flex; gap:8px; align-items:center; flex-wrap:wrap; margin:8px 0;">'
                     f'<span style="background:{tipo_c}; color:white; padding:6px 14px; border-radius:6px; '
-                    f'font-size:1.1rem; font-weight:600;">{tipo_icono} {tipo.upper()}</span>'
+                    f'font-size:1.1rem; font-weight:600;">{tipo.upper()}</span>'
                     f'<span style="background:{clima_c}; color:white; padding:6px 14px; border-radius:6px; '
-                    f'font-size:1.1rem; font-weight:600;">🌡️ {clima.upper()}{koppen}</span>'
+                    f'font-size:1.1rem; font-weight:600;">{clima.upper()}{koppen}</span>'
                     f'<span style="background:#455A64; color:white; padding:6px 14px; border-radius:6px; '
-                    f'font-size:1.1rem; font-weight:600;">🧱 {row["Sistema_constructivo"]}</span>'
+                    f'font-size:1.1rem; font-weight:600;">{row["Sistema_constructivo"]}</span>'
                     f'</div>'
                 )
                 st.markdown(badge_html, unsafe_allow_html=True)
@@ -404,13 +407,13 @@ with tab_m2:
                 subs_actuales = [s.strip() for s in (row["Subsistemas"] or "").split(";") if s.strip()]
                 if es_editable:
                     st.multiselect(
-                        "🧱 Subsistemas que toca el caso",
+                        "Subsistemas que toca el caso",
                         SUBSISTEMAS,
                         default=subs_actuales or ["integral"],
                         key=f"edit_{cid}_Subsistemas",
                     )
                 else:
-                    st.markdown(f"🧱 **Subsistemas:** {', '.join(subs_actuales) or '_sin definir_'}")
+                    st.markdown(f"**Subsistemas:** {', '.join(subs_actuales) or '_sin definir_'}")
 
                 # Estrategias por eje (read-only — vienen del fichaje)
                 cE1, cE2, cE3, cE4 = st.columns(4)
@@ -429,7 +432,7 @@ with tab_m2:
 
                 # Estándares M1 (editable si pendiente y no read-only)
                 st.markdown("---")
-                st.markdown("🔗 **Normativa / estándares M1 que materializa**")
+                st.markdown("**Normativa / estándares M1 que materializa**")
                 if es_editable:
                     st.text_input(
                         "IDs separados por ; (ej: MP-14; MA-22; SUDS-3)",
@@ -463,7 +466,7 @@ with tab_m2:
                     st.markdown(f"_Cumplimiento observado:_ {row['Cumplimiento_observado']}")
 
                 # Género e inclusión social (editable si pendiente)
-                st.markdown("♀ **Género / inclusión social** (Ley 2462/2025)")
+                st.markdown("**Género / inclusión social** (Ley 2462/2025)")
                 if es_editable:
                     st.text_area(
                         "Consideraciones de género/inclusión",
@@ -476,36 +479,45 @@ with tab_m2:
                 else:
                     st.markdown(row["Genero_inclusion"] or "_no especificado_")
 
-                # Fuente + botón abrir PDF
+                # Fuente + URL + botón abrir PDF
                 st.markdown("---")
                 fcol1, fcol2 = st.columns([3, 1])
                 with fcol1:
                     if es_editable:
                         st.text_input(
-                            "📖 Fuente (incluir página si se conoce)",
+                            "Fuente (incluir página si se conoce)",
                             value=row["Fuente_principal"],
                             key=f"edit_{cid}_Fuente_principal",
                             placeholder='ej: "Hábitat Para La Paz (PUJ, 2021), p. 45"',
                         )
+                        st.text_input(
+                            "URL pública (repositorio / DOI)",
+                            value=row.get("URL_fuente", ""),
+                            key=f"edit_{cid}_URL_fuente",
+                            placeholder="https://repositorio.universidad.edu.co/...",
+                        )
                     else:
-                        st.markdown(f"📖 **Fuente:** {row['Fuente_principal']}")
+                        st.markdown(f"**Fuente:** {row['Fuente_principal']}")
                     st.caption(f"_{row['Tipo_fuente']}_ · verificable: {row['Verificable']}"
                                + (f" · archivo: `{row['Archivo_fuente']}`" if row['Archivo_fuente'] else ""))
                 with fcol2:
-                    if READ_ONLY:
-                        if row["Archivo_fuente"]:
-                            st.caption(f"📄 `{row['Archivo_fuente']}`")
-                    elif row["Archivo_fuente"]:
-                        if st.button("📄 Abrir PDF", key=f"pdf_{cid}",
+                    # Link a URL pública (siempre visible si existe, funciona local y VPS)
+                    url = row.get("URL_fuente", "").strip()
+                    if url and url.startswith(("http://", "https://")):
+                        st.link_button("Abrir en navegador", url, width='stretch',
+                                       help="Abre el documento original en una pestaña nueva")
+                    # Botón PDF local (solo modo local, requiere archivo)
+                    if not READ_ONLY and row["Archivo_fuente"]:
+                        if st.button("Abrir PDF local", key=f"pdf_{cid}", width='stretch',
                                      help=f"Abre {row['Archivo_fuente']} con la app por defecto"):
                             ok, msg = abrir_pdf(row["Archivo_fuente"])
                             if not ok:
                                 st.error(f"No se pudo abrir: {msg}")
-                    else:
-                        st.caption("_sin PDF asignado_")
+                    elif READ_ONLY and row["Archivo_fuente"] and not url:
+                        st.caption(f"`{row['Archivo_fuente']}`")
 
                 if row["Lecciones_aprendidas"]:
-                    st.markdown(f"💡 **Lecciones:** {row['Lecciones_aprendidas']}")
+                    st.markdown(f"**Lecciones:** {row['Lecciones_aprendidas']}")
                 if row["Observaciones"]:
                     st.caption(f"Obs.: {row['Observaciones']}")
 
@@ -513,18 +525,18 @@ with tab_m2:
                 if READ_ONLY:
                     pass
                 elif not st.session_state.validador.strip():
-                    st.warning("⚠️ Define tu nombre arriba para poder validar/descartar.")
+                    st.warning("Define tu nombre arriba para poder validar/descartar.")
                 else:
                     bcol1, bcol2, bcol3, bcol4 = st.columns([1, 1, 2, 4])
                     if es_pendiente:
                         with bcol1:
-                            if st.button("✅ Validar", key=f"acc_{cid}", type="primary"):
+                            if st.button("Validar", key=f"acc_{cid}", type="primary"):
                                 edits = captura_edits(row, "edit")
                                 actualizar_caso(cid, "aceptado",
                                                 st.session_state.validador, edits=edits)
                                 st.rerun()
                         with bcol2:
-                            if st.button("❌ Descartar", key=f"desc_{cid}"):
+                            if st.button("Descartar", key=f"desc_{cid}"):
                                 st.session_state[f"confirm_desc_{cid}"] = True
                         with bcol3:
                             if st.session_state.get(f"confirm_desc_{cid}"):
@@ -542,15 +554,35 @@ with tab_m2:
                                     st.rerun()
                     else:
                         with bcol1:
-                            if st.button("↩ Reactivar", key=f"react_{cid}"):
+                            if st.button("Reactivar", key=f"react_{cid}"):
                                 actualizar_caso(cid, "pendiente_revision",
                                                 st.session_state.validador)
                                 st.rerun()
 
 
-# --- Footer ---
-st.divider()
-st.caption(
-    "Producto 1 — Levantamiento de información sobre estándares de sostenibilidad "
-    "para vivienda rural (Res. 0194/2025) · v0.2"
-)
+def _footer():
+    st.divider()
+    st.caption(
+        "Producto 1 — Levantamiento de información sobre estándares de sostenibilidad "
+        "para vivienda rural (Res. 0194/2025) · v0.3"
+    )
+
+
+# Wrap pages to add footer
+def _page_m1():
+    page_m1()
+    _footer()
+
+def _page_m2():
+    page_m2()
+    _footer()
+
+
+# ============================================================
+# Navegación multi-página (cada página tiene su propio sidebar)
+# ============================================================
+pg = st.navigation([
+    st.Page(_page_m1, title="M1 · Estándares de sostenibilidad", url_path="m1"),
+    st.Page(_page_m2, title="M2 · Casos de éxito", url_path="m2"),
+])
+pg.run()
