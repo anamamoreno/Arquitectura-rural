@@ -4,7 +4,7 @@
 
 **Total de referencias revisadas:** 35 documentos (24 originales + RETILAP + UPME).
 **Total de referencias en la Matriz:** 26.
-**Total de filas en la Matriz:** 189.
+**Total de filas en la Matriz:** 191.
 **Fecha de última actualización:** 2026-05-05.
 
 ---

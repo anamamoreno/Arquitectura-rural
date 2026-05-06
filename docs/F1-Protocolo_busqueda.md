@@ -13,7 +13,6 @@ Protocolo operativo para ejecutar un levantamiento de información **anclado en 
 ## 2. Documentos complementarios
 
 - `F0-Tabla_Maestra_Anexo1.md` — síntesis del marco normativo nacional (Res. 0194/2025).
-- `F0-Mapeo_climatico.md` — clasificación climática adoptada para el levantamiento.
 - `F4-Matriz_M1_diccionario.md` — diccionario de datos de la matriz de salida.
 
 ## 3. Criterios de inclusión
@@ -23,7 +22,7 @@ Una fuente entra si cumple **todos**:
 - Trata al menos 1 de los 5 ejes: bioclimática pasiva · eficiencia energética activa · eficiencia hídrica · materiales sostenibles · metodologías pre-diseño.
 - Aplicable a vivienda rural, VISR (vivienda de interés social rural), VIPR (vivienda de interés prioritario rural) o unifamiliar baja en contexto rural colombiano.
 - Clima colombiano (frío, templado, cálido seco, cálido húmedo) o asimilable por analogía (tropical, neotropical, andino — exclusivamente para completar vacíos).
-- Idioma: español, inglés o portugués.
+- Idioma: español
 - Publicado desde 2015 en adelante. Excepciones: arquitectura vernácula colombiana, normativa histórica colombiana.
 - Accesible a texto completo.
 

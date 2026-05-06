@@ -367,88 +367,141 @@ code {
   </script>
 <h1 id="tutorial-matriz-de-estándares-de-sostenibilidad">Tutorial: Matriz de estándares de sostenibilidad</h1>
 <blockquote>
-<p><strong>¿Qué es este documento?</strong> Guía para entender, consultar y filtrar la matriz <code>F0-Matriz_estandares_sostenibilidad.csv</code>. Explica qué significa cada campo, cada código y cada nomenclatura empleada. Para que cualquier integrante del equipo pueda abrir la matriz en Excel y encontrar respuestas sin ambigüedad.</p>
+<p><strong>¿Qué es este documento?</strong> Guía para entender, consultar y filtrar la matriz <code>F0-Matriz_estandares_sostenibilidad.csv</code>. Explica qué significa cada campo, cada código y cada nomenclatura empleada. Para que cualquier integrante del equipo pueda abrir la matriz en Excel o en la app y encontrar respuestas sin ambigüedad.</p>
 </blockquote>
 <p><strong>Archivo:</strong> <code>docs/F0-Matriz_estandares_sostenibilidad.csv</code>
-<strong>Contenido:</strong> 134 filas — todos los criterios, medidas, principios, enfoques y fines de los 4 marcos normativos del proyecto.
-<strong>Versión:</strong> 0.1 · <strong>Fecha:</strong> 2026-04-23.</p>
+<strong>Contenido:</strong> <strong>191 filas</strong> — todos los criterios, medidas, principios, enfoques y fines de <strong>26 fuentes normativas y documentales</strong>.
+<strong>Versión:</strong> 0.3 · <strong>Fecha:</strong> 2026-05-05.</p>
 <hr>
 <h2 id="1-qué-es-esta-matriz">1. Qué es esta matriz</h2>
-<p>Es el <strong>catálogo normativo consolidado</strong> del proyecto. Reúne en una sola tabla todo lo que las normas y marcos de referencia dicen sobre sostenibilidad en edificaciones, clasificado por eje, clima, aplicabilidad rural y carácter legal.</p>
-<p><strong>No es la Matriz M1.</strong> La M1 registra hallazgos de la búsqueda bibliográfica. Esta matriz registra lo que dicen las normas. Relación:</p>
+<p>Es el <strong>catálogo normativo consolidado</strong> del proyecto. Reúne en una sola tabla todo lo que las normas y marcos de referencia colombianos (más CEELA y UPME-PGEE) dicen sobre sostenibilidad en edificaciones, clasificado por eje, clima, aplicabilidad rural y carácter legal.</p>
+<p><strong>Distinta de la Matriz M2 (<code>F0-Matriz_casos_exito.csv</code>):</strong></p>
 <table>
 <thead>
 <tr>
-<th>Esta matriz (F0-Estándares)</th>
-<th>Matriz M1 (F1/F4-Hallazgos)</th>
+<th>Esta matriz (M1 — Estándares)</th>
+<th>Matriz M2 (Casos de éxito)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><strong>Lo que exige la norma</strong></td>
-<td><strong>Lo que se encontró en la literatura</strong></td>
+<td><strong>Lo que se construyó en proyectos reales</strong></td>
 </tr>
 <tr>
-<td>134 filas fijas</td>
-<td>~100–150 filas crecientes</td>
+<td>191 filas, 26 fuentes, 20 columnas</td>
+<td>31 casos, 29 columnas</td>
 </tr>
 <tr>
-<td>Se construyó una vez</td>
-<td>Se llena durante la ejecución</td>
+<td>Se construyó como inventario fijo</td>
+<td>Se llena con proyectos vernáculos y contemporáneos</td>
 </tr>
 <tr>
-<td>Cada fila de M1 apunta aquí</td>
-<td>Las columnas <code>Medida_Anexo1_ref</code>, <code>Criterio_0534_ref</code>, <code>Criterio_CEELA_ref</code> de M1 usan los IDs de esta matriz</td>
+<td>Cada caso de M2 referencia IDs de aquí (campo <code>Estandares_ref</code>)</td>
+<td>M2 ilustra cómo se materializan los estándares de M1</td>
 </tr>
 </tbody>
 </table>
+<p>Para detalle del inventario completo de fuentes y su aporte por filas, ver <code>F0-Lista_referencias_y_aportes.md</code>.</p>
 <h2 id="2-cómo-abrirla">2. Cómo abrirla</h2>
 <ol>
 <li>Ir a <code>docs/F0-Matriz_estandares_sostenibilidad.csv</code>.</li>
-<li><strong>Excel:</strong> doble clic. Si todo aparece en una columna → <code>Datos → Desde texto/CSV</code> → separador <strong>coma</strong> → codificación <strong>UTF-8</strong>.</li>
+<li><strong>Excel:</strong> doble clic. Si todo aparece en una columna → <code>Datos → Desde texto/CSV</code> → separador <strong>coma</strong> → codificación <strong>UTF-8 con BOM</strong>.</li>
 <li><strong>Google Sheets:</strong> subir a Drive → Abrir con Google Sheets.</li>
+<li><strong>App Streamlit:</strong> http://localhost:8504/m1 (local) o https://app.uxtic.co/artefactos/viviendarural/m1 (VPS) — incluye filtros y el botón &quot;abrir&quot; para consultar la fuente original.</li>
 </ol>
-<h2 id="3-los-19-campos--nomenclatura-completa">3. Los 19 campos — nomenclatura completa</h2>
+<h2 id="3-los-20-campos--nomenclatura-completa">3. Los 20 campos — nomenclatura completa</h2>
 <h3 id="campo-1-referencia">Campo 1: <code>Referencia</code></h3>
-<p>El marco normativo de donde proviene el criterio.</p>
+<p>El marco normativo o documental de donde proviene cada fila. Hay <strong>26 valores únicos</strong>. Para definición completa de cada uno con URL, ver <code>F0-Lista_referencias_y_aportes.md</code>. Resumen:</p>
 <table>
 <thead>
 <tr>
 <th>Valor</th>
-<th>Marco completo</th>
-<th>Año</th>
-<th>Entidad</th>
+<th>Tipo</th>
+<th>Filas</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><code>Res.0194</code></td>
-<td>Resolución 0194 de 2025 — Anexo 1: Guía de ahorro de agua y energía en edificaciones</td>
-<td>2025</td>
-<td>MVCT</td>
-</tr>
-<tr>
 <td><code>Res.0534</code></td>
-<td>Resolución 0534 de 2025 — Guía Técnica: Criterios de Sostenibilidad para Edificaciones — Ciclo de Vida</td>
-<td>2025</td>
-<td>MVCT</td>
+<td>Resolución 0534/2025 — Guía Técnica Ciclo de Vida (MVCT)</td>
+<td>53</td>
 </tr>
 <tr>
-<td><code>CEELA</code></td>
-<td>Certificación de Edificaciones Eficientes en Latinoamérica</td>
-<td>—</td>
-<td>IFC / Banco Mundial</td>
+<td><code>Res.0194</code></td>
+<td>Resolución 0194/2025 — Anexo 1: Guía de ahorro agua y energía (MVCT)</td>
+<td>38</td>
 </tr>
 <tr>
 <td><code>Ley.2462</code></td>
-<td>Ley 2462 de 2025 — Igualdad de oportunidades mujeres rurales, campesinas y de la pesca</td>
-<td>2025</td>
-<td>Congreso de Colombia</td>
+<td>Ley 2462/2025 — Igualdad de oportunidades mujer rural</td>
+<td>28</td>
+</tr>
+<tr>
+<td><code>CEELA</code></td>
+<td>Certificación de Edificaciones Eficientes en Latinoamérica (IFC/COSUDE)</td>
+<td>15</td>
+</tr>
+<tr>
+<td><code>UPME-PGEE</code></td>
+<td>Cartilla y Guía PGEE-EP — Planes de Gestión Eficiente de Energía (UPME)</td>
+<td>10</td>
+</tr>
+<tr>
+<td><code>GuiaMej-MVCT</code></td>
+<td>Guía de Sostenibilidad para Mejoramientos de Vivienda (MVCT)</td>
+<td>8</td>
+</tr>
+<tr>
+<td><code>SUDS-MVCT</code></td>
+<td>Guía Metodológica SUDS (MVCT/DNP)</td>
+<td>6</td>
+</tr>
+<tr>
+<td><code>EC-MADS</code>, <code>PNVISR</code>, <code>ParamSFVR</code></td>
+<td>Política y estrategia nacional</td>
+<td>4 c/u</td>
+</tr>
+<tr>
+<td><code>RAS</code>, <code>RETILAP</code></td>
+<td>Reglamentos técnicos sectoriales</td>
+<td>3 c/u</td>
+</tr>
+<tr>
+<td><code>R0019</code></td>
+<td>Resolución 0019/2022 — Requisitos sostenibilidad FRECH NO VIS (MVCT)</td>
+<td>2</td>
+</tr>
+<tr>
+<td><code>D1285</code>, <code>D1467</code>, <code>D1727</code>, <code>D948</code>, <code>D1443</code></td>
+<td>Decretos reglamentarios</td>
+<td>1 c/u</td>
+</tr>
+<tr>
+<td><code>L1715</code>, <code>L373</code>, <code>L1931</code>, <code>L1819</code></td>
+<td>Leyes complementarias</td>
+<td>1 c/u</td>
+</tr>
+<tr>
+<td><code>R0472</code>, <code>R0541</code></td>
+<td>Resoluciones complementarias</td>
+<td>1 c/u</td>
+</tr>
+<tr>
+<td><code>CCCS-2024</code>, <code>ST333</code></td>
+<td>Informe sectorial / jurisprudencia</td>
+<td>1 c/u</td>
 </tr>
 </tbody>
 </table>
-<hr>
-<h3 id="campo-2-id">Campo 2: <code>ID</code></h3>
+<h3 id="campo-2-url_fuente">Campo 2: <code>URL_fuente</code></h3>
+<p>URL pública oficial del documento que respalda la fila. Las 191 filas tienen URL verificado.</p>
+<ul>
+<li>Sirve para abrir la fuente original en una pestaña nueva (la app la renderiza como botón clickeable)</li>
+<li>Apunta a sitios oficiales: <code>minvivienda.gov.co</code>, <code>funcionpublica.gov.co/eva/gestornormativo</code>, <code>proyectoceela.com</code>, <code>minenergia.gov.co</code>, etc.</li>
+<li><strong>Las filas con misma <code>Referencia</code> comparten URL</strong> (es atributo de la fuente, no del criterio)</li>
+</ul>
+<h3 id="campo-3-id">Campo 3: <code>ID</code></h3>
 <p>Código único de cada criterio dentro de su marco. Nomenclatura por marco:</p>
 <h4 id="res-0194--38-medidas">Res. 0194 — 38 medidas</h4>
 <table>
@@ -475,13 +528,13 @@ code {
 </tr>
 <tr>
 <td><code>MW-</code></td>
-<td><strong>M</strong>edida de eficiencia en agua (<em>W</em>ater)</td>
+<td><strong>M</strong>edida de eficiencia hídrica (<em><strong>W</strong>ater</em>)</td>
 <td>MW-01 a MW-10</td>
 <td><code>MW-08</code> = Captación aguas lluvias</td>
 </tr>
 </tbody>
 </table>
-<h4 id="res-0534--42-criterios">Res. 0534 — 42 criterios</h4>
+<h4 id="res-0534--53-criterios">Res. 0534 — 53 criterios</h4>
 <table>
 <thead>
 <tr>
@@ -509,7 +562,7 @@ code {
 <tr>
 <td><code>A-M-</code></td>
 <td><strong>A</strong>mbiental — <strong>M</strong>ateriales</td>
-<td><code>A-M-1</code> = Diseño con materiales sostenibles</td>
+<td><code>A-M-1</code> = Materiales con bajo impacto</td>
 </tr>
 <tr>
 <td><code>A-S-</code></td>
@@ -578,7 +631,7 @@ code {
 </tr>
 </tbody>
 </table>
-<h4 id="ceela--15-principios">CEELA — 15 principios</h4>
+<h4 id="ceela--15-criterios-originalmente-principios">CEELA — 15 criterios (originalmente &quot;principios&quot;)</h4>
 <table>
 <thead>
 <tr>
@@ -595,6 +648,9 @@ code {
 </tr>
 </tbody>
 </table>
+<blockquote>
+<p>En CEELA original se llaman &quot;principios&quot;; en M1 se codifican como <code>Tipo=criterio</code> para alineación con el TdR. Ver <code>Glosario_terminos.md</code>.</p>
+</blockquote>
 <h4 id="ley-2462--12-enfoques--16-fines">Ley 2462 — 12 enfoques + 16 fines</h4>
 <table>
 <thead>
@@ -608,85 +664,166 @@ code {
 <tbody>
 <tr>
 <td><code>L-E</code></td>
-<td>Enfoque de la <strong>L</strong>ey (perspectiva/lente desde el cual mirar)</td>
+<td><strong>E</strong>nfoque de la Ley (perspectiva/lente desde el cual mirar)</td>
 <td>L-E01 a L-E12</td>
 <td><code>L-E10</code> = Enfoque de cuidado</td>
 </tr>
 <tr>
 <td><code>L-F</code></td>
-<td>Fin de la <strong>L</strong>ey (resultado concreto a lograr)</td>
+<td><strong>F</strong>in de la Ley (resultado concreto a lograr)</td>
 <td>L-F01 a L-F16</td>
 <td><code>L-F03</code> = Reducir carga trabajo doméstico</td>
 </tr>
 </tbody>
 </table>
-<hr>
-<h3 id="campo-3-criterio_medida">Campo 3: <code>Criterio_medida</code></h3>
+<h4 id="upme-pgee--10-filas">UPME-PGEE — 10 filas</h4>
+<table>
+<thead>
+<tr>
+<th>Prefijo</th>
+<th>Rango</th>
+<th>Ejemplo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>UPME-</code></td>
+<td>UPME-1 a UPME-10</td>
+<td><code>UPME-3</code> = Indicadores Desempeño Energético (IDE)</td>
+</tr>
+</tbody>
+</table>
+<h4 id="otras">Otras</h4>
+<table>
+<thead>
+<tr>
+<th>Prefijo</th>
+<th>Marco</th>
+<th>Ejemplo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>RET-</code></td>
+<td>RETILAP</td>
+<td><code>RET-2</code> = Diseño iluminación interior vivienda</td>
+</tr>
+<tr>
+<td><code>R0019-</code></td>
+<td>Resolución 0019/2022</td>
+<td><code>R0019-1</code> = Sellos verdes FRECH NO VIS</td>
+</tr>
+<tr>
+<td><code>SUDS-</code></td>
+<td>Guía SUDS-MVCT</td>
+<td><code>SUDS-4</code> = Cisterna/aljibe</td>
+</tr>
+<tr>
+<td><code>PNVISR-</code>, <code>ParamSFVR-</code>, <code>GM-X-</code>, etc.</td>
+<td>Otros</td>
+<td>Códigos específicos de cada fuente</td>
+</tr>
+<tr>
+<td><code>Decretos</code>, <code>Leyes</code>, <code>Resoluciones</code></td>
+<td>Sigla del documento</td>
+<td><code>D1727-1</code>, <code>L1715-1</code>, <code>R0472-1</code>, <code>ST333-1</code></td>
+</tr>
+</tbody>
+</table>
+<h3 id="campo-4-criterio_medida">Campo 4: <code>Criterio_medida</code></h3>
 <p>Nombre corto del criterio, medida, principio, enfoque o fin. Texto libre.</p>
-<hr>
-<h3 id="campo-4-descripcion">Campo 4: <code>Descripcion</code></h3>
-<p>Descripción en máximo 200 caracteres. Explica qué es y cómo funciona.</p>
-<hr>
-<h3 id="campo-5-tipo">Campo 5: <code>Tipo</code></h3>
-<p>Naturaleza del criterio. Indica de qué clase de instrumento se trata.</p>
+<h3 id="campo-5-descripcion">Campo 5: <code>Descripcion</code></h3>
+<p>Descripción técnica con cita del marco normativo. Hasta ~300 caracteres.</p>
+<h3 id="campo-6-tipo">Campo 6: <code>Tipo</code></h3>
+<p>Naturaleza del criterio. Indica de qué clase de instrumento se trata. <strong>12 valores activos</strong> en M1:</p>
 <table>
 <thead>
 <tr>
 <th>Valor</th>
 <th>Significado</th>
 <th>Marcos donde aparece</th>
+<th>Filas</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><code>medida_pasiva</code></td>
-<td>Estrategia de diseño arquitectónico sin sistemas mecánicos</td>
-<td>Res. 0194</td>
-</tr>
-<tr>
-<td><code>medida_activa</code></td>
-<td>Sistema mecánico/eléctrico de bajo consumo</td>
-<td>Res. 0194</td>
-</tr>
-<tr>
-<td><code>medida_hidrica</code></td>
-<td>Estrategia de ahorro, captación o reúso de agua</td>
-<td>Res. 0194</td>
-</tr>
-<tr>
 <td><code>criterio_ambiental</code></td>
 <td>Criterio técnico de la dimensión ambiental</td>
 <td>Res. 0534</td>
+<td>68</td>
 </tr>
 <tr>
 <td><code>criterio_social</code></td>
 <td>Criterio técnico de la dimensión social (confort, salud, accesibilidad)</td>
 <td>Res. 0534</td>
+<td>23</td>
 </tr>
 <tr>
-<td><code>criterio_economico</code></td>
-<td>Criterio técnico de la dimensión económica (costos, comercial)</td>
-<td>Res. 0534</td>
-</tr>
-<tr>
-<td><code>principio</code></td>
-<td>Principio conceptual de diseño sostenible</td>
-<td>CEELA</td>
-</tr>
-<tr>
-<td><code>enfoque</code></td>
-<td>Perspectiva/lente obligatorio para políticas públicas de mujer rural</td>
-<td>Ley 2462</td>
+<td><code>criterio</code></td>
+<td>Criterio genérico (incluye los 15 CEELA renombrados de &quot;principio&quot;)</td>
+<td>CEELA + otros</td>
+<td>18</td>
 </tr>
 <tr>
 <td><code>fin</code></td>
-<td>Resultado concreto que el Estado debe lograr para mujeres rurales</td>
+<td>Resultado concreto que el Estado debe lograr</td>
 <td>Ley 2462</td>
+<td>16</td>
+</tr>
+<tr>
+<td><code>medida_pasiva</code></td>
+<td>Estrategia de diseño arquitectónico sin sistemas mecánicos</td>
+<td>Res. 0194</td>
+<td>15</td>
+</tr>
+<tr>
+<td><code>medida_activa</code></td>
+<td>Sistema mecánico/eléctrico de bajo consumo</td>
+<td>Res. 0194</td>
+<td>13</td>
+</tr>
+<tr>
+<td><code>enfoque</code></td>
+<td>Perspectiva/lente obligatoria para políticas públicas</td>
+<td>Ley 2462 + PNVISR</td>
+<td>12</td>
+</tr>
+<tr>
+<td><code>medida_hidrica</code></td>
+<td>Estrategia de ahorro, captación o reúso de agua</td>
+<td>Res. 0194</td>
+<td>10</td>
+</tr>
+<tr>
+<td><code>criterio_economico</code></td>
+<td>Criterio técnico de la dimensión económica</td>
+<td>Res. 0534</td>
+<td>7</td>
+</tr>
+<tr>
+<td><code>criterio_metodologico</code></td>
+<td>Procedimiento técnico o método de evaluación (renombrado de <code>metodologia</code>)</td>
+<td>UPME-PGEE</td>
+<td>5</td>
+</tr>
+<tr>
+<td><code>lineamiento</code></td>
+<td>Directriz institucional general (intermedia entre Estándar y Criterio)</td>
+<td>UPME-PGEE</td>
+<td>1</td>
+</tr>
+<tr>
+<td><code>medida</code></td>
+<td>Medida genérica que no encaja en pasiva/activa/hídrica</td>
+<td>UPME-PGEE</td>
+<td>1</td>
 </tr>
 </tbody>
 </table>
-<hr>
-<h3 id="campo-6-etapa_ciclo_vida">Campo 6: <code>Etapa_ciclo_vida</code></h3>
+<blockquote>
+<p>Para la jerarquía conceptual completa (Fin → Enfoque → Estándar → Estrategia → Criterio → Medida), ver <code>Glosario_terminos.md</code>.</p>
+</blockquote>
+<h3 id="campo-7-etapa_ciclo_vida">Campo 7: <code>Etapa_ciclo_vida</code></h3>
 <p>Fase del ciclo de vida de la edificación donde aplica el criterio.</p>
 <table>
 <thead>
@@ -699,6 +836,10 @@ code {
 <tr>
 <td><code>extracción/manufactura</code></td>
 <td>Extracción de materias primas y fabricación de materiales</td>
+</tr>
+<tr>
+<td><code>pre-diseño</code></td>
+<td>Antes del diseño formal (diagnóstico, línea base)</td>
 </tr>
 <tr>
 <td><code>diseño</code></td>
@@ -726,9 +867,8 @@ code {
 </tr>
 </tbody>
 </table>
-<hr>
-<h3 id="campos-710-e1_bioclimatica-e2_energia-e3_agua-e4_materiales">Campos 7–10: <code>E1_bioclimatica</code>, <code>E2_energia</code>, <code>E3_agua</code>, <code>E4_materiales</code></h3>
-<p>Los 4 ejes de sostenibilidad del TdR. Cada criterio se clasifica por su relación con cada eje.</p>
+<h3 id="campos-811-e1_bioclimatica-e2_energia-e3_agua-e4_materiales">Campos 8–11: <code>E1_bioclimatica</code>, <code>E2_energia</code>, <code>E3_agua</code>, <code>E4_materiales</code></h3>
+<p>Los <strong>4 ejes de sostenibilidad del TdR</strong>. Cada criterio se clasifica por su relación con cada eje. <strong>Los valores son palabras completas</strong> (no códigos):</p>
 <table>
 <thead>
 <tr>
@@ -738,20 +878,20 @@ code {
 </thead>
 <tbody>
 <tr>
-<td><code>P</code></td>
-<td><strong>Principal</strong> — el eje es el destino natural de este criterio</td>
+<td><code>Principal</code></td>
+<td>El eje es el <strong>destino natural</strong> del criterio. La fila aborda ese eje como tema central</td>
 </tr>
 <tr>
-<td><code>C</code></td>
-<td><strong>Complementario</strong> — toca el eje como efecto secundario</td>
+<td><code>Complementario</code></td>
+<td>El criterio <strong>toca el eje como efecto secundario</strong>, no es su foco principal</td>
 </tr>
 <tr>
-<td><code>T</code></td>
-<td><strong>Transversal</strong> — aplica a todos los ejes por igual (no es técnico sino de proceso o política)</td>
+<td><code>Transversal</code></td>
+<td>El criterio <strong>aplica a todos los ejes por igual</strong> (típico de C01 Diseño integrado, C11 Comportamiento usuario)</td>
 </tr>
 <tr>
 <td><em>(vacío)</em></td>
-<td>No tiene relación con este eje</td>
+<td>El criterio no tiene relación con este eje</td>
 </tr>
 </tbody>
 </table>
@@ -773,7 +913,7 @@ code {
 <tr>
 <td><strong>E2</strong></td>
 <td>Estrategias de eficiencia energética de sistemas activos</td>
-<td>Sistemas mecánicos/eléctricos: LED, paneles solares, estufas eficientes, calentadores solares, FNCE, HVAC eficiente</td>
+<td>Sistemas mecánicos/eléctricos: LED, paneles solares, estufas eficientes, calentadores solares, FNCE, HVAC eficiente, monitoreo</td>
 </tr>
 <tr>
 <td><strong>E3</strong></td>
@@ -787,58 +927,116 @@ code {
 </tr>
 </tbody>
 </table>
-<hr>
-<h3 id="campo-11-enfoque_genero">Campo 11: <code>Enfoque_genero</code></h3>
-<p>Conexión del criterio con género, economía del cuidado o impacto diferencial en mujeres rurales. Texto libre basado en la Ley 2462/2025.</p>
+<p><strong>Ejemplos de lectura:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Fila</th>
+<th>E1</th>
+<th>E2</th>
+<th>E3</th>
+<th>E4</th>
+<th>Lectura</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>MP-14 Ventilación natural</td>
+<td>Principal</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>Es bioclimática pura</td>
+</tr>
+<tr>
+<td>MP-09 Valor U paredes externas</td>
+<td>Principal</td>
+<td>—</td>
+<td>—</td>
+<td>Complementario</td>
+<td>Aislamiento bioclimático con efecto en materiales</td>
+</tr>
+<tr>
+<td>MA-01 Iluminación natural + sensores</td>
+<td>Complementario</td>
+<td>Principal</td>
+<td>—</td>
+<td>—</td>
+<td>Foco en sistema activo, aporta a bioclimática</td>
+</tr>
+<tr>
+<td>C01 Diseño integrado (CEELA)</td>
+<td>Transversal</td>
+<td>Transversal</td>
+<td>Transversal</td>
+<td>Transversal</td>
+<td>Enfoque de proceso, toca los 4 ejes</td>
+</tr>
+</tbody>
+</table>
+<h3 id="campo-12-notas">Campo 12: <code>Notas</code></h3>
+<p>Texto libre con observaciones sobre el criterio. Sirve para todos los temas:</p>
+<ul>
+<li>Aplicabilidad y alternativas vernáculas en vivienda rural</li>
+<li>Conexiones con género y datos ENUT 2024–2025</li>
+<li>Conexiones con inclusión social (accesibilidad, adecuación cultural)</li>
+<li>Métricas técnicas, materiales locales</li>
+<li>Vacíos normativos y alertas</li>
+</ul>
 <p><strong>Ejemplos:</strong></p>
 <ul>
-<li><code>Reduce acarreo agua mujeres/niñas (Ley 2462 Fin 3)</code></li>
-<li><code>Cocina; patio; zona lavado; espacio artesanía</code></li>
-<li><code>Estufa eficiente; captación pluvial; iluminación</code></li>
-<li><em>(vacío)</em> = sin conexión directa con género</li>
+<li><em>&quot;Aleros &gt;80 cm son la estrategia vernácula más común en vivienda rural colombiana. Bajo costo; alta efectividad; fácil de construir con mano de obra local&quot;</em></li>
+<li><em>&quot;ENUT 2024-25: mujeres rurales 8h53min/día trabajo no remunerado; captación pluvial elimina acarreo agua (Ley 2462 Fin 3)&quot;</em></li>
+<li><em>&quot;Vidrios especiales tienen costo alto para VIS rural (70 SMLV). Alternativa: reducir área vidriada + protección solar externa&quot;</em></li>
 </ul>
-<hr>
-<h3 id="campo-12-inclusion_social">Campo 12: <code>Inclusion_social</code></h3>
-<p>Conexión con discapacidad, comunidades étnicas, adultos mayores, víctimas del conflicto u otras poblaciones vulnerables. Texto libre.</p>
-<p><strong>Ejemplos:</strong></p>
-<ul>
-<li><code>NTC 6047; Ley 361/1997; Ley 1618/2013</code></li>
-<li><code>Saberes constructivos ancestrales</code></li>
-<li><code>Participación comunitaria en diseño</code></li>
-<li><em>(vacío)</em> = sin conexión directa</li>
-</ul>
-<hr>
-<h3 id="campo-13-aplica_vivienda_rural">Campo 13: <code>Aplica_vivienda_rural</code></h3>
+<p>Cuando combina varios temas, se separan con <code>|</code>.</p>
+<h3 id="campo-13-ref_ley2462">Campo 13: <code>Ref_Ley2462</code></h3>
+<p>Códigos de la Ley 2462/2025 (enfoques y fines) que aplican a este criterio. Permite <strong>filtrar</strong> todos los criterios con conexión a género e inclusión social sin leer el texto libre.</p>
+<table>
+<thead>
+<tr>
+<th>Formato</th>
+<th>Ejemplo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Códigos separados por <code>;</code></td>
+<td><code>L-F03; L-E10</code></td>
+</tr>
+<tr>
+<td>Vacío si no aplica</td>
+<td><em>(vacío)</em></td>
+</tr>
+</tbody>
+</table>
+<p>Para detalle de cada código, ver fila correspondiente en M1 (<code>Referencia=Ley.2462</code>).</p>
+<h3 id="campo-14-aplica_vivienda_rural">Campo 14: <code>Aplica_vivienda_rural</code></h3>
 <p>¿Es viable o pertinente para vivienda rural unifamiliar VIS/VIP de un piso?</p>
 <table>
 <thead>
 <tr>
 <th>Valor</th>
 <th>Significado</th>
-<th>Cuántas filas</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><code>si</code></td>
 <td>Aplica directamente</td>
-<td>110</td>
 </tr>
 <tr>
 <td><code>condicional</code></td>
 <td>Aplica según clima, presupuesto o infraestructura disponible</td>
-<td>16</td>
 </tr>
 <tr>
 <td><code>no</code></td>
-<td>No aplica — diseñado para edificaciones comerciales/industriales</td>
-<td>8</td>
+<td>No aplica — diseñado para edificaciones comerciales/industriales o programas urbanos (ej. R0019 FRECH NO VIS)</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Para trabajar solo con lo relevante:</strong> filtrar <code>si</code> + <code>condicional</code> → quedan <strong>126 criterios</strong>.</p>
-<hr>
-<h3 id="campo-14-clima">Campo 14: <code>Clima</code></h3>
+<p><strong>Para trabajar solo con lo relevante:</strong> filtrar <code>si</code> + <code>condicional</code>.</p>
+<h3 id="campo-15-clima">Campo 15: <code>Clima</code></h3>
 <p>Clima(s) donde aplica el criterio. Basado en la clasificación Caldas-Lang adoptada por el Anexo 1.</p>
 <table>
 <thead>
@@ -858,7 +1056,7 @@ code {
 </tr>
 <tr>
 <td><code>calido_seco</code></td>
-<td>Cálido seco (HR &lt;75%) — Cali, Guajira, Tatacoa, Llanos</td>
+<td>Cálido seco (HR &lt;75%) — Cali, Guajira, Tatacoa, Llanos secos</td>
 </tr>
 <tr>
 <td><code>calido_humedo</code></td>
@@ -871,82 +1069,70 @@ code {
 </tbody>
 </table>
 <p>Cuando un criterio aplica a varios climas pero no a todos, se separan con espacio: <code>frio templado</code>.</p>
-<hr>
-<h3 id="campo-15-subsistema">Campo 15: <code>Subsistema</code></h3>
-<p>Subsistema constructivo donde se implementa el criterio.</p>
+<h3 id="campo-16-subsistema">Campo 16: <code>Subsistema</code></h3>
+<p>Subsistema constructivo donde se implementa el criterio. <strong>Valores con nombre completo</strong> (no códigos):</p>
 <table>
 <thead>
 <tr>
-<th>Código</th>
-<th>Subsistema</th>
+<th>Valor</th>
 <th>Función</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><code>S1</code></td>
-<td>Cimentación</td>
+<td><code>Cimentación</code></td>
 <td>Transmite cargas al suelo; aísla de humedad</td>
 </tr>
 <tr>
-<td><code>S2</code></td>
-<td>Estructura</td>
+<td><code>Estructura</code></td>
 <td>Soporta cargas verticales y laterales (muros portantes, pórticos)</td>
 </tr>
 <tr>
-<td><code>S3</code></td>
-<td>Envolvente</td>
+<td><code>Envolvente</code></td>
 <td>Cierra el volumen interior (muros divisorios, ventanas, puertas)</td>
 </tr>
 <tr>
-<td><code>S4</code></td>
-<td>Cubierta</td>
+<td><code>Cubierta</code></td>
 <td>Protege de lluvia y radiación (estructura techo + cobertura + aleros)</td>
 </tr>
 <tr>
-<td><code>S5</code></td>
-<td>Instalaciones</td>
+<td><code>Instalaciones</code></td>
 <td>Hidráulica, sanitaria, eléctrica, gas, paneles solares, biodigestor</td>
 </tr>
 <tr>
-<td><code>S6</code></td>
-<td>Acabados y complementos</td>
+<td><code>Acabados y complementos</code></td>
 <td>No estructurales: pintura, pisos, aislantes, protección solar añadida</td>
 </tr>
 <tr>
 <td><code>Exterior</code></td>
-<td>Espacio exterior</td>
 <td>Patios, jardines, paisajismo, drenaje</td>
 </tr>
 <tr>
 <td><code>todos</code></td>
-<td>Aplica a toda la vivienda</td>
-<td>Criterios de proceso o política general</td>
+<td>Toda la vivienda (criterios de proceso o política general)</td>
 </tr>
 <tr>
 <td><code>na</code></td>
-<td>No aplica a un subsistema específico</td>
-<td>Enfoques legales, políticas de compras</td>
+<td>No aplica a un subsistema específico (enfoques legales, políticas)</td>
 </tr>
 </tbody>
 </table>
-<p>Cuando aplica a varios se separan con espacio: <code>S2 S3</code>.</p>
-<hr>
-<h3 id="campo-16-caracter_legal">Campo 16: <code>Caracter_legal</code></h3>
+<p>Cuando aplica a varios se separan con espacio: <code>Estructura Envolvente</code>.</p>
+<h3 id="campo-17-caracter_legal">Campo 17: <code>Caracter_legal</code></h3>
 <p>¿Es exigible por ley colombiana o es voluntario?</p>
 <table>
 <thead>
 <tr>
 <th>Valor</th>
 <th>Significado</th>
-<th>Marcos</th>
+<th>Marcos típicos</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><code>obligatorio</code></td>
 <td>Exigible por ley o resolución ministerial — puede haber sanción por incumplimiento</td>
-<td>Res. 0194, Res. 0534, Ley 2462</td>
+<td>Res. 0194, Res. 0534, Ley 2462, RAS, RETILAP, R0019</td>
 </tr>
 <tr>
 <td><code>voluntario</code></td>
@@ -954,14 +1140,18 @@ code {
 <td>CEELA</td>
 </tr>
 <tr>
+<td><code>recomendado</code></td>
+<td>Sugerido por la entidad sectorial pero no obligatorio</td>
+<td>UPME-PGEE (mayoría)</td>
+</tr>
+<tr>
 <td><code>condicional</code></td>
-<td>El nivel mínimo es obligatorio pero los niveles superiores (deseable/avanzado) son voluntarios</td>
+<td>El nivel mínimo es obligatorio pero los niveles superiores son voluntarios</td>
 <td>Algunos criterios de Res. 0534</td>
 </tr>
 </tbody>
 </table>
-<hr>
-<h3 id="campo-17-nivel_cumplimiento">Campo 17: <code>Nivel_cumplimiento</code></h3>
+<h3 id="campo-18-nivel_cumplimiento">Campo 18: <code>Nivel_cumplimiento</code></h3>
 <p>Nivel de exigencia <strong>dentro</strong> del criterio. Diferente del carácter legal.</p>
 <table>
 <thead>
@@ -985,27 +1175,26 @@ code {
 <tr>
 <td><code>minimo</code></td>
 <td>Nivel base obligatorio que todo proyecto debe cumplir</td>
-<td>Res. 0534</td>
+<td>Res. 0534, RETILAP, R0019</td>
 </tr>
 <tr>
 <td><code>deseable</code></td>
 <td>Nivel intermedio voluntario que mejora el desempeño</td>
-<td>Res. 0534</td>
+<td>Res. 0534, UPME-PGEE</td>
 </tr>
 <tr>
 <td><code>avanzado</code></td>
 <td>Nivel superior voluntario de excelencia</td>
-<td>Res. 0534</td>
+<td>Res. 0534, UPME-PGEE</td>
 </tr>
 <tr>
 <td><code>na</code></td>
-<td>No aplica (principios CEELA y enfoques/fines Ley 2462 no tienen niveles)</td>
-<td>CEELA, Ley 2462</td>
+<td>No aplica (enfoques/fines de Ley 2462 no tienen niveles)</td>
+<td>Ley 2462</td>
 </tr>
 </tbody>
 </table>
-<hr>
-<h3 id="campo-18-parametro_indicador">Campo 18: <code>Parametro_indicador</code></h3>
+<h3 id="campo-19-parametro_indicador">Campo 19: <code>Parametro_indicador</code></h3>
 <p>Métrica cuantitativa asociada al criterio, si existe. Vacío si no tiene indicador numérico.</p>
 <p><strong>Ejemplos:</strong></p>
 <ul>
@@ -1016,15 +1205,18 @@ code {
 <li><code>kg CO₂eq/kg</code> — huella de carbono</li>
 <li><code>% ahorro vs línea base</code> — eficiencia</li>
 <li><code>dBA</code> — ruido</li>
+<li><code>kWh/m²/año</code> — desempeño energético (UPME-PGEE)</li>
+<li><code>Clase RETIQ (A; B; C…)</code> — etiquetado eficiencia (UPME-PGEE)</li>
+<li><code>≥25% energía; 25% agua; 20% materiales</code> — niveles EDGE (R0019)</li>
 </ul>
-<hr>
-<h3 id="campo-19-correspondencia_cruzada">Campo 19: <code>Correspondencia_cruzada</code></h3>
+<h3 id="campo-20-correspondencia_cruzada">Campo 20: <code>Correspondencia_cruzada</code></h3>
 <p>IDs de criterios <strong>equivalentes en otros marcos</strong> que cubren el mismo tema. Permite ver qué dice cada norma sobre un mismo asunto.</p>
 <p><strong>Formato:</strong> <code>Marco:ID; Marco:ID</code></p>
 <p><strong>Ejemplos:</strong></p>
 <ul>
-<li><code>Res.0534:S-CT-1; CEELA:C04</code> → inercia térmica está en Res. 0194 (MP-13), en Res. 0534 (S-CT-1) y en CEELA (C04)</li>
-<li><code>Ley.2462:L-F03</code> → captación pluvial tiene conexión con el Fin 3 de la Ley 2462 (reducir carga doméstica)</li>
+<li><code>Res.0534:S-CT-1; CEELA:C04</code> → inercia térmica está en Res. 0194 (MP-13), Res. 0534 (S-CT-1) y CEELA (C04)</li>
+<li><code>Ley.2462:L-F03</code> → captación pluvial conecta con el Fin 3 de la Ley 2462 (reducir carga doméstica)</li>
+<li><code>Res.0194:MA-02; CEELA:C10; PROURE Res.41286/2016</code> → eficiencia LED conecta múltiples marcos</li>
 </ul>
 <hr>
 <h2 id="4-consultas-frecuentes-cómo-filtrar">4. Consultas frecuentes (cómo filtrar)</h2>
@@ -1036,13 +1228,14 @@ code {
 </ol>
 <h3 id="qué-criterios-hay-sobre-materiales-sostenibles">&quot;¿Qué criterios hay sobre materiales sostenibles?&quot;</h3>
 <ol>
-<li>Filtrar <code>E4_materiales</code> = <code>P</code></li>
-<li>Ver los resultados de los 4 marcos</li>
+<li>Filtrar <code>E4_materiales</code> = <code>Principal</code></li>
+<li>Ver los resultados de los 26 marcos</li>
 </ol>
-<h3 id="qué-criterios-tienen-enfoque-de-género">&quot;¿Qué criterios tienen enfoque de género?&quot;</h3>
+<h3 id="qué-criterios-tienen-enfoque-de-género-o-inclusión-social">&quot;¿Qué criterios tienen enfoque de género o inclusión social?&quot;</h3>
 <ol>
-<li>Filtrar <code>Enfoque_genero</code> ≠ vacío</li>
-<li>Resultado: todos los criterios con conexión a género/cuidado</li>
+<li>Filtrar <code>Ref_Ley2462</code> ≠ vacío</li>
+<li>Resultado: todos los criterios con conexión a Ley 2462</li>
+<li>Para ver el detalle: leer columna <code>Notas</code></li>
 </ol>
 <h3 id="qué-dice-cada-norma-sobre-ventilación">&quot;¿Qué dice cada norma sobre ventilación?&quot;</h3>
 <ol>
@@ -1058,13 +1251,39 @@ code {
 <h3 id="cuáles-no-aplican-a-vivienda-rural">&quot;¿Cuáles NO aplican a vivienda rural?&quot;</h3>
 <ol>
 <li>Filtrar <code>Aplica_vivienda_rural</code> = <code>no</code></li>
-<li>Resultado: 8 medidas de infraestructura comercial</li>
+<li>Resultado: medidas de infraestructura comercial + R0019 (FRECH NO VIS)</li>
 </ol>
 <h3 id="qué-criterios-aplican-al-subsistema-de-cubierta">&quot;¿Qué criterios aplican al subsistema de cubierta?&quot;</h3>
 <ol>
-<li>Filtrar <code>Subsistema</code> contiene <code>S4</code></li>
+<li>Filtrar <code>Subsistema</code> contiene <code>Cubierta</code></li>
 </ol>
-<h2 id="5-relación-con-los-otros-documentos-del-proyecto">5. Relación con los otros documentos del proyecto</h2>
+<h3 id="qué-criterios-tienen-notas-sobre-contexto-rural">&quot;¿Qué criterios tienen notas sobre contexto rural?&quot;</h3>
+<ol>
+<li>Filtrar <code>Notas</code> ≠ vacío</li>
+<li>Buscar texto &quot;rural&quot; o &quot;vernácula&quot; o &quot;ENUT&quot;</li>
+</ol>
+<h3 id="qué-criterios-conectan-con-un-fin-específico-de-la-ley-2462">&quot;¿Qué criterios conectan con un fin específico de la Ley 2462?&quot;</h3>
+<ol>
+<li>Filtrar <code>Ref_Ley2462</code> contiene <code>L-F03</code> (ej. reducir carga doméstica)</li>
+<li>Resultado: todos los criterios que impactan ese fin</li>
+</ol>
+<h3 id="cómo-abrir-directamente-el-documento-original-de-un-criterio">&quot;¿Cómo abrir directamente el documento original de un criterio?&quot;</h3>
+<ul>
+<li>En la app: click en el botón &quot;abrir&quot; de la columna <code>URL fuente</code></li>
+<li>En Excel: copiar URL de la columna y pegar en navegador</li>
+</ul>
+<h3 id="qué-criterios-de-upme-pgee-son-aplicables-a-vivienda-rural">&quot;¿Qué criterios de UPME-PGEE son aplicables a vivienda rural?&quot;</h3>
+<ol>
+<li>Filtrar <code>Referencia</code> = <code>UPME-PGEE</code></li>
+<li>Filtrar <code>Aplica_vivienda_rural</code> ≠ <code>no</code></li>
+</ol>
+<h3 id="qué-criterios-son-transversales-a-los-4-ejes">&quot;¿Qué criterios son transversales a los 4 ejes?&quot;</h3>
+<ol>
+<li>Filtrar cualquier <code>E1_bioclimatica</code>, <code>E2_energia</code>, <code>E3_agua</code> o <code>E4_materiales</code> = <code>Transversal</code></li>
+<li>Resultado: criterios de proceso o política (ej. C01 Diseño integrado, C11 Comportamiento)</li>
+</ol>
+<hr>
+<h2 id="5-relación-con-otros-documentos-del-proyecto">5. Relación con otros documentos del proyecto</h2>
 <table>
 <thead>
 <tr>
@@ -1074,44 +1293,47 @@ code {
 </thead>
 <tbody>
 <tr>
-<td><code>F0-3b-Medidas_Anexo1_Cap2.md</code></td>
-<td>Detalle de las 38 medidas Res. 0194 (fichas técnicas)</td>
+<td><code>F0-Lista_referencias_y_aportes.md</code></td>
+<td>Inventario detallado de las 26 referencias con URL clickeable, distribución por categoría/eje/carácter, alertas</td>
 </tr>
 <tr>
-<td><code>F0-3d-Criterios_Guia_Ciclo_Vida.md</code></td>
-<td>Detalle de los 42 criterios Res. 0534 (niveles mínimo/deseable/avanzado)</td>
+<td><code>F0-Matriz_casos_exito.csv</code></td>
+<td>Matriz M2 — casos vernáculos y contemporáneos que materializan estos estándares</td>
 </tr>
 <tr>
-<td><code>F0-3c-Cruce_Estandares_Ejes.md</code></td>
-<td>Cruce de los 3 marcos técnicos × 4 ejes con conteos</td>
+<td><code>F8-Matriz_casos_diccionario.md</code></td>
+<td>Diccionario de M2 (casos)</td>
 </tr>
 <tr>
-<td><code>F0-3e-Ley2462_genero_inclusion.md</code></td>
-<td>Análisis de la Ley 2462 y su aplicación al proyecto</td>
+<td><code>F6-Plan_busqueda_casos.md</code></td>
+<td>Plan de búsqueda de casos M2</td>
 </tr>
 <tr>
-<td><code>F1-Matriz_M1.csv</code></td>
-<td>Matriz de hallazgos — columnas <code>Medida_Anexo1_ref</code>, <code>Criterio_0534_ref</code>, <code>Criterio_CEELA_ref</code> apuntan a los IDs de esta matriz</td>
+<td><code>Glosario_terminos.md</code></td>
+<td>Definiciones de Fin, Enfoque, Estándar, Estrategia, Criterio, Medida + términos pragmáticos del campo <code>Tipo</code></td>
 </tr>
 <tr>
 <td><code>F1-Matriz_busqueda.csv</code></td>
-<td>Matriz de búsqueda — las filas BS referencian criterios de esta matriz en <code>Observaciones</code></td>
+<td>Matriz de búsqueda bibliográfica — referencias BS apuntan a IDs de aquí en <code>Observaciones</code></td>
 </tr>
 <tr>
 <td><code>F1-Marco_busqueda_sistemas_materiales.md</code></td>
-<td>Definición de subsistemas S1–S6 usados en columna <code>Subsistema</code></td>
+<td>Definición de subsistemas usados en la columna <code>Subsistema</code></td>
 </tr>
 </tbody>
 </table>
+<blockquote>
+<p>Documentos de análisis temprano (F0-3-AnalisisGuias, F0-3-Síntesis-Anexo1, F0-3b-Medidas_Anexo1_Cap2, F0-3c-Cruce_Estandares_Ejes, F0-3d-Criterios_Guia_Ciclo_Vida, F0-3e-Ley2462_genero_inclusion, F0-3f-Revision_normativa_complementaria) están archivados en <code>docs/DESCARTADOS/</code>. Su contenido fue consolidado en M1 + Lista de referencias + Glosario.</p>
+</blockquote>
 <h2 id="6-resumen-de-nomenclaturas">6. Resumen de nomenclaturas</h2>
-<h3 id="todos-los-prefijos-de-id">Todos los prefijos de ID</h3>
+<h3 id="todos-los-prefijos-de-id-en-m1">Todos los prefijos de ID en M1</h3>
 <table>
 <thead>
 <tr>
 <th>Prefijo</th>
 <th>Marco</th>
 <th>Tipo</th>
-<th>Total</th>
+<th>Filas</th>
 </tr>
 </thead>
 <tbody>
@@ -1134,111 +1356,27 @@ code {
 <td>10</td>
 </tr>
 <tr>
-<td><code>A-E-</code></td>
+<td><code>A-E-</code>, <code>A-A-</code>, <code>A-EM-</code>, <code>A-M-</code>, <code>A-S-</code>, <code>A-R-</code>, <code>A-FL-</code>, <code>A-SE-</code></td>
 <td>Res. 0534</td>
-<td>Criterio ambiental — energía</td>
-<td>6</td>
+<td>Criterios ambientales (8 sub-prefijos)</td>
+<td>~42</td>
 </tr>
 <tr>
-<td><code>A-A-</code></td>
+<td><code>S-CT-</code>, <code>S-CL-</code>, <code>S-A-</code>, <code>S-CA-</code>, <code>S-H-</code>, <code>S-AC-</code>, <code>S-AS-</code></td>
 <td>Res. 0534</td>
-<td>Criterio ambiental — agua</td>
-<td>7</td>
+<td>Criterios sociales (7 sub-prefijos)</td>
+<td>~12</td>
 </tr>
 <tr>
-<td><code>A-EM-</code></td>
+<td><code>E-CI-</code>, <code>E-CC-</code></td>
 <td>Res. 0534</td>
-<td>Criterio ambiental — emisiones</td>
-<td>8</td>
-</tr>
-<tr>
-<td><code>A-M-</code></td>
-<td>Res. 0534</td>
-<td>Criterio ambiental — materiales</td>
-<td>2</td>
-</tr>
-<tr>
-<td><code>A-S-</code></td>
-<td>Res. 0534</td>
-<td>Criterio ambiental — suelo</td>
-<td>1</td>
-</tr>
-<tr>
-<td><code>A-R-</code></td>
-<td>Res. 0534</td>
-<td>Criterio ambiental — residuos</td>
-<td>6</td>
-</tr>
-<tr>
-<td><code>A-FL-</code></td>
-<td>Res. 0534</td>
-<td>Criterio ambiental — flora/fauna</td>
-<td>3</td>
-</tr>
-<tr>
-<td><code>A-SE-</code></td>
-<td>Res. 0534</td>
-<td>Criterio ambiental — ecosistémicos</td>
-<td>2</td>
-</tr>
-<tr>
-<td><code>S-CT-</code></td>
-<td>Res. 0534</td>
-<td>Criterio social — confort térmico</td>
-<td>3</td>
-</tr>
-<tr>
-<td><code>S-CL-</code></td>
-<td>Res. 0534</td>
-<td>Criterio social — confort lumínico</td>
-<td>2</td>
-</tr>
-<tr>
-<td><code>S-A-</code></td>
-<td>Res. 0534</td>
-<td>Criterio social — calidad aire</td>
-<td>3</td>
-</tr>
-<tr>
-<td><code>S-CA-</code></td>
-<td>Res. 0534</td>
-<td>Criterio social — confort acústico</td>
-<td>2</td>
-</tr>
-<tr>
-<td><code>S-H-</code></td>
-<td>Res. 0534</td>
-<td>Criterio social — higiene/toxicidad</td>
-<td>3</td>
-</tr>
-<tr>
-<td><code>S-AC-</code></td>
-<td>Res. 0534</td>
-<td>Criterio social — accesibilidad</td>
-<td>2</td>
-</tr>
-<tr>
-<td><code>S-AS-</code></td>
-<td>Res. 0534</td>
-<td>Criterio social — acceso servicios</td>
-<td>1</td>
-</tr>
-<tr>
-<td><code>E-CI-</code></td>
-<td>Res. 0534</td>
-<td>Criterio económico — costos</td>
-<td>1</td>
-</tr>
-<tr>
-<td><code>E-CC-</code></td>
-<td>Res. 0534</td>
-<td>Criterio económico — comercial</td>
-<td>1</td>
+<td>Criterios económicos (2 sub-prefijos)</td>
+<td>~2</td>
 </tr>
 <tr>
 <td><code>C</code></td>
 <td>CEELA</td>
-<td>Principio</td>
+<td>Criterio CEELA (renombrado de &quot;principio&quot;)</td>
 <td>15</td>
 </tr>
 <tr>
@@ -1254,10 +1392,98 @@ code {
 <td>16</td>
 </tr>
 <tr>
+<td><code>UPME-</code></td>
+<td>UPME-PGEE</td>
+<td>Criterios y metodologías PGEE</td>
+<td>10</td>
+</tr>
+<tr>
+<td><code>RET-</code></td>
+<td>RETILAP</td>
+<td>Iluminación y URE</td>
+<td>3</td>
+</tr>
+<tr>
+<td><code>SUDS-</code></td>
+<td>SUDS-MVCT</td>
+<td>Tipologías de drenaje sostenible</td>
+<td>6</td>
+</tr>
+<tr>
+<td><code>R0019-</code></td>
+<td>R0019</td>
+<td>Sellos verdes y niveles EDGE</td>
+<td>2</td>
+</tr>
+<tr>
+<td><code>GM-X-</code>, <code>PNVISR-</code>, <code>ParamSFVR-</code>, etc.</td>
+<td>Otros</td>
+<td>Códigos específicos</td>
+<td>varios</td>
+</tr>
+<tr>
+<td>Decretos / Leyes / Sentencia / Otros</td>
+<td>varios</td>
+<td>1 fila por documento</td>
+<td>varios</td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td><strong>Total</strong></td>
-<td><strong>134</strong></td>
+<td><strong>191</strong></td>
+</tr>
+</tbody>
+</table>
+<h3 id="valores-del-campo-tipo">Valores del campo Tipo</h3>
+<table>
+<thead>
+<tr>
+<th>Valor</th>
+<th>Significado</th>
+<th>Filas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>criterio_ambiental</code> / <code>_social</code> / <code>_economico</code></td>
+<td>Sub-tipos de Criterio (Res. 0534)</td>
+<td>68 / 23 / 7</td>
+</tr>
+<tr>
+<td><code>criterio</code></td>
+<td>Criterio genérico (incluye los 15 CEELA)</td>
+<td>18</td>
+</tr>
+<tr>
+<td><code>fin</code></td>
+<td>Fin legal (Ley 2462)</td>
+<td>16</td>
+</tr>
+<tr>
+<td><code>medida_pasiva</code> / <code>_activa</code> / <code>_hidrica</code></td>
+<td>Sub-tipos de Medida (Res. 0194)</td>
+<td>15 / 13 / 10</td>
+</tr>
+<tr>
+<td><code>enfoque</code></td>
+<td>Enfoque legal (Ley 2462, PNVISR)</td>
+<td>12</td>
+</tr>
+<tr>
+<td><code>criterio_metodologico</code></td>
+<td>Procedimiento o método de evaluación (UPME-PGEE)</td>
+<td>5</td>
+</tr>
+<tr>
+<td><code>lineamiento</code></td>
+<td>Directriz institucional general</td>
+<td>1</td>
+</tr>
+<tr>
+<td><code>medida</code></td>
+<td>Medida genérica</td>
+<td>1</td>
 </tr>
 </tbody>
 </table>
@@ -1271,16 +1497,16 @@ code {
 </thead>
 <tbody>
 <tr>
-<td><code>P</code></td>
-<td>Principal</td>
+<td><code>Principal</code></td>
+<td>Eje destino natural del criterio</td>
 </tr>
 <tr>
-<td><code>C</code></td>
-<td>Complementario</td>
+<td><code>Complementario</code></td>
+<td>Toca el eje como efecto secundario</td>
 </tr>
 <tr>
-<td><code>T</code></td>
-<td>Transversal</td>
+<td><code>Transversal</code></td>
+<td>Aplica a todos los ejes por igual</td>
 </tr>
 <tr>
 <td><em>(vacío)</em></td>
@@ -1299,15 +1525,19 @@ code {
 <tbody>
 <tr>
 <td><code>obligatorio</code></td>
-<td>Exigible por ley colombiana</td>
+<td>Exigible por ley/resolución colombiana</td>
 </tr>
 <tr>
 <td><code>voluntario</code></td>
-<td>Buena práctica sin sanción</td>
+<td>Buena práctica sin sanción (CEELA)</td>
+</tr>
+<tr>
+<td><code>recomendado</code></td>
+<td>Sugerido por entidad sectorial (UPME-PGEE)</td>
 </tr>
 <tr>
 <td><code>condicional</code></td>
-<td>Solo el nivel mínimo es obligatorio</td>
+<td>Solo nivel mínimo es obligatorio</td>
 </tr>
 </tbody>
 </table>
@@ -1315,38 +1545,38 @@ code {
 <table>
 <thead>
 <tr>
-<th>Código</th>
-<th>Nombre</th>
+<th>Valor</th>
+<th>Función</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><code>S1</code></td>
-<td>Cimentación</td>
+<td><code>Cimentación</code></td>
+<td>Transmite cargas al suelo; aísla de humedad</td>
 </tr>
 <tr>
-<td><code>S2</code></td>
-<td>Estructura</td>
+<td><code>Estructura</code></td>
+<td>Soporta cargas verticales y laterales</td>
 </tr>
 <tr>
-<td><code>S3</code></td>
-<td>Envolvente</td>
+<td><code>Envolvente</code></td>
+<td>Cierra el volumen interior</td>
 </tr>
 <tr>
-<td><code>S4</code></td>
-<td>Cubierta</td>
+<td><code>Cubierta</code></td>
+<td>Protege de lluvia y radiación</td>
 </tr>
 <tr>
-<td><code>S5</code></td>
-<td>Instalaciones</td>
+<td><code>Instalaciones</code></td>
+<td>Hidráulica, sanitaria, eléctrica, gas, FV</td>
 </tr>
 <tr>
-<td><code>S6</code></td>
-<td>Acabados y complementos</td>
+<td><code>Acabados y complementos</code></td>
+<td>No estructurales</td>
 </tr>
 <tr>
 <td><code>Exterior</code></td>
-<td>Espacio exterior</td>
+<td>Patios, jardines, paisajismo, drenaje</td>
 </tr>
 <tr>
 <td><code>todos</code></td>
@@ -1358,6 +1588,7 @@ code {
 </tr>
 </tbody>
 </table>
+<p>Cuando aplica a varios se separan con espacio: <code>Estructura Envolvente</code>.</p>
 <h3 id="climas">Climas</h3>
 <table>
 <thead>
@@ -1404,6 +1635,16 @@ code {
 <td>0.1</td>
 <td>2026-04-23</td>
 <td>Tutorial inicial: 19 campos, nomenclaturas completas, consultas frecuentes</td>
+</tr>
+<tr>
+<td>0.2</td>
+<td>2026-04-29</td>
+<td>Columnas: <code>Enfoque_genero</code> + <code>Inclusion_social</code> reemplazadas por <code>Notas</code> + <code>Ref_Ley2462</code>. Subsistemas con nombre completo. Ejes con nombre completo</td>
+</tr>
+<tr>
+<td>0.3</td>
+<td>2026-05-05</td>
+<td>Total filas 134 → 191. Total referencias 4 → 26 (+UPME-PGEE, +RETILAP, +R0019, +todas las demás del proyecto). +Campo <code>URL_fuente</code> (col 2; 191/191 con URL clickeable). Tipo: <code>principio</code> renombrado a <code>criterio</code> (CEELA), <code>metodologia</code> renombrado a <code>criterio_metodologico</code> (UPME-PGEE), +<code>lineamiento</code>. Ejes E1–E4 valores corregidos a palabras completas (Principal/Complementario/Transversal en lugar de P/C/T). Sección 5 actualizada con docs vigentes (varios F0-3-* movidos a DESCARTADOS)</td>
 </tr>
 </tbody>
 </table>

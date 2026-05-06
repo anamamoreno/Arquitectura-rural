@@ -2,6 +2,92 @@
 
 Cada término se define según cómo lo emplea la documentación normativa que respalda M1. Las definiciones no son propias: se reconstruyen a partir del uso textual en cada fuente y se citan con el documento de origen.
 
+
+## Jerarquía resumida
+
+De lo más abstracto a lo más concreto:
+
+```
+FIN              ← qué impacto buscamos               (Ley 2462)
+  ↓
+ENFOQUE          ← desde qué perspectiva miramos      (Ley 2462, PNVISR)
+  ↓
+ESTÁNDAR         ← qué referencia usamos              (TdR-CEELA, marco general)
+  ↓
+ESTRATEGIA       ← qué táctica aplicamos              (Anexo 1: E1/E2/E3/E4)
+  ↓
+CRITERIO         ← qué desempeño evaluamos            (CEELA: 15 criterios; Res. 0534: 56 criterios)
+  ↓
+MEDIDA           ← qué acción técnica ejecutamos      (Anexo 1: 38 medidas MP/MA/MW)
+```
+
+**Cómo leer la jerarquía:**
+- **Hacia arriba** se sube en abstracción y se contestan preguntas de "para qué".
+- **Hacia abajo** se baja a la ejecución y se contestan preguntas de "cómo".
+
+**Ejemplo encadenado:**
+- **Fin** L-F03: reducir la carga de trabajo doméstico no remunerado en mujer rural
+- **Enfoque** L-E10: enfoque de cuidado
+- **Estándar** Res. 0194/2025 (obligatorio para VIS rural)
+- **Estrategia** E3: eficiencia hídrica
+- **Criterio** Res. 0534 A-SE-1: provisión confiable de agua potable
+- **Medida** MW-08: captación pluvial dimensionada con tratamiento (PTALL)
+
+---
+
+## Fin
+
+**Definición:** Resultado o impacto final que se busca lograr — el "para qué" último de las políticas, estrategias y medidas. Es la unidad más abstracta: dice qué se quiere transformar, no cómo hacerlo.
+
+**Fuente / origen del término:**
+- **Ley 2462/2025**, sección "Fines" — define **16 fines** que orientan toda actuación pública sobre mujer rural. Los más relevantes para vivienda:
+  1. Respeto de los saberes y conocimientos tradicionales de las mujeres rurales, campesinas y de la pesca
+  2. Reconocer y visibilizar los aportes de la mujer rural como agente transformadora
+  3. **Reconocer, redistribuir y reducir la carga de trabajo doméstico y de cuidados no remunerados** (clave para diseño de vivienda)
+  4. Promover el desarrollo rural eficaz, inclusivo, sostenible y resiliente
+  5. Garantizar acceso integral a recursos productivos y financieros
+  6. Promover la autonomía económica
+  7. Fomentar alianzas sostenibles
+  8. Reconocer la labor de mujeres rurales en el cuidado de los ecosistemas y mitigación del cambio climático
+  9. Promover trabajo digno y decente
+  10. Fortalecer acceso al sistema de salud
+  11. Garantizar participación incidente en instancias de decisión
+  12. Proteger las organizaciones de mujeres rurales
+  13. Garantizar la igualdad de trato y eliminación de discriminación
+  14. Invertir en bienes públicos, infraestructura, transferencias tecnológicas
+  15. (continúa)
+  16. (continúa)
+
+**Ejemplo en M1:** el `L-F03` (fin: reducir carga de trabajo doméstico no remunerado) justifica medidas como conexión a acueducto rural (elimina acarreo de agua), estufas eficientes (elimina recolección de leña), o cocina con extracción mecánica (reduce exposición a humo).
+
+**Relación con otros términos:** el fin es el más abstracto de toda la jerarquía. Un fin se persigue con varios enfoques, que orientan estrategias, que se evalúan con criterios y se ejecutan con medidas.
+
+---
+
+## Enfoque
+
+**Definición:** Perspectiva o lente de análisis que se aplica de forma transversal a toda intervención. No es una acción ni un parámetro técnico: es el principio que orienta cómo se diseña, ejecuta y evalúa cualquier estrategia, criterio o medida.
+
+**Fuente / origen del término:**
+- **Ley 2462/2025 — Igualdad de oportunidades para mujeres rurales, campesinas y de la pesca** (Congreso de Colombia). Define **12 enfoques obligatorios** que toda política pública para mujer rural debe incorporar:
+  1. Enfoque territorial
+  2. Enfoque de equidad para la mujer
+  3. Enfoque de derechos humanos de las mujeres rurales
+  4. Enfoque interseccional y diferencial
+  5. Enfoque campesinado
+  6. Enfoque curso de vida
+  7. Enfoque de discapacidad
+  8. Enfoque étnico
+  9. Enfoque ambiental
+  10. Enfoque de cuidado
+  11. (continúa)
+  12. (continúa)
+- También usado por **PNVISR** (Plan Nacional de Construcción y Mejoramiento de Vivienda Social Rural) — exige enfoque diferencial obligatorio (género, étnico, discapacidad, víctimas, territorial).
+
+**Ejemplo en M1:** el `L-E10` (enfoque de cuidado) no prescribe una medida — exige reconocer que la cocina y el lavadero concentran trabajo doméstico no remunerado feminizado y diseñar en consecuencia. Cualquier medida (MP, MA, MW) puede revisarse desde este enfoque.
+
+**Relación con otros términos:** el enfoque opera por encima de las estrategias. Una misma medida (ej. ubicación de la cocina) cambia su forma según los enfoques aplicados (cuidado, étnico, discapacidad).
+
 ---
 
 ## Estándar
@@ -74,94 +160,11 @@ Cada término se define según cómo lo emplea la documentación normativa que r
 
 **Relación con otros términos:** la medida es la **acción concreta** que materializa una estrategia y satisface uno o más criterios. Es la unidad operacional más concreta del Anexo 1.
 
----
 
-## Enfoque
-
-**Definición:** Perspectiva o lente de análisis que se aplica de forma transversal a toda intervención. No es una acción ni un parámetro técnico: es el principio que orienta cómo se diseña, ejecuta y evalúa cualquier estrategia, criterio o medida.
-
-**Fuente / origen del término:**
-- **Ley 2462/2025 — Igualdad de oportunidades para mujeres rurales, campesinas y de la pesca** (Congreso de Colombia). Define **12 enfoques obligatorios** que toda política pública para mujer rural debe incorporar:
-  1. Enfoque territorial
-  2. Enfoque de equidad para la mujer
-  3. Enfoque de derechos humanos de las mujeres rurales
-  4. Enfoque interseccional y diferencial
-  5. Enfoque campesinado
-  6. Enfoque curso de vida
-  7. Enfoque de discapacidad
-  8. Enfoque étnico
-  9. Enfoque ambiental
-  10. Enfoque de cuidado
-  11. (continúa)
-  12. (continúa)
-- También usado por **PNVISR** (Plan Nacional de Construcción y Mejoramiento de Vivienda Social Rural) — exige enfoque diferencial obligatorio (género, étnico, discapacidad, víctimas, territorial).
-
-**Ejemplo en M1:** el `L-E10` (enfoque de cuidado) no prescribe una medida — exige reconocer que la cocina y el lavadero concentran trabajo doméstico no remunerado feminizado y diseñar en consecuencia. Cualquier medida (MP, MA, MW) puede revisarse desde este enfoque.
-
-**Relación con otros términos:** el enfoque opera por encima de las estrategias. Una misma medida (ej. ubicación de la cocina) cambia su forma según los enfoques aplicados (cuidado, étnico, discapacidad).
 
 ---
 
-## Fin
 
-**Definición:** Resultado o impacto final que se busca lograr — el "para qué" último de las políticas, estrategias y medidas. Es la unidad más abstracta: dice qué se quiere transformar, no cómo hacerlo.
-
-**Fuente / origen del término:**
-- **Ley 2462/2025**, sección "Fines" — define **16 fines** que orientan toda actuación pública sobre mujer rural. Los más relevantes para vivienda:
-  1. Respeto de los saberes y conocimientos tradicionales de las mujeres rurales, campesinas y de la pesca
-  2. Reconocer y visibilizar los aportes de la mujer rural como agente transformadora
-  3. **Reconocer, redistribuir y reducir la carga de trabajo doméstico y de cuidados no remunerados** (clave para diseño de vivienda)
-  4. Promover el desarrollo rural eficaz, inclusivo, sostenible y resiliente
-  5. Garantizar acceso integral a recursos productivos y financieros
-  6. Promover la autonomía económica
-  7. Fomentar alianzas sostenibles
-  8. Reconocer la labor de mujeres rurales en el cuidado de los ecosistemas y mitigación del cambio climático
-  9. Promover trabajo digno y decente
-  10. Fortalecer acceso al sistema de salud
-  11. Garantizar participación incidente en instancias de decisión
-  12. Proteger las organizaciones de mujeres rurales
-  13. Garantizar la igualdad de trato y eliminación de discriminación
-  14. Invertir en bienes públicos, infraestructura, transferencias tecnológicas
-  15. (continúa)
-  16. (continúa)
-
-**Ejemplo en M1:** el `L-F03` (fin: reducir carga de trabajo doméstico no remunerado) justifica medidas como conexión a acueducto rural (elimina acarreo de agua), estufas eficientes (elimina recolección de leña), o cocina con extracción mecánica (reduce exposición a humo).
-
-**Relación con otros términos:** el fin es el más abstracto de toda la jerarquía. Un fin se persigue con varios enfoques, que orientan estrategias, que se evalúan con criterios y se ejecutan con medidas.
-
----
-
-## Jerarquía resumida
-
-De lo más abstracto a lo más concreto:
-
-```
-FIN              ← qué impacto buscamos               (Ley 2462)
-  ↓
-ENFOQUE          ← desde qué perspectiva miramos      (Ley 2462, PNVISR)
-  ↓
-ESTÁNDAR         ← qué referencia usamos              (TdR-CEELA, marco general)
-  ↓
-ESTRATEGIA       ← qué táctica aplicamos              (Anexo 1: E1/E2/E3/E4)
-  ↓
-CRITERIO         ← qué desempeño evaluamos            (CEELA: 15 criterios; Res. 0534: 56 criterios)
-  ↓
-MEDIDA           ← qué acción técnica ejecutamos      (Anexo 1: 38 medidas MP/MA/MW)
-```
-
-**Cómo leer la jerarquía:**
-- **Hacia arriba** se sube en abstracción y se contestan preguntas de "para qué".
-- **Hacia abajo** se baja a la ejecución y se contestan preguntas de "cómo".
-
-**Ejemplo encadenado:**
-- **Fin** L-F03: reducir la carga de trabajo doméstico no remunerado en mujer rural
-- **Enfoque** L-E10: enfoque de cuidado
-- **Estándar** Res. 0194/2025 (obligatorio para VIS rural)
-- **Estrategia** E3: eficiencia hídrica
-- **Criterio** Res. 0534 A-SE-1: provisión confiable de agua potable
-- **Medida** MW-08: captación pluvial dimensionada con tratamiento (PTALL)
-
----
 
 ## Convenciones de codificación en M1
 
