@@ -621,7 +621,7 @@ En el campo "Columnas a mostrar" arriba de la tabla:
 
 **2. Reordenar columnas en la tabla**
 Sobre la tabla:
-- **Arrastra** el encabezado de una columna lateralmente → la mueves de posición
+- En la tabla, **arrastrar lateralmente el encabezado de una columna (color gris)** → la mueves de posición
 - El cambio es solo visual (no modifica el CSV)
 
 **3. Ordenar filas**
@@ -770,7 +770,25 @@ def mostrar_nomenclatura():
 # ============================================================
 @st.dialog("Glosario · Términos normativos", width="large")
 def mostrar_glosario():
-    st.caption(
+    # CSS para expanders con fondo gris (aplica a los expanders de la app pero
+    # se inyecta cada vez que se abre el dialog)
+    st.markdown(
+        """
+        <style>
+        [data-testid="stExpander"] {
+            background-color: #f0f2f6;
+            border-radius: 6px;
+        }
+        [data-testid="stExpander"] details summary {
+            background-color: #e6e9ef;
+            border-radius: 6px 6px 0 0;
+        }
+        </style>
+        """,
+        unsafe_allow_html=True,
+    )
+
+    st.markdown(
         "Cada término se define según cómo lo emplea la documentación normativa que respalda la matriz "
         "de estándares de sostenibilidad. Las definiciones no son propias: se reconstruyen a partir del "
         "uso textual en cada fuente y se citan con el documento de origen."
