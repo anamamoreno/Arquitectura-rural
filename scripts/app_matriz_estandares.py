@@ -12,6 +12,7 @@ import streamlit as st
 import pandas as pd
 import portalocker
 import os
+import re
 import sys
 import subprocess
 from datetime import date
@@ -76,7 +77,6 @@ def cargar_m1():
     for col in df.columns:
         df[col] = df[col].fillna("").astype(str).str.strip()
     df = df.rename(columns={
-        "Criterio_medida": "Criterio/Medida",
         "Descripcion": "Descripción",
         "Etapa_ciclo_vida": "Etapa del ciclo de vida",
         "E1_bioclimatica": "E1 Bioclimática",
@@ -146,49 +146,71 @@ if "validador" not in st.session_state:
     st.session_state.validador = ""
 
 # --- Título ---
-st.title("Matrices del Producto 1 — Sostenibilidad Vivienda Rural")
-st.caption("Guía técnica · Res. 0194/2025 · 4 climas de Colombia")
+st.title("Estándares de sostenibilidad para vivienda rural en Colombia")
 
 # ============================================================
 # PÁGINA M1 — Estándares
 # ============================================================
 def page_m1():
     df = cargar_m1()
-    st.subheader(f"Matriz M1 — {len(df)} criterios de {df['Referencia'].nunique()} fuentes normativas")
+    bcol1, bcol2, bcol3, bcol4, bcol5, _ = st.columns([1, 1, 1, 1, 1, 1])
+    with bcol1:
+        if st.button("Fuentes", help="Listado de las referencias normativas con link a cada documento oficial", width='stretch'):
+            mostrar_referencias()
+    with bcol2:
+        if st.button("Glosario", help="Ver definiciones de Fin, Enfoque, Estándar, Estrategia, Criterio, Medida", width='stretch'):
+            mostrar_glosario()
+    with bcol3:
+        if st.button("Campos", help="Descripción de las 20 columnas de la matriz", width='stretch'):
+            mostrar_campos()
+    with bcol4:
+        if st.button("Nomenclatura", help="Códigos de IDs unificados + valores de ejes E1–E4", width='stretch'):
+            mostrar_nomenclatura()
+    with bcol5:
+        if st.button("Tutorial", help="Cómo organizar las columnas y usar la tabla", width='stretch'):
+            mostrar_tutorial()
     st.divider()
 
-    # Filtros sidebar (solo activos en este tab vía expander)
-    with st.expander("Filtros M1", expanded=False):
-        c1, c2, c3 = st.columns(3)
-        with c1:
-            referencias = ["Todas"] + sorted(df["Referencia"].unique().tolist())
-            ref_sel = st.multiselect("Referencia normativa", referencias, default=["Todas"])
-            eje_opciones = ["Todos", "E1 Bioclimática", "E2 Energía", "E3 Agua", "E4 Materiales"]
-            eje_sel = st.selectbox("Eje de sostenibilidad", eje_opciones)
-            rel_opciones = ["Cualquiera", "Principal", "Complementario", "Transversal"]
-            rel_sel = st.selectbox("Tipo de relación con el eje", rel_opciones)
-        with c2:
-            climas_m1 = ["Todos", "frio", "templado", "calido_seco", "calido_humedo"]
-            clima_sel = st.selectbox("Clima", climas_m1)
-            subsistemas = ["Todos", "Cimentación", "Estructura", "Envolvente", "Cubierta",
-                           "Instalaciones", "Acabados y complementos", "Exterior"]
-            sub_sel = st.selectbox("Subsistema", subsistemas)
-            tipos = ["Todos"] + sorted(df["Tipo"].unique().tolist())
-            tipo_sel = st.selectbox("Tipo de criterio", tipos)
-        with c3:
-            caracteres = ["Todos"] + sorted(df["Carácter legal"].unique().tolist())
-            car_sel = st.selectbox("Carácter legal", caracteres)
-            rural_opciones = ["Todos", "si", "condicional", "no"]
-            rural_sel = st.selectbox("Aplica vivienda rural", rural_opciones)
-            etapas = ["Todas"] + sorted(df["Etapa del ciclo de vida"].unique().tolist())
-            etapa_sel = st.selectbox("Etapa del ciclo de vida", etapas)
+    # Filtros en sidebar izquierdo (aplican solo a esta página M1)
+    with st.sidebar:
+        st.markdown("### Filtros · Estándares M1")
+        st.caption("Aplican solo en esta página.")
 
-        c4, c5 = st.columns(2)
-        with c4:
-            ley2462_sel = st.checkbox("Solo con conexión Ley 2462 (género/inclusión)")
-            notas_sel = st.checkbox("Solo con notas de contexto rural")
-        with c5:
-            busqueda = st.text_input("Buscar en nombre o descripción")
+        referencias = ["Todas"] + sorted(df["Referencia"].unique().tolist())
+        ref_sel = st.multiselect("Referencia normativa", referencias, default=["Todas"])
+
+        eje_opciones = ["Todos", "E1 Bioclimática", "E2 Energía", "E3 Agua", "E4 Materiales"]
+        eje_sel = st.selectbox("Eje de sostenibilidad", eje_opciones)
+
+        rel_opciones = ["Cualquiera", "Principal", "Complementario", "Transversal"]
+        rel_sel = st.selectbox("Tipo de relación con el eje", rel_opciones)
+
+        st.markdown("---")
+        climas_m1 = ["Todos", "frio", "templado", "calido_seco", "calido_humedo"]
+        clima_sel = st.selectbox("Clima", climas_m1)
+
+        subsistemas = ["Todos", "Cimentación", "Estructura", "Envolvente", "Cubierta",
+                       "Instalaciones", "Acabados y complementos", "Exterior"]
+        sub_sel = st.selectbox("Subsistema", subsistemas)
+
+        tipos = ["Todos"] + sorted(df["Jerarquía"].unique().tolist())
+        tipo_sel = st.selectbox("Jerarquía", tipos)
+
+        st.markdown("---")
+        caracteres = ["Todos"] + sorted(df["Carácter legal"].unique().tolist())
+        car_sel = st.selectbox("Carácter legal", caracteres)
+
+        rural_opciones = ["Todos", "si", "condicional", "no"]
+        rural_sel = st.selectbox("Aplica vivienda rural", rural_opciones)
+
+        etapas = ["Todas"] + sorted(df["Etapa del ciclo de vida"].unique().tolist())
+        etapa_sel = st.selectbox("Etapa del ciclo de vida", etapas)
+
+        st.markdown("---")
+        ley2462_sel = st.checkbox("Solo con conexión Ley 2462 (género/inclusión)")
+        notas_sel = st.checkbox("Solo con notas de contexto rural")
+
+        busqueda = st.text_input("Buscar en nombre o descripción")
 
     # Aplicar filtros
     filtrado = df.copy()
@@ -205,7 +227,7 @@ def page_m1():
     if sub_sel != "Todos":
         filtrado = filtrado[filtrado["Subsistema"].str.contains(sub_sel, na=False)]
     if tipo_sel != "Todos":
-        filtrado = filtrado[filtrado["Tipo"] == tipo_sel]
+        filtrado = filtrado[filtrado["Jerarquía"] == tipo_sel]
     if car_sel != "Todos":
         filtrado = filtrado[filtrado["Carácter legal"] == car_sel]
     if rural_sel != "Todos":
@@ -218,13 +240,13 @@ def page_m1():
         filtrado = filtrado[filtrado["Etapa del ciclo de vida"] == etapa_sel]
     if busqueda:
         mask = (
-            filtrado["Criterio/Medida"].str.contains(busqueda, case=False, na=False) |
+            filtrado["Tema"].str.contains(busqueda, case=False, na=False) |
             filtrado["Descripción"].str.contains(busqueda, case=False, na=False) |
             filtrado["ID"].str.contains(busqueda, case=False, na=False)
         )
         filtrado = filtrado[mask]
 
-    st.subheader(f"Resultados: {len(filtrado)} de {len(df)} criterios")
+    st.subheader(f"Resultados: {len(filtrado)} de {len(df)} ítems")
 
     col1, col2, col3, col4 = st.columns(4)
     with col1:
@@ -236,7 +258,7 @@ def page_m1():
     with col4:
         st.metric("Fuentes", filtrado["Referencia"].nunique())
 
-    cols_default = ["ID", "Referencia", "URL fuente", "Criterio/Medida", "Tipo",
+    cols_default = ["ID", "Referencia", "URL fuente", "Tema", "Jerarquía",
                     "E1 Bioclimática", "E2 Energía", "E3 Agua", "E4 Materiales",
                     "Clima", "Aplica vivienda rural", "Carácter legal", "Ref_Ley2462"]
     cols_mostrar = st.multiselect("Columnas a mostrar", df.columns.tolist(), default=cols_default)
@@ -455,7 +477,7 @@ def page_m2():
                     cruce = df_m1[df_m1["ID"].isin(refs_actuales)]
                     if len(cruce) > 0:
                         with st.expander(f"Ver detalle de {len(refs_actuales)} estándares cruzados"):
-                            st.dataframe(cruce[["ID", "Referencia", "Criterio/Medida"]],
+                            st.dataframe(cruce[["ID", "Referencia", "Tema"]],
                                          width='stretch')
                             faltantes = set(refs_actuales) - set(cruce["ID"].tolist())
                             if faltantes:
@@ -558,6 +580,409 @@ def page_m2():
                                 actualizar_caso(cid, "pendiente_revision",
                                                 st.session_state.validador)
                                 st.rerun()
+
+
+# ============================================================
+# DIALOG Referencias — listado completo de F0-Lista_referencias_y_aportes.md
+# ============================================================
+@st.dialog("Referencias normativas que sustentan los estándares de sostenibilidad", width="large")
+def mostrar_referencias():
+    doc_path = os.path.join(DOCS, "F0-Lista_referencias_y_aportes.md")
+    try:
+        with open(doc_path, "r", encoding="utf-8") as f:
+            contenido = f.read()
+        # Extraer sección 1 (tabla principal con descripciones)
+        match = re.search(r"## 1\..*?(?=\n## 2\.)", contenido, re.DOTALL)
+        if match:
+            seccion = match.group(0)
+            # Quitar el encabezado "## 1. Distribución..." (primera línea)
+            seccion = re.sub(r"^## 1\.[^\n]*\n+", "", seccion)
+            st.markdown(seccion, unsafe_allow_html=False)
+        else:
+            st.warning("No se encontró la sección 1 en el documento.")
+            st.markdown(contenido)
+    except FileNotFoundError:
+        st.error(f"No se encontró el archivo: {doc_path}")
+    except Exception as e:
+        st.error(f"Error leyendo el documento: {e}")
+
+# ============================================================
+# DIALOG Tutorial — cómo organizar columnas y usar la tabla
+# ============================================================
+@st.dialog("Tutorial · Cómo organizar las columnas", width="large")
+def mostrar_tutorial():
+    st.markdown("""
+**1. Seleccionar columnas a mostrar**
+En el campo "Columnas a mostrar" arriba de la tabla:
+- **Click** en un campo vacío → aparece menú desplegable con todas las columnas disponibles
+- **Click** en un nombre de columna → se agrega a la vista
+- **Click en la `×`** de una etiqueta → quita esa columna
+- Por defecto vienen 13 columnas; puedes agregar las 7 restantes (`Descripcion`, `Etapa_ciclo_vida`, `Notas`, `Subsistema`, `Nivel_cumplimiento`, `Parametro_indicador`, `Correspondencia_cruzada`)
+
+**2. Reordenar columnas en la tabla**
+Sobre la tabla:
+- **Arrastra** el encabezado de una columna lateralmente → la mueves de posición
+- El cambio es solo visual (no modifica el CSV)
+
+**3. Ordenar filas**
+- **Click** sobre el encabezado de una columna → ordena ascendente
+- **Click otra vez** → ordena descendente
+- **Click otra vez** → vuelve al orden original
+
+**4. Buscar dentro de la tabla**
+- En la esquina superior derecha de la tabla aparece un ícono 🔍 al pasar el mouse
+- Permite buscar texto en cualquier columna visible
+
+**5. Ajustar ancho de columna**
+- Arrastra el **borde derecho** de un encabezado para hacer la columna más ancha o angosta
+
+**6. Columnas especiales**
+- `URL fuente` aparece como botón **abrir** que lleva al documento original en pestaña nueva
+- `Notas` y `Descripcion` pueden tener texto largo → la celda se trunca; click sobre la celda para ver el texto completo
+
+**7. Descargar la vista actual**
+- Pasa el mouse sobre la tabla → ícono de descarga ⬇ en la esquina superior derecha
+- Descarga las filas + columnas que tienes visibles como CSV
+""")
+
+
+# ============================================================
+# DIALOG Campos — descripción de las 20 columnas de M1
+# ============================================================
+@st.dialog("Campos de la matriz M1", width="large")
+def mostrar_campos():
+    st.caption(
+        "La matriz tiene 20 columnas. Cada fila (criterio, medida, principio, enfoque o fin) "
+        "se describe con estos campos."
+    )
+    st.markdown("""
+| # | Campo | Qué guarda |
+|---|---|---|
+| 1 | `Referencia` | Marco normativo o documental del que proviene la fila (ej. `Res.0194`, `CEELA`, `Ley.2462`) |
+| 2 | `URL_fuente` | URL pública oficial del documento. Renderizada como botón clickeable en la app |
+| 3 | `ID` | Código único de la fila dentro de su marco (ej. `MP-14`, `A-SE-1`, `C06`, `L-F03`). Ver Nomenclatura para todos los prefijos |
+| 4 | `Tema` | Nombre/título del término. Ej: "Ventilación natural", "Inercia térmica", "Reducir carga doméstica no remunerada" |
+| 5 | `Descripcion` | Descripción técnica con cita textual del marco normativo (~300 caracteres) |
+| 6 | `Jerarquía` | Clasificación según la jerarquía conceptual (Fin → Enfoque → Estándar → Estrategia → Criterio → Medida). Valores: `criterio_ambiental` / `criterio_social` / `criterio_economico` / `criterio` / `criterio_metodologico` / `medida_pasiva` / `medida_activa` / `medida_hidrica` / `medida` / `fin` / `enfoque` / `lineamiento` |
+| 7 | `Etapa_ciclo_vida` | Fase: `pre-diseño` / `diseño` / `construcción` / `operación` / `deconstrucción` / `extracción/manufactura` / `todas` |
+| 8 | `E1_bioclimatica` | Relación con eje E1 (estrategias bioclimáticas pasivas): `Principal` / `Complementario` / `Transversal` / vacío |
+| 9 | `E2_energia` | Relación con eje E2 (eficiencia energética activa) |
+| 10 | `E3_agua` | Relación con eje E3 (eficiencia hídrica) |
+| 11 | `E4_materiales` | Relación con eje E4 (materiales sostenibles) |
+| 12 | `Notas` | Texto libre con observaciones: aplicabilidad rural, alternativas vernáculas, datos ENUT, métricas técnicas, alertas |
+| 13 | `Ref_Ley2462` | Códigos de la Ley 2462/2025 (enfoques `L-E*` y fines `L-F*`) que conectan con este criterio. Permite filtrar criterios con enfoque género/inclusión |
+| 14 | `Aplica_vivienda_rural` | Aplicabilidad a vivienda rural unifamiliar VIS/VIP: `si` / `condicional` (filas `no` se eliminaron de la matriz) |
+| 15 | `Clima` | Clima(s) donde aplica: `frio` / `templado` / `calido_seco` / `calido_humedo` / `todos` (separados por espacio si aplica a varios) |
+| 16 | `Subsistema` | Subsistema constructivo: `Cimentación` / `Estructura` / `Envolvente` / `Cubierta` / `Instalaciones` / `Acabados y complementos` / `Exterior` / `todos` (separados por espacio) |
+| 17 | `Caracter_legal` | Carácter normativo: `obligatorio` / `voluntario` / `recomendado` / `condicional` |
+| 18 | `Nivel_cumplimiento` | Nivel de exigencia: `recomendada` / `a_discrecion` (Res. 0194); `minimo` / `deseable` / `avanzado` (Res. 0534) |
+| 19 | `Parametro_indicador` | Métrica cuantitativa verificable (ej. `Valor U (W/m²K)`, `SHGC (0-1)`, `ACH (cambios/hora)`, `kg CO₂eq/kg`, `% ahorro vs línea base`) |
+| 20 | `Correspondencia_cruzada` | IDs equivalentes en otros marcos que cubren el mismo tema (ej. `Res.0534:S-CT-1; CEELA:C04`) |
+""")
+
+# ============================================================
+# DIALOG Nomenclatura — códigos de ID unificados + valores de ejes
+# ============================================================
+@st.dialog("Nomenclatura · Códigos de M1", width="large")
+def mostrar_nomenclatura():
+    st.markdown("## Tabla unificada de prefijos de ID")
+    st.caption(
+        "Cada fila de M1 tiene un código único. El prefijo identifica la fuente normativa "
+        "y el tipo de criterio/medida."
+    )
+    st.markdown("""
+| Prefijo | Significado | Marco | Ejemplo |
+|---|---|---|---|
+| `MP-` | **M**edida **P**asiva de eficiencia energética | Res. 0194 (Anexo 1) | `MP-14` = Ventilación natural |
+| `MA-` | **M**edida **A**ctiva de eficiencia energética | Res. 0194 (Anexo 1) | `MA-02` = LED >90 lm/W |
+| `MW-` | **M**edida hídrica (***W**ater*) | Res. 0194 (Anexo 1) | `MW-08` = Captación aguas lluvias |
+| `A-E-` | **A**mbiental — **E**nergía | Res. 0534 | `A-E-1` = Energía embebida en materiales |
+| `A-A-` | **A**mbiental — **A**gua | Res. 0534 | `A-A-3` = Consumo agua proyectado |
+| `A-EM-` | **A**mbiental — **EM**isiones | Res. 0534 | `A-EM-1` = Emisiones GEI fabricación |
+| `A-M-` | **A**mbiental — **M**ateriales | Res. 0534 | `A-M-1` = Materiales bajo impacto |
+| `A-S-` | **A**mbiental — **S**uelo | Res. 0534 | `A-S-1` = Evaluación del sitio |
+| `A-R-` | **A**mbiental — **R**esiduos | Res. 0534 | `A-R-2` = Diseño modular para disminuir RCD |
+| `A-FL-` | **A**mbiental — **FL**ora y fauna | Res. 0534 | `A-FL-1` = Madera responsable |
+| `A-SE-` | **A**mbiental — **S**ervicios **E**cosistémicos | Res. 0534 | `A-SE-1` = Drenaje sostenible (SUDS) |
+| `S-CT-` | **S**ocial — **C**onfort **T**érmico | Res. 0534 | `S-CT-1` = Confort térmico por diseño |
+| `S-CL-` | **S**ocial — **C**onfort **L**umínico | Res. 0534 | `S-CL-1` = Control contaminación lumínica |
+| `S-A-` | **S**ocial — calidad del **A**ire | Res. 0534 | `S-A-1` = Calidad aire interior (ASHRAE 62) |
+| `S-CA-` | **S**ocial — **C**onfort **A**cústico | Res. 0534 | `S-CA-1` = Diseño confort acústico (40 dBA) |
+| `S-H-` | **S**ocial — **H**igiene y toxicidad | Res. 0534 | `S-H-1` = Materiales no tóxicos (HPD, VOC) |
+| `S-AC-` | **S**ocial — **AC**cesibilidad | Res. 0534 | `S-AC-1` = Accesibilidad universal |
+| `S-AS-` | **S**ocial — **A**cceso a **S**ervicios | Res. 0534 | `S-AS-1` = Distancia a servicios diarios |
+| `E-CI-` | **E**conómico — **C**ostos **I**nversión | Res. 0534 | `E-CI-1` = Incidencia en costos |
+| `E-CC-` | **E**conómico — **C**onsideraciones **C**omerciales | Res. 0534 | `E-CC-1` = Estrategia comercial |
+| `C` | Criterio CEELA (originalmente "principio") | CEELA | `C06` = Movimiento del aire |
+| `L-E` | **E**nfoque de la Ley (perspectiva/lente) | Ley 2462 | `L-E10` = Enfoque de cuidado |
+| `L-F` | **F**in de la Ley (resultado a lograr) | Ley 2462 | `L-F03` = Reducir carga trabajo doméstico |
+| `UPME-` | Cartilla y Guía PGEE-EP | UPME | `UPME-3` = Indicadores Desempeño Energético |
+| `RET-` | RETILAP — Iluminación | MinMinas | `RET-2` = Diseño iluminación interior vivienda |
+| `SUDS-` | Guía SUDS-MVCT — drenaje sostenible | MVCT/DNP | `SUDS-4` = Cisterna/aljibe |
+| `PNVISR-` | Plan Nacional Vivienda Social Rural | MVCT | `PNVISR-1` = Enfoque diferencial obligatorio |
+| `ParamSFVR-` | Parametrización Subsidio Vivienda Rural | MVCT | Códigos específicos |
+| `GM-X-` | Guía Mejoramientos MVCT | MVCT | `GM-S1` = Mano de obra local |
+| `D{XXXX}-N` | Decretos reglamentarios | varios | `D1727-1` = Ecobertura subsidio |
+| `L{XXX}-N` | Leyes complementarias | Congreso | `L1715-1` = FNCE incentivos IVA |
+| `R{XXXX}-N` | Resoluciones complementarias | varios | `R0472-1` = RCD gestión integral |
+| `ST{XXX}-N` | Sentencias Corte Constitucional | Corte | `ST333-1` = Vivienda digna |
+| `CCCS-N` | Estado Construcción Sostenible | CCCS | `CCCS-1` = Adopción ASG 93% |
+""")
+
+    st.divider()
+
+    st.markdown("## Valores de ejes de sostenibilidad")
+    st.caption(
+        "Los 4 ejes E1–E4 del TdR. Cada criterio se clasifica por su relación con cada eje "
+        "usando palabras completas (no códigos)."
+    )
+    st.markdown("""
+**Valores que puede tomar cada uno de E1, E2, E3, E4:**
+
+| Valor | Significado |
+|---|---|
+| `Principal` | El eje es el **destino natural** del criterio. La fila aborda ese eje como tema central |
+| `Complementario` | El criterio **toca el eje como efecto secundario**, no es su foco principal |
+| `Transversal` | El criterio **aplica a todos los ejes por igual** (típico de C01 Diseño integrado, C11 Comportamiento usuario) |
+| *(vacío)* | El criterio no tiene relación con este eje |
+
+**Los 4 ejes:**
+
+| Código | Eje | Qué incluye |
+|---|---|---|
+| **E1** | Estrategias bioclimáticas pasivas | Confort térmico y lumínico sin sistemas mecánicos: orientación solar, ventilación cruzada, inercia térmica, protección solar, aleros, night flush |
+| **E2** | Estrategias de eficiencia energética de sistemas activos | Sistemas mecánicos/eléctricos: LED, paneles solares, estufas eficientes, calentadores solares, FNCE, HVAC eficiente, monitoreo |
+| **E3** | Estrategias de eficiencia hídrica | Ahorro, captación, reúso y tratamiento de agua: captación pluvial, aparatos bajo consumo, aguas grises, SUDS |
+| **E4** | Estrategias de uso de materiales con atributos de sostenibilidad | Selección por impacto ambiental: energía embebida (GWP), ciclo de vida (ACV), toxicidad, contenido reciclado, origen regional, madera responsable, circularidad |
+
+**Ejemplos de lectura:**
+
+| Fila | E1 | E2 | E3 | E4 | Lectura |
+|---|---|---|---|---|---|
+| `MP-14` Ventilación natural | Principal | — | — | — | Es bioclimática pura |
+| `MP-09` Valor U paredes externas | Principal | — | — | Complementario | Aislamiento bioclimático con efecto en materiales |
+| `MA-01` Iluminación natural + sensores | Complementario | Principal | — | — | Foco en sistema activo, aporta a bioclimática |
+| `C01` Diseño integrado (CEELA) | Transversal | Transversal | Transversal | Transversal | Enfoque de proceso, toca los 4 ejes |
+""")
+
+# ============================================================
+# DIALOG Glosario — se invoca desde botón en M1 (no es página propia)
+# ============================================================
+@st.dialog("Glosario · Términos normativos", width="large")
+def mostrar_glosario():
+    st.caption(
+        "Cada término se define según cómo lo emplea la documentación normativa que respalda la matriz "
+        "de estándares de sostenibilidad. Las definiciones no son propias: se reconstruyen a partir del "
+        "uso textual en cada fuente y se citan con el documento de origen."
+    )
+
+    st.markdown("**De lo más abstracto a lo más concreto. Cómo leer la jerarquía:**")
+    st.markdown("- **Hacia arriba** se sube en abstracción y se contestan preguntas de *para qué*.")
+    st.markdown("- **Hacia abajo** se baja a la ejecución y se contestan preguntas de *cómo*.")
+    st.caption("Click en cada término para ver definición, fuente, ejemplo y relación con otros.")
+    st.markdown("")  # espacio
+
+    # Datos de los 6 términos
+    terminos = [
+        {
+            "linea": "FIN  ←  qué impacto buscamos  (Ley 2462)",
+            "nombre": "Fin",
+            "definicion": (
+                "Resultado o impacto final que se busca lograr — el *para qué* último de las políticas, "
+                "estrategias y medidas. Es la unidad más abstracta: dice qué se quiere transformar, "
+                "no cómo hacerlo."
+            ),
+            "fuente": """
+- **Ley 2462/2025**, sección "Fines" — define **16 fines** que orientan toda actuación pública sobre mujer rural. Los más relevantes para vivienda:
+  1. Respeto de los saberes y conocimientos tradicionales de las mujeres rurales, campesinas y de la pesca
+  2. Reconocer y visibilizar los aportes de la mujer rural como agente transformadora
+  3. **Reconocer, redistribuir y reducir la carga de trabajo doméstico y de cuidados no remunerados** (clave para diseño de vivienda)
+  4. Promover el desarrollo rural eficaz, inclusivo, sostenible y resiliente
+  5. Garantizar acceso integral a recursos productivos y financieros
+  6. Promover la autonomía económica
+  7. Fomentar alianzas sostenibles
+  8. Reconocer la labor de mujeres rurales en el cuidado de los ecosistemas y mitigación del cambio climático
+  9. Promover trabajo digno y decente
+  10. Fortalecer acceso al sistema de salud
+  11. Garantizar participación incidente en instancias de decisión
+  12. Proteger las organizaciones de mujeres rurales
+  13. Garantizar la igualdad de trato y eliminación de discriminación
+  14. Invertir en bienes públicos, infraestructura, transferencias tecnológicas
+""",
+            "ejemplo": (
+                "El `L-F03` (fin: reducir carga de trabajo doméstico no remunerado) justifica medidas como "
+                "conexión a acueducto rural (elimina acarreo de agua), estufas eficientes (elimina recolección "
+                "de leña), o cocina con extracción mecánica (reduce exposición a humo)."
+            ),
+            "relacion": (
+                "El fin es el más abstracto de toda la jerarquía. Un fin se persigue con varios enfoques, "
+                "que orientan estrategias, que se evalúan con criterios y se ejecutan con medidas."
+            ),
+        },
+        {
+            "linea": "ENFOQUE  ←  desde qué perspectiva miramos  (Ley 2462, PNVISR)",
+            "nombre": "Enfoque",
+            "definicion": (
+                "Perspectiva o lente de análisis que se aplica de forma transversal a toda intervención. "
+                "No es una acción ni un parámetro técnico: es el principio que orienta cómo se diseña, "
+                "ejecuta y evalúa cualquier estrategia, criterio o medida."
+            ),
+            "fuente": """
+- **Ley 2462/2025 — Igualdad de oportunidades para mujeres rurales, campesinas y de la pesca** (Congreso de Colombia). Define **12 enfoques obligatorios** que toda política pública para mujer rural debe incorporar:
+  1. Enfoque territorial
+  2. Enfoque de equidad para la mujer
+  3. Enfoque de derechos humanos de las mujeres rurales
+  4. Enfoque interseccional y diferencial
+  5. Enfoque campesinado
+  6. Enfoque curso de vida
+  7. Enfoque de discapacidad
+  8. Enfoque étnico
+  9. Enfoque ambiental
+  10. Enfoque de cuidado
+- También usado por **PNVISR** (Plan Nacional de Construcción y Mejoramiento de Vivienda Social Rural) — exige enfoque diferencial obligatorio (género, étnico, discapacidad, víctimas, territorial).
+""",
+            "ejemplo": (
+                "El `L-E10` (enfoque de cuidado) no prescribe una medida — exige reconocer que la cocina "
+                "y el lavadero concentran trabajo doméstico no remunerado feminizado y diseñar en consecuencia. "
+                "Cualquier medida (MP, MA, MW) puede revisarse desde este enfoque."
+            ),
+            "relacion": (
+                "El enfoque opera por encima de las estrategias. Una misma medida (ej. ubicación de la cocina) "
+                "cambia su forma según los enfoques aplicados (cuidado, étnico, discapacidad)."
+            ),
+        },
+        {
+            "linea": "ESTÁNDAR  ←  qué referencia usamos  (TdR-CEELA, marco general)",
+            "nombre": "Estándar",
+            "definicion": (
+                "Referencia técnica o normativa con la que se compara el desempeño de una vivienda en alguna "
+                "dimensión (ahorro energético, hídrico, materiales, confort). Puede ser **obligatorio** "
+                "(cuando proviene de una resolución o ley) o **referencial** (voluntario, cuando proviene de "
+                "certificaciones internacionales o lineamientos no vinculantes)."
+            ),
+            "fuente": """
+- **TdR de la Guía Técnica de Sostenibilidad Rural CEELA 2026** — usa "estándares de sostenibilidad" como categoría paraguas que abarca tanto Anexo 1 (obligatorio) como criterios CEELA (referenciales).
+- Práctica internacional (ISO 21931, IFC EDGE, LEED, CASA Colombia).
+""",
+            "ejemplo": (
+                "Un estándar es la cobertura entera de la matriz — incluye criterios CEELA, medidas Anexo 1, "
+                "criterios Res. 0534, etc. La columna `Referencia` indica el origen del estándar "
+                "(Res.0194, CEELA, Res.0534…)."
+            ),
+            "relacion": (
+                "Es el más amplio. Un estándar puede contener estrategias, que a su vez se materializan en "
+                "medidas o se evalúan con criterios."
+            ),
+        },
+        {
+            "linea": "ESTRATEGIA  ←  qué táctica aplicamos  (Anexo 1: E1/E2/E3/E4)",
+            "nombre": "Estrategia",
+            "definicion": (
+                "Agrupación de orden superior que reúne medidas o criterios afines orientados a un mismo "
+                "objetivo (ahorro energético, confort térmico, eficiencia hídrica). Es la categoría táctica "
+                "entre el objetivo amplio y la acción específica."
+            ),
+            "fuente": """
+- **Resolución 0194/2025 — Anexo 1, secciones 1.4 y 2** ("Las medidas fueron clasificadas según su potencial de ahorro… El resultado es una herramienta de toma de decisiones denominada Matriz de Implementación").
+- **TdR-CEELA** (objetivo 2.1: "estrategias bioclimáticas pasivas, estrategias de eficiencia energética de sistemas activos, estrategias de eficiencia hídrica, estrategias de uso de materiales con atributos de sostenibilidad").
+
+**Tipos de estrategia que reconoce el Anexo 1:**
+
+| Estrategia | Sigla | Ámbito |
+|---|---|---|
+| Bioclimática pasiva | E1 | aprovecha clima sin consumo energético |
+| Eficiencia energética activa | E2 | sistemas/equipos que consumen energía |
+| Eficiencia hídrica | E3 | reducción de consumo y manejo de aguas |
+| Materiales sostenibles | E4 | propiedades y origen de los materiales |
+""",
+            "ejemplo": (
+                "*Ventilación natural cruzada* es una estrategia de E1 que se materializa en varias medidas "
+                "concretas (orientación, posición de vanos, distancia entre fachadas)."
+            ),
+            "relacion": (
+                "Una estrategia es **más específica que un estándar** y **más general que una medida o un criterio**."
+            ),
+        },
+        {
+            "linea": "CRITERIO  ←  qué desempeño evaluamos  (CEELA: 15 criterios; Res. 0534: 56 criterios)",
+            "nombre": "Criterio",
+            "definicion": (
+                "Enunciado evaluable que permite verificar si una vivienda o proyecto cumple con un aspecto "
+                "puntual de sostenibilidad. A diferencia de la medida, el criterio no prescribe la solución "
+                "técnica: define qué se debe lograr y cómo se mide."
+            ),
+            "fuente": """
+- **CEELA — 15 criterios** (Certificación de Edificaciones Eficientes en Latinoamérica, IFC/Banco Mundial). Cada criterio es un enunciado de desempeño con métrica asociada.
+- **Resolución 0534/2025 — 56 criterios** clasificados en **42 ambientales** + **12 sociales** + **2 económicos**, organizados por 7 fases del ciclo de vida con 3 niveles de cumplimiento (mínimo / deseable / avanzado).
+""",
+            "ejemplo": """
+- `C03` (CEELA) — *Energía incorporada en los materiales*: criterio evaluable mediante el cálculo de kgCO₂eq/m² del material elegido.
+- `A-M-1` (Res. 0534) — *Materiales con bajo impacto ambiental*: criterio con 3 niveles de cumplimiento (% de materiales locales / certificados).
+""",
+            "relacion": (
+                "Un criterio puede contener varias medidas que lo satisfacen. Es la unidad evaluable; "
+                "la medida es la unidad ejecutable."
+            ),
+        },
+        {
+            "linea": "MEDIDA  ←  qué acción técnica ejecutamos  (Anexo 1: 38 medidas MP/MA/MW)",
+            "nombre": "Medida",
+            "definicion": (
+                "Acción técnica concreta y prescriptiva que se implementa en el diseño o construcción para "
+                "lograr un ahorro de recursos o un beneficio ambiental específico. Tiene parámetro técnico "
+                "verificable (Valor U, SHGC, factor de forma, número de aparatos por m²)."
+            ),
+            "fuente": """
+- **Resolución 0194/2025 — Anexo 1** define **38 medidas** clasificadas en:
+  - **15 medidas pasivas** (MP-01 a MP-15): RVP, protección solar, aislamiento, ventilación natural, masa térmica, night flush
+  - **13 medidas activas** (MA-01 a MA-13): iluminación LED, HVAC eficiente, solar térmica, enfriamiento evaporativo
+  - **10 medidas hídricas** (MW/MH-01 a MW-10): aparatos de bajo consumo, captación pluvial, reúso de aguas grises, paisajismo eficiente
+- Cita textual: *"Para determinar el costo de implementación de las medidas… las medidas fueron clasificadas según su potencial de ahorro"* (Anexo 1, p. 7).
+""",
+            "ejemplo": """
+- `MP-14` — Inercia térmica en muros (≥40 cm de masa) para clima frío
+- `MA-07` — Calentador solar térmico de placa plana
+- `MW-03` — Sanitarios de doble descarga (≤4.5 / 3 L)
+""",
+            "relacion": (
+                "La medida es la **acción concreta** que materializa una estrategia y satisface uno o más criterios. "
+                "Es la unidad operacional más concreta del Anexo 1."
+            ),
+        },
+    ]
+
+    for i, t in enumerate(terminos):
+        with st.expander(t["linea"], expanded=False):
+            st.markdown(f"**Definición:** {t['definicion']}")
+            st.markdown("**Fuente / origen del término:**")
+            st.markdown(t["fuente"])
+            st.markdown("**Ejemplo en M1:**")
+            st.markdown(t["ejemplo"])
+            st.markdown("**Relación con otros términos:**")
+            st.markdown(t["relacion"])
+        if i < len(terminos) - 1:
+            st.markdown(
+                "<div style='text-align:center; font-size:1.6rem; line-height:1; "
+                "margin:0.2rem 0; color:#888;'>↓</div>",
+                unsafe_allow_html=True,
+            )
+
+    st.divider()
+    st.markdown("### Ejemplo de encadenamiento jerárquico")
+    with st.expander("Ejemplo encadenado de los 6 niveles", expanded=False):
+        st.markdown("""
+- **Fin** `L-F03`: reducir la carga de trabajo doméstico no remunerado en mujer rural
+- **Enfoque** `L-E10`: enfoque de cuidado
+- **Estándar** Res. 0194/2025 (obligatorio para VIS rural)
+- **Estrategia** E3: eficiencia hídrica
+- **Criterio** Res. 0534 `A-SE-1`: provisión confiable de agua potable
+- **Medida** `MW-08`: captación pluvial dimensionada con tratamiento (PTALL)
+""")
+
+    st.caption(
+        "Para más detalle (sub-tipos del campo `Tipo`, sigla EECA, convenciones de codificación), "
+        "ver `docs/Glosario_terminos.md`."
+    )
 
 
 def _footer():

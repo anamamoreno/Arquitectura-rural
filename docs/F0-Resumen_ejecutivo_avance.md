@@ -3,7 +3,7 @@
 **Proyecto:** Guía técnica de sostenibilidad para vivienda rural en los 4 climas de Colombia (Anexo 1 Res. 0194/2025 + criterios CEELA).
 **Producto 1:** Levantamiento de información sobre estándares de sostenibilidad para eficiencia energética, hídrica, materiales sostenibles y confort ambiental aplicables a tipologías de vivienda rural existentes.
 **Responsable Producto 1:** Ana María Moreno.
-**Fecha de corte:** 2026-05-05.
+**Fecha de corte:** 2026-05-06.
 
 ---
 
@@ -48,10 +48,10 @@ Aplicabilidad: 4 climas TdR (frío, templado, cálido húmedo, cálido seco) + 8
 **Archivo:** `docs/F0-Matriz_estandares_sostenibilidad.csv`
 
 **Cifras:**
-- **191 filas** (criterios, medidas, principios, enfoques, fines)
-- **26 referencias normativas/documentales** con URL pública verificada
+- **181 filas** (criterios, medidas, principios, enfoques, fines aplicables a vivienda rural)
+- **25 referencias normativas/documentales** con URL pública verificada
 - **20 columnas** estandarizadas
-- **149 filas (~78%)** aplicables a vivienda rural (`si` o `condicional`)
+- **100% aplicables a vivienda rural** (`si` 157 + `condicional` 24); las 10 filas `no` se eliminaron el 2026-05-06
 
 **Cobertura por marco:**
 
@@ -66,7 +66,7 @@ Aplicabilidad: 4 climas TdR (frío, templado, cálido húmedo, cálido seco) + 8
 
 **Documentación de soporte:**
 - **`docs/F0-Tutorial_Matriz_estandares.md`** — tutorial completo de los 20 campos (v0.3)
-- **`docs/F0-Lista_referencias_y_aportes.md`** — inventario detallado de las 26 fuentes con URL clickeable, distribución por categoría/eje/carácter legal y alertas vigentes (v0.4)
+- **`docs/F0-Lista_referencias_y_aportes.md`** — inventario detallado de las 25 fuentes con URL clickeable, distribución por categoría/eje/carácter legal y alertas vigentes (v0.5)
 
 ### 2.4 Matriz M2 — Casos de éxito y vernáculos
 
@@ -146,8 +146,8 @@ Incluye:
 | Indicador | Valor |
 |---|---|
 | Documentos normativos revisados | 35 |
-| Referencias en M1 | 26 |
-| Filas en M1 | 191 |
+| Referencias en M1 | 25 |
+| Filas en M1 | 181 |
 | Casos en M2 | 31 (todos pendientes de validación) |
 | Climas TdR cubiertos en M2 | 4/4 ✅ |
 | Sistemas constructivos identificados | 8 |
@@ -204,3 +204,4 @@ Incluye:
 | Versión | Fecha | Cambios |
 |---|---|---|
 | 1.0 | 2026-05-05 | Resumen ejecutivo inicial — estado del Producto 1 a la fecha |
+| 1.1 | 2026-05-06 | Sincronización con M1 reducida: 191 → 181 filas, 26 → 25 referencias (eliminadas 10 filas `Aplica_vivienda_rural=no`: 8 medidas Res.0194 no rurales + 2 R0019 FRECH NO VIS) |

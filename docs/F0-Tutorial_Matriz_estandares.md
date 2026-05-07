@@ -3,8 +3,8 @@
 > **¿Qué es este documento?** Guía para entender, consultar y filtrar la matriz `F0-Matriz_estandares_sostenibilidad.csv`. Explica qué significa cada campo, cada código y cada nomenclatura empleada. Para que cualquier integrante del equipo pueda abrir la matriz en Excel o en la app y encontrar respuestas sin ambigüedad.
 
 **Archivo:** `docs/F0-Matriz_estandares_sostenibilidad.csv`
-**Contenido:** **191 filas** — todos los criterios, medidas, principios, enfoques y fines de **26 fuentes normativas y documentales**.
-**Versión:** 0.3 · **Fecha:** 2026-05-05.
+**Contenido:** **181 filas** — todos los criterios, medidas, principios, enfoques y fines de **25 fuentes normativas y documentales** aplicables a vivienda rural (`Aplica_vivienda_rural ∈ {si, condicional}`).
+**Versión:** 0.5 · **Fecha:** 2026-05-06.
 
 ---
 
@@ -17,7 +17,7 @@ Es el **catálogo normativo consolidado** del proyecto. Reúne en una sola tabla
 | Esta matriz (M1 — Estándares) | Matriz M2 (Casos de éxito) |
 |---|---|
 | **Lo que exige la norma** | **Lo que se construyó en proyectos reales** |
-| 191 filas, 26 fuentes, 20 columnas | 31 casos, 29 columnas |
+| 181 filas, 25 fuentes, 20 columnas | 31 casos, 29 columnas |
 | Se construyó como inventario fijo | Se llena con proyectos vernáculos y contemporáneos |
 | Cada caso de M2 referencia IDs de aquí (campo `Estandares_ref`) | M2 ilustra cómo se materializan los estándares de M1 |
 
@@ -34,12 +34,12 @@ Para detalle del inventario completo de fuentes y su aporte por filas, ver `F0-L
 
 ### Campo 1: `Referencia`
 
-El marco normativo o documental de donde proviene cada fila. Hay **26 valores únicos**. Para definición completa de cada uno con URL, ver `F0-Lista_referencias_y_aportes.md`. Resumen:
+El marco normativo o documental de donde proviene cada fila. Hay **25 valores únicos** (todos con `Aplica_vivienda_rural ∈ {si, condicional}`). Para definición completa con URL ver `F0-Lista_referencias_y_aportes.md`. Resumen:
 
 | Valor | Tipo | Filas |
 |---|---|---|
 | `Res.0534` | Resolución 0534/2025 — Guía Técnica Ciclo de Vida (MVCT) | 53 |
-| `Res.0194` | Resolución 0194/2025 — Anexo 1: Guía de ahorro agua y energía (MVCT) | 38 |
+| `Res.0194` | Resolución 0194/2025 — Anexo 1: Guía de ahorro agua y energía (MVCT) | 30 |
 | `Ley.2462` | Ley 2462/2025 — Igualdad de oportunidades mujer rural | 28 |
 | `CEELA` | Certificación de Edificaciones Eficientes en Latinoamérica (IFC/COSUDE) | 15 |
 | `UPME-PGEE` | Cartilla y Guía PGEE-EP — Planes de Gestión Eficiente de Energía (UPME) | 10 |
@@ -47,7 +47,6 @@ El marco normativo o documental de donde proviene cada fila. Hay **26 valores ú
 | `SUDS-MVCT` | Guía Metodológica SUDS (MVCT/DNP) | 6 |
 | `EC-MADS`, `PNVISR`, `ParamSFVR` | Política y estrategia nacional | 4 c/u |
 | `RAS`, `RETILAP` | Reglamentos técnicos sectoriales | 3 c/u |
-| `R0019` | Resolución 0019/2022 — Requisitos sostenibilidad FRECH NO VIS (MVCT) | 2 |
 | `D1285`, `D1467`, `D1727`, `D948`, `D1443` | Decretos reglamentarios | 1 c/u |
 | `L1715`, `L373`, `L1931`, `L1819` | Leyes complementarias | 1 c/u |
 | `R0472`, `R0541` | Resoluciones complementarias | 1 c/u |
@@ -55,7 +54,7 @@ El marco normativo o documental de donde proviene cada fila. Hay **26 valores ú
 
 ### Campo 2: `URL_fuente`
 
-URL pública oficial del documento que respalda la fila. Las 191 filas tienen URL verificado.
+URL pública oficial del documento que respalda la fila. Las 181 filas tienen URL verificado.
 
 - Sirve para abrir la fuente original en una pestaña nueva (la app la renderiza como botón clickeable)
 - Apunta a sitios oficiales: `minvivienda.gov.co`, `funcionpublica.gov.co/eva/gestornormativo`, `proyectoceela.com`, `minenergia.gov.co`, etc.
@@ -101,7 +100,7 @@ Código único de cada criterio dentro de su marco. Nomenclatura por marco:
 |---|---|---|
 | `C` | C01 a C15 | `C06` = Movimiento del aire |
 
-> En CEELA original se llaman "principios"; en M1 se codifican como `Tipo=criterio` para alineación con el TdR. Ver `Glosario_terminos.md`.
+> En CEELA original se llaman "principios"; en M1 se codifican como `Jerarquía=criterio` para alineación con el TdR. Ver `Glosario_terminos.md`.
 
 #### Ley 2462 — 12 enfoques + 16 fines
 
@@ -121,22 +120,21 @@ Código único de cada criterio dentro de su marco. Nomenclatura por marco:
 | Prefijo | Marco | Ejemplo |
 |---|---|---|
 | `RET-` | RETILAP | `RET-2` = Diseño iluminación interior vivienda |
-| `R0019-` | Resolución 0019/2022 | `R0019-1` = Sellos verdes FRECH NO VIS |
 | `SUDS-` | Guía SUDS-MVCT | `SUDS-4` = Cisterna/aljibe |
 | `PNVISR-`, `ParamSFVR-`, `GM-X-`, etc. | Otros | Códigos específicos de cada fuente |
 | `Decretos`, `Leyes`, `Resoluciones` | Sigla del documento | `D1727-1`, `L1715-1`, `R0472-1`, `ST333-1` |
 
-### Campo 4: `Criterio_medida`
+### Campo 4: `Tema`
 
-Nombre corto del criterio, medida, principio, enfoque o fin. Texto libre.
+Nombre/título del término (texto libre). Ejemplos: "Ventilación natural", "Inercia térmica", "Reducir carga doméstica no remunerada".
 
 ### Campo 5: `Descripcion`
 
 Descripción técnica con cita del marco normativo. Hasta ~300 caracteres.
 
-### Campo 6: `Tipo`
+### Campo 6: `Jerarquía`
 
-Naturaleza del criterio. Indica de qué clase de instrumento se trata. **12 valores activos** en M1:
+Clasificación según la jerarquía conceptual (Fin → Enfoque → Estándar → Estrategia → Criterio → Medida). Indica de qué clase de instrumento se trata. **12 valores activos** en M1:
 
 | Valor | Significado | Marcos donde aparece | Filas |
 |---|---|---|---|
@@ -234,7 +232,7 @@ Para detalle de cada código, ver fila correspondiente en M1 (`Referencia=Ley.24
 |---|---|
 | `si` | Aplica directamente |
 | `condicional` | Aplica según clima, presupuesto o infraestructura disponible |
-| `no` | No aplica — diseñado para edificaciones comerciales/industriales o programas urbanos (ej. R0019 FRECH NO VIS) |
+| `no` | (en M1 actual no quedan filas con este valor — se eliminaron) |
 
 **Para trabajar solo con lo relevante:** filtrar `si` + `condicional`.
 
@@ -276,7 +274,7 @@ Cuando aplica a varios se separan con espacio: `Estructura Envolvente`.
 
 | Valor | Significado | Marcos típicos |
 |---|---|---|
-| `obligatorio` | Exigible por ley o resolución ministerial — puede haber sanción por incumplimiento | Res. 0194, Res. 0534, Ley 2462, RAS, RETILAP, R0019 |
+| `obligatorio` | Exigible por ley o resolución ministerial — puede haber sanción por incumplimiento | Res. 0194, Res. 0534, Ley 2462, RAS, RETILAP |
 | `voluntario` | Buena práctica recomendada — sin sanción por no cumplir | CEELA |
 | `recomendado` | Sugerido por la entidad sectorial pero no obligatorio | UPME-PGEE (mayoría) |
 | `condicional` | El nivel mínimo es obligatorio pero los niveles superiores son voluntarios | Algunos criterios de Res. 0534 |
@@ -289,7 +287,7 @@ Nivel de exigencia **dentro** del criterio. Diferente del carácter legal.
 |---|---|---|
 | `recomendada` | El Anexo 1 la recomienda para obtener el % de ahorro mínimo | Res. 0194 |
 | `a_discrecion` | A criterio del constructor (evaluar viabilidad técnica y económica) | Res. 0194 |
-| `minimo` | Nivel base obligatorio que todo proyecto debe cumplir | Res. 0534, RETILAP, R0019 |
+| `minimo` | Nivel base obligatorio que todo proyecto debe cumplir | Res. 0534, RETILAP |
 | `deseable` | Nivel intermedio voluntario que mejora el desempeño | Res. 0534, UPME-PGEE |
 | `avanzado` | Nivel superior voluntario de excelencia | Res. 0534, UPME-PGEE |
 | `na` | No aplica (enfoques/fines de Ley 2462 no tienen niveles) | Ley 2462 |
@@ -308,7 +306,6 @@ Métrica cuantitativa asociada al criterio, si existe. Vacío si no tiene indica
 - `dBA` — ruido
 - `kWh/m²/año` — desempeño energético (UPME-PGEE)
 - `Clase RETIQ (A; B; C…)` — etiquetado eficiencia (UPME-PGEE)
-- `≥25% energía; 25% agua; 20% materiales` — niveles EDGE (R0019)
 
 ### Campo 20: `Correspondencia_cruzada`
 
@@ -340,7 +337,7 @@ IDs de criterios **equivalentes en otros marcos** que cubren el mismo tema. Perm
 3. Para ver el detalle: leer columna `Notas`
 
 ### "¿Qué dice cada norma sobre ventilación?"
-1. Buscar `ventilación` o `aire` en columna `Criterio_medida`
+1. Buscar `ventilación` o `aire` en columna `Tema`
 2. O buscar `MP-14` en `Correspondencia_cruzada` para ver equivalentes
 
 ### "¿Qué criterios de la Res. 0534 son nuevos (no estaban en Res. 0194)?"
@@ -350,7 +347,7 @@ IDs de criterios **equivalentes en otros marcos** que cubren el mismo tema. Perm
 
 ### "¿Cuáles NO aplican a vivienda rural?"
 1. Filtrar `Aplica_vivienda_rural` = `no`
-2. Resultado: medidas de infraestructura comercial + R0019 (FRECH NO VIS)
+2. Resultado: ninguna fila — todas las filas con `no` fueron eliminadas el 2026-05-06 (eran 8 medidas Res.0194 no rurales + 2 R0019 FRECH NO VIS)
 
 ### "¿Qué criterios aplican al subsistema de cubierta?"
 1. Filtrar `Subsistema` contiene `Cubierta`
@@ -381,11 +378,11 @@ IDs de criterios **equivalentes en otros marcos** que cubren el mismo tema. Perm
 
 | Documento | Relación |
 |---|---|
-| `F0-Lista_referencias_y_aportes.md` | Inventario detallado de las 26 referencias con URL clickeable, distribución por categoría/eje/carácter, alertas |
+| `F0-Lista_referencias_y_aportes.md` | Inventario detallado de las 25 referencias con URL clickeable, distribución por categoría/eje/carácter, alertas |
 | `F0-Matriz_casos_exito.csv` | Matriz M2 — casos vernáculos y contemporáneos que materializan estos estándares |
 | `F8-Matriz_casos_diccionario.md` | Diccionario de M2 (casos) |
 | `F6-Plan_busqueda_casos.md` | Plan de búsqueda de casos M2 |
-| `Glosario_terminos.md` | Definiciones de Fin, Enfoque, Estándar, Estrategia, Criterio, Medida + términos pragmáticos del campo `Tipo` |
+| `Glosario_terminos.md` | Definiciones de Fin, Enfoque, Estándar, Estrategia, Criterio, Medida + términos pragmáticos del campo `Jerarquía` |
 | `F1-Matriz_busqueda.csv` | Matriz de búsqueda bibliográfica — referencias BS apuntan a IDs de aquí en `Observaciones` |
 | `F1-Marco_busqueda_sistemas_materiales.md` | Definición de subsistemas usados en la columna `Subsistema` |
 
@@ -409,10 +406,9 @@ IDs de criterios **equivalentes en otros marcos** que cubren el mismo tema. Perm
 | `UPME-` | UPME-PGEE | Criterios y metodologías PGEE | 10 |
 | `RET-` | RETILAP | Iluminación y URE | 3 |
 | `SUDS-` | SUDS-MVCT | Tipologías de drenaje sostenible | 6 |
-| `R0019-` | R0019 | Sellos verdes y niveles EDGE | 2 |
 | `GM-X-`, `PNVISR-`, `ParamSFVR-`, etc. | Otros | Códigos específicos | varios |
 | Decretos / Leyes / Sentencia / Otros | varios | 1 fila por documento | varios |
-| | | **Total** | **191** |
+| | | **Total** | **181** |
 
 ### Valores del campo Tipo
 
@@ -480,3 +476,5 @@ Cuando aplica a varios se separan con espacio: `Estructura Envolvente`.
 | 0.1 | 2026-04-23 | Tutorial inicial: 19 campos, nomenclaturas completas, consultas frecuentes |
 | 0.2 | 2026-04-29 | Columnas: `Enfoque_genero` + `Inclusion_social` reemplazadas por `Notas` + `Ref_Ley2462`. Subsistemas con nombre completo. Ejes con nombre completo |
 | 0.3 | 2026-05-05 | Total filas 134 → 191. Total referencias 4 → 26 (+UPME-PGEE, +RETILAP, +R0019, +todas las demás del proyecto). +Campo `URL_fuente` (col 2; 191/191 con URL clickeable). Tipo: `principio` renombrado a `criterio` (CEELA), `metodologia` renombrado a `criterio_metodologico` (UPME-PGEE), +`lineamiento`. Ejes E1–E4 valores corregidos a palabras completas (Principal/Complementario/Transversal en lugar de P/C/T). Sección 5 actualizada con docs vigentes (varios F0-3-* movidos a DESCARTADOS) |
+| 0.4 | 2026-05-06 | Eliminadas 10 filas con `Aplica_vivienda_rural=no`: 8 medidas Res.0194 no rurales (MA-05/06/07/08/09/13, MW-04, MW-10) + 2 R0019 (FRECH NO VIS). M1 ahora: **181 filas, 25 referencias** (R0019 desaparece). Conteos y prefijos en §3, §6 actualizados. |
+| 0.5 | 2026-05-06 | Renombre de columnas: `Criterio_medida` → `Tema` (Campo 4, nombre/título del término); `Tipo` → `Jerarquía` (Campo 6, clasificación según jerarquía conceptual). Refleja con mayor claridad qué guarda cada columna. |

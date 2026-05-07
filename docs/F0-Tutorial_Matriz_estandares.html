@@ -370,8 +370,8 @@ code {
 <p><strong>¿Qué es este documento?</strong> Guía para entender, consultar y filtrar la matriz <code>F0-Matriz_estandares_sostenibilidad.csv</code>. Explica qué significa cada campo, cada código y cada nomenclatura empleada. Para que cualquier integrante del equipo pueda abrir la matriz en Excel o en la app y encontrar respuestas sin ambigüedad.</p>
 </blockquote>
 <p><strong>Archivo:</strong> <code>docs/F0-Matriz_estandares_sostenibilidad.csv</code>
-<strong>Contenido:</strong> <strong>191 filas</strong> — todos los criterios, medidas, principios, enfoques y fines de <strong>26 fuentes normativas y documentales</strong>.
-<strong>Versión:</strong> 0.3 · <strong>Fecha:</strong> 2026-05-05.</p>
+<strong>Contenido:</strong> <strong>181 filas</strong> — todos los criterios, medidas, principios, enfoques y fines de <strong>25 fuentes normativas y documentales</strong> aplicables a vivienda rural (<code>Aplica_vivienda_rural ∈ {si, condicional}</code>).
+<strong>Versión:</strong> 0.4 · <strong>Fecha:</strong> 2026-05-06.</p>
 <hr>
 <h2 id="1-qué-es-esta-matriz">1. Qué es esta matriz</h2>
 <p>Es el <strong>catálogo normativo consolidado</strong> del proyecto. Reúne en una sola tabla todo lo que las normas y marcos de referencia colombianos (más CEELA y UPME-PGEE) dicen sobre sostenibilidad en edificaciones, clasificado por eje, clima, aplicabilidad rural y carácter legal.</p>
@@ -389,7 +389,7 @@ code {
 <td><strong>Lo que se construyó en proyectos reales</strong></td>
 </tr>
 <tr>
-<td>191 filas, 26 fuentes, 20 columnas</td>
+<td>181 filas, 25 fuentes, 20 columnas</td>
 <td>31 casos, 29 columnas</td>
 </tr>
 <tr>
@@ -412,7 +412,7 @@ code {
 </ol>
 <h2 id="3-los-20-campos--nomenclatura-completa">3. Los 20 campos — nomenclatura completa</h2>
 <h3 id="campo-1-referencia">Campo 1: <code>Referencia</code></h3>
-<p>El marco normativo o documental de donde proviene cada fila. Hay <strong>26 valores únicos</strong>. Para definición completa de cada uno con URL, ver <code>F0-Lista_referencias_y_aportes.md</code>. Resumen:</p>
+<p>El marco normativo o documental de donde proviene cada fila. Hay <strong>25 valores únicos</strong> (todos con <code>Aplica_vivienda_rural ∈ {si, condicional}</code>). Para definición completa con URL ver <code>F0-Lista_referencias_y_aportes.md</code>. Resumen:</p>
 <table>
 <thead>
 <tr>
@@ -430,7 +430,7 @@ code {
 <tr>
 <td><code>Res.0194</code></td>
 <td>Resolución 0194/2025 — Anexo 1: Guía de ahorro agua y energía (MVCT)</td>
-<td>38</td>
+<td>30</td>
 </tr>
 <tr>
 <td><code>Ley.2462</code></td>
@@ -468,11 +468,6 @@ code {
 <td>3 c/u</td>
 </tr>
 <tr>
-<td><code>R0019</code></td>
-<td>Resolución 0019/2022 — Requisitos sostenibilidad FRECH NO VIS (MVCT)</td>
-<td>2</td>
-</tr>
-<tr>
 <td><code>D1285</code>, <code>D1467</code>, <code>D1727</code>, <code>D948</code>, <code>D1443</code></td>
 <td>Decretos reglamentarios</td>
 <td>1 c/u</td>
@@ -495,7 +490,7 @@ code {
 </tbody>
 </table>
 <h3 id="campo-2-url_fuente">Campo 2: <code>URL_fuente</code></h3>
-<p>URL pública oficial del documento que respalda la fila. Las 191 filas tienen URL verificado.</p>
+<p>URL pública oficial del documento que respalda la fila. Las 181 filas tienen URL verificado.</p>
 <ul>
 <li>Sirve para abrir la fuente original en una pestaña nueva (la app la renderiza como botón clickeable)</li>
 <li>Apunta a sitios oficiales: <code>minvivienda.gov.co</code>, <code>funcionpublica.gov.co/eva/gestornormativo</code>, <code>proyectoceela.com</code>, <code>minenergia.gov.co</code>, etc.</li>
@@ -707,11 +702,6 @@ code {
 <td><code>RET-</code></td>
 <td>RETILAP</td>
 <td><code>RET-2</code> = Diseño iluminación interior vivienda</td>
-</tr>
-<tr>
-<td><code>R0019-</code></td>
-<td>Resolución 0019/2022</td>
-<td><code>R0019-1</code> = Sellos verdes FRECH NO VIS</td>
 </tr>
 <tr>
 <td><code>SUDS-</code></td>
@@ -1031,7 +1021,7 @@ code {
 </tr>
 <tr>
 <td><code>no</code></td>
-<td>No aplica — diseñado para edificaciones comerciales/industriales o programas urbanos (ej. R0019 FRECH NO VIS)</td>
+<td>(en M1 actual no quedan filas con este valor — se eliminaron)</td>
 </tr>
 </tbody>
 </table>
@@ -1132,7 +1122,7 @@ code {
 <tr>
 <td><code>obligatorio</code></td>
 <td>Exigible por ley o resolución ministerial — puede haber sanción por incumplimiento</td>
-<td>Res. 0194, Res. 0534, Ley 2462, RAS, RETILAP, R0019</td>
+<td>Res. 0194, Res. 0534, Ley 2462, RAS, RETILAP</td>
 </tr>
 <tr>
 <td><code>voluntario</code></td>
@@ -1175,7 +1165,7 @@ code {
 <tr>
 <td><code>minimo</code></td>
 <td>Nivel base obligatorio que todo proyecto debe cumplir</td>
-<td>Res. 0534, RETILAP, R0019</td>
+<td>Res. 0534, RETILAP</td>
 </tr>
 <tr>
 <td><code>deseable</code></td>
@@ -1207,7 +1197,6 @@ code {
 <li><code>dBA</code> — ruido</li>
 <li><code>kWh/m²/año</code> — desempeño energético (UPME-PGEE)</li>
 <li><code>Clase RETIQ (A; B; C…)</code> — etiquetado eficiencia (UPME-PGEE)</li>
-<li><code>≥25% energía; 25% agua; 20% materiales</code> — niveles EDGE (R0019)</li>
 </ul>
 <h3 id="campo-20-correspondencia_cruzada">Campo 20: <code>Correspondencia_cruzada</code></h3>
 <p>IDs de criterios <strong>equivalentes en otros marcos</strong> que cubren el mismo tema. Permite ver qué dice cada norma sobre un mismo asunto.</p>
@@ -1251,7 +1240,7 @@ code {
 <h3 id="cuáles-no-aplican-a-vivienda-rural">&quot;¿Cuáles NO aplican a vivienda rural?&quot;</h3>
 <ol>
 <li>Filtrar <code>Aplica_vivienda_rural</code> = <code>no</code></li>
-<li>Resultado: medidas de infraestructura comercial + R0019 (FRECH NO VIS)</li>
+<li>Resultado: ninguna fila — todas las filas con <code>no</code> fueron eliminadas el 2026-05-06 (eran 8 medidas Res.0194 no rurales + 2 R0019 FRECH NO VIS)</li>
 </ol>
 <h3 id="qué-criterios-aplican-al-subsistema-de-cubierta">&quot;¿Qué criterios aplican al subsistema de cubierta?&quot;</h3>
 <ol>
@@ -1294,7 +1283,7 @@ code {
 <tbody>
 <tr>
 <td><code>F0-Lista_referencias_y_aportes.md</code></td>
-<td>Inventario detallado de las 26 referencias con URL clickeable, distribución por categoría/eje/carácter, alertas</td>
+<td>Inventario detallado de las 25 referencias con URL clickeable, distribución por categoría/eje/carácter, alertas</td>
 </tr>
 <tr>
 <td><code>F0-Matriz_casos_exito.csv</code></td>
@@ -1410,12 +1399,6 @@ code {
 <td>6</td>
 </tr>
 <tr>
-<td><code>R0019-</code></td>
-<td>R0019</td>
-<td>Sellos verdes y niveles EDGE</td>
-<td>2</td>
-</tr>
-<tr>
 <td><code>GM-X-</code>, <code>PNVISR-</code>, <code>ParamSFVR-</code>, etc.</td>
 <td>Otros</td>
 <td>Códigos específicos</td>
@@ -1431,7 +1414,7 @@ code {
 <td></td>
 <td></td>
 <td><strong>Total</strong></td>
-<td><strong>191</strong></td>
+<td><strong>181</strong></td>
 </tr>
 </tbody>
 </table>
@@ -1645,6 +1628,11 @@ code {
 <td>0.3</td>
 <td>2026-05-05</td>
 <td>Total filas 134 → 191. Total referencias 4 → 26 (+UPME-PGEE, +RETILAP, +R0019, +todas las demás del proyecto). +Campo <code>URL_fuente</code> (col 2; 191/191 con URL clickeable). Tipo: <code>principio</code> renombrado a <code>criterio</code> (CEELA), <code>metodologia</code> renombrado a <code>criterio_metodologico</code> (UPME-PGEE), +<code>lineamiento</code>. Ejes E1–E4 valores corregidos a palabras completas (Principal/Complementario/Transversal en lugar de P/C/T). Sección 5 actualizada con docs vigentes (varios F0-3-* movidos a DESCARTADOS)</td>
+</tr>
+<tr>
+<td>0.4</td>
+<td>2026-05-06</td>
+<td>Eliminadas 10 filas con <code>Aplica_vivienda_rural=no</code>: 8 medidas Res.0194 no rurales (MA-05/06/07/08/09/13, MW-04, MW-10) + 2 R0019 (FRECH NO VIS). M1 ahora: <strong>181 filas, 25 referencias</strong> (R0019 desaparece). Conteos y prefijos en §3, §6 actualizados.</td>
 </tr>
 </tbody>
 </table>

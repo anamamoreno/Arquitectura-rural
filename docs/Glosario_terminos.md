@@ -184,9 +184,9 @@ MEDIDA           ← qué acción técnica ejecutamos      (Anexo 1: 38 medidas 
 
 ---
 
-## Términos pragmáticos del campo `Tipo` de M1
+## Términos pragmáticos del campo `Jerarquía` de M1
 
-La columna `Tipo` del CSV `F0-Matriz_estandares_sostenibilidad.csv` usa una **clasificación operativa** que no coincide 1:1 con los 6 niveles del glosario. Algunos valores son **sub-tipos de la jerarquía** (familias) y otros son **categorías transversales** que no encajan en un nivel único. Esta sección los documenta para evitar confusión.
+La columna `Jerarquía` del CSV `F0-Matriz_estandares_sostenibilidad.csv` (anteriormente `Tipo`) usa una **clasificación operativa** que no coincide 1:1 con los 6 niveles del glosario. Algunos valores son **sub-tipos de la jerarquía** (familias) y otros son **categorías transversales** que no encajan en un nivel único. Esta sección los documenta para evitar confusión.
 
 ### Sub-tipos de Criterio
 - **`criterio_ambiental`**, **`criterio_social`**, **`criterio_economico`** — corresponden a las **3 dimensiones de la Res. 0534/2025** (42 ambientales, 12 sociales, 2 económicos). Todos son `Criterio` en la jerarquía.
@@ -200,7 +200,7 @@ La columna `Tipo` del CSV `F0-Matriz_estandares_sostenibilidad.csv` usa una **cl
 ### Variantes de Estándar / Estrategia
 - **`lineamiento`** — usado por **PNVISR** y otras fuentes (UPME-PGEE en sistemas de gestión). Es directriz institucional general, intermedia entre Estándar y Criterio. No prescribe una acción concreta; orienta cómo deben organizarse las acciones.
 
-> **Nota sobre CEELA:** los 15 elementos CEELA originalmente se nombran "principios" en su documentación, pero el TdR del contrato los llama "criterios". Para consistencia con el TdR y con la familia `criterio_*`, en M1 se codifican como `Tipo=criterio` (no `principio`).
+> **Nota sobre CEELA:** los 15 elementos CEELA originalmente se nombran "principios" en su documentación, pero el TdR del contrato los llama "criterios". Para consistencia con el TdR y con la familia `criterio_*`, en M1 se codifican como `Jerarquía=criterio` (no `principio`).
 
 ### Sigla EECA
 
@@ -216,7 +216,7 @@ El programa CEELA se articula en torno a 3 conceptos transversales: Eficiencia E
 
 ### Resumen de mapeo
 
-| Valor en `Tipo` (M1) | Nivel jerarquía glosario | Origen normativo |
+| Valor en `Jerarquía` (M1) | Nivel jerarquía glosario | Origen normativo |
 |---|---|---|
 | `fin` | Fin | Ley 2462/2025 |
 | `enfoque` | Enfoque | Ley 2462/2025; PNVISR |
@@ -236,3 +236,4 @@ El programa CEELA se articula en torno a 3 conceptos transversales: Eficiencia E
 | 0.1 | 2026-05-04 | Versión inicial. 6 términos definidos con fuente normativa. |
 | 0.2 | 2026-05-04 | +sección "Términos pragmáticos del campo `Tipo` de M1": documenta sub-tipos (criterio_*, medida_*) y variantes (principio, lineamiento, criterio_metodologico). Ningún cambio a la jerarquía vertical. |
 | 0.3 | 2026-05-05 | M1: 15 filas CEELA renombradas de `Tipo=principio` a `Tipo=criterio` (consistencia con TdR). Glosario: removida variante `principio`; agregada nota sobre CEELA. |
+| 0.4 | 2026-05-06 | Renombre de columnas en M1 CSV: `Criterio_medida` → `Tema` (nombre/título del término), `Tipo` → `Jerarquía` (clasificación jerárquica). Reflejado en sección "Términos pragmáticos del campo `Jerarquía` de M1". |
