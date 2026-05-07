@@ -1,0 +1,11 @@
+ID_fuente,Tipo_fuente,Archivo_fuente,Titulo,Autor_institucion,Año,URL_fuente,N_casos,Casos_asociados,,,,,,,,,,,
+F-M2-01,documento_proyecto,Vivienda-Nueva-Rural.pdf,Vivienda Nueva Rural en Antioquia,Empresa de Vivienda e Infraestructura de Antioquia (VIVA),2014,https://es.scribd.com/document/379978680/Vivienda-Nueva-Rural,6,CAS-001,CAS-002,CAS-003,CAS-004,CAS-005,CAS-006,,,,,,
+F-M2-02,documento_proyecto,Vivienda+y+Cultura_Digital.pdf,Vivienda y cultura,"Calderón, Mosquera, Franco — Universidad del Valle / ICANH",2022,https://publicaciones.icanh.gov.co/index.php/picanh/catalog/view/131/304/2854,12,CAS-008,CAS-009,CAS-010,CAS-011,CAS-012,CAS-013,CAS-014,CAS-015,CAS-016,CAS-017,CAS-018,CAS-019
+F-M2-03,documento_proyecto,Habitat-Para-La-Paz.pdf,Hábitat Para La Paz,Pontificia Universidad Javeriana,2021,https://es.scribd.com/document/515781543/Habitat-Para-La-Paz,1,CAS-007,,,,,,,,,,,
+F-M2-04,tesis,AR-Uniandes-Orocue.pdf,Vivienda rural llanera Orocué (tesis Uniandes / pub. Dearq),Ponce de León — Universidad de los Andes,2022/2023,,3,CAS-020,CAS-021,CAS-022,,,,,,,,,
+F-M2-05,tesis,TdeG-UGC-ruralColombia_2020.pdf,Vivienda rural Colombia (tesis UGC),Carvajal & Valencia — Universidad La Gran Colombia,2020,,2,CAS-026,CAS-027,,,,,,,,,,
+F-M2-06,tesis,TdeG-UGC-SantaRosadeVitervo_2022.pdf,Transferencia tecnológica de técnicas vernáculas en Santa Rosa de Viterbo (tesis UGC),Orozco González — Universidad La Gran Colombia,2022,,2,CAS-028,CAS-029,,,,,,,,,,
+F-M2-07,tesis,TdeG-USTA-BelendeUmbria.pdf,Casa cafetera Belén de Umbría (tesis UCP/USTA),Farfán Ospina — UCP / USTA,2025,,2,CAS-030,CAS-031,,,,,,,,,,
+F-M2-08,tesis,AR-Unisalle-Tame.pdf,Vivienda campesina Tame (tesis UniSalle),Espinel Solano — Universidad de La Salle,2021,,1,CAS-024,,,,,,,,,,,
+F-M2-09,tesis,TdeG-CECAR-habitatrural-LAGALLERA-SUCRE.pdf,"Hábitat rural La Gallera, Sucre (tesis CECAR)","Barragán, Hernández, Figueroa — Corporación Universitaria del Caribe (CECAR)",2023,,1,CAS-025,,,,,,,,,,,
+F-M2-10,revista,AR-UniPamplona-ViviendaLlanera.pdf,Vivienda llanera (Modul. Arquit. CUC 34(1)),Tabares — Universidad de Pamplona,2024,,1,CAS-023,,,,,,,,,,,

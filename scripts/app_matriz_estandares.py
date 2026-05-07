@@ -63,6 +63,10 @@ TIPO_COLOR = {
     "contemporaneo": "#5C6BC0", # índigo
     "mixto": "#9575CD",         # púrpura
 }
+ESTADO_COLOR = {
+    "Construido": "#2E7D32",    # verde
+    "Solo diseño": "#EF6C00",   # naranja
+}
 SUBSISTEMAS = ["integral", "cimentacion", "estructura", "envolvente",
                "cubierta", "instalaciones"]
 SISTEMAS_BASE = ["tapia", "adobe", "bahareque", "palafito-madera",
@@ -318,13 +322,6 @@ def page_m2():
         st.markdown("### Filtros · Casos M2")
         st.caption("Aplican solo en esta página.")
 
-        estado_filtro = st.radio(
-            "Estado",
-            ["Pendientes", "Aceptados", "Descartados", "Todos"],
-            index=0,
-        )
-
-        st.markdown("---")
         clima_filt = st.multiselect("Clima TdR", CLIMAS, default=[])
 
         tipos_unicos = sorted([t for t in df_m2["Tipo"].unique() if t])
@@ -332,6 +329,9 @@ def page_m2():
 
         sistemas_unicos = sorted([s for s in df_m2["Sistema_constructivo"].unique() if s])
         sis_filt = st.multiselect("Sistema constructivo", sistemas_unicos, default=[])
+
+        estados_unicos = sorted([e for e in df_m2["Estado"].unique() if e])
+        estado_proy_filt = st.multiselect("Estado del proyecto", estados_unicos, default=[])
 
         st.markdown("---")
         st.markdown("**Archivo fuente**")
@@ -361,19 +361,14 @@ def page_m2():
 
     # Aplicar filtros
     f = df_m2.copy()
-    estado_map = {
-        "Pendientes": "pendiente_revision",
-        "Aceptados": "aceptado",
-        "Descartados": "descartado",
-    }
-    if estado_filtro != "Todos":
-        f = f[f["Estado_validacion"] == estado_map[estado_filtro]]
     if clima_filt:
         f = f[f["Clima_TdR"].isin(clima_filt)]
     if tipo_filt:
         f = f[f["Tipo"].isin(tipo_filt)]
     if sis_filt:
         f = f[f["Sistema_constructivo"].isin(sis_filt)]
+    if estado_proy_filt:
+        f = f[f["Estado"].isin(estado_proy_filt)]
     # Archivo fuente: a diferencia de los otros, default es "todas seleccionadas"
     # → siempre filtramos por la lista actual (vacía = nada visible)
     f = f[f["Archivo_fuente"].isin(archivo_filt)]
@@ -383,203 +378,28 @@ def page_m2():
     if len(f) == 0:
         st.info("No hay casos con los filtros seleccionados.")
     else:
-        # Tarjetas
-        for _, row in f.iterrows():
-            estado = row["Estado_validacion"]
-            icono = {"pendiente_revision": "[Pend]", "aceptado": "[OK]", "descartado": "[X]"}.get(estado, "")
-            es_pendiente = estado == "pendiente_revision"
-            es_editable = es_pendiente and not READ_ONLY
-            cid = row["ID"]
-
-            with st.container(border=True):
-                # Header
-                head1, head2 = st.columns([4, 1])
-                with head1:
-                    st.markdown(f"### {icono} {cid} · {row['Nombre_proyecto']}")
-                    st.caption(
-                        f"{row['Año']} · {row['Ubicacion_depto']}"
-                        + (f" · {row['Ubicacion_municipio']}" if row['Ubicacion_municipio'] else "")
-                        + (f" · {row['Ubicacion_vereda']}" if row['Ubicacion_vereda'] else "")
-                    )
-                with head2:
-                    if estado != "pendiente_revision":
-                        st.caption(f"por **{row['Validado_por']}** el {row['Fecha_validacion']}")
-                        if estado == "descartado" and row["Motivo_descarte"]:
-                            st.caption(f"motivo: _{row['Motivo_descarte']}_")
-
-                # Badges prominentes: tipo + clima + sistema
-                clima = row["Clima_TdR"] or "desconocido"
-                clima_c = CLIMA_COLOR.get(clima, "#9E9E9E")
-                tipo = row["Tipo"] or "desconocido"
-                tipo_c = TIPO_COLOR.get(tipo, "#9E9E9E")
-                koppen = f" ({row['Subtipo_Koppen']})" if row['Subtipo_Koppen'] else ""
-                badge_html = (
-                    f'<div style="display:flex; gap:8px; align-items:center; flex-wrap:wrap; margin:8px 0;">'
-                    f'<span style="background:{tipo_c}; color:white; padding:6px 14px; border-radius:6px; '
-                    f'font-size:1.1rem; font-weight:600;">{tipo.upper()}</span>'
-                    f'<span style="background:{clima_c}; color:white; padding:6px 14px; border-radius:6px; '
-                    f'font-size:1.1rem; font-weight:600;">{clima.upper()}{koppen}</span>'
-                    f'<span style="background:#455A64; color:white; padding:6px 14px; border-radius:6px; '
-                    f'font-size:1.1rem; font-weight:600;">{row["Sistema_constructivo"]}</span>'
-                    f'</div>'
-                )
-                st.markdown(badge_html, unsafe_allow_html=True)
-
-                # Subsistemas (editable si pendiente)
-                subs_actuales = [s.strip() for s in (row["Subsistemas"] or "").split(";") if s.strip()]
-                if es_editable:
-                    st.multiselect(
-                        "Subsistemas que toca el caso",
-                        SUBSISTEMAS,
-                        default=subs_actuales or ["integral"],
-                        key=f"edit_{cid}_Subsistemas",
-                    )
-                else:
-                    st.markdown(f"**Subsistemas:** {', '.join(subs_actuales) or '_sin definir_'}")
-
-                # Estrategias por eje (read-only — vienen del fichaje)
-                cE1, cE2, cE3, cE4 = st.columns(4)
-                with cE1:
-                    st.markdown("**E1 Bioclimática**")
-                    st.markdown(row["E1_bioclimatica"] or "_no aplica_")
-                with cE2:
-                    st.markdown("**E2 Energía**")
-                    st.markdown(row["E2_energia"] or "_no aplica_")
-                with cE3:
-                    st.markdown("**E3 Agua**")
-                    st.markdown(row["E3_agua"] or "_no aplica_")
-                with cE4:
-                    st.markdown("**E4 Materiales**")
-                    st.markdown(row["E4_materiales"] or "_no aplica_")
-
-                # Estándares M1 (editable si pendiente y no read-only)
-                st.markdown("---")
-                st.markdown("**Normativa / estándares M1 que materializa**")
-                if es_editable:
-                    st.text_input(
-                        "IDs separados por ; (ej: MP-14; MA-22; SUDS-3)",
-                        value=row["Estandares_ref"],
-                        key=f"edit_{cid}_Estandares_ref",
-                        label_visibility="collapsed",
-                        placeholder="MP-14; MA-22; SUDS-3 ...",
-                    )
-                    st.text_input(
-                        "Cumplimiento observado (desviaciones, parciales)",
-                        value=row["Cumplimiento_observado"],
-                        key=f"edit_{cid}_Cumplimiento_observado",
-                        placeholder="ej: MP-14: muro 35cm vs 40cm requeridos",
-                    )
-                else:
-                    st.markdown(f"`{row['Estandares_ref']}`" if row["Estandares_ref"] else "_sin asignar_")
-                # Mostrar cruce con M1 si hay IDs
-                refs_actuales = [r.strip() for r in (row["Estandares_ref"] or "").split(";") if r.strip()]
-                if refs_actuales:
-                    cruce = df_m1[df_m1["ID"].isin(refs_actuales)]
-                    if len(cruce) > 0:
-                        with st.expander(f"Ver detalle de {len(refs_actuales)} estándares cruzados"):
-                            st.dataframe(cruce[["ID", "Referencia", "Tema"]],
-                                         width='stretch')
-                            faltantes = set(refs_actuales) - set(cruce["ID"].tolist())
-                            if faltantes:
-                                st.warning(f"IDs no encontrados en M1: {sorted(faltantes)}")
-                    else:
-                        st.warning(f"Ningún ID de M1 reconocido: {refs_actuales}")
-                if not es_editable and row["Cumplimiento_observado"]:
-                    st.markdown(f"_Cumplimiento observado:_ {row['Cumplimiento_observado']}")
-
-                # Género e inclusión social (editable si pendiente)
-                st.markdown("**Género / inclusión social** (Ley 2462/2025)")
-                if es_editable:
-                    st.text_area(
-                        "Consideraciones de género/inclusión",
-                        value=row["Genero_inclusion"],
-                        key=f"edit_{cid}_Genero_inclusion",
-                        label_visibility="collapsed",
-                        placeholder="ej: Cocina con extracción mecánica para reducir exposición de mujeres a humo de leña; baño accesible",
-                        height=68,
-                    )
-                else:
-                    st.markdown(row["Genero_inclusion"] or "_no especificado_")
-
-                # Fuente + URL + botón abrir PDF
-                st.markdown("---")
-                fcol1, fcol2 = st.columns([3, 1])
-                with fcol1:
-                    if es_editable:
-                        st.text_input(
-                            "Fuente (incluir página si se conoce)",
-                            value=row["Fuente_principal"],
-                            key=f"edit_{cid}_Fuente_principal",
-                            placeholder='ej: "Hábitat Para La Paz (PUJ, 2021), p. 45"',
-                        )
-                        st.text_input(
-                            "URL pública (repositorio / DOI)",
-                            value=row.get("URL_fuente", ""),
-                            key=f"edit_{cid}_URL_fuente",
-                            placeholder="https://repositorio.universidad.edu.co/...",
-                        )
-                    else:
-                        st.markdown(f"**Fuente:** {row['Fuente_principal']}")
-                    st.caption(f"_{row['Tipo_fuente']}_ · verificable: {row['Verificable']}"
-                               + (f" · archivo: `{row['Archivo_fuente']}`" if row['Archivo_fuente'] else ""))
-                with fcol2:
-                    # Link a URL pública (siempre visible si existe, funciona local y VPS)
-                    url = row.get("URL_fuente", "").strip()
-                    if url and url.startswith(("http://", "https://")):
-                        st.link_button("Abrir en navegador", url, width='stretch',
-                                       help="Abre el documento original en una pestaña nueva")
-                    # Botón PDF local (solo modo local, requiere archivo)
-                    if not READ_ONLY and row["Archivo_fuente"]:
-                        if st.button("Abrir PDF local", key=f"pdf_{cid}", width='stretch',
-                                     help=f"Abre {row['Archivo_fuente']} con la app por defecto"):
-                            ok, msg = abrir_pdf(row["Archivo_fuente"])
-                            if not ok:
-                                st.error(f"No se pudo abrir: {msg}")
-                    elif READ_ONLY and row["Archivo_fuente"] and not url:
-                        st.caption(f"`{row['Archivo_fuente']}`")
-
-                if row["Lecciones_aprendidas"]:
-                    st.markdown(f"**Lecciones:** {row['Lecciones_aprendidas']}")
-                if row["Observaciones"]:
-                    st.caption(f"Obs.: {row['Observaciones']}")
-
-                # Botones (ocultos en modo solo lectura del VPS)
-                if READ_ONLY:
-                    pass
-                elif not st.session_state.validador.strip():
-                    st.warning("Define tu nombre arriba para poder validar/descartar.")
-                else:
-                    bcol1, bcol2, bcol3, bcol4 = st.columns([1, 1, 2, 4])
-                    if es_pendiente:
-                        with bcol1:
-                            if st.button("Validar", key=f"acc_{cid}", type="primary"):
-                                edits = captura_edits(row, "edit")
-                                actualizar_caso(cid, "aceptado",
-                                                st.session_state.validador, edits=edits)
-                                st.rerun()
-                        with bcol2:
-                            if st.button("Descartar", key=f"desc_{cid}"):
-                                st.session_state[f"confirm_desc_{cid}"] = True
-                        with bcol3:
-                            if st.session_state.get(f"confirm_desc_{cid}"):
-                                motivo = st.text_input(
-                                    "Motivo del descarte",
-                                    key=f"motivo_{cid}",
-                                    placeholder="ej: solo conceptual",
-                                )
-                                if st.button("Confirmar descarte", key=f"conf_desc_{cid}"):
-                                    edits = captura_edits(row, "edit")
-                                    actualizar_caso(cid, "descartado",
-                                                    st.session_state.validador,
-                                                    motivo=motivo, edits=edits)
-                                    st.session_state.pop(f"confirm_desc_{cid}", None)
-                                    st.rerun()
-                    else:
-                        with bcol1:
-                            if st.button("Reactivar", key=f"react_{cid}"):
-                                actualizar_caso(cid, "pendiente_revision",
-                                                st.session_state.validador)
-                                st.rerun()
+        cols_tabla = [
+            "ID", "Nombre_proyecto", "Tipo", "Año",
+            "Ubicacion_depto", "Ubicacion_municipio",
+            "Clima_TdR", "Sistema_constructivo",
+        ]
+        st.caption("Click en cualquier fila para abrir el detalle del caso.")
+        event = st.dataframe(
+            f[cols_tabla],
+            width='stretch',
+            height=500,
+            hide_index=True,
+            on_select="rerun",
+            selection_mode="single-row",
+            key="m2_tabla",
+        )
+        if event.selection and event.selection.rows:
+            sel_idx = event.selection.rows[0]
+            sel_id = f.iloc[sel_idx]["ID"]
+            if st.session_state.get("m2_last_shown_id") != sel_id:
+                st.session_state["m2_last_shown_id"] = sel_id
+                st.session_state["detalle_caso_id"] = sel_id
+                mostrar_detalle_caso()
 
 
 # ============================================================
@@ -605,6 +425,111 @@ def mostrar_referencias():
         st.error(f"No se encontró el archivo: {doc_path}")
     except Exception as e:
         st.error(f"Error leyendo el documento: {e}")
+
+# ============================================================
+# DIALOG Detalle de caso M2 — vista de tarjeta completa de un caso
+# Título dinámico: "{ID} · {Nombre_proyecto}"
+# ============================================================
+def mostrar_detalle_caso():
+    cid = st.session_state.get("detalle_caso_id")
+    if not cid:
+        return
+    df_m2 = cargar_m2()
+    df_m1 = cargar_m1()
+    sel = df_m2[df_m2["ID"] == cid]
+    if len(sel) == 0:
+        return
+    row = sel.iloc[0].fillna("")
+    title = f"{cid} · {row['Nombre_proyecto']}"
+
+    @st.dialog(title, width="large")
+    def _show_detalle():
+        ubicacion = (
+            f"{row['Año']} · {row['Ubicacion_depto']}"
+            + (f" · {row['Ubicacion_municipio']}" if row['Ubicacion_municipio'] else "")
+            + (f" · {row['Ubicacion_vereda']}" if row['Ubicacion_vereda'] else "")
+        )
+        st.markdown(
+            f'<div style="font-size:1.05rem; color:#37474F; margin:4px 0 8px 0;">{ubicacion}</div>',
+            unsafe_allow_html=True,
+        )
+
+        # Badges tipo + clima + sistema + estado
+        clima = row["Clima_TdR"] or "desconocido"
+        clima_c = CLIMA_COLOR.get(clima, "#9E9E9E")
+        tipo = row["Tipo"] or "desconocido"
+        tipo_c = TIPO_COLOR.get(tipo, "#9E9E9E")
+        koppen = f" ({row['Subtipo_Koppen']})" if row['Subtipo_Koppen'] else ""
+        estado = row["Estado"] or "desconocido"
+        estado_c = ESTADO_COLOR.get(estado, "#9E9E9E")
+        badge_html = (
+            f'<div style="display:flex; gap:8px; align-items:center; flex-wrap:wrap; margin:8px 0;">'
+            f'<span style="background:{tipo_c}; color:white; padding:6px 14px; border-radius:6px; '
+            f'font-size:1.05rem; font-weight:600;">{tipo.upper()}</span>'
+            f'<span style="background:{clima_c}; color:white; padding:6px 14px; border-radius:6px; '
+            f'font-size:1.05rem; font-weight:600;">{clima.upper()}{koppen}</span>'
+            f'<span style="background:#455A64; color:white; padding:6px 14px; border-radius:6px; '
+            f'font-size:1.05rem; font-weight:600;">{row["Sistema_constructivo"]}</span>'
+            f'<span style="background:{estado_c}; color:white; padding:6px 14px; border-radius:6px; '
+            f'font-size:1.05rem; font-weight:600;">{estado.upper()}</span>'
+            f'</div>'
+        )
+        st.markdown(badge_html, unsafe_allow_html=True)
+
+        if row.get("Subsistemas"):
+            st.markdown("---")
+            st.markdown(f"**Subsistemas:** {row['Subsistemas']}")
+            st.markdown("---")
+
+        cE1, cE2, cE3, cE4 = st.columns(4)
+        with cE1:
+            st.markdown("**E1 Bioclimática**")
+            st.markdown(row["E1_bioclimatica"] or "_no aplica_")
+        with cE2:
+            st.markdown("**E2 Energía**")
+            st.markdown(row["E2_energia"] or "_no aplica_")
+        with cE3:
+            st.markdown("**E3 Agua**")
+            st.markdown(row["E3_agua"] or "_no aplica_")
+        with cE4:
+            st.markdown("**E4 Materiales**")
+            st.markdown(row["E4_materiales"] or "_no aplica_")
+
+        if row.get("Genero_inclusion"):
+            st.markdown("---")
+            st.markdown("**Género / inclusión social** (Ley 2462/2025)")
+            st.markdown(row["Genero_inclusion"])
+
+        st.markdown("---")
+        st.markdown("**Estándares que materializa este proyecto**")
+        refs = [r.strip() for r in (row.get("Estandares_ref") or "").split(";") if r.strip()]
+        if refs:
+            cruce = df_m1[df_m1["ID"].isin(refs)]
+            if len(cruce) > 0:
+                st.dataframe(cruce[["ID", "Referencia", "Tema"]], width='stretch', hide_index=True)
+        else:
+            st.markdown("_sin asignar_")
+        if row.get("Cumplimiento_observado"):
+            st.markdown(f"_Cumplimiento observado:_ {row['Cumplimiento_observado']}")
+
+        st.markdown("---")
+        if row.get("Lecciones_aprendidas"):
+            st.markdown(f"**Lecciones:** {row['Lecciones_aprendidas']}")
+        if row.get("Observaciones"):
+            st.markdown(f"_Observaciones:_ {row['Observaciones']}")
+
+        st.markdown("---")
+        st.markdown(f"**Fuente:** {row['Fuente_principal']}")
+        st.caption(
+            f"Tipo de fuente: _{row['Tipo_fuente']}_"
+            + (f" · Nombre del archivo en la carpeta: `{row['Archivo_fuente']}`" if row['Archivo_fuente'] else "")
+        )
+        url = (row.get("URL_fuente") or "").strip()
+        if url and url.startswith(("http://", "https://")):
+            st.markdown(f"URL: [{url}]({url})")
+
+    _show_detalle()
+
 
 # ============================================================
 # DIALOG Tutorial — cómo organizar columnas y usar la tabla
