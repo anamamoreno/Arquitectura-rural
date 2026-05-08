@@ -9,6 +9,7 @@ Uso:
 """
 
 import streamlit as st
+import streamlit.components.v1 as components
 import pandas as pd
 import portalocker
 import os
@@ -149,15 +150,16 @@ def captura_edits(row, prefix: str) -> dict:
 if "validador" not in st.session_state:
     st.session_state.validador = ""
 
-# --- Título ---
-st.title("Estándares de sostenibilidad para vivienda rural en Colombia")
+# --- Título global (NO se muestra en la página Tutorial; se renderiza
+# dentro de cada wrapper de página que lo necesite) ---
+TITULO_PRINCIPAL = "Estándares de sostenibilidad para vivienda rural en Colombia"
 
 # ============================================================
 # PÁGINA M1 — Estándares
 # ============================================================
 def page_m1():
     df = cargar_m1()
-    bcol1, bcol2, bcol3, bcol4, bcol5, _ = st.columns([1, 1, 1, 1, 1, 1])
+    bcol1, bcol2, bcol3, bcol4, bcol5, bcol6 = st.columns([1, 1, 1, 1, 1, 1])
     with bcol1:
         if st.button("Fuentes", help="Listado de las referencias normativas con link a cada documento oficial", width='stretch'):
             mostrar_referencias()
@@ -171,8 +173,45 @@ def page_m1():
         if st.button("Nomenclatura", help="Códigos de IDs unificados + valores de ejes E1–E4", width='stretch'):
             mostrar_nomenclatura()
     with bcol5:
-        if st.button("Tutorial", help="Cómo organizar las columnas y usar la tabla", width='stretch'):
-            mostrar_tutorial()
+        # Botón Tutorial: abre en una ventana nueva del navegador (popup),
+        # no como pestaña. Requiere components.html porque st.markdown
+        # filtra los handlers JS inline (onclick). El iframe se hace exactamente
+        # de la altura del botón nativo Streamlit (38px) y se elimina el margen
+        # default del body para alinear verticalmente con los otros botones.
+        components.html(
+            """
+            <html><head><style>
+              html,body{margin:0;padding:0;height:100%;
+                        font-family:'Source Sans Pro','Segoe UI',sans-serif;
+                        background:transparent;}
+              button{width:100%;height:38px;box-sizing:border-box;
+                     background-color:#FFFFFF;color:rgb(49,51,63);
+                     border:1px solid rgba(49,51,63,0.2);border-radius:0.5rem;
+                     cursor:pointer;font-size:0.875rem;font-weight:400;
+                     line-height:1.6;display:block;}
+              button:hover{border-color:#FF4B4B;color:#FF4B4B;}
+            </style></head><body>
+            <button type="button" onclick="
+                var u = window.parent.location.href.split('?')[0].replace(/\\/[^\\/]*$/, '/tutorial');
+                window.open(u, 'tutorial_window', 'popup=yes,width=1200,height=900,scrollbars=yes,resizable=yes');
+            "
+            title="Cómo organizar las columnas y usar la tabla — abre en ventana nueva del navegador">
+              Tutorial
+            </button>
+            </body></html>
+            """,
+            height=38,
+        )
+    with bcol6:
+        csv_bytes = df.to_csv(index=False).encode("utf-8-sig")
+        st.download_button(
+            "Exportar",
+            data=csv_bytes,
+            file_name="F0-Matriz_estandares_sostenibilidad.csv",
+            mime="text/csv",
+            help="Descargar la matriz M1 completa como CSV (UTF-8 con BOM, abre en Excel)",
+            width='stretch',
+        )
     st.divider()
 
     # Filtros en sidebar izquierdo (aplican solo a esta página M1)
@@ -532,40 +571,66 @@ def mostrar_detalle_caso():
 
 
 # ============================================================
-# DIALOG Tutorial — cómo organizar columnas y usar la tabla
+# PÁGINA Tutorial — abre en ventana nueva desde el botón Tutorial de M1
 # ============================================================
-@st.dialog("Tutorial · Cómo organizar las columnas", width="large")
-def mostrar_tutorial():
-    st.markdown("""
-**1. Seleccionar columnas a mostrar**
+def page_tutorial():
+    # Ocultar barra lateral solo en esta página
+    st.markdown(
+        """
+        <style>
+        [data-testid="stSidebar"] {display: none !important;}
+        [data-testid="collapsedControl"] {display: none !important;}
+        [data-testid="stSidebarCollapsedControl"] {display: none !important;}
+        section[data-testid="stSidebar"] + div {margin-left: 0 !important;}
+        </style>
+        """,
+        unsafe_allow_html=True,
+    )
+    st.markdown("# Tutorial")
+    st.markdown("## Cómo organizar las columnas de la matriz de Estándares de sostenibilidad")
+
+    with st.expander("**1. Seleccionar las columnas a mostrar en la tabla**"):
+        st.markdown("""
 En el campo "Columnas a mostrar" arriba de la tabla:
 - **Click** en un campo vacío → aparece menú desplegable con todas las columnas disponibles
 - **Click** en un nombre de columna → se agrega a la vista
 - **Click en la `×`** de una etiqueta → quita esa columna
 - Por defecto vienen 13 columnas; puedes agregar las 7 restantes (`Descripcion`, `Etapa_ciclo_vida`, `Notas`, `Subsistema`, `Nivel_cumplimiento`, `Parametro_indicador`, `Correspondencia_cruzada`)
+""")
 
-**2. Reordenar columnas en la tabla**
+    with st.expander("**2. Reordenar columnas en la tabla**"):
+        st.markdown("""
 Sobre la tabla:
 - En la tabla, **arrastrar lateralmente el encabezado de una columna (color gris)** → la mueves de posición
 - El cambio es solo visual (no modifica el CSV)
+""")
 
-**3. Ordenar filas**
+    with st.expander("**3. Ordenar filas**"):
+        st.markdown("""
 - **Click** sobre el encabezado de una columna → ordena ascendente
 - **Click otra vez** → ordena descendente
 - **Click otra vez** → vuelve al orden original
+""")
 
-**4. Buscar dentro de la tabla**
+    with st.expander("**4. Buscar dentro de la tabla**"):
+        st.markdown("""
 - En la esquina superior derecha de la tabla aparece un ícono 🔍 al pasar el mouse
 - Permite buscar texto en cualquier columna visible
+""")
 
-**5. Ajustar ancho de columna**
+    with st.expander("**5. Ajustar ancho de columna**"):
+        st.markdown("""
 - Arrastra el **borde derecho** de un encabezado para hacer la columna más ancha o angosta
+""")
 
-**6. Columnas especiales**
+    with st.expander("**6. Columnas especiales**"):
+        st.markdown("""
 - `URL fuente` aparece como botón **abrir** que lleva al documento original en pestaña nueva
 - `Notas` y `Descripcion` pueden tener texto largo → la celda se trunca; click sobre la celda para ver el texto completo
+""")
 
-**7. Descargar la vista actual**
+    with st.expander("**7. Descargar la vista actual**"):
+        st.markdown("""
 - Pasa el mouse sobre la tabla → ícono de descarga ⬇ en la esquina superior derecha
 - Descarga las filas + columnas que tienes visibles como CSV
 """)
@@ -938,11 +1003,17 @@ def _footer():
 
 # Wrap pages to add footer
 def _page_m1():
+    st.title(TITULO_PRINCIPAL)
     page_m1()
     _footer()
 
 def _page_m2():
+    st.title(TITULO_PRINCIPAL)
     page_m2()
+    _footer()
+
+def _page_tutorial():
+    page_tutorial()
     _footer()
 
 
@@ -952,5 +1023,6 @@ def _page_m2():
 pg = st.navigation([
     st.Page(_page_m1, title="M1 · Estándares de sostenibilidad", url_path="m1"),
     st.Page(_page_m2, title="M2 · Casos de éxito", url_path="m2"),
+    st.Page(_page_tutorial, title="Tutorial M1", url_path="tutorial"),
 ])
 pg.run()
