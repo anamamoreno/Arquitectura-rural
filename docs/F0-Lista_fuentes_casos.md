@@ -1,8 +1,8 @@
 # Lista de fuentes — Matriz de Casos de Éxito (M2)
 
 > **Producto 1 — Levantamiento de información**
-> Versión 0.6 · 2026-05-10
-> Total: 54 casos · 29 fuentes documentales únicas
+> Versión 0.7 · 2026-05-10
+> Total: 55 casos · 30 fuentes documentales únicas
 
 ---
 
@@ -10,11 +10,11 @@
 
 | Tipo de fuente | Fuentes | Casos | Casos asociados |
 |---|---:|---:|---|
-| Documento de proyecto | 4 | 24 | CAS-001..006, CAS-007, CAS-008..019, CAS-050..054 |
+| Documento de proyecto | 5 | 25 | CAS-001..006, CAS-007, CAS-008..019, CAS-050..054, CAS-055 |
 | Tesis | 7 | 12 | CAS-020..022, CAS-024..031, CAS-047 |
 | Revista | 2 | 2 | CAS-023, CAS-045 |
 | Web (premio / ONG / programa estatal / archivo arquitecto) | 16 | 16 | CAS-032..044, CAS-046, CAS-048, CAS-049 |
-| **Total** | **29** | **54** | |
+| **Total** | **30** | **55** | |
 
 ---
 
@@ -51,6 +51,14 @@
 - **Autor / institución:** Corona Industrial S.A.S. + Colcerámica — Director Premio Corona Pro Hábitat: Myriam Ramírez Carrero (julio 2014–) / Alberto Saldarriaga Roa (asesor); ISSN 2346-1713
 - **URL:** https://corona.com.co/sostenibilidad/pro-habitat
 - **Casos asociados (5):** CAS-050 (Palocabildo Antioquia 1°), CAS-051 (Sinapsis Dagua 1°), CAS-052 (Semillas Dagua 2°), CAS-053 (Hábitat social Galeras Sucre 2°), CAS-054 (Híbrido ecoproductivo Galeras Sucre 2°) — todos Solo diseño estudiantil
+
+### F-M2-30 · SENA CDA Chía — Diseño y Construcción de una Unidad Básica de Vivienda Rural Eco Amigable (2017)
+
+- **Archivo:** `M2-SENA-Vivienda-Rural-Eco-Amigable-Chia-2017.pdf`
+- **Tipo:** documento_proyecto
+- **Autor / institución:** Guzmán, Prieto, Prieto, Ardila, Montaño, Pérez, Martínez, Bejar — Grupo de investigación GITAE — SENA Centro de Desarrollo Agroempresarial Chía / SENNOVA — Finalista Fórmula SENA Eco 2017 — ISBN 978-958-15-0312-4 (120 p.)
+- **URL:** https://repositorio.sena.edu.co/handle/11404/4798
+- **Casos asociados (1):** CAS-055 (prototipo demostrativo construido en SENA Chía Cundinamarca, frío — único caso M2 con integración explícita de los 4 ejes E1+E2+E3+E4 + domótica)
 
 ---
 
