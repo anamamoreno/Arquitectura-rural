@@ -376,10 +376,16 @@ def page_m2():
         st.markdown("**Archivo fuente**")
         st.caption("Marca/desmarca para mostrar/ocultar.")
         archivos_unicos = sorted([a for a in df_m2["Archivo_fuente"].unique() if a])
+        # Casos sin PDF local (solo URL) — se representan como entrada virtual
+        n_solo_url = int((df_m2["Archivo_fuente"].fillna("").str.strip() == "").sum())
+        # Lista total de claves para los atajos (incluye '' si hay casos solo-URL)
+        archivos_keys = list(archivos_unicos)
+        if n_solo_url > 0:
+            archivos_keys.append("")
 
         # Atajos (van ANTES de los checkboxes — usan callbacks para evitar race condition)
         def _set_all_archivos(val: bool):
-            for a in archivos_unicos:
+            for a in archivos_keys:
                 st.session_state[f"archivo_{a}"] = val
 
         col_a, col_b = st.columns(2)
@@ -397,6 +403,11 @@ def page_m2():
             label = f"{a.replace('.pdf', '')}  ·  {n_casos}"
             if st.checkbox(label, value=True, key=f"archivo_{a}"):
                 archivo_filt.append(a)
+        # Entrada virtual para casos solo-URL (sin PDF local)
+        if n_solo_url > 0:
+            label_url = f"(sin PDF · solo URL)  ·  {n_solo_url}"
+            if st.checkbox(label_url, value=True, key="archivo_"):
+                archivo_filt.append("")
 
     # Aplicar filtros
     f = df_m2.copy()
@@ -464,6 +475,30 @@ def mostrar_referencias():
         st.error(f"No se encontró el archivo: {doc_path}")
     except Exception as e:
         st.error(f"Error leyendo el documento: {e}")
+
+    # Sección de referencias en proceso (no incluidas en la matriz)
+    st.markdown("---")
+    st.markdown("### Próximas referencias normativas (no incluidas en M1)")
+    st.markdown(
+        """
+**Proyecto de Ley sobre Bioconstrucción, Construcción Sostenible y Arquitectura Tradicional**
+(`#LeyDeBioconstrucción`)
+
+- **Autora:** Senadora Isabel Cristina Zuleta López (Pacto Histórico)
+- **Estado:** **Radicado el 7 de abril de 2025** en la Secretaría de la Cámara de Representantes. **Aún NO aprobado** — sin número definitivo asignado.
+- **Tres pilares definidos:**
+  1. **Bioconstrucción** — materiales naturales, diseño bioclimático, bajo impacto ambiental durante todo el ciclo de vida.
+  2. **Construcción sostenible** — uso racional de recursos, energías limpias, materiales reciclables, eficiencia energética.
+  3. **Arquitectura tradicional** — saberes ancestrales, materiales locales, valores comunitarios.
+- **Foco regulatorio:** incentivos para prácticas constructivas responsables, reducción de Residuos de Construcción y Demolición (RCD), economía circular en construcción, tecnologías limpias.
+
+> **Nota:** este Proyecto de Ley **no se ha incluido en la matriz M1** porque aún no es ley vigente. Se documenta aquí como referencia normativa en discusión que podría incorporarse en versiones futuras de la guía si avanza su trámite legislativo.
+
+🔗 [Comunicado oficial — Sen. Zuleta López](https://isabelzuleta.com/radicado-proyecto-ley-que-impulsa-bioconstruccion-construccion-sostenible-y-arquitectura-tradicional-en-colombia/)
+        """,
+        unsafe_allow_html=False,
+    )
+
 
 # ============================================================
 # DIALOG Detalle de caso M2 — vista de tarjeta completa de un caso

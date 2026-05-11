@@ -73,6 +73,19 @@ Combinaciones eje × clima con <2 fuentes incluidas tras F3, o hallazgos especí
 |---|---|---|---|---|---|
 |  |  |  |  |  |  |
 
+### 3.3 Vacíos detectados en el corpus M2 — Casos de Éxito
+
+Tras dos rondas de búsqueda (premios CCCS / Corona Pro Hábitat / Bienal SCA / Lápiz de Acero / programas estatales) durante 2026-05-06/07, se identificaron los siguientes vacíos en el corpus colombiano de **vivienda rural construida con principios de sostenibilidad documentada**.
+
+| ID Vacío | Combinación clima × sistema | Naturaleza | Búsqueda realizada | Resultado | Implicación P2 |
+|---|---|---|---|---|---|
+| **V-M2-01** | **frio** × **tapia pisada** (Boyacá / Cundinamarca / Nariño) | Vacío estructural del corpus arquitectónico publicado nacional | Bienal SCA XXVI–XXIX (2018–2024); Corona Pro Hábitat; Lápiz de Acero; ArchDaily CO; PROTERRA; UPTC / UNAL / U. Católica; Tierra Viva; LafargeHolcim Awards | **No existe vivienda rural construida en tapia pisada en clima frío con autor + URL pública verificable**. Solo: tradición vernácula patrimonial (Ráquira, Tibasosa, Yacuanquer); propuestas no construidas (FP Arquitectura/Sumapaz 2019); casos en Santander templado (Tierra Viva); Casa Terracota como atracción experimental | El P2 debe usar Casa Franco (Ginebra, Valle, templado — CAS-033) como **único referente nacional reciente de tapia pisada premiada construida**, declarando explícitamente la **transferencia tipológica al frío andino** sin caso colombiano de validación |
+| **V-M2-02** | **calido_seco** × **tapia / adobe / mampostería sin bahareque** (Magdalena alto, Tolima seco) | Vacío de diversidad de sistemas en el clima | Búsqueda en programas estatales + premios | M2 cubre cálido seco solo con bahareque + Wayuu (CAS-007, CAS-025, CAS-032, CAS-042) | Buscar en versión 2 contrato — fuera del alcance P1 |
+| **V-M2-03** | **eje cafetero (Quindío/Risaralda)** × **guadua pura** en vivienda residencial premiada | Cobertura parcial — solo 1 caso fuerte (Casa Milguaduas Pereira, descartada por alta gama) y 1 política pública (CAS-043 Caldas) | INBAR / Sociedad Colombiana del Bambú / FUNCAFÉ / FNC / archivos Simón Vélez vivienda no equipamiento | Programa Caldas (CAS-043) cubre escala VIS rural pero como política pública no como obra premiada | Aceptar gap. Eje cafetero está bien representado por bahareque encementado de guadua (CAS-043 + CAS-018, CAS-019) sin necesidad de guadua pura premiada |
+| **V-M2-04** | **Pacífico (Chocó / Buenaventura / Tumaco)** × **palafítica nueva premiada SCA** | Vacío premio SCA, no vacío de obra | Bienal SCA + ArchDaily + Universidad del Pacífico + UNAL Cali | Riosucio Chocó Fondo Adaptación 2018 (CAS-044) cubre el vacío con escala (157 viviendas) y financiación estatal pero **sin premio SCA** y sin arquitecto identificable públicamente | Aceptar — el caso CAS-044 es suficiente como referente Pacífico palafítico contemporáneo |
+
+**Conclusión metodológica V-M2-01:** la ausencia de tapia pisada construida en clima frío andino con documentación pública es un **hallazgo en sí mismo** de la consultoría. Sugiere que la academia + el sector productivo colombiano han operado el sistema tapia principalmente vía: (a) restauración patrimonial; (b) propuestas conceptuales no construidas; (c) construcción residencial alta gama en climas templados. El P2 puede usar este vacío como justificación de **lineamiento prioritario** para la guía: promover casos demostrativos públicos de tapia rural en frío andino.
+
 ### 3.3 Implicaciones para el Producto 2
 
 _Pendiente de redacción al cierre._

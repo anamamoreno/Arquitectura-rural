@@ -2,14 +2,14 @@
 
 > **¿Qué es este documento?** Inventario completo de todas las fuentes normativas y documentales revisadas durante el Producto 1, con su aporte cuantitativo (filas) y cualitativo (qué tipo de información aportó) a la Matriz de Estándares de Sostenibilidad (`F0-Matriz_estandares_sostenibilidad.csv`).
 
-**Total de referencias revisadas:** 35 documentos (24 originales + RETILAP + UPME).
-**Total de referencias en la Matriz:** 25.
-**Total de filas en la Matriz:** 181.
-**Fecha de última actualización:** 2026-05-06.
+**Total de referencias revisadas:** 39 documentos (24 originales + RETILAP + UPME + 4 normas/guías técnicas de bahareque).
+**Total de referencias en la Matriz:** 29.
+**Total de filas en la Matriz:** 213.
+**Fecha de última actualización:** 2026-05-10.
 
 ---
 
-## 1. Distribución de la Matriz por referencia (181 filas)
+## 1. Distribución de la Matriz por referencia (213 filas)
 
 | # | Referencia | Nombre completo | Filas | % | Resumen del contenido | Aporte cualitativo |
 |---|---|---|---|---|---|---|
@@ -38,22 +38,27 @@
 | 23 | [**L1819**](https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=79140) | Ley 1819/2016 — Reforma Tributaria (MinHacienda) | 1 | 0.5% | Exclusión IVA en equipos con beneficio ambiental; no causación impuesto de carbono para carbono neutro. | Amplía incentivos de Ley 1715: incluye equipos de eficiencia energética y neutralidad de carbono. |
 | 24 | [**CCCS-2024**](https://www.cccs.org.co/mitigacion/estado-de-la-construccion-sostenible/) | Estado de la Construcción Sostenible 2024 (CCCS) | 1 | 0.5% | 93% constructores incorporan criterios ASG. Certificaciones más usadas: EDGE, CASA Colombia, LEED. Meta: edificaciones neto cero. | Fotografía del mercado actual. Demuestra que la construcción sostenible ya es mainstream en Colombia, no nicho. El 93% de adopción ASG valida la pertinencia de la guía. |
 | 25 | [**ST333**](https://www.corteconstitucional.gov.co/relatoria/2022/t-333-22.htm) | Sentencia T-333/22 (Corte Constitucional) | 1 | 0.5% | Vivienda digna es derecho fundamental. Incluye: habitabilidad, disponibilidad de servicios, accesibilidad, adecuación cultural. | **Respaldo constitucional.** Si la Corte dice que vivienda digna incluye adecuación cultural, entonces la guía DEBE respetar técnicas vernáculas de comunidades étnicas. Conecta con Ley 2462 Enfoque 8 y 12. |
-| | **TOTAL** | | **181** | **100%** | | |
+| 26 | [**Misereor-Bahareque**](https://www.misereor.org/fileadmin/user_upload_misereororg/cooperation/es/construccion/guia-de-construccion-bahareque-parasismica.pdf) | Guía de construcción parasísmica BAHAREQUE — Carazas Aedo & Rivero Olmos (CRATerre / Misereor, 2002) | 13 | 6.1% | 13 criterios de bahareque tradicional: forma cúbica, espesor muro 20 cm, cimentación 40×20 cm con sobrecimiento 20 cm, módulo "La Semilla" 4×4 m, arriostres, calidad terreno y materiales, cubierta liviana, aleros 50–100 cm, refuerzo en esquinas y vanos. Prefijo `BHQ-`. | **Llena el vacío del bahareque tradicional.** El NSR-10 cubre solo bahareque encementado; este documento codifica la práctica vernácula sismoresistente con 4 condiciones (diseño + terreno + construcción + materiales). Crítico para clima templado/cafetero rural y comunidades étnicas. |
+| 27 | [**NSR-10-Titulo-E**](https://www.idrd.gov.co/sites/default/files/documentos/Construcciones/5titulo-e-nsr-100.pdf) | NSR-10 Título E — Casas de uno y dos pisos · Capítulo E.7 Bahareque encementado (AIS / MinVivienda) | 8 | 3.8% | 8 criterios técnicos: definición sistema encementado, calidad guadua (≥4 años, humedad 10–20%), pie-derechos 300–600 mm, soleras min 100 mm, muros con diagonales en esquinas, mallas calibre 18 abertura ≤25.4 mm, mortero tipo N, vanos ≤35% del muro. Prefijo `BHQ-E-`. | **Marco legal vigente para bahareque encementado.** Es la norma sismoresistente colombiana obligatoria. Coexiste con BHQ tradicional (Misereor) por sistemas distintos. Habilita VIS rural en bahareque encementado certificable. |
+| 28 | [**AIS-FOREC-Bahareque**](https://www.desenredando.org/public/libros/2001/csrvbe/guadua_lared.pdf) | Manual de Construcción Sismo Resistente de Viviendas en Bahareque Encementado (AIS / FOREC / Corona) | 5 | 2.3% | 5 criterios complementarios al NSR-10 con experiencia post-terremoto eje cafetero 1999: distribución simétrica de muros y aberturas (<25% por fachada), cuadrantes/tirantes a nivel solera superior según relación 1.5:1, bastones intermedios en muros largos, control de aberturas para tuberías, friso de borde para entrepisos (vigueta 12×4 cm). Prefijo `AIS-BHQ-`. | **Buena práctica post-incidente.** Refina los requisitos NSR-10 con detalles que faltaron en el reglamento, basados en lecciones aprendidas del eje cafetero (1999). Aplicable a viviendas de 2 pisos rurales. |
+| 29 | [**SURA-Bahareque**](https://www.segurossura.com.co/empresasura/Documentacion%20Formacion/ficha-tecnica-estructuras-bahareque.pdf) | Ficha técnica Estructuras en Bahareque (Seguros SURA Colombia) | 6 | 2.8% | 6 criterios desde sector asegurador: 4 tipologías reconocidas para asegurabilidad (embutido, madera, metálico, encementado), instalaciones eléctricas canalizadas EMT, riesgo incendio por combustibilidad, hidrosanitarias a la vista, mantenimiento preventivo anual, cubierta a 2 aguas con teja barro 60 kg/m². Prefijo `SUR-`. | **Validación desde sector privado.** Reconocimiento de la asegurabilidad del bahareque tradicional + encementado. Aporta criterios operativos (instalaciones, mantenimiento) que ningún marco técnico estatal cubre con esa especificidad. |
+| | **TOTAL** | | **213** | **100%** | | |
 
 ## 2. Distribución por categoría
 
 | Categoría | Filas | % | Referencias incluidas |
 |---|---|---|---|
-| **Marcos principales obligatorios** | 111 | 61% | Res. 0534 (53) + Res. 0194 (30) + Ley 2462 (28) |
-| **Marco voluntario internacional** | 15 | 8% | CEELA (15) |
-| **Reglamentos técnicos sectoriales** | 16 | 9% | UPME-PGEE (10) + RAS (3) + RETILAP (3) |
-| **Guías técnicas MVCT** | 18 | 10% | Guía Mejoramientos (8) + SUDS (6) + Parametrización SFVR (4) |
+| **Marcos principales obligatorios** | 111 | 52% | Res. 0534 (53) + Res. 0194 (30) + Ley 2462 (28) |
+| **Marco voluntario internacional** | 15 | 7% | CEELA (15) |
+| **Reglamentos técnicos sectoriales** | 24 | 11% | UPME-PGEE (10) + RAS (3) + RETILAP (3) + NSR-10 Tit. E (8) |
+| **Guías técnicas MVCT** | 18 | 8% | Guía Mejoramientos (8) + SUDS (6) + Parametrización SFVR (4) |
+| **Guías técnicas bahareque** | 24 | 11% | Misereor-Bahareque (13) + AIS-FOREC (5) + SURA (6) |
 | **Política y estrategia nacional** | 8 | 4% | Economía Circular (4) + PNVISR (4) |
 | **Leyes complementarias** | 4 | 2% | Ley 1715 + Ley 1819 + Ley 373 + Ley 1931 |
-| **Decretos reglamentarios** | 5 | 3% | Decreto 1285 + 1467 + 1727 + 948 + 1443 |
+| **Decretos reglamentarios** | 5 | 2% | Decreto 1285 + 1467 + 1727 + 948 + 1443 |
 | **Resoluciones complementarias** | 2 | 1% | Res. 0472 + Res. 0541 |
 | **Otros (informes, jurisprudencia)** | 2 | 1% | CCCS 2024 + Sentencia T-333 |
-| **TOTAL** | **181** | **100%** | |
+| **TOTAL** | **213** | **100%** | |
 
 ## 3. Distribución por eje de sostenibilidad
 
