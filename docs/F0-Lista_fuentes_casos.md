@@ -1,8 +1,8 @@
 # Lista de fuentes — Matriz de Casos de Éxito (M2)
 
 > **Producto 1 — Levantamiento de información**
-> Versión 0.7 · 2026-05-10
-> Total: 55 casos · 30 fuentes documentales únicas
+> Versión 0.8 · 2026-05-10
+> Total: 55 casos · 31 fuentes documentales únicas (incluye 1 fuente complementaria que no introduce casos nuevos pero actualiza CAS-036 y CAS-041)
 
 ---
 
@@ -59,6 +59,14 @@
 - **Autor / institución:** Guzmán, Prieto, Prieto, Ardila, Montaño, Pérez, Martínez, Bejar — Grupo de investigación GITAE — SENA Centro de Desarrollo Agroempresarial Chía / SENNOVA — Finalista Fórmula SENA Eco 2017 — ISBN 978-958-15-0312-4 (120 p.)
 - **URL:** https://repositorio.sena.edu.co/handle/11404/4798
 - **Casos asociados (1):** CAS-055 (prototipo demostrativo construido en SENA Chía Cundinamarca, frío — único caso M2 con integración explícita de los 4 ejes E1+E2+E3+E4 + domótica)
+
+### F-M2-31 · Modelo integral de gestión vivienda rural apropiada Bogotá-Región (Versión 1, 2024) — fuente complementaria
+
+- **Archivo:** `M2-Modelo-Vivienda-Rural-Bogota-Region-2024.pdf`
+- **Tipo:** documento_proyecto
+- **Autor / institución:** Bogotá D.C. — documento agosto 2024 (190 p.). Mapeo institucional MADR + MVCT + Banco Agrario + Findeter + Finagro + DNP + IGAC + DANE + UARIV + ANT + SENA. Cap 2.4 Referentes nacionales e internacionales.
+- **URL:** https://www.bogota.gov.co/
+- **Casos asociados:** Ningún caso nuevo. **Complementa CAS-036** (Vereda El 50 Magdalena, mismo Ensamble AI) y **actualiza CAS-041** (Pitalito) corrigiendo Estado de `Solo diseño` → `Construido` con datos de gestión nuevos (tiempo construcción 90 días, costos +4%, subsidio 100%, autoría completa Ramírez+Collazos+Navarro). Aporta 5 lineamientos de gestión a M1 (prefijo `VRA-`).
 
 ---
 

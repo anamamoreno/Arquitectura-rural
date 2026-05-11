@@ -2,14 +2,14 @@
 
 > **¿Qué es este documento?** Inventario completo de todas las fuentes normativas y documentales revisadas durante el Producto 1, con su aporte cuantitativo (filas) y cualitativo (qué tipo de información aportó) a la Matriz de Estándares de Sostenibilidad (`F0-Matriz_estandares_sostenibilidad.csv`).
 
-**Total de referencias revisadas:** 39 documentos (24 originales + RETILAP + UPME + 4 normas/guías técnicas de bahareque).
-**Total de referencias en la Matriz:** 29.
-**Total de filas en la Matriz:** 213.
+**Total de referencias revisadas:** 40 documentos (24 originales + RETILAP + UPME + 4 normas/guías bahareque + Modelo VRA Bogotá-Región 2024).
+**Total de referencias en la Matriz:** 30.
+**Total de filas en la Matriz:** 218.
 **Fecha de última actualización:** 2026-05-10.
 
 ---
 
-## 1. Distribución de la Matriz por referencia (213 filas)
+## 1. Distribución de la Matriz por referencia (218 filas)
 
 | # | Referencia | Nombre completo | Filas | % | Resumen del contenido | Aporte cualitativo |
 |---|---|---|---|---|---|---|
@@ -42,23 +42,25 @@
 | 27 | [**NSR-10-Titulo-E**](https://www.idrd.gov.co/sites/default/files/documentos/Construcciones/5titulo-e-nsr-100.pdf) | NSR-10 Título E — Casas de uno y dos pisos · Capítulo E.7 Bahareque encementado (AIS / MinVivienda) | 8 | 3.8% | 8 criterios técnicos: definición sistema encementado, calidad guadua (≥4 años, humedad 10–20%), pie-derechos 300–600 mm, soleras min 100 mm, muros con diagonales en esquinas, mallas calibre 18 abertura ≤25.4 mm, mortero tipo N, vanos ≤35% del muro. Prefijo `BHQ-E-`. | **Marco legal vigente para bahareque encementado.** Es la norma sismoresistente colombiana obligatoria. Coexiste con BHQ tradicional (Misereor) por sistemas distintos. Habilita VIS rural en bahareque encementado certificable. |
 | 28 | [**AIS-FOREC-Bahareque**](https://www.desenredando.org/public/libros/2001/csrvbe/guadua_lared.pdf) | Manual de Construcción Sismo Resistente de Viviendas en Bahareque Encementado (AIS / FOREC / Corona) | 5 | 2.3% | 5 criterios complementarios al NSR-10 con experiencia post-terremoto eje cafetero 1999: distribución simétrica de muros y aberturas (<25% por fachada), cuadrantes/tirantes a nivel solera superior según relación 1.5:1, bastones intermedios en muros largos, control de aberturas para tuberías, friso de borde para entrepisos (vigueta 12×4 cm). Prefijo `AIS-BHQ-`. | **Buena práctica post-incidente.** Refina los requisitos NSR-10 con detalles que faltaron en el reglamento, basados en lecciones aprendidas del eje cafetero (1999). Aplicable a viviendas de 2 pisos rurales. |
 | 29 | [**SURA-Bahareque**](https://www.segurossura.com.co/empresasura/Documentacion%20Formacion/ficha-tecnica-estructuras-bahareque.pdf) | Ficha técnica Estructuras en Bahareque (Seguros SURA Colombia) | 6 | 2.8% | 6 criterios desde sector asegurador: 4 tipologías reconocidas para asegurabilidad (embutido, madera, metálico, encementado), instalaciones eléctricas canalizadas EMT, riesgo incendio por combustibilidad, hidrosanitarias a la vista, mantenimiento preventivo anual, cubierta a 2 aguas con teja barro 60 kg/m². Prefijo `SUR-`. | **Validación desde sector privado.** Reconocimiento de la asegurabilidad del bahareque tradicional + encementado. Aporta criterios operativos (instalaciones, mantenimiento) que ningún marco técnico estatal cubre con esa especificidad. |
-| | **TOTAL** | | **213** | **100%** | | |
+| 30 | **VRA-MGral-Bogotá-Región** | Modelo integral de gestión para el desarrollo efectivo de vivienda rural apropiada en Bogotá-Región (Versión 1, agosto 2024 — 190 p.) | 5 | 2.3% | 5 lineamientos de gestión integral VISR: (1) Modelo 15 pasos asignación subsidio; (2) Mapeo de actores institucionales (MADR + MVCT + Banco Agrario + Findeter + Finagro + DNP + IGAC + DANE + UARIV + ANT + SENA); (3) 6 tipologías arquitectónicas para vivienda nueva (Alargada, L, T, Compacta 1 y 2, U) por contexto y clima; (4) Componentes mínimos para presentación técnica; (5) Distribución de subsidios. Prefijo `VRA-`. | **Marco metodológico y de gestión.** Articula los actores institucionales VISR + tipologías parametrizadas + flujo administrativo. Complementa Anexo C SFVR 2020 y PNVISR Res. 000179/2017 con visión de gestión integral regional. Contiene además 5 referentes nacionales/internacionales utilizados para complementar y validar fichas M2 (CAS-036 Magdalena, CAS-041 Pitalito) — el documento confirmó que el caso Pitalito SÍ fue construido (corregido de Solo diseño a Construido). |
+| | **TOTAL** | | **218** | **100%** | | |
 
 ## 2. Distribución por categoría
 
 | Categoría | Filas | % | Referencias incluidas |
 |---|---|---|---|
-| **Marcos principales obligatorios** | 111 | 52% | Res. 0534 (53) + Res. 0194 (30) + Ley 2462 (28) |
+| **Marcos principales obligatorios** | 111 | 51% | Res. 0534 (53) + Res. 0194 (30) + Ley 2462 (28) |
 | **Marco voluntario internacional** | 15 | 7% | CEELA (15) |
 | **Reglamentos técnicos sectoriales** | 24 | 11% | UPME-PGEE (10) + RAS (3) + RETILAP (3) + NSR-10 Tit. E (8) |
 | **Guías técnicas MVCT** | 18 | 8% | Guía Mejoramientos (8) + SUDS (6) + Parametrización SFVR (4) |
 | **Guías técnicas bahareque** | 24 | 11% | Misereor-Bahareque (13) + AIS-FOREC (5) + SURA (6) |
+| **Modelos de gestión regional** | 5 | 2% | VRA Bogotá-Región (5) |
 | **Política y estrategia nacional** | 8 | 4% | Economía Circular (4) + PNVISR (4) |
 | **Leyes complementarias** | 4 | 2% | Ley 1715 + Ley 1819 + Ley 373 + Ley 1931 |
 | **Decretos reglamentarios** | 5 | 2% | Decreto 1285 + 1467 + 1727 + 948 + 1443 |
 | **Resoluciones complementarias** | 2 | 1% | Res. 0472 + Res. 0541 |
 | **Otros (informes, jurisprudencia)** | 2 | 1% | CCCS 2024 + Sentencia T-333 |
-| **TOTAL** | **213** | **100%** | |
+| **TOTAL** | **218** | **100%** | |
 
 ## 3. Distribución por eje de sostenibilidad
 
