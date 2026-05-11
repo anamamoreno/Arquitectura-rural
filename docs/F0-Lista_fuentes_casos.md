@@ -1,8 +1,8 @@
 # Lista de fuentes — Matriz de Casos de Éxito (M2)
 
 > **Producto 1 — Levantamiento de información**
-> Versión 0.10 · 2026-05-11
-> Total: 57 casos · 33 fuentes documentales únicas
+> Versión 0.11 · 2026-05-11
+> Total: 58 casos · 34 fuentes documentales únicas
 
 ---
 
@@ -13,9 +13,9 @@
 | Documento de proyecto | 5 | 25 | CAS-001..006, CAS-007, CAS-008..019, CAS-050..054, CAS-055 |
 | Tesis | 7 | 12 | CAS-020..022, CAS-024..031, CAS-047 |
 | Revista | 2 | 2 | CAS-023, CAS-045 |
-| Web (premio / ONG / programa estatal / archivo arquitecto) | 18 | 18 | CAS-032..044, CAS-046, CAS-048, CAS-049, CAS-056, CAS-057 |
+| Web (premio / ONG / programa estatal / archivo arquitecto) | 19 | 19 | CAS-032..044, CAS-046, CAS-048, CAS-049, CAS-056, CAS-057, CAS-058 |
 | Documento complementario (no introduce caso nuevo) | 1 | 0 | (F-M2-31 actualiza CAS-036 y CAS-041) |
-| **Total** | **33** | **57** | |
+| **Total** | **34** | **58** | |
 
 ---
 
@@ -76,6 +76,14 @@
 - **Autor / institución:** Conceptos Plásticos — Óscar Andrés Méndez (arquitecto) + Isabel Cristina Gámez + Henry Alexander Cañón (cofundadores) + Fernando Llanos (inventor de los bloques, socio). Artículo original: Rosa Remón Royo, Arquitectura y Empresa (2016, cubre el caso Guapi 2015). Optante al premio The Venture (2016).
 - **URL:** https://arquitecturayempresa.es/noticia/casas-con-ladrillos-de-plastico-reciclado-en-colombia
 - **Casos asociados (1):** CAS-057 (Albergue Guapi Cauca — 42 familias desplazadas — único caso M2 con sistema de plástico reciclado + caucho)
+
+### F-M2-34 · Construcción de viviendas 3D — La Unión Antioquia (Comfama sala de prensa)
+
+- **Archivo:** _(no PDF local)_
+- **Tipo:** web
+- **Autor / institución:** Comfama (Caja de Compensación Familiar de Antioquia) — sala de prensa. Cubre proyecto **Casa Para Mí + laboratorio Future Tech** de Cementos Argos + UNAL Medellín (impresora 3D) + Alcaldía La Unión + Fundación Berta Martínez (operador). Citas oficiales: Juan Esteban Calle (Presidente Argos) y David Escobar Arango (Director Comfama).
+- **URL:** https://www.comfama.com/sala-de-prensa/construccion-viviendas-3d/
+- **Casos asociados (1):** CAS-058 (Primeras viviendas 3D de Suramérica entregadas en La Unión Antioquia 2025 — 2 unidades piloto 63 m² c/u — único caso M2 con impresión 3D de concreto). URLs complementarias: argos.co + bertamartinez.org.
 
 ### F-M2-31 · Modelo integral de gestión vivienda rural apropiada Bogotá-Región (Versión 1, 2024) — fuente complementaria
 
