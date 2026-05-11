@@ -1,8 +1,8 @@
 # Lista de fuentes — Matriz de Casos de Éxito (M2)
 
 > **Producto 1 — Levantamiento de información**
-> Versión 0.9 · 2026-05-10
-> Total: 56 casos · 32 fuentes documentales únicas
+> Versión 0.10 · 2026-05-11
+> Total: 57 casos · 33 fuentes documentales únicas
 
 ---
 
@@ -13,9 +13,9 @@
 | Documento de proyecto | 5 | 25 | CAS-001..006, CAS-007, CAS-008..019, CAS-050..054, CAS-055 |
 | Tesis | 7 | 12 | CAS-020..022, CAS-024..031, CAS-047 |
 | Revista | 2 | 2 | CAS-023, CAS-045 |
-| Web (premio / ONG / programa estatal / archivo arquitecto) | 17 | 17 | CAS-032..044, CAS-046, CAS-048, CAS-049, CAS-056 |
+| Web (premio / ONG / programa estatal / archivo arquitecto) | 18 | 18 | CAS-032..044, CAS-046, CAS-048, CAS-049, CAS-056, CAS-057 |
 | Documento complementario (no introduce caso nuevo) | 1 | 0 | (F-M2-31 actualiza CAS-036 y CAS-041) |
-| **Total** | **32** | **56** | |
+| **Total** | **33** | **57** | |
 
 ---
 
@@ -68,6 +68,14 @@
 - **Autor / institución:** ritmo arquitectos — Arq. Juan José Álvarez Sanz — **Premio Panamericano BAQ 2022** (Bienal Panamericana de Arquitectura de Quito) categoría Vivienda Unifamiliar (Colombia); también Finalista XXVIII Bienal Colombiana de Arquitectura SCA 2022
 - **URL:** https://baq2022.arquitecturapanamericana.com/proyectos/casa-milguaduas/
 - **Casos asociados (1):** CAS-056 (Pereira Risaralda — guadua nativa local + reinterpretación PCC + cubierta canal recolector lluvia — cubre vacío V-M2-03 eje cafetero × guadua premiada)
+
+### F-M2-33 · Conceptos Plásticos — Casas con ladrillos de plástico reciclado (Guapi, Cauca, 2015)
+
+- **Archivo:** _(no PDF local)_
+- **Tipo:** web
+- **Autor / institución:** Conceptos Plásticos — Óscar Andrés Méndez (arquitecto) + Isabel Cristina Gámez + Henry Alexander Cañón (cofundadores) + Fernando Llanos (inventor de los bloques, socio). Artículo original: Rosa Remón Royo, Arquitectura y Empresa (2016, cubre el caso Guapi 2015). Optante al premio The Venture (2016).
+- **URL:** https://arquitecturayempresa.es/noticia/casas-con-ladrillos-de-plastico-reciclado-en-colombia
+- **Casos asociados (1):** CAS-057 (Albergue Guapi Cauca — 42 familias desplazadas — único caso M2 con sistema de plástico reciclado + caucho)
 
 ### F-M2-31 · Modelo integral de gestión vivienda rural apropiada Bogotá-Región (Versión 1, 2024) — fuente complementaria
 
