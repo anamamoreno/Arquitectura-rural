@@ -321,6 +321,63 @@ def page_m2():
     df_m2 = cargar_m2()
     df_m1 = cargar_m1()
 
+    # Fila de 6 botones (espejo de M1)
+    bcol1, bcol2, bcol3, bcol4, bcol5, bcol6 = st.columns([1, 1, 1, 1, 1, 1])
+    with bcol1:
+        if st.button("Fuentes", help="Listado de las 34 fuentes documentales de los casos M2",
+                     width='stretch', key="m2_btn_fuentes"):
+            mostrar_fuentes_m2()
+    with bcol2:
+        if st.button("Glosario", help="Definiciones de Fin, Enfoque, Estándar, Estrategia, Criterio, Medida",
+                     width='stretch', key="m2_btn_glosario"):
+            mostrar_glosario()
+    with bcol3:
+        if st.button("Campos", help="Descripción de las 30 columnas de la matriz M2",
+                     width='stretch', key="m2_btn_campos"):
+            mostrar_campos_m2()
+    with bcol4:
+        if st.button("Nomenclatura", help="Códigos de IDs CAS- + Tipo + Clima TdR + Sistema constructivo + Estado",
+                     width='stretch', key="m2_btn_nomenclatura"):
+            mostrar_nomenclatura_m2()
+    with bcol5:
+        # Botón Tutorial: abre en nueva ventana del navegador (popup)
+        components.html(
+            """
+            <html><head><style>
+              html,body{margin:0;padding:0;height:100%;
+                        font-family:'Source Sans Pro','Segoe UI',sans-serif;
+                        background:transparent;}
+              button{width:100%;height:38px;box-sizing:border-box;
+                     background-color:#FFFFFF;color:rgb(49,51,63);
+                     border:1px solid rgba(49,51,63,0.2);border-radius:0.5rem;
+                     cursor:pointer;font-size:0.875rem;font-weight:400;
+                     line-height:1.6;display:block;}
+              button:hover{border-color:#FF4B4B;color:#FF4B4B;}
+            </style></head><body>
+            <button type="button" onclick="
+                var u = window.parent.location.href.split('?')[0].replace(/\\/[^\\/]*$/, '/tutorial-m2');
+                window.open(u, 'tutorial_m2_window', 'popup=yes,width=1200,height=900,scrollbars=yes,resizable=yes');
+            "
+            title="Cómo usar la página M2 — abre en ventana nueva del navegador">
+              Tutorial
+            </button>
+            </body></html>
+            """,
+            height=38,
+        )
+    with bcol6:
+        csv_bytes = df_m2.to_csv(index=False).encode("utf-8-sig")
+        st.download_button(
+            "Exportar",
+            data=csv_bytes,
+            file_name="F0-Matriz_casos_exito.csv",
+            mime="text/csv",
+            help="Descargar la matriz M2 completa como CSV (UTF-8 con BOM, abre en Excel)",
+            width='stretch',
+            key="m2_btn_exportar",
+        )
+    st.divider()
+
     st.subheader(f"Matriz M2 — {len(df_m2)} casos compilados")
 
     if READ_ONLY:
@@ -1028,6 +1085,175 @@ def mostrar_glosario():
     )
 
 
+# ============================================================
+# DIALOG Fuentes M2 — lista de fuentes documentales de casos M2
+# ============================================================
+@st.dialog("Fuentes de los casos M2", width="large")
+def mostrar_fuentes_m2():
+    # Tabla resumen: cobertura por clima TdR
+    df_m2 = cargar_m2()
+    total = len(df_m2)
+    st.markdown(f"### Cobertura por clima TdR ({total} casos)")
+    clima_orden = ["frio", "templado", "calido_humedo", "calido_seco"]
+    filas = []
+    for clima in clima_orden:
+        sub = df_m2[df_m2["Clima_TdR"] == clima]
+        n_total = len(sub)
+        n_construido = int((sub["Estado"] == "Construido").sum())
+        n_solo_diseno = int((sub["Estado"] == "Solo diseño").sum())
+        pct = (n_total / total * 100) if total else 0
+        filas.append(f"| `{clima}` | {n_total} | {pct:.1f}% | {n_construido} | {n_solo_diseno} |")
+    sin_clima = int((df_m2["Clima_TdR"].fillna("").str.strip() == "").sum())
+    if sin_clima > 0:
+        filas.append(f"| _(sin clima)_ | {sin_clima} | {sin_clima/total*100:.1f}% | — | — |")
+    st.markdown(
+        "| Clima TdR | Casos | % | Construido | Solo diseño |\n"
+        "|---|---:|---:|---:|---:|\n"
+        + "\n".join(filas)
+        + f"\n| **Total** | **{total}** | **100%** | "
+        f"**{int((df_m2['Estado']=='Construido').sum())}** | "
+        f"**{int((df_m2['Estado']=='Solo diseño').sum())}** |"
+    )
+    st.markdown("---")
+
+    doc_path = os.path.join(DOCS, "F0-Lista_fuentes_casos.md")
+    try:
+        with open(doc_path, "r", encoding="utf-8") as f:
+            contenido = f.read()
+        # Eliminar referencias a otros documentos .md (rutas y nombres) antes de mostrar
+        contenido = re.sub(r"\s*Ver\s+`[^`]*\.md`[^.]*\.", "", contenido, flags=re.IGNORECASE)
+        contenido = re.sub(r"`[A-Za-z0-9_\-./]+\.md`", "", contenido)
+        contenido = re.sub(r"[A-Za-z0-9_\-./]+\.md\b", "", contenido)
+        st.markdown(contenido)
+    except FileNotFoundError:
+        st.error("No se encontró la fuente de referencias.")
+    except Exception as e:
+        st.error(f"Error leyendo la fuente: {e}")
+
+
+# ============================================================
+# DIALOG Campos M2 — descripción de las 30 columnas de M2
+# ============================================================
+@st.dialog("Campos de la matriz M2", width="large")
+def mostrar_campos_m2():
+    st.caption(
+        "La matriz M2 tiene 30 columnas. Cada fila representa un caso de vivienda rural construida "
+        "(o en algunos casos prototipo de diseño) con principios de sostenibilidad documentados."
+    )
+    st.markdown("""
+| # | Campo | Qué guarda |
+|---|---|---|
+| 1 | `ID` | Código único del caso (ej. `CAS-001`). Correlativo desde CAS-001 |
+| 2 | `Nombre_proyecto` | Nombre corto del proyecto/caso |
+| 3 | `Tipo` | `vernaculo` (tradicional), `contemporaneo` (moderno), `mixto` (combina técnicas) |
+| 4 | `Año` | Año de construcción o entrega; `s.f.` para casos vernáculos sin año específico |
+| 5 | `Ubicacion_depto` | Departamento de Colombia |
+| 6 | `Ubicacion_municipio` | Municipio |
+| 7 | `Ubicacion_vereda` | Vereda/corregimiento/resguardo (opcional) |
+| 8 | `Clima_TdR` | Uno de los 4 climas del Términos de Referencia: `frio` / `templado` / `calido_humedo` / `calido_seco` |
+| 9 | `Subtipo_Koppen` | Clasificación Köppen-Geiger (ej. `Cfb`, `Aw`, `BWh`) — opcional |
+| 10 | `Sistema_constructivo` | `tapia` / `adobe` / `bahareque` / `palafito-madera` / `madera` / `madera-aserrada` / `mamposteria-confinada` / `mamposteria-estructural` / `mixto-*` |
+| 11 | `Subsistemas` | Lista separada por `,`: `integral` / `cimentacion` / `estructura` / `envolvente` / `cubierta` / `instalaciones` |
+| 12 | `E1_bioclimatica` | Texto descriptivo de estrategias pasivas (orientación, ventilación cruzada, masa térmica, sombras, aleros) |
+| 13 | `E2_energia` | Texto descriptivo de estrategias activas (solar FV, biomasa, eficiencia eléctrica, biodigestores) |
+| 14 | `E3_agua` | Texto descriptivo (captación, tratamiento, sanitarios secos, riego) |
+| 15 | `E4_materiales` | Texto descriptivo (materiales locales, certificaciones, reciclaje, durabilidad) |
+| 16 | `Estandares_ref` | IDs de M1 que materializa, separados por `;` (ej. `MP-14; BHQ-02; SUR-06`) |
+| 17 | `Cumplimiento_observado` | Premio recibido, certificación, observaciones técnicas del cumplimiento |
+| 18 | `Genero_inclusion` | Enfoque diferencial documentado (Ley 2462), comunidad indígena, víctimas, género |
+| 19 | `Estado` | `Construido` o `Solo diseño` (prototipo no construido) |
+| 20 | `Verificable` | `foto` / `publicacion` / `visita` / `referencia_indirecta` |
+| 21 | `Fuente_principal` | Cita corta del autor/institución principal de la fuente |
+| 22 | `Archivo_fuente` | Nombre del PDF en carpeta `FUENTES/` (puede estar vacío si la fuente es solo web) |
+| 23 | `URL_fuente` | URL pública del documento o sitio (abre en pestaña nueva) |
+| 24 | `Tipo_fuente` | `documento_proyecto` / `tesis` / `revista` / `web` / `premio` / `documento_oficial` |
+| 25 | `Lecciones_aprendidas` | Aporte específico del caso a la guía: qué replicar, modelo escalable |
+| 26 | `Observaciones` | Notas adicionales, caveats, vacíos cubiertos, datos faltantes |
+| 27 | `Estado_validacion` | `pendiente_revision` / `aceptado` / `descartado` |
+| 28 | `Motivo_descarte` | Si fue descartado, razón documentada |
+| 29 | `Fecha_validacion` | Fecha en que se validó/descartó |
+| 30 | `Validado_por` | Nombre/iniciales del validador |
+""")
+
+
+# ============================================================
+# DIALOG Nomenclatura M2 — códigos de M2
+# ============================================================
+@st.dialog("Nomenclatura · Códigos de M2", width="large")
+def mostrar_nomenclatura_m2():
+    st.markdown("## Identificadores de caso")
+    st.markdown("""
+| Prefijo | Significado | Ejemplo |
+|---|---|---|
+| `CAS-` | **CAS**o de éxito (correlativo) | `CAS-001`, `CAS-058` |
+""")
+
+    st.markdown("## Vocabularios controlados")
+
+    st.markdown("### Campo `Tipo`")
+    st.markdown("""
+| Valor | Significado |
+|---|---|
+| `vernaculo` | Vivienda tradicional, basada en saberes locales transmitidos generacionalmente |
+| `contemporaneo` | Vivienda moderna diseñada por arquitectos con técnicas formales |
+| `mixto` | Combina técnicas vernáculas con elementos contemporáneos |
+""")
+
+    st.markdown("### Campo `Clima_TdR` (4 climas de los Términos de Referencia)")
+    st.markdown("""
+| Valor | Rango aprox. | Subtipos Köppen frecuentes |
+|---|---|---|
+| `frio` | >2.000 msnm | `Cfb`, `ET` (páramo excluido) |
+| `templado` | 1.000–2.000 msnm | `Cfa`, `Cwa`, `Cwb` |
+| `calido_humedo` | <1.000 msnm con humedad alta | `Af`, `Am`, `Aw` |
+| `calido_seco` | <1.000 msnm sin humedad alta | `BWh`, `BSh` |
+""")
+
+    st.markdown("### Campo `Sistema_constructivo` (vocabulario base)")
+    st.markdown("""
+| Valor | Descripción |
+|---|---|
+| `tapia` | Tierra apisonada entre encofrados (tapia pisada) |
+| `adobe` | Bloques de tierra cruda secada al sol |
+| `bahareque` | Estructura vegetal (madera/guadua) + relleno de tierra. Variantes: tradicional, encementado, embutido, metálico |
+| `palafito-madera` | Vivienda elevada sobre pilotes en madera (zonas inundables) |
+| `madera` | Estructura y envolvente principalmente en madera |
+| `madera-aserrada` | Madera procesada en aserrío (modular, prefabricada) |
+| `mamposteria-confinada` | Bloque/ladrillo con vigas y columnas de confinamiento |
+| `mamposteria-estructural` | Bloque/ladrillo portante con refuerzo interno |
+| `mixto-*` | Sistemas combinados (`mixto-adobe-madera`, `mixto-bahareque-tapia`, etc.) |
+""")
+
+    st.markdown("### Campo `Subsistemas`")
+    st.markdown("""
+- `integral` (vivienda completa)
+- `cimentacion`, `estructura`, `envolvente`, `cubierta`, `instalaciones` (subsistema específico)
+""")
+
+    st.markdown("### Campo `Estado`")
+    st.markdown("""
+| Valor | Significado |
+|---|---|
+| `Construido` | Obra realizada y entregada (verificable con foto/visita/publicación) |
+| `Solo diseño` | Prototipo o propuesta no construida (concurso, tesis, anteproyecto) |
+""")
+
+    st.markdown("### Campo `Estado_validacion`")
+    st.markdown("""
+| Valor | Significado |
+|---|---|
+| `pendiente_revision` | Aún no revisado por la responsable del Producto 1 |
+| `aceptado` | Cumple criterios y entra al corpus final |
+| `descartado` | No cumple criterios — ver `Motivo_descarte` |
+""")
+
+    st.caption(
+        "Los criterios de inclusión M2 son estrictos: (1) Vivienda rural, (2) Construida (o explícitamente "
+        "Solo diseño), (3) Colombia, (4) Al menos un eje E1-E4 con detalle técnico, (5) Trazabilidad "
+        "(autor + URL + año + ubicación verificable)."
+    )
+
+
 def _footer():
     st.divider()
     st.caption(
@@ -1051,6 +1277,90 @@ def _page_tutorial():
     page_tutorial()
     _footer()
 
+def page_tutorial_m2():
+    # Ocultar barra lateral en esta página
+    st.markdown(
+        """
+        <style>
+        [data-testid="stSidebar"] {display: none !important;}
+        [data-testid="collapsedControl"] {display: none !important;}
+        [data-testid="stSidebarCollapsedControl"] {display: none !important;}
+        section[data-testid="stSidebar"] + div {margin-left: 0 !important;}
+        </style>
+        """,
+        unsafe_allow_html=True,
+    )
+    st.markdown("# Tutorial")
+    st.markdown("## Cómo usar la matriz de Casos de éxito (M2)")
+
+    with st.expander("**1. Filtrar casos en el sidebar**"):
+        st.markdown("""
+La barra lateral izquierda contiene 5 filtros que se combinan entre sí (intersección):
+
+- **Clima TdR** — multiselección: `frio` / `templado` / `calido_humedo` / `calido_seco`. Vacío = todos los climas.
+- **Tipo** — multiselección: `vernaculo` / `contemporaneo` / `mixto`. Vacío = todos los tipos.
+- **Sistema constructivo** — multiselección de los sistemas presentes en los casos. Vacío = todos los sistemas.
+- **Estado del proyecto** — multiselección: `Construido` / `Solo diseño`. Vacío = ambos estados.
+- **Archivo fuente** — checkboxes individuales por PDF + un checkbox virtual `(sin PDF · solo URL)` para casos que solo tienen URL. Botones rápidos: `Todas` / `Ninguna`.
+
+Conforme marcas filtros, el conteo de casos visibles arriba de la tabla se actualiza automáticamente.
+""")
+
+    with st.expander("**2. Explorar la tabla principal**"):
+        st.markdown("""
+La tabla muestra 8 columnas básicas para cada caso: ID, Nombre, Tipo, Año, Departamento, Municipio, Clima TdR, Sistema.
+
+- **Click en cualquier fila** → abre un popup con la **ficha completa** del caso (todos los 30 campos relevantes).
+- **Ordenar**: click en el encabezado de cualquier columna ordena ascendente / descendente / vuelve al orden original.
+- **Buscar**: ícono 🔍 al pasar el mouse sobre la tabla.
+- **Ajustar ancho de columnas**: arrastrar el borde derecho del encabezado.
+""")
+
+    with st.expander("**3. Leer el popup de detalle del caso**"):
+        st.markdown("""
+Al hacer click en una fila se abre el popup con secciones ordenadas:
+
+- **Título** (ID + Nombre del proyecto): identificador y título del caso.
+- **Año · Departamento · Municipio · Vereda**: ubicación geográfica.
+- **Badges**: Tipo (vernáculo/contemporáneo/mixto) + Clima TdR + Sistema constructivo + Estado (verde Construido, naranja Solo diseño).
+- **Subsistemas**: qué partes del sistema constructivo cubre.
+- **E1 / E2 / E3 / E4**: los 4 ejes de sostenibilidad documentados (texto descriptivo).
+- **Género / inclusión social** (Ley 2462/2025): si aplica.
+- **Estándares que materializa**: tabla cruzada con criterios de M1 que el caso documenta.
+- **Cumplimiento observado**: premios, certificaciones, observaciones de calidad técnica.
+- **Lecciones aprendidas**: qué replicar del caso.
+- **Observaciones**: caveats, vacíos cubiertos, datos faltantes.
+- **Fuente**: autor + tipo + nombre de archivo PDF + URL clickeable (si existe).
+""")
+
+    with st.expander("**4. Exportar la matriz completa**"):
+        st.markdown("""
+El botón **Exportar** (esquina superior derecha) descarga el CSV completo de M2 (`F0-Matriz_casos_exito.csv`) con UTF-8 + BOM (abre correctamente en Excel con tildes y caracteres especiales).
+""")
+
+    with st.expander("**5. Consultar referencias y nomenclatura**"):
+        st.markdown("""
+- **Fuentes** → listado completo de las 34 fuentes documentales que respaldan los casos M2 (PDFs, tesis, sitios web, premios).
+- **Glosario** → definiciones de la jerarquía conceptual (Fin → Enfoque → Estándar → Estrategia → Criterio → Medida) que es compartida con M1.
+- **Campos** → descripción de las 30 columnas del CSV.
+- **Nomenclatura** → vocabularios controlados (Tipo, Clima TdR, Sistema constructivo, Estado, Estado_validacion).
+""")
+
+    with st.expander("**6. Vacíos declarados de M2**"):
+        st.markdown("""
+La matriz documenta explícitamente **vacíos estructurales del corpus arquitectónico publicado** en `docs/F5-Sintesis_y_cierre.md`. Estos vacíos son hallazgos de la consultoría y se convierten en lineamientos prioritarios para el Producto 2:
+
+- **V-M2-01** Tapia pisada × clima frío Andino — cubierto parcialmente (CAS-049 adobe, CAS-055 guadua, CAS-039 bahareque-guadua)
+- **V-M2-02** Cálido seco × sistemas no-bahareque — cubierto parcialmente (CAS-054 panel caña-cal-boñiga)
+- **V-M2-03** Eje cafetero × guadua premiada — RESUELTO (CAS-056 Casa Milguaduas)
+- **V-M2-04** Pacífico × palafítica premiada SCA — cubierto sin premio SCA (CAS-044 Riosucio, CAS-057 Guapi)
+""")
+
+
+def _page_tutorial_m2():
+    page_tutorial_m2()
+    _footer()
+
 
 # ============================================================
 # Navegación multi-página (cada página tiene su propio sidebar)
@@ -1059,5 +1369,6 @@ pg = st.navigation([
     st.Page(_page_m1, title="M1 · Estándares de sostenibilidad", url_path="m1"),
     st.Page(_page_m2, title="M2 · Casos de éxito", url_path="m2"),
     st.Page(_page_tutorial, title="Tutorial M1", url_path="tutorial"),
+    st.Page(_page_tutorial_m2, title="Tutorial M2", url_path="tutorial-m2"),
 ])
 pg.run()
