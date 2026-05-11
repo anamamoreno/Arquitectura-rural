@@ -1,8 +1,8 @@
 # Lista de fuentes — Matriz de Casos de Éxito (M2)
 
 > **Producto 1 — Levantamiento de información**
-> Versión 0.4 · 2026-05-10
-> Total: 48 casos · 27 fuentes documentales únicas
+> Versión 0.5 · 2026-05-10
+> Total: 49 casos · 28 fuentes documentales únicas
 
 ---
 
@@ -13,8 +13,8 @@
 | Documento de proyecto | 3 | 19 | CAS-001..006, CAS-007, CAS-008..019 |
 | Tesis | 7 | 12 | CAS-020..022, CAS-024..031, CAS-047 |
 | Revista | 2 | 2 | CAS-023, CAS-045 |
-| Web (premio / ONG / programa estatal / archivo arquitecto) | 15 | 15 | CAS-032..044, CAS-046, CAS-048 |
-| **Total** | **27** | **48** | |
+| Web (premio / ONG / programa estatal / archivo arquitecto) | 16 | 16 | CAS-032..044, CAS-046, CAS-048, CAS-049 |
+| **Total** | **28** | **49** | |
 
 ---
 
@@ -160,12 +160,12 @@
 - **URL:** https://www.anaelviravelez.co/vivienda-rural
 - **Casos asociados (1):** CAS-037
 
-### F-M2-17 · Casa de Reforestación Lamarilla (Lápiz de Acero)
+### F-M2-17 · Casa de Reforestación Lamarilla — GANADORA Lápiz de Acero 2024
 
 - **Archivo:** _(no PDF local)_
 - **Tipo:** web
-- **Autor / institución:** Quena Margarita González Escobar + Juan David Hoyos Taborda (DENSO Arquitectura) — Lápiz de Acero 2023; Finalista BIAU XIII
-- **URL:** https://www.lapizdeacero.org/nominado/casa-de-reforestacion-lamarilla/
+- **Autor / institución:** Quena Margarita González Escobar + Juan David Hoyos Taborda (DENSO Arquitectura) — Cliente Cecilia Escobar Trujillo — **GANADORA Lápiz de Acero 2024** (Espacio / Diseño Arquitectónico); Finalista BIAU XIII
+- **URL:** https://www.lapizdeacero.org/winners/casa-de-reforestacion-lamarilla/
 - **Casos asociados (1):** CAS-038
 
 ### F-M2-18 · Vivienda piloto Bahareque-Guadua Cabildo Indígena Jambaló (El Tiempo, 2014)
@@ -247,6 +247,14 @@
 - **Autor / institución:** Parco Medellín — Director Martín Jiménez Mejía + Director Creativo Alejandro Muñoz; Cliente Playa Macho SAS — Nominado Lápiz de Acero 2025 (Espacio / Diseño Arquitectónico)
 - **URL:** https://www.lapizdeacero.org/nominado/casasolea/
 - **Casos asociados (1):** CAS-048 (referente técnico-cultural Wayuu, uso hotelero — Mayapo, Manaure, La Guajira)
+
+### F-M2-28 · Casa Barro Negro — Restauración vivienda rural Valle de Tenza (Cabida Arquitectura)
+
+- **Archivo:** _(no PDF local)_
+- **Tipo:** web
+- **Autor / institución:** Cabida Arquitectura SAS Bogotá — Director Oscar M. González Vargas + Arq. Ángela M. Vargas Contreras + Directora Diana C. Lancheros Ardila — Nominado Lápiz de Acero 2025 (Espacio / Diseño Arquitectónico)
+- **URL:** https://www.lapizdeacero.org/nominado/casa-barro-negro/
+- **Casos asociados (1):** CAS-049 (restauración de vivienda rural en adobe, Valle de Tenza Boyacá — cubre parcialmente vacío V-M2-01)
 
 ---
 
