@@ -1,8 +1,8 @@
 # Lista de fuentes — Matriz de Casos de Éxito (M2)
 
 > **Producto 1 — Levantamiento de información**
-> Versión 0.3 · 2026-05-10
-> Total: 47 casos · 26 fuentes documentales únicas
+> Versión 0.4 · 2026-05-10
+> Total: 48 casos · 27 fuentes documentales únicas
 
 ---
 
@@ -13,8 +13,8 @@
 | Documento de proyecto | 3 | 19 | CAS-001..006, CAS-007, CAS-008..019 |
 | Tesis | 7 | 12 | CAS-020..022, CAS-024..031, CAS-047 |
 | Revista | 2 | 2 | CAS-023, CAS-045 |
-| Web (premio / ONG / programa estatal / archivo arquitecto) | 14 | 14 | CAS-032..044, CAS-046 |
-| **Total** | **26** | **47** | |
+| Web (premio / ONG / programa estatal / archivo arquitecto) | 15 | 15 | CAS-032..044, CAS-046, CAS-048 |
+| **Total** | **27** | **48** | |
 
 ---
 
@@ -239,6 +239,14 @@
 - **Autor / institución:** Sguerra Villabona, L.E. — Tesis Maestría en Construcción UNAL Medellín (director: C.A. Mejía Barrera), avalada por ASOCATA
 - **URL:** https://bffrepositorio.unal.edu.co/server/api/core/bitstreams/5eaf2c2a-d4ff-49d2-adbf-0d504a77412d/content
 - **Casos asociados (1):** CAS-047 (tipología regional indígena, 6 resguardos en Tame)
+
+### F-M2-27 · CasaSolea — Lápiz de Acero 2025 (Parco Medellín)
+
+- **Archivo:** _(no PDF local)_
+- **Tipo:** web
+- **Autor / institución:** Parco Medellín — Director Martín Jiménez Mejía + Director Creativo Alejandro Muñoz; Cliente Playa Macho SAS — Nominado Lápiz de Acero 2025 (Espacio / Diseño Arquitectónico)
+- **URL:** https://www.lapizdeacero.org/nominado/casasolea/
+- **Casos asociados (1):** CAS-048 (referente técnico-cultural Wayuu, uso hotelero — Mayapo, Manaure, La Guajira)
 
 ---
 
