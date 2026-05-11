@@ -1,8 +1,8 @@
 # Lista de fuentes — Matriz de Casos de Éxito (M2)
 
 > **Producto 1 — Levantamiento de información**
-> Versión 0.5 · 2026-05-10
-> Total: 49 casos · 28 fuentes documentales únicas
+> Versión 0.6 · 2026-05-10
+> Total: 54 casos · 29 fuentes documentales únicas
 
 ---
 
@@ -10,11 +10,11 @@
 
 | Tipo de fuente | Fuentes | Casos | Casos asociados |
 |---|---:|---:|---|
-| Documento de proyecto | 3 | 19 | CAS-001..006, CAS-007, CAS-008..019 |
+| Documento de proyecto | 4 | 24 | CAS-001..006, CAS-007, CAS-008..019, CAS-050..054 |
 | Tesis | 7 | 12 | CAS-020..022, CAS-024..031, CAS-047 |
 | Revista | 2 | 2 | CAS-023, CAS-045 |
 | Web (premio / ONG / programa estatal / archivo arquitecto) | 16 | 16 | CAS-032..044, CAS-046, CAS-048, CAS-049 |
-| **Total** | **28** | **49** | |
+| **Total** | **29** | **54** | |
 
 ---
 
@@ -43,6 +43,14 @@
 - **Autor / institución:** Pontificia Universidad Javeriana, 2021
 - **URL:** https://es.scribd.com/document/515781543/Habitat-Para-La-Paz
 - **Casos asociados (1):** CAS-007
+
+### F-M2-29 · Premio Corona Pro Hábitat — Convocatoria Estudiantil 2013-2014 "Hábitat rural"
+
+- **Archivo:** `M2-Premio-Corona-2013-2014-Estudiantil.pdf`
+- **Tipo:** documento_proyecto
+- **Autor / institución:** Corona Industrial S.A.S. + Colcerámica — Director Premio Corona Pro Hábitat: Myriam Ramírez Carrero (julio 2014–) / Alberto Saldarriaga Roa (asesor); ISSN 2346-1713
+- **URL:** https://corona.com.co/sostenibilidad/pro-habitat
+- **Casos asociados (5):** CAS-050 (Palocabildo Antioquia 1°), CAS-051 (Sinapsis Dagua 1°), CAS-052 (Semillas Dagua 2°), CAS-053 (Hábitat social Galeras Sucre 2°), CAS-054 (Híbrido ecoproductivo Galeras Sucre 2°) — todos Solo diseño estudiantil
 
 ---
 
