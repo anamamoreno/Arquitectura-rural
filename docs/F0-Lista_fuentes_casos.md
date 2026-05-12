@@ -1,8 +1,8 @@
 # Lista de fuentes — Matriz de Casos de Éxito (M2)
 
 > **Producto 1 — Levantamiento de información**
-> Versión 0.11 · 2026-05-11
-> Total: 58 casos · 34 fuentes documentales únicas
+> Versión 0.12 · 2026-05-12
+> Total: 62 casos · 36 fuentes documentales únicas
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Tipo de fuente | Fuentes | Casos | Casos asociados |
 |---|---:|---:|---|
-| Documento de proyecto | 5 | 25 | CAS-001..006, CAS-007, CAS-008..019, CAS-050..054, CAS-055 |
+| Documento de proyecto | 7 | 29 | CAS-001..006, CAS-007, CAS-008..019, CAS-050..054, CAS-055, CAS-059..062 |
 | Tesis | 7 | 12 | CAS-020..022, CAS-024..031, CAS-047 |
 | Revista | 2 | 2 | CAS-023, CAS-045 |
 | Web (premio / ONG / programa estatal / archivo arquitecto) | 19 | 19 | CAS-032..044, CAS-046, CAS-048, CAS-049, CAS-056, CAS-057, CAS-058 |
 | Documento complementario (no introduce caso nuevo) | 1 | 0 | (F-M2-31 actualiza CAS-036 y CAS-041) |
-| **Total** | **34** | **58** | |
+| **Total** | **36** | **62** | |
 
 ---
 
@@ -76,6 +76,22 @@
 - **Autor / institución:** Conceptos Plásticos — Óscar Andrés Méndez (arquitecto) + Isabel Cristina Gámez + Henry Alexander Cañón (cofundadores) + Fernando Llanos (inventor de los bloques, socio). Artículo original: Rosa Remón Royo, Arquitectura y Empresa (2016, cubre el caso Guapi 2015). Optante al premio The Venture (2016).
 - **URL:** https://arquitecturayempresa.es/noticia/casas-con-ladrillos-de-plastico-reciclado-en-colombia
 - **Casos asociados (1):** CAS-057 (Albergue Guapi Cauca — 42 familias desplazadas — único caso M2 con sistema de plástico reciclado + caucho)
+
+### F-M2-35 · Vivienda Rural — 3 proyectos pioneros del arq. Santiago Moreno G. (1986-1996)
+
+- **Archivo:** `M2-SMG-Vivienda-Rural-3casos.docx`
+- **Tipo:** documento_proyecto
+- **Autor / institución:** Arq. Santiago Moreno G. (JSMG) — documento personal recopilando 3 proyectos históricos pioneros de vivienda rural en Colombia
+- **URL:** _(documento privado del arquitecto)_
+- **Casos asociados (3):** CAS-059 (Mejoramiento vivienda indígena Amazonas Puerto Nariño 1996), CAS-060 (Granjas familiares La Esperanza Guayabal Tolima 1987-89, 40 familias), CAS-061 (Mejoramiento vivienda rural San José del Guaviare 1986 con **estufa Centa modificada** que integra 4 ejes)
+
+### F-M2-36 · Memoria VIVIENDA UNGRD-VIP25 Cultura y Cambio Climático — Isla de Providencia
+
+- **Archivo:** `M2-SMG-UNGRD-Providencia-2024.docx`
+- **Tipo:** documento_proyecto
+- **Autor / institución:** JSMG (Santiago Moreno G.) + CES — propuesta técnica integral en respuesta a Sentencia Corte Constitucional T-333/22 — Programa UNGRD-VIP25 (Unidad Nacional para la Gestión del Riesgo de Desastres) post-huracán Iota 2020
+- **URL:** _(documento privado del arquitecto, 171 párrafos + 7 tablas)_
+- **Casos asociados (1):** CAS-062 (Solo diseño — único caso M2 del archipiélago insular Caribe)
 
 ### F-M2-34 · Construcción de viviendas 3D — La Unión Antioquia (Comfama sala de prensa)
 
