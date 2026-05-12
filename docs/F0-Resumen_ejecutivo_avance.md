@@ -47,54 +47,60 @@ Aplicabilidad: 4 climas TdR (frío, templado, cálido húmedo, cálido seco) + 8
 
 **Archivo:** `docs/F0-Matriz_estandares_sostenibilidad.csv`
 
-**Cifras:**
-- **181 filas** (criterios, medidas, principios, enfoques, fines aplicables a vivienda rural)
-- **25 referencias normativas/documentales** con URL pública verificada
+**Cifras (actualizadas 2026-05-12):**
+- **218 filas** (criterios, medidas, principios, enfoques, fines, lineamientos aplicables a vivienda rural)
+- **30 referencias normativas/documentales** con URL pública verificada
 - **20 columnas** estandarizadas
-- **100% aplicables a vivienda rural** (`si` 157 + `condicional` 24); las 10 filas `no` se eliminaron el 2026-05-06
+- **100% aplicables a vivienda rural** (`si` 194 + `condicional` 24)
 
 **Cobertura por marco:**
 
 | Marco | Filas | Aporte clave |
 |---|---|---|
 | Res. 0534/2025 | 53 | Columna vertebral. Criterios sostenibilidad ciclo de vida (ambiental, social, económico) |
-| Res. 0194/2025 | 38 | Anexo 1: 38 medidas técnicas obligatorias (15 pasivas + 13 activas + 10 hídricas) |
+| Res. 0194/2025 | 30 | Anexo 1: medidas técnicas obligatorias (15 pasivas + 13 activas + 10 hídricas) |
 | Ley 2462/2025 | 28 | Enfoque género e inclusión rural (12 enfoques + 16 fines) |
 | CEELA | 15 | Marco regional voluntario (los 15 criterios del programa COSUDE) |
+| Guías bahareque (Misereor + NSR-10 + AIS-FOREC + SURA) | 32 | Sistema constructivo dominante en frío y templado rural CO |
 | UPME-PGEE | 10 | Gestión eficiente energía (diagnóstico, IDE, ISO 50001, RETIQ) |
-| RAS, RETILAP, SUDS, R0019, GuiaMej, EC-MADS, PNVISR, ParamSFVR + 13 más | 47 | Reglamentos y estándares complementarios |
+| VRA-MGral Bogotá-Región (2024) | 5 | Modelo de gestión integral + 6 tipologías arquitectónicas |
+| RAS, RETILAP, SUDS, GuiaMej, EC-MADS, PNVISR, ParamSFVR + 13 más | 45 | Reglamentos y estándares complementarios |
 
 **Documentación de soporte:**
-- **`docs/F0-Tutorial_Matriz_estandares.md`** — tutorial completo de los 20 campos (v0.3)
-- **`docs/F0-Lista_referencias_y_aportes.md`** — inventario detallado de las 25 fuentes con URL clickeable, distribución por categoría/eje/carácter legal y alertas vigentes (v0.5)
+- **`docs/F0-Tutorial_Matriz_estandares.md`** — tutorial completo de los 20 campos
+- **`docs/F0-Lista_referencias_y_aportes.md`** — inventario detallado de las 30 fuentes con URL clickeable
+- **`docs/F9-Estrategia_y_hallazgos_M1.md`** — estrategia de búsqueda M1 ejecutada (no plan) + hallazgos por eje y clima
 
 ### 2.4 Matriz M2 — Casos de éxito y vernáculos
 
 **Archivo:** `docs/F0-Matriz_casos_exito.csv`
 
-**Cifras:**
-- **31 casos** compilados (todos en estado `pendiente_revision` para validación de la responsable)
-- **29 columnas** con campos enriquecidos por subagente automático
-- **10 fuentes documentales** procesadas (5 en proyecto + 5 nuevas tesis universitarias)
+**Cifras (actualizadas 2026-05-12):**
+- **62 casos** compilados (Construido 51 + Solo diseño 11)
+- **30 columnas** con campos enriquecidos
+- **36 fuentes documentales** únicas procesadas (documentos de proyecto, tesis universitarias, revistas arbitradas, premios SCA / BAQ / Lápiz de Acero / Corona, programas estatales, memorias de arquitecto)
 
-**Distribución por clima TdR (cuotas TdR cumplidas):**
+**Distribución por clima TdR (cuotas TdR sobrecumplidas):**
 | Clima | Casos | Vs. mínimo (≥2/clima) |
-|---|---|---|
-| Frío | 4 | ✅ Vacío crítico cubierto (Misak, Chita, Cuche vernáculo + prototipo) |
-| Templado | 9 | ✅ Sobrecubre (eje cafetero, Belén de Umbría) |
-| Cálido húmedo | 16 | ✅ Sobrecubre (Pacífico, Caribe, Llanos, Amazonía) |
-| Cálido seco | 2 | ✅ Mínimo (ette, wayúu) |
+|---|---:|---|
+| Frío | 9 | ✅ Sobrecumple (incluye CAS-049 Casa Barro Negro adobe Boyacá, CAS-055 SENA Chía con 4 ejes integrados, CAS-058 3D La Unión Antioquia) |
+| Templado | 20 | ✅ Sobrecumple (eje cafetero, Casa Franco tapia Bienal SCA 2024, Casa Tejida Nocaima, Casa Milguaduas guadua BAQ 2022, Salgar) |
+| Cálido húmedo | 25 | ✅ Sobrecumple (Pacífico Riosucio + Guapi, Llanos Casanare/Arauca, Amazonía Puerto Nariño + Guaviare + Providencia Caribe insular) |
+| Cálido seco | 8 | ✅ Sobrecumple (incluye 3 referentes Wayuu en La Guajira: Miiroku, Walirumana, CasaSolea) |
 
-**Distribución por sistema constructivo:**
-- Bahareque (11), palafito-madera (5), mampostería (3), madera (5), mixto (5), adobe puro (1), tapia (1, mixto)
-- Vacíos relativos: tapia pisada pura, guadua estructural pura
+**Vacíos declarados al cierre (4 en F5 §3.3):**
+- V-M2-01 Tapia frío Andino — Parcial (CAS-049 adobe + CAS-055 guadua + CAS-039 bahareque)
+- V-M2-02 Cálido seco × NO-bahareque — Parcial (CAS-054 panel caña-cal-boñiga + CAS-060 mampostería)
+- V-M2-03 Eje cafetero × guadua premiada — ✅ RESUELTO (CAS-056 Casa Milguaduas BAQ 2022)
+- V-M2-04 Pacífico palafítico premiado SCA — Cubierto sin premio SCA (CAS-044 Riosucio + CAS-057 Guapi)
 
-**Tipos:** 21 vernáculos, 9 contemporáneos, 1 mixto.
+**Tipos:** mayoritariamente vernáculos y contemporáneos. 11 casos `Solo diseño` (Aldea Navarro Cali, Pitalito Huila, El Agrio Peque, FP Sumapaz, los 5 estudiantiles Corona Pro Hábitat 2014, Providencia UNGRD).
 
 **Documentación de soporte:**
-- **`docs/F6-Plan_busqueda_casos.md`** — plan completo del Track B (cuotas, fuentes, criterios, protocolo)
-- **`docs/F7-Ejecucion_busqueda_casos.md`** — bitácora de ejecución
-- **`docs/F8-Matriz_casos_diccionario.md`** — diccionario de las 29 columnas (v0.5)
+- **`docs/F6-Plan_busqueda_casos.md`** — plan original del Track B
+- **`docs/F0-Lista_fuentes_casos.md`** — inventario narrativo de las 36 fuentes
+- **`docs/F8-Estrategia_y_hallazgos_M2.md`** — estrategia ejecutada (no plan) + hallazgos detallados por clima
+- **`docs/F0-Referencias_Zotero.bib`** — referencias para importar en Zotero (66 entradas)
 
 ### 2.5 Glosario y terminología
 
@@ -141,20 +147,22 @@ Incluye:
 
 ---
 
-## 3. Cifras clave consolidadas
+## 3. Cifras clave consolidadas (actualizadas 2026-05-12)
 
 | Indicador | Valor |
 |---|---|
-| Documentos normativos revisados | 35 |
-| Referencias en M1 | 25 |
-| Filas en M1 | 181 |
-| Casos en M2 | 31 (todos pendientes de validación) |
-| Climas TdR cubiertos en M2 | 4/4 ✅ |
-| Sistemas constructivos identificados | 8 |
-| Productos documentales entregados | 16 docs activos en `docs/` |
+| Documentos normativos revisados | 40 |
+| Referencias en M1 | 30 |
+| Filas en M1 | 218 |
+| Casos en M2 | 62 (51 Construidos + 11 Solo diseño) |
+| Fuentes documentales M2 | 36 (PDFs + tesis + revistas + premios + programas + memorias) |
+| Climas TdR cubiertos en M2 | 4/4 ✅ (frío 9 · templado 20 · cálido húmedo 25 · cálido seco 8) |
+| Sistemas constructivos identificados | 12+ (tapia, adobe, bahareque, palafito-madera, madera, madera-aserrada, mampostería-confinada, mampostería-estructural, sistemas mixtos varios, impresión 3D concreto, plástico reciclado) |
+| Vacíos declarados M2 | 4 (1 resuelto, 2 parciales, 1 cubierto sin premio SCA) |
+| Productos documentales entregados | 19 docs activos en `docs/` (incluye F8 + F9 + F0-Referencias_Zotero.bib + UIP-003) |
 | Extracciones de texto plano de PDFs | 50+ archivos |
-| Líneas de código de la app | ~600 |
-| Commits en GitHub | 5 |
+| Líneas de código de la app | ~1200 |
+| Commits en GitHub | 50+ |
 
 ---
 

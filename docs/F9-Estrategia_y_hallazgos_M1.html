@@ -1,0 +1,1088 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>F9-Estrategia_y_hallazgos_M1.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> or <div class="page"></div> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<h1 id="f9--estrategia-de-búsqueda-m1-ejecutada--hallazgos-por-eje-y-clima">F9 — Estrategia de búsqueda M1 (ejecutada) + Hallazgos por eje y clima</h1>
+<blockquote>
+<p><strong>Producto 1 — Levantamiento de información (Estándares de sostenibilidad)</strong>
+Versión 1.0 · 2026-05-12
+Documenta la <strong>búsqueda realmente realizada</strong> (no el plan original F1) para la Matriz de Estándares M1 y los hallazgos consolidados.</p>
+</blockquote>
+<hr>
+<h2 id="1-resumen-ejecutivo">1. Resumen ejecutivo</h2>
+<ul>
+<li><strong>Total filas M1:</strong> 218 (criterios + medidas + lineamientos + fines + enfoques)</li>
+<li><strong>Total referencias en la matriz:</strong> 30 documentos</li>
+<li><strong>Total documentos revisados:</strong> 40 (incluye 10 que aportaron, 4 nuevas guías técnicas de bahareque, modelo VRA Bogotá-Región, PL Bioconstrucción declarado pero no incluido)</li>
+<li><strong>Aplica vivienda rural:</strong> 194 (<code>si</code>) + 24 (<code>condicional</code>) = 100% del corpus</li>
+<li><strong>Carácter legal:</strong> 176 obligatorio (80.7%) + 17 recomendado + 22 voluntario + 1 condicional + 2 sin definir</li>
+<li><strong>Cobertura por eje (P=Principal):</strong> E1 44 · E2 39 · E3 31 · E4 55 — eje <strong>E4 (materiales)</strong> es el más representado</li>
+<li><strong>Vacío declarado al cierre:</strong> ninguno crítico al nivel M1 (todos los marcos normativos clave de CO están incluidos)</li>
+</ul>
+<hr>
+<h2 id="2-estrategia-ejecutada-cronológica">2. Estrategia ejecutada (cronológica)</h2>
+<h3 id="21-ronda-fundacional-cas-001-a-181-filas-iniciales">2.1 Ronda fundacional (CAS-001 a 181 filas iniciales)</h3>
+<p>Cosecha original realizada antes de esta fase de ampliación. Cubrió <strong>25 referencias</strong> normativas, técnicas y de jurisprudencia colombiana.</p>
+<p><strong>Marcos principales obligatorios (111 filas, 51%):</strong></p>
+<table>
+<thead>
+<tr>
+<th>Ref</th>
+<th style="text-align:right">Filas</th>
+<th>Aporte</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Res. 0534/2025 MVCT</strong> — Guía Técnica Criterios Sostenibilidad Ciclo de Vida</td>
+<td style="text-align:right">53</td>
+<td><strong>Columna vertebral</strong>: 42 criterios ambientales + 12 sociales + 2 económicos. Cierra vacío E4 materiales</td>
+</tr>
+<tr>
+<td><strong>Res. 0194/2025 MVCT</strong> — Anexo 1 Construcción Sostenible (ahorro agua y energía)</td>
+<td style="text-align:right">30</td>
+<td>15 medidas pasivas + 13 activas + 10 hídricas. Marco obligatorio de operación</td>
+</tr>
+<tr>
+<td><strong>Ley 2462/2025</strong> — Igualdad de oportunidades mujeres rurales</td>
+<td style="text-align:right">28</td>
+<td>12 enfoques obligatorios + 16 fines. Sustento legal del enfoque género/inclusión (ENUT 2024–2025 DANE)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Marco voluntario internacional (15 filas, 7%):</strong></p>
+<table>
+<thead>
+<tr>
+<th>Ref</th>
+<th style="text-align:right">Filas</th>
+<th>Aporte</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>CEELA</strong> (IFC/Banco Mundial) — Certificación Edificaciones Eficientes Latinoamérica</td>
+<td style="text-align:right">15</td>
+<td>Marco voluntario regional: energía incorporada, toxicidad, autogeneración renovable, comportamiento usuario. Puente con estándares internacionales</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Reglamentos técnicos sectoriales (16 filas iniciales, 11% al cierre):</strong></p>
+<table>
+<thead>
+<tr>
+<th>Ref</th>
+<th style="text-align:right">Filas</th>
+<th>Aporte</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>UPME-PGEE</strong> — Cartilla + Guía Planes de Gestión Eficiente de Energía (2018+2020)</td>
+<td style="text-align:right">10</td>
+<td>Diagnóstico/auditoría energética, IDE, LCC, PHVA ISO 50001. Complementa MA-XX Anexo 1 con cómo gestionar y verificar</td>
+</tr>
+<tr>
+<td><strong>RAS</strong> — Resolución 0330/2017 (Reglamento Técnico Agua y Saneamiento)</td>
+<td style="text-align:right">3</td>
+<td>Marco obligatorio agua rural</td>
+</tr>
+<tr>
+<td><strong>RETILAP 2024</strong> — Reglamento Iluminación + Alumbrado Público (Libros 2 y 3)</td>
+<td style="text-align:right">3</td>
+<td>Niveles mínimos iluminancia, LED, FLD aprovechamiento natural</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Guías técnicas MVCT (18 filas, 8%):</strong></p>
+<table>
+<thead>
+<tr>
+<th>Ref</th>
+<th style="text-align:right">Filas</th>
+<th>Aporte</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>GuiaMej-MVCT</strong> — Guía Mejoramientos de Vivienda</td>
+<td style="text-align:right">8</td>
+<td>Único doc con criterios socioculturales operativos (mano obra local, compromiso social, gestión comunitaria)</td>
+</tr>
+<tr>
+<td><strong>SUDS-MVCT</strong> — Sistemas Urbanos de Drenaje Sostenible (2022)</td>
+<td style="text-align:right">6</td>
+<td>14 tipologías SUDS: captación, jardín de lluvia, cisterna, techos verdes</td>
+</tr>
+<tr>
+<td><strong>ParamSFVR</strong> — Anexo C Parametrización Subsidio Vivienda Rural</td>
+<td style="text-align:right">4</td>
+<td>Variables climáticas para diseño de vivienda rural (orientación, asoleación)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Política y estrategia nacional (8 filas, 4%):</strong></p>
+<table>
+<thead>
+<tr>
+<th>Ref</th>
+<th style="text-align:right">Filas</th>
+<th>Aporte</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>EC-MADS</strong> — Estrategia Nacional Economía Circular (2019)</td>
+<td style="text-align:right">4</td>
+<td>Datos cuantitativos: 2% reciclaje materiales construcción CO (potencial 50%); meta E2050 75% RCD</td>
+</tr>
+<tr>
+<td><strong>PNVISR</strong> — Plan Nacional VIS Rural Res. 000179/2017 MVCT</td>
+<td style="text-align:right">4</td>
+<td>Define vivienda rural como integral, saludable y productiva. Subsidio hasta 70 SMLV + 20 SMLV transporte</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Leyes complementarias (4 filas, 2%):</strong> Ley 1715/2014 (FNCE), Ley 1819/2016 (Reforma Tributaria), Ley 373/1997 (Uso Eficiente Agua), Ley 1931/2018 (Cambio Climático).</p>
+<p><strong>Decretos reglamentarios (5 filas, 2%):</strong> D 1285/2015 (Construcción Sostenible), D 1467/2019 (Precio VIS), D 1727/2021 (Ecobertura), D 948/1995 (Contaminación Atmosférica), D 1443/2014 (SG-SST).</p>
+<p><strong>Resoluciones complementarias (2 filas, 1%):</strong> Res. 0472/2017 (RCD), Res. 0541/1994 (Escombros).</p>
+<p><strong>Otros (2 filas, 1%):</strong> CCCS-2024 (Estado Construcción Sostenible 93% ASG), Sentencia T-333/22 (Vivienda digna como derecho fundamental + adecuación cultural).</p>
+<h3 id="22-ronda-de-ampliación-normativa-mayo-2026">2.2 Ronda de ampliación normativa (Mayo 2026)</h3>
+<p>Búsqueda dirigida específicamente a <strong>guías técnicas de bahareque</strong> (sistema dominante en climas templado y frío rural CO) — un vacío detectado en el corpus inicial: el NSR-10 cubre solo bahareque encementado, pero no existía documentación operativa para bahareque tradicional.</p>
+<table>
+<thead>
+<tr>
+<th>Prefijo</th>
+<th>Fuente</th>
+<th style="text-align:right">Filas</th>
+<th>Hallazgo principal</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>BHQ-</code></td>
+<td><strong>Guía bahareque parasísmica</strong> — Carazas Aedo &amp; Rivero (CRATerre/Misereor, 2002)</td>
+<td style="text-align:right">13</td>
+<td>Sistema bahareque tradicional codificado en 4 condiciones simultáneas (diseño + terreno + construcción + materiales). Forma cúbica como principio antisísmico. Módulo &quot;La Semilla&quot; 4×4 m.</td>
+</tr>
+<tr>
+<td><code>BHQ-E-</code></td>
+<td><strong>NSR-10 Título E Cap. E.7</strong> (bahareque encementado)</td>
+<td style="text-align:right">8</td>
+<td>Pie-derechos 300–600 mm, guadua ≥4 años humedad 10–20%, mallas calibre 18, vanos ≤35% del muro</td>
+</tr>
+<tr>
+<td><code>AIS-BHQ-</code></td>
+<td><strong>Manual AIS-FOREC</strong> post-eje cafetero (1999)</td>
+<td style="text-align:right">5</td>
+<td>Buena práctica post-incidente. Cuadrantes y tirantes según relación 1.5:1 en planta; bastones intermedios</td>
+</tr>
+<tr>
+<td><code>SUR-</code></td>
+<td><strong>Ficha Técnica Seguros SURA</strong></td>
+<td style="text-align:right">6</td>
+<td>4 tipologías reconocidas para asegurabilidad; instalaciones eléctricas canalizadas; riesgo incendio; mantenimiento preventivo anual</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Tensión normativa documentada:</strong> bahareque tradicional Misereor (pie-derechos 1.5-2 m módulo &quot;La Semilla&quot;) <strong>≠</strong> bahareque encementado NSR-10 (pie-derechos 300-600 mm). Son sistemas distintos con marcos legales distintos. Documentado en <code>Notas</code> de las filas afectadas.</p>
+<h3 id="23-ronda-de-modelos-de-gestión-regional">2.3 Ronda de modelos de gestión regional</h3>
+<table>
+<thead>
+<tr>
+<th>Prefijo</th>
+<th>Fuente</th>
+<th style="text-align:right">Filas</th>
+<th>Aporte</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>VRA-</code></td>
+<td><strong>Modelo integral de gestión vivienda rural apropiada Bogotá-Región</strong> (Distrito DC, agosto 2024)</td>
+<td style="text-align:right">5</td>
+<td>15 pasos asignación subsidio VISR; mapeo de actores (MADR + MVCT + Banco Agrario + Findeter + Finagro + DNP + IGAC + DANE + UARIV + ANT + SENA); 6 tipologías arquitectónicas (Alargada, L, T, Compacta×2, U); componentes mínimos presentación técnica</td>
+</tr>
+</tbody>
+</table>
+<p>Este documento también permitió <strong>verificación cruzada para M2</strong>: confirmó que CAS-041 Pitalito Huila sí había sido construido (corrigiendo el estado <code>Solo diseño</code> previo).</p>
+<h3 id="24-ronda-de-referencias-futuras-no-incluidas">2.4 Ronda de &quot;referencias futuras no incluidas&quot;</h3>
+<table>
+<thead>
+<tr>
+<th>Documento</th>
+<th>Estado</th>
+<th>Por qué no se incluyó</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Proyecto de Ley sobre Bioconstrucción, Construcción Sostenible y Arquitectura Tradicional</strong> (Sen. Isabel Zuleta López, radicado 2025-04-07)</td>
+<td>Radicado en Cámara, <strong>NO aprobado</strong></td>
+<td>Sin número definitivo. Tres pilares: bioconstrucción, construcción sostenible, arquitectura tradicional. Foco: RCD, economía circular, tecnologías limpias. Se documenta como <strong>&quot;Próxima referencia normativa&quot;</strong> en la app pero no entra a M1</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="3-estructura-de-la-matriz-al-cierre">3. Estructura de la matriz al cierre</h2>
+<h3 id="31-distribución-por-categoría-218-filas">3.1 Distribución por categoría (218 filas)</h3>
+<table>
+<thead>
+<tr>
+<th>Categoría</th>
+<th style="text-align:right">Filas</th>
+<th style="text-align:right">%</th>
+<th>Referencias</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Marcos principales obligatorios</td>
+<td style="text-align:right">111</td>
+<td style="text-align:right">51%</td>
+<td>Res. 0534 (53) + Res. 0194 (30) + Ley 2462 (28)</td>
+</tr>
+<tr>
+<td>Marco voluntario internacional</td>
+<td style="text-align:right">15</td>
+<td style="text-align:right">7%</td>
+<td>CEELA (15)</td>
+</tr>
+<tr>
+<td>Reglamentos técnicos sectoriales</td>
+<td style="text-align:right">24</td>
+<td style="text-align:right">11%</td>
+<td>UPME-PGEE (10) + RAS (3) + RETILAP (3) + NSR-10 Tit. E (8)</td>
+</tr>
+<tr>
+<td>Guías técnicas MVCT</td>
+<td style="text-align:right">18</td>
+<td style="text-align:right">8%</td>
+<td>Guía Mejoramientos (8) + SUDS (6) + Parametrización SFVR (4)</td>
+</tr>
+<tr>
+<td><strong>Guías técnicas bahareque</strong></td>
+<td style="text-align:right"><strong>24</strong></td>
+<td style="text-align:right"><strong>11%</strong></td>
+<td><strong>Misereor (13) + AIS-FOREC (5) + SURA (6)</strong> ⭐ NUEVO en esta ronda</td>
+</tr>
+<tr>
+<td><strong>Modelos de gestión regional</strong></td>
+<td style="text-align:right"><strong>5</strong></td>
+<td style="text-align:right"><strong>2%</strong></td>
+<td><strong>VRA Bogotá-Región (5)</strong> ⭐ NUEVO en esta ronda</td>
+</tr>
+<tr>
+<td>Política y estrategia nacional</td>
+<td style="text-align:right">8</td>
+<td style="text-align:right">4%</td>
+<td>Economía Circular (4) + PNVISR (4)</td>
+</tr>
+<tr>
+<td>Leyes complementarias</td>
+<td style="text-align:right">4</td>
+<td style="text-align:right">2%</td>
+<td>L 1715 + L 1819 + L 373 + L 1931</td>
+</tr>
+<tr>
+<td>Decretos reglamentarios</td>
+<td style="text-align:right">5</td>
+<td style="text-align:right">2%</td>
+<td>D 1285, 1467, 1727, 948, 1443</td>
+</tr>
+<tr>
+<td>Resoluciones complementarias</td>
+<td style="text-align:right">2</td>
+<td style="text-align:right">1%</td>
+<td>Res. 0472 + Res. 0541</td>
+</tr>
+<tr>
+<td>Otros (informes, jurisprudencia)</td>
+<td style="text-align:right">2</td>
+<td style="text-align:right">1%</td>
+<td>CCCS 2024 + Sentencia T-333</td>
+</tr>
+<tr>
+<td><strong>TOTAL</strong></td>
+<td style="text-align:right"><strong>218</strong></td>
+<td style="text-align:right"><strong>100%</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3 id="32-distribución-por-jerarquía-conceptual">3.2 Distribución por jerarquía conceptual</h3>
+<table>
+<thead>
+<tr>
+<th>Jerarquía</th>
+<th style="text-align:right">n</th>
+<th>Descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>criterio_ambiental</code></td>
+<td style="text-align:right">68</td>
+<td>Criterios técnicos ambientales (Res. 0534 mayoritariamente)</td>
+</tr>
+<tr>
+<td><code>criterio_social</code></td>
+<td style="text-align:right">23</td>
+<td>Confort térmico/lumínico/acústico, accesibilidad, toxicidad, calidad aire</td>
+</tr>
+<tr>
+<td><code>criterio_estructural</code></td>
+<td style="text-align:right">22</td>
+<td>Bahareque + NSR-10 + AIS-FOREC + SURA (sistema construcción rural)</td>
+</tr>
+<tr>
+<td><code>criterio</code></td>
+<td style="text-align:right">19</td>
+<td>Criterios generales sin sub-clasificación</td>
+</tr>
+<tr>
+<td><code>medida_pasiva</code></td>
+<td style="text-align:right">18</td>
+<td>Estrategias bioclimáticas pasivas (Res. 0194 Anexo 1)</td>
+</tr>
+<tr>
+<td><code>fin</code></td>
+<td style="text-align:right">16</td>
+<td>Fines de la Ley 2462 — igualdad mujeres rurales</td>
+</tr>
+<tr>
+<td><code>enfoque</code></td>
+<td style="text-align:right">13</td>
+<td>Enfoques obligatorios Ley 2462 (territorial, étnico, discapacidad, etc.)</td>
+</tr>
+<tr>
+<td><code>medida_hidrica</code></td>
+<td style="text-align:right">9</td>
+<td>Aparatos bajo consumo, captación pluvial, aguas grises (Res. 0194)</td>
+</tr>
+<tr>
+<td><code>lineamiento</code></td>
+<td style="text-align:right">9</td>
+<td>VRA Bogotá-Región + PNVISR</td>
+</tr>
+<tr>
+<td><code>medida_activa</code></td>
+<td style="text-align:right">8</td>
+<td>LED, HVAC, solar térmica (Res. 0194)</td>
+</tr>
+<tr>
+<td><code>criterio_economico</code></td>
+<td style="text-align:right">7</td>
+<td>Costos inversión, retorno, beneficios fiscales</td>
+</tr>
+<tr>
+<td><code>criterio_metodologico</code></td>
+<td style="text-align:right">5</td>
+<td>Análisis ciclo vida (ACV), línea base, monitoreo</td>
+</tr>
+<tr>
+<td><code>medida</code></td>
+<td style="text-align:right">1</td>
+<td>(residual sin clasificación más fina)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="33-distribución-por-etapa-del-ciclo-de-vida">3.3 Distribución por etapa del ciclo de vida</h3>
+<table>
+<thead>
+<tr>
+<th>Etapa</th>
+<th style="text-align:right">n</th>
+<th style="text-align:right">%</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>operación</td>
+<td style="text-align:right">71</td>
+<td style="text-align:right">32.6%</td>
+</tr>
+<tr>
+<td>diseño</td>
+<td style="text-align:right">58</td>
+<td style="text-align:right">26.6%</td>
+</tr>
+<tr>
+<td>todas</td>
+<td style="text-align:right">32</td>
+<td style="text-align:right">14.7%</td>
+</tr>
+<tr>
+<td>construcción</td>
+<td style="text-align:right">30</td>
+<td style="text-align:right">13.8%</td>
+</tr>
+<tr>
+<td>extracción/manufactura</td>
+<td style="text-align:right">14</td>
+<td style="text-align:right">6.4%</td>
+</tr>
+<tr>
+<td>pre-diseño</td>
+<td style="text-align:right">11</td>
+<td style="text-align:right">5.0%</td>
+</tr>
+<tr>
+<td>deconstrucción</td>
+<td style="text-align:right">2</td>
+<td style="text-align:right">0.9%</td>
+</tr>
+</tbody>
+</table>
+<p>Observación: <strong>operación + diseño = 59.2%</strong> del corpus. Etapas tempranas (pre-diseño) y finales (deconstrucción) están subrepresentadas — refleja foco de la normativa CO en el momento de proyecto + uso.</p>
+<hr>
+<h2 id="4-hallazgos-por-eje-de-sostenibilidad">4. Hallazgos por eje de sostenibilidad</h2>
+<h3 id="41-tabla-consolidada">4.1 Tabla consolidada</h3>
+<table>
+<thead>
+<tr>
+<th>Eje</th>
+<th style="text-align:right">Principal (P)</th>
+<th style="text-align:right">Complementario (C)</th>
+<th style="text-align:right">Transversal (T)</th>
+<th style="text-align:right">Vacío (sin marcar)</th>
+<th style="text-align:right">Cobertura*</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>E1 Bioclimática pasiva</strong></td>
+<td style="text-align:right">44</td>
+<td style="text-align:right">13</td>
+<td style="text-align:right">35</td>
+<td style="text-align:right">126</td>
+<td style="text-align:right"><strong>92</strong> filas con eje E1 marcado</td>
+</tr>
+<tr>
+<td><strong>E2 Energía activa</strong></td>
+<td style="text-align:right">39</td>
+<td style="text-align:right">9</td>
+<td style="text-align:right">35</td>
+<td style="text-align:right">135</td>
+<td style="text-align:right"><strong>83</strong> filas con eje E2 marcado</td>
+</tr>
+<tr>
+<td><strong>E3 Eficiencia hídrica</strong></td>
+<td style="text-align:right">31</td>
+<td style="text-align:right">13</td>
+<td style="text-align:right">35</td>
+<td style="text-align:right">139</td>
+<td style="text-align:right"><strong>79</strong> filas con eje E3 marcado</td>
+</tr>
+<tr>
+<td><strong>E4 Materiales sostenibles</strong></td>
+<td style="text-align:right">55</td>
+<td style="text-align:right">22</td>
+<td style="text-align:right">34</td>
+<td style="text-align:right">107</td>
+<td style="text-align:right"><strong>111</strong> filas con eje E4 marcado</td>
+</tr>
+</tbody>
+</table>
+<p>* P + C + T (sin vacíos). Total 218 filas; cada fila puede marcar varios ejes simultáneamente.</p>
+<p><strong>Lectura:</strong> el eje <strong>E4 Materiales</strong> es el más representado (111 filas con marca), reflejando el peso de Res. 0534 + Economía Circular + Guías de bahareque + Misereor. El eje <strong>E3 Agua</strong> es el menos representado (79 filas), aunque tiene marcos sólidos (Res. 0194 + RAS + Ley 373 + SUDS).</p>
+<h3 id="42-cobertura-por-clima">4.2 Cobertura por clima</h3>
+<table>
+<thead>
+<tr>
+<th>Clima</th>
+<th style="text-align:right">n</th>
+<th style="text-align:right">%</th>
+<th>Notas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>todos</code> (genérico)</td>
+<td style="text-align:right">191</td>
+<td style="text-align:right">87.6%</td>
+<td>La mayoría de criterios son climáticamente neutros (energía, agua, materiales, social)</td>
+</tr>
+<tr>
+<td><code>templado calido_seco calido_humedo</code></td>
+<td style="text-align:right">8</td>
+<td style="text-align:right">3.7%</td>
+<td>Criterios que excluyen frío (típico de medidas tropicales)</td>
+</tr>
+<tr>
+<td><code>calido_seco</code></td>
+<td style="text-align:right">4</td>
+<td style="text-align:right">1.8%</td>
+<td>Específico semiarido</td>
+</tr>
+<tr>
+<td><code>calido_humedo templado</code></td>
+<td style="text-align:right">3</td>
+<td style="text-align:right">1.4%</td>
+<td>Combinación trópico húmedo</td>
+</tr>
+<tr>
+<td><code>frio</code></td>
+<td style="text-align:right">2</td>
+<td style="text-align:right">0.9%</td>
+<td>Específico clima frío</td>
+</tr>
+<tr>
+<td>Otras combinaciones</td>
+<td style="text-align:right">10</td>
+<td style="text-align:right">4.6%</td>
+<td>(multiselección variable)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Lectura:</strong> solo ~12% de los criterios están climáticamente acotados. La normativa CO está estructurada para aplicabilidad nacional con adaptaciones contextuales más que para climas específicos. Esto valida la decisión metodológica del Anexo 1 Res. 0194 de cuantificar <strong>porcentajes mínimos de ahorro por clima y tipología</strong> en vez de criterios climáticamente diferenciados.</p>
+<h3 id="43-carácter-legal">4.3 Carácter legal</h3>
+<table>
+<thead>
+<tr>
+<th>Carácter</th>
+<th style="text-align:right">n</th>
+<th style="text-align:right">%</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>obligatorio</td>
+<td style="text-align:right">176</td>
+<td style="text-align:right">80.7%</td>
+</tr>
+<tr>
+<td>voluntario</td>
+<td style="text-align:right">22</td>
+<td style="text-align:right">10.1%</td>
+</tr>
+<tr>
+<td>recomendado</td>
+<td style="text-align:right">17</td>
+<td style="text-align:right">7.8%</td>
+</tr>
+<tr>
+<td>condicional</td>
+<td style="text-align:right">1</td>
+<td style="text-align:right">0.5%</td>
+</tr>
+<tr>
+<td>(sin definir)</td>
+<td style="text-align:right">2</td>
+<td style="text-align:right">0.9%</td>
+</tr>
+</tbody>
+</table>
+<p><strong>80.7% del corpus es de obligatorio cumplimiento</strong> — el resto son referentes voluntarios (CEELA + Economía Circular) o guías recomendadas (UPME-PGEE + Bahareque tradicional). Esto significa que la guía del Producto 2 puede apoyarse en un cuerpo normativo robusto y exigible.</p>
+<h3 id="44-aplicabilidad-a-vivienda-rural">4.4 Aplicabilidad a vivienda rural</h3>
+<table>
+<thead>
+<tr>
+<th>Valor</th>
+<th style="text-align:right">n</th>
+<th style="text-align:right">%</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>si</code></td>
+<td style="text-align:right">194</td>
+<td style="text-align:right">89.0%</td>
+</tr>
+<tr>
+<td><code>condicional</code></td>
+<td style="text-align:right">24</td>
+<td style="text-align:right">11.0%</td>
+</tr>
+</tbody>
+</table>
+<p>Las <strong>filas marcadas <code>no aplica</code></strong> (10 originalmente, principalmente medidas Anexo 1 que solo aplican a VIS urbana de &gt;2,000 m²) fueron <strong>eliminadas previamente</strong> durante una fase de limpieza. El corpus al cierre cubre <strong>100% aplicabilidad a vivienda rural</strong> (con 11% condicional según tipología o región).</p>
+<hr>
+<h2 id="5-hallazgos-relevantes-para-el-producto-2">5. Hallazgos relevantes para el Producto 2</h2>
+<h3 id="51-marcos-vivos-vs-vacíos">5.1 Marcos vivos vs vacíos</h3>
+<table>
+<thead>
+<tr>
+<th>Marco</th>
+<th>Estado</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Anexo 1 Res. 0194/2025</strong></td>
+<td>✅ Cubierto al 100% (30 medidas)</td>
+</tr>
+<tr>
+<td><strong>Guía Ciclo de Vida Res. 0534/2025</strong></td>
+<td>✅ Cubierto al 100% (53 criterios)</td>
+</tr>
+<tr>
+<td><strong>Enfoque género/inclusión Ley 2462</strong></td>
+<td>✅ Cubierto al 100% (28 enfoques + fines)</td>
+</tr>
+<tr>
+<td><strong>15 criterios CEELA</strong></td>
+<td>✅ Cubierto al 100% (15 criterios)</td>
+</tr>
+<tr>
+<td><strong>Bahareque tradicional + encementado</strong></td>
+<td>✅ Cubierto con 4 fuentes (Misereor + NSR-10 + AIS-FOREC + SURA)</td>
+</tr>
+<tr>
+<td><strong>Marco legal cambio climático y FNCE</strong></td>
+<td>✅ Cubierto (Ley 1715 + Ley 1931 + Decretos)</td>
+</tr>
+<tr>
+<td><strong>Vivienda rural digna (jurisprudencia)</strong></td>
+<td>✅ Cubierto (Sentencia T-333/22 + adecuación cultural)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="52-tensiones-normativas-documentadas">5.2 Tensiones normativas documentadas</h3>
+<ol>
+<li>
+<p><strong>Bahareque tradicional vs encementado</strong> (BHQ-05 vs NSR-10 E.7.6.1): pie-derechos 1.5-2 m vs 0.30-0.60 m. <strong>Sistemas distintos con marcos legales distintos.</strong> Documentado en <code>Notas</code> de las filas afectadas.</p>
+</li>
+<li>
+<p><strong>PL Bioconstrucción no aprobado</strong> (Zuleta 2025): radicado, pero sin número definitivo y sin aprobación. Se documenta como &quot;Próxima referencia normativa&quot; en la app pero no entra a la matriz vigente.</p>
+</li>
+<li>
+<p><strong>PL-BC-03 aplica solo a &gt;2.000 m²</strong> — la mayoría de viviendas rurales individuales no entran en esa categoría. Marcado <code>Aplica_vivienda_rural=condicional</code> cuando se incluya.</p>
+</li>
+</ol>
+<h3 id="53-recomendaciones-metodológicas-para-el-p2">5.3 Recomendaciones metodológicas para el P2</h3>
+<ol>
+<li><strong>Apoyarse en obligatorios (80.7%)</strong> + complementar con voluntarios donde sea relevante (CEELA, Economía Circular).</li>
+<li><strong>Distinguir bahareque tradicional (BHQ-) del encementado (BHQ-E-)</strong> — usar el sistema que corresponda según contexto y exigencia normativa.</li>
+<li><strong>Usar tipologías VRA-03</strong> (Alargada, L, T, Compacta, U) como punto de partida según clima y contexto del lote.</li>
+<li><strong>Para enfoque género</strong>, integrar Ley 2462 desde el diseño (no como capa final) — ver casos M2 con <code>Genero_inclusion</code> documentado.</li>
+<li><strong>El PL Bioconstrucción puede convertirse en referente futuro</strong> — monitorear su trámite en Gaceta del Congreso.</li>
+</ol>
+<hr>
+<h2 id="6-archivos-y-trazabilidad">6. Archivos y trazabilidad</h2>
+<table>
+<thead>
+<tr>
+<th>Archivo</th>
+<th>Contenido</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>F0-Matriz_estandares_sostenibilidad.csv</code></td>
+<td>218 filas, 20 columnas</td>
+</tr>
+<tr>
+<td><code>F0-Lista_referencias_y_aportes.md</code></td>
+<td>Listado narrativo de las 30 referencias con aporte cualitativo</td>
+</tr>
+<tr>
+<td><code>F0-Tutorial_Matriz_estandares.md</code></td>
+<td>Tutorial de uso de la matriz</td>
+</tr>
+<tr>
+<td><code>F1-Protocolo_busqueda.md</code></td>
+<td>Plan original (no ejecutado al pie de la letra; ver §2 de este doc para lo realmente ejecutado)</td>
+</tr>
+<tr>
+<td><code>F2-Ejecucion_busquedas.md</code></td>
+<td>Plantilla original</td>
+</tr>
+<tr>
+<td><code>F5-Sintesis_y_cierre.md §3.1</code></td>
+<td>Vacíos declarados a priori (originalmente 4 — todos cubiertos o referenciados al cierre)</td>
+</tr>
+<tr>
+<td><code>F8-Estrategia_y_hallazgos_M2.md</code></td>
+<td>Documento gemelo para casos de éxito M2</td>
+</tr>
+<tr>
+<td><code>F9-Estrategia_y_hallazgos_M1.md</code></td>
+<td><strong>Este documento</strong></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p><strong>Control de versiones:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Versión</th>
+<th>Fecha</th>
+<th>Cambios</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.0</td>
+<td>2026-05-12</td>
+<td>Documento inicial — consolida la búsqueda M1 realizada hasta 218 filas y 30 referencias</td>
+</tr>
+</tbody>
+</table>
+
+</body>
+</html>
