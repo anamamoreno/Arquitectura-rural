@@ -607,6 +607,24 @@ def mostrar_detalle_caso():
         )
         st.markdown(badge_html, unsafe_allow_html=True)
 
+        # Galería de imágenes (UIP-002): hasta 2 imágenes del caso
+        imgs = [i.strip() for i in (row.get("Imagenes") or "").split(";") if i.strip()]
+        if imgs:
+            st.markdown("---")
+            cols_img = st.columns(min(len(imgs), 2))
+            for i, fname in enumerate(imgs[:2]):
+                path = os.path.join(FUENTES, "IMAGENES", fname)
+                if os.path.exists(path):
+                    cols_img[i].image(path, use_container_width=True)
+                else:
+                    cols_img[i].caption(f"🖼️ {fname} (no disponible)")
+            atrib = (row.get("Atribucion_imagen") or "").strip()
+            if atrib:
+                st.caption(f"_Atribución de imágenes:_ {atrib}")
+        else:
+            st.markdown("---")
+            st.caption("📷 _Sin imágenes disponibles para este caso_")
+
         if row.get("Subsistemas"):
             st.markdown("---")
             st.markdown(f"**Subsistemas:** {row['Subsistemas']}")

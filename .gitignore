@@ -1,5 +1,8 @@
 # PDFs y archivos pesados — viven en local; usar Git LFS si se requiere compartir
 FUENTES/**/*.pdf
+FUENTES/**/*.docx
+FUENTES/**/*.xlsx
+FUENTES/**/*.html
 Referencias-proyecto/*.pdf
 Referencias-proyecto/*.docx
 Referencias-proyecto/*.doc
@@ -7,6 +10,9 @@ Referencias-otros/
 Referencias-estandares/
 Referencias-descartadas/
 Referencia-vivienda-rural/
+# FUENTES/IMAGENES/ SÍ se versiona (UIP-002 D6): imágenes liberadas del PDF para fichas M2
+!FUENTES/IMAGENES/
+!FUENTES/IMAGENES/**
 
 # PDFs sueltos en raíz (TdR, exports, etc.)
 /*.pdf
