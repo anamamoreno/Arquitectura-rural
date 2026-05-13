@@ -1,6 +1,6 @@
 # UIP — Enriquecimiento de fichas M2 con imágenes
 
-**Estado:** ✅ EJECUTADA (2026-05-12) — implementada con decisiones D1=A (auto PDF), D2=2, D3=formato original, D4=800px, D5=estructurada, D6=versionar, D7=placeholder discreto. Arquitectura: carpeta plana `FUENTES/IMAGENES/` con naming `CAS-NNN-imgXX.<ext>`. Resultado: 80 imágenes extraídas y guardadas, 40 casos con galería en popup, 22 sin imágenes (19 sin PDF local + 3 docx sin imágenes embebidas).
+**Estado:** 🟦 EN COLA / REVERTIDA — Se intentó ejecutar el 2026-05-12 con extracción automática de PDFs (D1=A) pero el resultado fue de baja calidad: las imágenes seleccionadas automáticamente (por orden secuencial + tamaño) tendían a ser mapas, paisajes y diagramas contextuales en lugar de fotos de las viviendas. Cambios revertidos el 2026-05-13. **Pendiente:** re-implementar con análisis visual de contenido (clasificar imágenes como vivienda vs contexto) — opción D1=A híbrida con curación visual, o D1=C URLs externas (ArchDaily, sitios de arquitectos), o D1=B captura manual de PDF.
 **Fecha:** 2026-05-02
 **Autor:** Ana (con asistencia de Claude)
 **Track:** B (Casos de éxito M2) — funcionalidad complementaria
