@@ -1,7 +1,7 @@
 # UIP — Enriquecimiento de fichas M2 con imágenes
 
-**Estado:** 🟦 EN COLA / REVERTIDA — Se intentó ejecutar el 2026-05-12 con extracción automática de PDFs (D1=A) pero el resultado fue de baja calidad: las imágenes seleccionadas automáticamente (por orden secuencial + tamaño) tendían a ser mapas, paisajes y diagramas contextuales en lugar de fotos de las viviendas. Cambios revertidos el 2026-05-13. **Pendiente:** re-implementar con análisis visual de contenido (clasificar imágenes como vivienda vs contexto) — opción D1=A híbrida con curación visual, o D1=C URLs externas (ArchDaily, sitios de arquitectos), o D1=B captura manual de PDF.
-**Fecha:** 2026-05-02
+**Estado:** 🟧 IMPLEMENTADA Y REVERTIDA (2026-05-12 → 2026-05-13). Pendiente re-implementación con análisis visual de contenido. Ver §14 para cronología detallada.
+**Fecha de UIP:** 2026-05-02 · **Implementación:** 2026-05-12 · **Retroceso:** 2026-05-13
 **Autor:** Ana (con asistencia de Claude)
 **Track:** B (Casos de éxito M2) — funcionalidad complementaria
 
@@ -220,3 +220,102 @@ Como las imágenes son archivos discretos, todo es reversible localmente. Sin ri
 Resolver decisiones D1, D6 (las que bloquean). Recomendación: D1=D, D6=versionar.
 
 Una vez confirmadas, esta UIP se vuelve plan ejecutable y se pasa a Fase 1.
+
+---
+
+## 14. Bitácora de implementación y retroceso
+
+### 14.1 Cronología
+
+| Fecha | Evento |
+|---|---|
+| 2026-05-02 | UIP redactada (estado inicial: EN COLA — diferida) |
+| 2026-05-12 | Implementación completa con decisiones confirmadas por la usuaria |
+| 2026-05-13 | Retroceso completo solicitado por la usuaria por baja calidad de la curaduría automática |
+
+### 14.2 Decisiones confirmadas durante la implementación
+
+| # | Decisión confirmada | Cambio vs UIP original |
+|---|---|---|
+| D1 | A) Extracción automática desde PDFs | Se descartó la combinación D (A→B); se optó por A pura |
+| D2 | 2 imágenes por caso | = recomendación |
+| D3 | **Mantener formato original** (jpg, png, jpx) | Cambió de "JPG q80" → preservar extensión nativa del PDF |
+| D4 | **800px lado mayor** | Reducido desde 1200px |
+| D5 | Atribución estructurada (autor + año + fuente) | = recomendación |
+| D6 | **Versionar imágenes en git** (.gitignore con exception) | = recomendación |
+| D7 | Placeholder discreto | = recomendación |
+| Arquitectura | Carpeta plana `FUENTES/IMAGENES/` (no subcarpetas por caso); naming `CAS-NNN-imgXX.<ext>` | Cambió respecto a la UIP original que proponía subcarpetas `FUENTES/imagenes/casos/CAS-NNN/` |
+
+### 14.3 Cambios técnicos aplicados (commit `14fc32d`)
+
+- **`FUENTES/IMAGENES/`** creada con 80 archivos (~13 MB) — 40 casos cubiertos
+- **CSV M2** ampliado de 30 → 32 columnas (`Imagenes`, `Atribucion_imagen`)
+- **App Streamlit** modificada: popup de detalle con galería en 2 columnas + caption de atribución + placeholder discreto cuando no hay imágenes
+- **`.gitignore`** ampliado con `FUENTES/**/*.docx`, `*.xlsx`, `*.html` + exception `!FUENTES/IMAGENES/**` para versionar la carpeta de imágenes
+- **Filtros automáticos durante extracción:**
+  - Tamaño mínimo: 30 KB
+  - Dimensiones mínimas: 200×200 px
+  - Pixeles mínimos: 60.000 (filtra logos/iconos)
+  - Selección: primeras N imágenes que pasan filtros, distribuidas secuencialmente (2 por caso)
+- **Resize:** Pillow LANCZOS si supera 800px lado mayor; preservación de extensión original
+- **Cobertura:** 40 casos con galería · 22 sin (19 sin PDF local + 3 docx sin imágenes embebidas)
+
+### 14.4 Análisis del problema detectado
+
+Tras revisión visual de las imágenes asignadas, la usuaria detectó que la selección automática estaba **sesgada hacia contenido de contextualización** y NO hacia las viviendas:
+
+| Tipo de imagen seleccionada | Frecuencia observada | Por qué |
+|---|---|---|
+| Mapas geográficos | Alta | Suelen ir al inicio del PDF (introducción/contextualización) y son grandes/legibles |
+| Paisajes territoriales | Alta | Mismo motivo: ilustran el lugar antes de mostrar la casa |
+| Diagramas climáticos | Media | Suelen ir en secciones de análisis previo al diseño |
+| Retratos / fotos de equipo | Media | Páginas de créditos al inicio |
+| **Fotos de la vivienda (fachada/interior)** | **Baja** | Suelen estar en la mitad o final del documento |
+| **Plantas arquitectónicas** | **Baja** | Suelen ir después de la presentación del caso |
+
+**Causa raíz:** el script seleccionó las primeras N imágenes que pasaban los filtros de tamaño/dimensión, sin análisis de contenido. En documentos académicos y memorias arquitectónicas, las primeras imágenes son típicamente contextuales (mapas, paisajes, diagramas), no las viviendas que son el objeto del caso.
+
+### 14.5 Retroceso aplicado (commit `3a488af`)
+
+Se eliminaron **selectivamente** los cambios relacionados con imágenes, preservando los productos independientes generados en la misma jornada:
+
+| Cambio del commit `14fc32d` | Acción al revertir |
+|---|---|
+| Carpeta `FUENTES/IMAGENES/` con 80 archivos | ❌ Eliminada físicamente y del git tracking |
+| Columnas `Imagenes` + `Atribucion_imagen` en CSV M2 | ❌ Eliminadas (CSV vuelve a 30 columnas) |
+| Galería de imágenes en popup de la app | ❌ Removida (popup vuelve al estado pre-imágenes) |
+| `.gitignore` con exception `!FUENTES/IMAGENES/**` y reglas `*.docx/*.xlsx/*.html` | ❌ Revertido a estado anterior (sólo `FUENTES/**/*.pdf`) |
+| Estado de UIP-002 a "✅ EJECUTADA" | ❌ Revertido a "🟧 IMPLEMENTADA Y REVERTIDA" |
+| `F0-Resumen_ejecutivo_FINAL.md` | ✅ Conservado (independiente de imágenes) |
+| `F0-Fichas_M2_todos_los_casos.md/.html` | ✅ Conservado (independiente) |
+
+Resultado: working tree limpio sin imágenes, app funcional, documentos de cierre preservados.
+
+### 14.6 Aprendizajes para futura re-implementación
+
+1. **Filtrado por tamaño no equivale a filtrado por relevancia.** Una imagen grande puede ser un mapa o una fachada; el script no puede distinguir sin análisis visual.
+
+2. **El orden secuencial de imágenes en PDF típicamente NO favorece a las viviendas.** Las primeras imágenes son contextuales; las viviendas suelen estar en la segunda mitad del documento (capítulos de propuesta, fichas técnicas, fotografías de obra).
+
+3. **La "extracción automática pura" (D1=A) no es viable sin curación.** Hace falta uno de:
+   - **D1=A híbrida con análisis visual** (Claude Vision o modelo similar): re-extraer todas las imágenes válidas, clasificar por contenido (vivienda / planta / contexto / logo / retrato), seleccionar 2 mejores
+   - **D1=B manual asistida**: extraer todas las candidatas a una carpeta staging y dejar que la usuaria seleccione (1 minuto por caso, ~40 casos = 40 min)
+   - **D1=C URLs externas**: capturar fotos de ArchDaily / sitios de arquitectos / Bienal SCA cuando las haya. Mejora calidad y atribución, requiere más trabajo
+   - **Estrategia heurística por rango de páginas**: en PDFs académicos, ignorar primer 30% del documento (donde están portadas/intros/mapas)
+
+4. **La arquitectura plana (`FUENTES/IMAGENES/`) sin subcarpetas funciona bien** (cambio respecto a UIP original) — más fácil de listar y manipular.
+
+5. **El versionado (`D6=versionar`) es operativamente correcto:** 80 imágenes a 800px sumaron solo 13 MB, manejable sin Git LFS. Cuando se re-implemente, mantener esta decisión.
+
+6. **El placeholder discreto funcionó bien** en los 22 casos sin imágenes — no rompe layout, comunica claramente la ausencia.
+
+### 14.7 Recomendaciones para próximo intento
+
+| Componente | Cambio sugerido |
+|---|---|
+| **D1 (origen)** | Cambiar de A pura → **A híbrida con análisis visual** (Claude Vision): extraer todas las candidatas, clasificar y elegir las que muestran vivienda |
+| **Naming** | Reemplazar genérico `CAS-NNN-imgXX.ext` por descriptivo `CAS-NNN-{fachada/planta/interior/detalle}.ext` (lo permite identificar sin abrir) |
+| **Filtro por página** | Agregar regla heurística: ignorar primer 25% de páginas del PDF para reducir mapas/portadas |
+| **Validación humana** | Agregar paso de revisión visual antes de comprometer al CSV (mostrar candidatas en notebook o app temporal) |
+| **Atribución por imagen** | En lugar de una atribución general por caso (autor + año + fuente), agregar página específica del PDF de origen — útil para reclamar derechos |
+| **Estado del UIP** | Mantener este documento como **lección aprendida**: documentar tanto la implementación como el retroceso para futura iteración |
