@@ -485,28 +485,46 @@ def page_m2():
     if len(f) == 0:
         st.info("No hay casos con los filtros seleccionados.")
     else:
-        cols_tabla = [
+        cols_default = [
             "ID", "Nombre_proyecto", "Tipo", "Año",
             "Ubicacion_depto", "Ubicacion_municipio",
             "Clima_TdR", "Sistema_constructivo",
+            "Estado", "Estado_validacion", "URL_fuente",
         ]
-        st.caption("Click en cualquier fila para abrir el detalle del caso.")
-        event = st.dataframe(
-            f[cols_tabla],
-            width='stretch',
-            height=500,
-            hide_index=True,
-            on_select="rerun",
-            selection_mode="single-row",
-            key="m2_tabla",
+        cols_mostrar = st.multiselect(
+            "Columnas a mostrar",
+            df_m2.columns.tolist(),
+            default=cols_default,
+            key="m2_cols_mostrar",
         )
-        if event.selection and event.selection.rows:
-            sel_idx = event.selection.rows[0]
-            sel_id = f.iloc[sel_idx]["ID"]
-            if st.session_state.get("m2_last_shown_id") != sel_id:
-                st.session_state["m2_last_shown_id"] = sel_id
-                st.session_state["detalle_caso_id"] = sel_id
-                mostrar_detalle_caso()
+        st.caption("Click en cualquier fila para abrir el detalle del caso.")
+        if cols_mostrar:
+            col_cfg = {}
+            if "URL_fuente" in cols_mostrar:
+                col_cfg["URL_fuente"] = st.column_config.LinkColumn(
+                    "URL_fuente", display_text="abrir",
+                    help="Abre el documento o sitio fuente en una pestaña nueva",
+                )
+            event = st.dataframe(
+                f[cols_mostrar],
+                width='stretch',
+                height=500,
+                hide_index=True,
+                on_select="rerun",
+                selection_mode="single-row",
+                key="m2_tabla",
+                column_config=col_cfg,
+            )
+            if event.selection and event.selection.rows:
+                sel_idx = event.selection.rows[0]
+                if 0 <= sel_idx < len(f):
+                    sel_id = f.iloc[sel_idx]["ID"]
+                    if st.session_state.get("m2_last_shown_id") != sel_id:
+                        st.session_state["m2_last_shown_id"] = sel_id
+                        st.session_state["detalle_caso_id"] = sel_id
+                        mostrar_detalle_caso()
+                else:
+                    st.session_state.pop("m2_last_shown_id", None)
 
 
 # ============================================================
