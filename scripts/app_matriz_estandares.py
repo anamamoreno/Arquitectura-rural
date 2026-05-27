@@ -219,6 +219,11 @@ def page_m1():
         st.markdown("### Filtros · Estándares M1")
         st.caption("Aplican solo en esta página.")
 
+        busqueda = st.text_input(
+            "Buscar en nombre o descripción",
+            placeholder="ej. ventilación",
+        )
+
         referencias = ["Todas"] + sorted(df["Referencia"].unique().tolist())
         ref_sel = st.multiselect("Referencia normativa", referencias, default=["Todas"])
 
@@ -252,8 +257,6 @@ def page_m1():
         st.markdown("---")
         ley2462_sel = st.checkbox("Solo con conexión Ley 2462 (género/inclusión)")
         notas_sel = st.checkbox("Solo con notas de contexto rural")
-
-        busqueda = st.text_input("Buscar en nombre o descripción")
 
     # Aplicar filtros
     filtrado = df.copy()
