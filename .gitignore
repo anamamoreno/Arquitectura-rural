@@ -1,5 +1,5 @@
 # PDFs y archivos pesados — viven en local; usar Git LFS si se requiere compartir
-FUENTES/**/*.pdf
+FUENTES/
 Referencias-proyecto/*.pdf
 Referencias-proyecto/*.docx
 Referencias-proyecto/*.doc
@@ -8,20 +8,26 @@ Referencias-estandares/
 Referencias-descartadas/
 Referencia-vivienda-rural/
 
-# PDFs sueltos en raíz (TdR, exports, etc.)
+# Archivos sueltos en raíz que no van al repo público
 /*.pdf
+/*.docx
+/*.txt
 
 # Exports PDF generados desde los .md (los .md son la fuente de verdad)
 *.md.pdf
 
+# Backups locales del CSV — no van a git
+*.csv.bak
+*.csv.bak-*
+
 # Config local de Claude Code — NO subir
 .claude/
 
-# Huérfano del flujo previo
-docs/F7-Candidatos_revision.html
-
 # Documentos archivados — no van a producción ni al VPS
 docs/DESCARTADOS/
+
+# UIPs y docs de proceso — viven en el repo privado Arquitectura-rural-proceso
+docs/UIP/
 
 # Outputs derivables de scripts
 resultados/
